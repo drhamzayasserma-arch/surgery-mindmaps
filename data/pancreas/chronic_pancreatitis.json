@@ -1,0 +1,59 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Chronic Pancreatitis",
+    "root": true,
+    "children": [
+      {
+        "topic": "Etiology (TIGAR-O System)",
+        "id": "cp_1",
+        "direction": 0,
+        "children": [
+          { "topic": "Toxic-metabolic: Alcohol (70-80%), Smoking, Hypercalcemia, Hyperlipidemia, Chronic renal failure", "id": "cp_1_1", "children": [] },
+          { "topic": "Idiopathic: Early onset (juvenile) vs Late onset (senile)", "id": "cp_1_2", "children": [] },
+          { "topic": "Genetic: PRSS1 (hereditary pancreatitis, 50x cancer risk), SPINK1, CFTR mutations", "id": "cp_1_3", "children": [] },
+          { "topic": "Autoimmune: Type 1 (systemic IgG4-RD, sausage-shaped pancreas), Type 2 (pancreas-specific, GEL lesions)", "id": "cp_1_4", "children": [] },
+          { "topic": "Recurrent & Severe AP: Post-necrotic pancreatitis", "id": "cp_1_5", "children": [] },
+          { "topic": "Obstructive: Pancreas divisum, ductal stricture, tumor, trauma", "id": "cp_1_6", "children": [] }
+        ]
+      },
+      {
+        "topic": "Classic Clinical Triad & Features",
+        "id": "cp_2",
+        "direction": 0,
+        "children": [
+          { "topic": "Classic Triad: 1. Pancreatic Calcifications (on X-ray/CT) 2. Steatorrhea (exocrine failure) 3. Diabetes Mellitus (endocrine failure)", "id": "cp_2_1", "children": [] },
+          { "topic": "Abdominal Pain: Postprandial epigastric pain radiating to back, dull, constant, leads to opioid dependence and weight loss", "id": "cp_2_2", "children": [] },
+          { "topic": "Malabsorption: Fat-soluble vitamin deficiencies (A, D, E, K), weight loss despite good appetite", "id": "cp_2_3", "children": [] }
+        ]
+      },
+      {
+        "topic": "Diagnostic Workup",
+        "id": "cp_3",
+        "direction": 1,
+        "children": [
+          { "topic": "Fecal Elastase-1 (<200 µg/g = pancreatic exocrine insufficiency, <100 = severe): Best non-invasive screening test!", "id": "cp_3_1", "children": [] },
+          { "topic": "Abdominal CT: Duct dilation, intraductal calcifications, parenchymal atrophy", "id": "cp_3_2", "children": [] },
+          { "topic": "MRCP / Secretin-MRCP: Chain-of-lakes / ductal side-branching, early ductal changes", "id": "cp_3_3", "children": [] },
+          { "topic": "EUS: Rosemont criteria (hyperechoic foci, strands, lobularity, duct wall hyperechoic)", "id": "cp_3_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Surgical Management",
+        "id": "cp_4",
+        "direction": 1,
+        "children": [
+          { "topic": "Indications: Intractable pain (most common), complications (biliary/duodenal obstruction, pseudocyst, splenic vein thrombosis)", "id": "cp_4_1", "children": [] },
+          { "topic": "Ductal Drainage Procedures (Dilated Main Duct >6-7 mm):", "id": "cp_4_2", "children": [
+            { "topic": "Partington-Rochelle Procedure: Modified Puestow (longitudinal pancreaticojejunostomy Roux-en-Y)", "id": "cp_4_2_1", "children": [] }
+          ]},
+          { "topic": "Resectional & Hybrid Procedures (Inflammatory Head Mass / Small Duct):", "id": "cp_4_3", "children": [
+            { "topic": "Frey Procedure: Local excision of head of pancreas + longitudinal pancreaticojejunostomy (Hybrid)", "id": "cp_4_3_1", "children": [] },
+            { "topic": "Beger Procedure: Duodenum-preserving pancreatic head resection (DPPHR)", "id": "cp_4_3_2", "children": [] },
+            { "topic": "Whipple Procedure (Pancreaticoduodenectomy): Reserved for suspicion of malignancy", "id": "cp_4_3_3", "children": [] }
+          ]}
+        ]
+      }
+    ]
+  }
+}

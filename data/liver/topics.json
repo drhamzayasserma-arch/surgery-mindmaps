@@ -1,0 +1,10 @@
+{
+  "topics": [
+    { "id": "amoebic-hydatid", "name": "Amoebic & Hydatid Disease", "createdAt": "2026-08-04T15:45:00Z" },
+    { "id": "portal-hypertension", "name": "Portal Hypertension & Esophageal Varices", "createdAt": "2026-08-04T15:45:00Z" },
+    { "id": "liver-anatomy-embryology", "name": "Surgical Anatomy & Embryology", "createdAt": "2026-08-04T15:45:00Z" },
+    { "id": "liver-trauma", "name": "Liver Trauma", "createdAt": "2026-08-04T15:45:00Z" },
+    { "id": "liver-tumors", "name": "Liver Tumors", "createdAt": "2026-08-04T15:45:00Z" },
+    { "id": "pyogenic-abscess-metastasis", "name": "Pyogenic Abscess & Metastasis", "createdAt": "2026-08-04T15:45:00Z" }
+  ]
+}

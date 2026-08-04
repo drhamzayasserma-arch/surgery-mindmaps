@@ -1,0 +1,564 @@
+{
+  "nodeData": {
+    "topic": "🦠 Liver Amoebic Abscess\n& Hydatid Cyst",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Amoebic Liver Abscess",
+        "id": "node_b063a84c",
+        "children": [
+          {
+            "topic": "Definition / Etiology",
+            "id": "node_f87481ca",
+            "children": [
+              {
+                "topic": "Caused by Entamoeba histolytica trophozoites",
+                "id": "node_83277748",
+                "children": []
+              },
+              {
+                "topic": "Feco-oral transmission via ingestion of cysts\n(infective form)",
+                "id": "node_7a9e0fac",
+                "children": []
+              },
+              {
+                "topic": "10–20% of all liver abscesses;\nendemic in tropical, humid regions",
+                "id": "node_7162c578",
+                "children": []
+              },
+              {
+                "topic": "Predominantly young males\nwith poor sanitation",
+                "id": "node_a8f4ae65",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pathophysiology",
+            "id": "node_efdde373",
+            "children": [
+              {
+                "topic": "Cysts → trophozoites in gut →\ninvade right colon → portal vein → liver",
+                "id": "node_928fc75f",
+                "children": []
+              },
+              {
+                "topic": "Right lobe affected in 80%\n(portal flow from right colon drains preferentially)",
+                "id": "node_16eb94f1",
+                "children": []
+              },
+              {
+                "topic": "Postero-superior segment most common\n(direct continuity with main portal vein)",
+                "id": "node_d389165a",
+                "children": []
+              },
+              {
+                "topic": "Mechanism: liquefactive necrosis\n→ abscess formation",
+                "id": "node_e5eaddbb",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pathology",
+            "id": "node_ac1c71da",
+            "children": [
+              {
+                "topic": "Usually single (70%)",
+                "id": "node_491de774",
+                "children": []
+              },
+              {
+                "topic": "Shaggy, irregular wall\ncontaining living amoebae",
+                "id": "node_9f7d671d",
+                "children": []
+              },
+              {
+                "topic": "Content: \"Anchovy sauce\" / \"Chocolate pus\"\n(necrotic liver + RBCs + WBCs)",
+                "id": "node_4445ffb8",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Presentation",
+            "id": "node_5000157d",
+            "children": [
+              {
+                "topic": "Pale, toxic-appearing young male",
+                "id": "node_e2a7129c",
+                "children": []
+              },
+              {
+                "topic": "Low-grade fever (38–38.5°C),\nright upper quadrant pain/tenderness",
+                "id": "node_90c2d817",
+                "children": []
+              },
+              {
+                "topic": "Right-sided chest signs:\nimpaired excursion, basal collapse,\npleural effusion",
+                "id": "node_f3310e47",
+                "children": []
+              },
+              {
+                "topic": "Buzzword: tender hepatomegaly +\nfever + travel history",
+                "id": "node_c5abd7cd",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Diagnostic Workup",
+            "id": "node_b17eb357",
+            "children": [
+              {
+                "topic": "Stool: cysts/trophozoites",
+                "id": "node_a9b8ae04",
+                "children": []
+              },
+              {
+                "topic": "Serology: Complement Fixation Test",
+                "id": "node_1389c5c5",
+                "children": []
+              },
+              {
+                "topic": "Therapeutic test: rapid response to\nMetronidazole is highly diagnostic",
+                "id": "node_9cd111b3",
+                "children": []
+              },
+              {
+                "topic": "Plain X-ray: elevated, fixed\nright hemidiaphragm",
+                "id": "node_3b9d0f25",
+                "children": []
+              },
+              {
+                "topic": "US/CT: thick-walled abscess with\nperipheral edema; MRI most accurate",
+                "id": "node_18b6c163",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Differential Diagnosis",
+            "id": "node_3be96466",
+            "children": [
+              {
+                "topic": "Pyogenic liver abscess\n(multiple, polymicrobial, higher fever)",
+                "id": "node_92b8fddf",
+                "children": []
+              },
+              {
+                "topic": "Hepatocellular carcinoma with necrosis",
+                "id": "node_6046073b",
+                "children": []
+              },
+              {
+                "topic": "Hydatid cyst with secondary infection",
+                "id": "node_1a9da4dd",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Management",
+            "id": "node_5c55eed1",
+            "children": [
+              {
+                "topic": "First-line: Metronidazole\n750 mg TDS × 7–10 days",
+                "id": "node_8e80bf3f",
+                "children": []
+              },
+              {
+                "topic": "Percutaneous aspiration if:",
+                "id": "node_8c4afb55",
+                "children": [
+                  {
+                    "topic": "No response at 72 hrs",
+                    "id": "node_184a0a0c",
+                    "children": []
+                  },
+                  {
+                    "topic": "Abscess >5 cm",
+                    "id": "node_a2cfc481",
+                    "children": []
+                  },
+                  {
+                    "topic": "Secondary infection",
+                    "id": "node_9c5f72dd",
+                    "children": []
+                  },
+                  {
+                    "topic": "High toxicity",
+                    "id": "node_0dc5aa3e",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Open surgical drainage:\nmultilocular, thick pus,\nrupture/peritonitis",
+                "id": "node_60a38905",
+                "children": [
+                  {
+                    "topic": "→ Posterior approach through\nbed of 12th rib",
+                    "id": "node_ac9dae40",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_2286a754",
+            "children": [
+              {
+                "topic": "Upward rupture:",
+                "id": "node_16dae661",
+                "children": [
+                  {
+                    "topic": "Subphrenic abscess",
+                    "id": "node_adb5b486",
+                    "children": []
+                  },
+                  {
+                    "topic": "Empyema",
+                    "id": "node_b7ca0a99",
+                    "children": []
+                  },
+                  {
+                    "topic": "Lung abscess",
+                    "id": "node_a0251b4a",
+                    "children": []
+                  },
+                  {
+                    "topic": "⚠️ Pericarditis\n(major cause of death)",
+                    "id": "node_c5517ca5",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Downward rupture:",
+                "id": "node_eccfeaa6",
+                "children": [
+                  {
+                    "topic": "Peritonitis",
+                    "id": "node_904a9c4a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Fistula to stomach/duodenum/colon",
+                    "id": "node_e8cb810b",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Secondary bacterial superinfection",
+                "id": "node_ebdab95e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Key Pearls / Red Flags",
+            "id": "node_ba98cfbb",
+            "children": [
+              {
+                "topic": "⚠️ Right lobe + single +\nanchovy sauce = amoebic abscess",
+                "id": "node_ded5bb52",
+                "children": []
+              },
+              {
+                "topic": "Pericardial rupture =\nmost lethal complication",
+                "id": "node_07125c71",
+                "children": []
+              },
+              {
+                "topic": "Always follow metronidazole with a\nluminal agent (e.g., diloxanide furoate)\nto clear intestinal cysts",
+                "id": "node_ca7f2326",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "II. Hydatid Cyst of the Liver",
+        "id": "node_61f43a74",
+        "children": [
+          {
+            "topic": "Definition / Etiology",
+            "id": "node_dad80b8b",
+            "children": [
+              {
+                "topic": "Larval stage of Echinococcus granulosus",
+                "id": "node_11d46a1c",
+                "children": []
+              },
+              {
+                "topic": "Definitive host: dogs;\nintermediate host: cattle, sheep, humans",
+                "id": "node_cce5aadb",
+                "children": []
+              },
+              {
+                "topic": "Transmission: ingestion of eggs\nfrom dog feces → hatch in duodenum\n→ oncospheres → portal circulation → liver",
+                "id": "node_f7de0c8b",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pathophysiology",
+            "id": "node_43284703",
+            "children": [
+              {
+                "topic": "Oncospheres lodge in liver →\nslow cyst formation over years",
+                "id": "node_33ae4004",
+                "children": []
+              },
+              {
+                "topic": "Right lobe, usually single",
+                "id": "node_1b3c47d4",
+                "children": []
+              },
+              {
+                "topic": "Three layers (outside → in):",
+                "id": "node_92e9d23a",
+                "children": [
+                  {
+                    "topic": "1. Adventitia (pseudo-cyst):\nhost fibrous reaction\n(absent in brain — only 2 layers)",
+                    "id": "node_a3a8f813",
+                    "children": []
+                  },
+                  {
+                    "topic": "2. Laminated membrane (ectocyst):\nacellular, parasite-derived",
+                    "id": "node_7e3a78f0",
+                    "children": []
+                  },
+                  {
+                    "topic": "3. Germinal layer (endocyst):\nonly living layer → produces fluid,\nbrood capsules (scolices),\ndaughter cysts",
+                    "id": "node_945b6d72",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Presentation",
+            "id": "node_303bc083",
+            "children": [
+              {
+                "topic": "Often asymptomatic for years\n(incidental finding)",
+                "id": "node_172d45b5",
+                "children": []
+              },
+              {
+                "topic": "Weight loss despite good appetite,\nRUQ mass",
+                "id": "node_584d7a43",
+                "children": []
+              },
+              {
+                "topic": "Hydatid thrill: vibration of\ndaughter cysts on percussion\n(classic sign)",
+                "id": "node_625c3e3e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Diagnostic Workup",
+            "id": "node_3f58bac3",
+            "children": [
+              {
+                "topic": "Blood: marked eosinophilia",
+                "id": "node_8ff685b0",
+                "children": []
+              },
+              {
+                "topic": "Casoni's test: intradermal hydatid fluid\n→ redness/edema at 24 hrs\n(positive in ~40%)",
+                "id": "node_4484dd16",
+                "children": []
+              },
+              {
+                "topic": "Serology: Indirect Haemagglutination\n(most accurate),\nELISA (most specific)",
+                "id": "node_751977c9",
+                "children": []
+              },
+              {
+                "topic": "US/CT: diagnostic (daughter cysts,\nmembrane detachment);\nMRI most accurate",
+                "id": "node_8ae3d72b",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Differential Diagnosis",
+            "id": "node_b296915d",
+            "children": [
+              {
+                "topic": "Simple hepatic cyst",
+                "id": "node_4a7229e9",
+                "children": []
+              },
+              {
+                "topic": "Amoebic abscess",
+                "id": "node_f3af2902",
+                "children": []
+              },
+              {
+                "topic": "Cystic liver metastasis / cystadenoma",
+                "id": "node_097fd5c2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Management",
+            "id": "node_33fc9df5",
+            "children": [
+              {
+                "topic": "Surgical excision\n(standard treatment)",
+                "id": "node_f5f37058",
+                "children": [
+                  {
+                    "topic": "Field packed with dark green towels\nsoaked in scolicidal agent\n(Betadine / hypertonic saline)",
+                    "id": "node_8b64102e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Aspirate → inject scolicidal →\nincise adventitia → omentoplasty",
+                    "id": "node_709a52bd",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "PAIR protocol:\nPuncture, Aspiration,\nInjection, Re-aspiration\n(US/CT-guided)",
+                "id": "node_8297f62b",
+                "children": []
+              },
+              {
+                "topic": "Medical: Albendazole/Mebendazole\n400–600 mg q8h × 1 month",
+                "id": "node_4cf2792d",
+                "children": [
+                  {
+                    "topic": "For small cysts, unfit patients,\nrecurrence, or peri-operative cover",
+                    "id": "node_858483a8",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_e6e8b807",
+            "children": [
+              {
+                "topic": "Secondary bacterial infection\n→ pyogenic abscess",
+                "id": "node_4627b55a",
+                "children": []
+              },
+              {
+                "topic": "Calcification →\ninactive/sterile cyst",
+                "id": "node_adfb61fb",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Intraperitoneal rupture →\nperitonitis + anaphylactic shock\n(most feared)",
+                "id": "node_cfecf175",
+                "children": []
+              },
+              {
+                "topic": "Intrabiliary rupture →\nobstructive jaundice",
+                "id": "node_cccabb18",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Key Pearls / Red Flags",
+            "id": "node_6b6c6042",
+            "children": [
+              {
+                "topic": "⚠️ Eosinophilia + cystic liver lesion\n+ dog contact = hydatid",
+                "id": "node_a021f6b0",
+                "children": []
+              },
+              {
+                "topic": "NEVER aspirate blindly —\nrisk of anaphylaxis and\nperitoneal seeding",
+                "id": "node_aca80338",
+                "children": []
+              },
+              {
+                "topic": "Calcified \"eggshell\" cyst on imaging\n= likely dead/inactive cyst",
+                "id": "node_b10459fa",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "III. Connections &\nDifferential Traps",
+        "id": "node_5c40d661",
+        "children": [
+          {
+            "topic": "Amoebic vs. Pyogenic Abscess",
+            "id": "node_b423f3b8",
+            "children": [
+              {
+                "topic": "Amoebic: single, right lobe,\nanchovy sauce, responds to metronidazole",
+                "id": "node_80aa288e",
+                "children": []
+              },
+              {
+                "topic": "Pyogenic: often multiple,\npolymicrobial, higher spiking fevers,\nrequires antibiotics + drainage",
+                "id": "node_c4f1503e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Hydatid vs. Simple Cyst",
+            "id": "node_fc6997cd",
+            "children": [
+              {
+                "topic": "Hydatid: daughter cysts,\nmembrane separation, eosinophilia",
+                "id": "node_51c975cf",
+                "children": []
+              },
+              {
+                "topic": "Simple cyst: thin-walled,\nanechoic, no internal architecture",
+                "id": "node_9a1b1639",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Rupture Trap",
+            "id": "node_7649a604",
+            "children": [
+              {
+                "topic": "Amoebic rupture upward →\npericarditis (lethal)",
+                "id": "node_eb12d523",
+                "children": []
+              },
+              {
+                "topic": "Hydatid rupture into peritoneum →\nanaphylaxis (lethal)",
+                "id": "node_29cb2e45",
+                "children": []
+              },
+              {
+                "topic": "Both are surgical emergencies",
+                "id": "node_1104daaf",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

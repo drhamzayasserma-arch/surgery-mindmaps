@@ -1,0 +1,19 @@
+{
+  "categories": [
+    { "id": "liver", "name": "Liver", "icon": "🩸" },
+    { "id": "gallbladder", "name": "Gallbladder & Biliary Tree", "icon": "💚" },
+    { "id": "pancreas", "name": "Pancreas", "icon": "💛" },
+    { "id": "stomach", "name": "Stomach & Duodenum", "icon": "🍽️" },
+    { "id": "small_intestine", "name": "Small Intestine", "icon": "🌀" },
+    { "id": "colon_rectum", "name": "Colon & Rectum", "icon": "🟤" },
+    { "id": "appendix", "name": "Appendix", "icon": "⚠️" },
+    { "id": "hernia", "name": "Hernia", "icon": "🔷" },
+    { "id": "breast", "name": "Breast", "icon": "🩷" },
+    { "id": "vascular", "name": "Vascular", "icon": "❤️" },
+    { "id": "urology", "name": "Urology", "icon": "💧" },
+    { "id": "thyroid_parathyroid", "name": "Thyroid & Parathyroid", "icon": "🦋" },
+    { "id": "esophagus", "name": "Esophagus", "icon": "🔽" },
+    { "id": "spleen", "name": "Spleen", "icon": "🟣" },
+    { "id": "trauma_emergency", "name": "Trauma & Emergency Surgery", "icon": "🚨" }
+  ]
+}

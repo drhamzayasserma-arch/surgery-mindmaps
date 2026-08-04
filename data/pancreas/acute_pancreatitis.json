@@ -1,0 +1,64 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Acute Pancreatitis",
+    "root": true,
+    "children": [
+      {
+        "topic": "Etiology (GET SMASHED)",
+        "id": "ap_1",
+        "direction": 0,
+        "children": [
+          { "topic": "Gallstones (40% - most common overall)", "id": "ap_1_1", "children": [] },
+          { "topic": "Ethanol / Alcohol (30%)", "id": "ap_1_2", "children": [] },
+          { "topic": "Trauma (blunt abdominal trauma)", "id": "ap_1_3", "children": [] },
+          { "topic": "Steroids", "id": "ap_1_4", "children": [] },
+          { "topic": "Mumps / Viral infections (Coxsackie B)", "id": "ap_1_5", "children": [] },
+          { "topic": "Autoimmune (IgG4-related disease)", "id": "ap_1_6", "children": [] },
+          { "topic": "Scorpion sting (Tityus trinitatis)", "id": "ap_1_7", "children": [] },
+          { "topic": "Hypercalcemia / Hypertriglyceridemia (>1000 mg/dL)", "id": "ap_1_8", "children": [] },
+          { "topic": "ERCP (post-ERCP pancreatitis 5-10%)", "id": "ap_1_9", "children": [] },
+          { "topic": "Drugs (Azathioprine, Thiazides, Valproate, Didanosine)", "id": "ap_1_10", "children": [] }
+        ]
+      },
+      {
+        "topic": "Diagnosis (Revised Atlanta Criteria)",
+        "id": "ap_2",
+        "direction": 0,
+        "children": [
+          { "topic": "Requires 2 of the following 3 criteria:", "id": "ap_2_1", "children": [
+            { "topic": "1. Severe epigastric pain radiating to back (relieved by leaning forward)", "id": "ap_2_1_1", "children": [] },
+            { "topic": "2. Serum Lipase or Amylase >3x upper limit of normal (Lipase more specific & remains elevated longer)", "id": "ap_2_1_2", "children": [] },
+            { "topic": "3. Characteristic imaging findings on Contrast CT / MRI / US", "id": "ap_2_1_3", "children": [] }
+          ]},
+          { "topic": "Physical Signs: Cullen sign (periumbilical ecchymosis), Grey Turner sign (flank ecchymosis), Fox sign (inguinal ligament ecchymosis)", "id": "ap_2_2", "children": [] }
+        ]
+      },
+      {
+        "topic": "Severity & Prognostic Scoring",
+        "id": "ap_3",
+        "direction": 1,
+        "children": [
+          { "topic": "Atlanta Classification: Mild (no organ failure), Moderate (transient organ failure <48h), Severe (persistent organ failure >48h)", "id": "ap_3_1", "children": [] },
+          { "topic": "Ranson Criteria (at admission & 48h): GALAW & C-HOBIC (Age >55, WBC >16k, Glucose >200, LDH >350, AST >250; Hct drop >10%, BUN rise >5, Ca <8, PaO2 <60, Base deficit >4, Fluid sequestration >6L)", "id": "ap_3_2", "children": [] },
+          { "topic": "BISAP Score (BEDS): BUN >25, Impaired mental status, SIRS, Age >60, Pleural effusion", "id": "ap_3_3", "children": [] },
+          { "topic": "CT Severity Index (CTSI / Balthazar): Combines inflammation grade (A-E) + % necrosis (0-50%+)", "id": "ap_3_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Management & Complications",
+        "id": "ap_4",
+        "direction": 1,
+        "children": [
+          { "topic": "Initial Therapy: Aggressive IV fluid resuscitation (Ringer's Lactate 200-500 mL/h), early oral feeding as tolerated (low fat), analgesia (Multimodal, NSAIDs/Opioids)", "id": "ap_4_1", "children": [] },
+          { "topic": "Role of Antibiotics: NO routine prophylactic antibiotics! Only for documented infected necrosis", "id": "ap_4_2", "children": [] },
+          { "topic": "Complications (Revised Atlanta):", "id": "ap_4_3", "children": [
+            { "topic": "<4 weeks: Acute Peripancreatic Fluid Collection (APFC) vs Acute Necrotic Collection (ANC)", "id": "ap_4_3_1", "children": [] },
+            { "topic": ">4 weeks: Pancreatic Pseudocyst (encapsulated fluid, no necrosis) vs Walled-Off Necrosis (WON)", "id": "ap_4_3_2", "children": [] },
+            { "topic": "Infected Necrosis: Step-up approach (Percutaneous/EUS drain → Video-assisted retroperitoneal debridement VARD / Endoscopic necrosectomy → Open necrosectomy)", "id": "ap_4_3_3", "children": [] }
+          ]}
+        ]
+      }
+    ]
+  }
+}

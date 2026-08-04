@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Category — Surgery Mind Maps</title>
+  <meta name="description" content="Surgery mind map topics for a specific organ system category.">
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Breadcrumb -->
+    <nav id="breadcrumb-nav"></nav>
+
+    <!-- Page Header -->
+    <header class="page-header" id="page-header">
+      <div class="page-header__icon" id="header-icon"></div>
+      <div class="page-header__text">
+        <h1 class="page-header__title" id="header-title">Loading...</h1>
+        <p class="page-header__meta" id="header-meta"></p>
+      </div>
+    </header>
+
+    <!-- Search -->
+    <div class="search-container">
+      <span class="search-icon">🔍</span>
+      <input
+        type="text"
+        class="search-bar"
+        id="search-input"
+        placeholder="Search topics..."
+        autocomplete="off"
+        spellcheck="false"
+      >
+    </div>
+
+    <!-- Topic Grid -->
+    <div class="card-grid" id="card-grid">
+      <div class="loading" id="loading">
+        <div class="loading-spinner"></div>
+        <span>Loading topics...</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+  <script>
+    (async function() {
+      const catId = getParam('cat');
+
+      if (!catId) {
+        window.location.href = 'index.html';
+        return;
+      }
+
+      const grid = document.getElementById('card-grid');
+      const searchInput = document.getElementById('search-input');
+      const headerIcon = document.getElementById('header-icon');
+      const headerTitle = document.getElementById('header-title');
+      const headerMeta = document.getElementById('header-meta');
+      const breadcrumbNav = document.getElementById('breadcrumb-nav');
+
+      // Load categories to find this one
+      const categories = await loadCategories();
+      const category = findCategory(categories, catId);
+      const catName = category ? category.name : unslugify(catId);
+      const catIcon = category ? (category.icon || getCategoryIcon(catId)) : getCategoryIcon(catId);
+
+      // Update page
+      document.title = `${catName} — Surgery Mind Maps`;
+      headerIcon.textContent = catIcon;
+      headerTitle.textContent = catName;
+
+      // Breadcrumbs
+      renderBreadcrumbs(breadcrumbNav, [
+        { label: '🏠 Home', href: 'index.html' },
+        { label: catName }
+      ]);
+
+      // Load and render topics
+      let topics = await loadTopics(catId);
+      renderTopics(topics);
+
+      // Search filter
+      searchInput.addEventListener('input', () => {
+        const query = searchInput.value.toLowerCase().trim();
+        const cards = grid.querySelectorAll('.card:not(.card--add)');
+        cards.forEach(card => {
+          const name = card.dataset.name.toLowerCase();
+          card.style.display = name.includes(query) ? '' : 'none';
+        });
+      });
+
+      function renderTopics(topicList) {
+        grid.innerHTML = '';
+
+        // Update meta
+        headerMeta.textContent = `${topicList.length} topic${topicList.length !== 1 ? 's' : ''}`;
+
+        if (topicList.length === 0) {
+          grid.innerHTML = `
+            <div class="empty-state" style="grid-column: 1 / -1;">
+              <div class="empty-state__icon">📝</div>
+              <div class="empty-state__text">No topics yet for ${catName}</div>
+              <div class="empty-state__hint">Click the + button to add your first mind map topic</div>
+            </div>
+          `;
+        }
+
+        // Render topic cards
+        topicList.forEach(topic => {
+          const card = document.createElement('a');
+          card.href = `viewer.html?map=${catId}/${topic.id}`;
+          card.className = 'card';
+          card.dataset.name = topic.name;
+
+          // Check if there's local edits
+          const hasLocal = hasMindMapLocal(`${catId}/${topic.id}`);
+
+          card.innerHTML = `
+            <span class="card__icon">🧠</span>
+            <span class="card__name">${topic.name}</span>
+            <span class="card__meta">
+              ${hasLocal ? '<span class="card__badge" style="background:rgba(245,158,11,0.12);color:#f59e0b;">● Local edits</span>' : '<span class="card__badge">📄 Mind Map</span>'}
+            </span>
+          `;
+          grid.appendChild(card);
+        });
+
+        // Add Topic button
+        const addBtn = document.createElement('div');
+        addBtn.className = 'card card--add';
+        addBtn.innerHTML = `
+          <span class="card--add__icon">+</span>
+          <span class="card--add__label">Add New Topic</span>
+        `;
+        addBtn.addEventListener('click', handleAddTopic);
+        grid.appendChild(addBtn);
+      }
+
+      function handleAddTopic() {
+        showModal({
+          title: `Add Topic to ${catName}`,
+          placeholder: 'e.g. Anatomy & Physiology, Pathology...',
+          onSubmit: (name) => {
+            const topicId = slugify(name);
+
+            // Check for duplicate
+            if (topics.find(t => t.id === topicId)) {
+              showToast('⚠️ This topic already exists');
+              return;
+            }
+
+            // Add to list
+            const newTopic = {
+              id: topicId,
+              name: name,
+              createdAt: new Date().toISOString()
+            };
+            topics.push(newTopic);
+
+            // Save to localStorage
+            saveTopicsToLocal(catId, topics);
+
+            // Re-render
+            renderTopics(topics);
+            showToast(`✅ "${name}" topic added!`);
+          }
+        });
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "topics": [
+    { "id": "biliary-anatomy-physiology", "name": "Anatomy, Physiology & Surgical Clinical Anatomy", "createdAt": "2026-08-04T16:34:00Z" },
+    { "id": "cholelithiasis_cholecystitis", "name": "Cholelithiasis & Cholecystitis", "createdAt": "2026-08-04T15:41:00Z" },
+    { "id": "choledocholithiasis_cholangitis", "name": "Choledocholithiasis & Cholangitis", "createdAt": "2026-08-04T15:41:00Z" },
+    { "id": "biliary_tumors", "name": "Gallbladder & Biliary Tumors", "createdAt": "2026-08-04T15:41:00Z" }
+  ]
+}

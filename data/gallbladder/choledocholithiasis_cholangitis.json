@@ -1,0 +1,61 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Choledocholithiasis & Acute Cholangitis",
+    "root": true,
+    "children": [
+      {
+        "topic": "Choledocholithiasis (CBD Stones)",
+        "id": "cbd_1",
+        "direction": 0,
+        "children": [
+          { "topic": "Origin: Secondary (passed from gallbladder via cystic duct - 85-90%) vs Primary (formed in duct due to stasis/infection - 10-15%)", "id": "cbd_1_1", "children": [] },
+          { "topic": "Clinical Presentation: Biliary colic, obstructive jaundice (dark urine, pale stools, pruritus), fluctuating jaundice", "id": "cbd_1_2", "children": [] },
+          { "topic": "Lab Findings: Cholestatic LFT pattern (↑↑ ALP, ↑↑ GGT, ↑ Direct Bilirubin, mild ALT/AST rise)", "id": "cbd_1_3", "children": [] },
+          { "topic": "Courvoisier Law: In presence of obstructive jaundice, a palpable non-tender GB is unlikely due to gallstones (more likely pancreatic head / biliary malignancy)", "id": "cbd_1_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Risk Stratification (ASGE Guidelines)",
+        "id": "cbd_2",
+        "direction": 0,
+        "children": [
+          { "topic": "High Risk (>50%): Stone on US, Ascending cholangitis, Total Bilirubin >4 mg/dL + dilated CBD (>6mm)", "id": "cbd_2_1", "children": [
+            { "topic": "Management: Direct ERCP + Sphincterotomy + Stone extraction", "id": "cbd_2_1_1", "children": [] }
+          ]},
+          { "topic": "Intermediate Risk (10-50%): Abnormal LFTs, Dilated CBD (>6mm) on US, Age >50", "id": "cbd_2_2", "children": [
+            { "topic": "Management: EUS or MRCP (or Intraoperative Cholangiogram - IOC)", "id": "cbd_2_2_1", "children": [] }
+          ]},
+          { "topic": "Low Risk (<10%): Normal LFTs, normal CBD diameter, no stone seen", "id": "cbd_2_3", "children": [
+            { "topic": "Management: Proceed directly to Laparoscopic Cholecystectomy without pre-op ERCP", "id": "cbd_2_3_1", "children": [] }
+          ]}
+        ]
+      },
+      {
+        "topic": "Acute Cholangitis",
+        "id": "cbd_3",
+        "direction": 1,
+        "children": [
+          { "topic": "Pathophysiology: Biliary stasis + bacterial infection → elevated intrabiliary pressure (>25 cmH₂O) → transcholangitic translocation of bacteria into blood", "id": "cbd_3_1", "children": [] },
+          { "topic": "Charcot's Triad (70% of cases): 1. RUQ abdominal pain 2. Jaundice 3. Fever with chills/rigors", "id": "cbd_3_2", "children": [] },
+          { "topic": "Reynolds' Pentad (Severe / Suppurative Cholangitis): Charcot's Triad + 4. Hypotension (septic shock) 5. Altered mental status", "id": "cbd_3_3", "children": [] },
+          { "topic": "Tokyo Guidelines (TG18) for Cholangitis: Diagnostic criteria (A. Systemic inflammation B. Cholestasis C. Biliary imaging evidence)", "id": "cbd_3_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Management of Cholangitis & CBD Stones",
+        "id": "cbd_4",
+        "direction": 1,
+        "children": [
+          { "topic": "Initial Resuscitation: IV fluids, NPO, blood cultures, broad-spectrum IV antibiotics (Piperacillin-Tazobactam or Ceftriaxone + Metronidazole)", "id": "cbd_4_1", "children": [] },
+          { "topic": "Biliary Decompression (Cornerstone of Therapy):", "id": "cbd_4_2", "children": [
+            { "topic": "Emergency ERCP + Sphincterotomy + Biliary Stent / Stone Removal (<12-24 hours for severe, <48h for mild/moderate)", "id": "cbd_4_2_1", "children": [] },
+            { "topic": "PTBD (Percutaneous Transhepatic Biliary Drainage) if ERCP fails or altered anatomy (Roux-en-Y)", "id": "cbd_4_2_2", "children": [] },
+            { "topic": "Surgical CBD Exploration (Choledochotomy + T-tube placement) if endoscopic/radiologic intervention unavailable", "id": "cbd_4_2_3", "children": [] }
+          ]},
+          { "topic": "Definitive Treatment: Interval Laparoscopic Cholecystectomy after cholangitis settles to prevent recurrent gallstone complications", "id": "cbd_4_3", "children": [] }
+        ]
+      }
+    ]
+  }
+}

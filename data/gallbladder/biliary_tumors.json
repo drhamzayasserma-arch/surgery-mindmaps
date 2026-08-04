@@ -1,0 +1,46 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Gallbladder & Biliary Tumors",
+    "root": true,
+    "children": [
+      {
+        "topic": "Gallbladder Carcinoma",
+        "id": "ca_gb_1",
+        "direction": 0,
+        "children": [
+          { "topic": "Epidemiology: Most common biliary tract cancer, 5th GI cancer, F:M = 3:1, high incidence in Chile, Northern India, Native Americans", "id": "ca_gb_1_1", "children": [] },
+          { "topic": "Risk Factors: Gallstones (>3cm 10x risk), Porcelain gallbladder (20% cancer risk), GB polyps (>10mm), Anomalous pancreaticobiliary junction (APBJ), Chronic Salmonella typhi infection", "id": "ca_gb_1_2", "children": [] },
+          { "topic": "Pathology: Adenocarcinoma (90%), direct spread to liver (Segments IVb & V) and regional lymph nodes (porta hepatis)", "id": "ca_gb_1_3", "children": [] },
+          { "topic": "Clinical Picture: Usually advanced at diagnosis. RUQ pain, weight loss, jaundice (indicates liver/biliary invasion)", "id": "ca_gb_1_4", "children": [] },
+          { "topic": "Incidental GB Cancer (found post-cholecystectomy): T1a (lamina propria) = Cholecystectomy alone is curative; T1b+ (muscularis) = Radical re-resection (wedge liver resection IVb/V + lymphadenectomy)", "id": "ca_gb_1_5", "children": [] }
+        ]
+      },
+      {
+        "topic": "Cholangiocarcinoma (Bile Duct Cancer)",
+        "id": "ca_cca_2",
+        "direction": 1,
+        "children": [
+          { "topic": "Classification by Location:", "id": "ca_cca_2_1", "children": [
+            { "topic": "Intrahepatic (10%): Peripheral liver parenchyma mass", "id": "ca_cca_2_1_1", "children": [] },
+            { "topic": "Perihilar / Klatskin Tumor (50-60%): Junction of R & L hepatic ducts at confluence", "id": "ca_cca_2_1_2", "children": [] },
+            { "topic": "Distal Extrahepatic (20-30%): Between upper border of pancreas and ampulla", "id": "ca_cca_2_1_3", "children": [] }
+          ]},
+          { "topic": "Risk Factors: Primary Sclerosing Cholangitis (PSC - 10-15% lifetime risk), Choledochal cysts, Liver flukes (Clonorchis sinensis), Thorotrast exposure", "id": "ca_cca_2_2", "children": [] },
+          { "topic": "Klatskin Tumor — Bismuth-Corlette Classification:", "id": "ca_cca_2_3", "children": [
+            { "topic": "Type I: Tumor below hepatic duct confluence", "id": "ca_cca_2_3_1", "children": [] },
+            { "topic": "Type II: Tumor involves confluence without involving R or L hepatic ducts", "id": "ca_cca_2_3_2", "children": [] },
+            { "topic": "Type IIIa: Extends into Right hepatic duct; Type IIIb: Extends into Left hepatic duct", "id": "ca_cca_2_3_3", "children": [] },
+            { "topic": "Type IV: Involves both Right & Left hepatic ducts or multicentric", "id": "ca_cca_2_3_4", "children": [] }
+          ]},
+          { "topic": "Diagnosis & Markers: CA 19-9 (>100 U/mL), MRCP (gold standard non-invasive), EUS-FNA, ERCP with brush cytology", "id": "ca_cca_2_4", "children": [] },
+          { "topic": "Surgical Management:", "id": "ca_cca_2_5", "children": [
+            { "topic": "Perihilar (Klatskin): En bloc resection of extrahepatic bile duct + Hepatectomy (usually right) + Caudate lobectomy + Portal lymphadenectomy", "id": "ca_cca_2_5_1", "children": [] },
+            { "topic": "Distal Extrahepatic: Pancreaticoduodenectomy (Whipple procedure)", "id": "ca_cca_2_5_2", "children": [] },
+            { "topic": "Palliative: ERCP biliary stenting (metal stent) or PTBD to relieve jaundice & pruritus", "id": "ca_cca_2_5_3", "children": [] }
+          ]}
+        ]
+      }
+    ]
+  }
+}

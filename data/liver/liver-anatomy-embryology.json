@@ -1,0 +1,565 @@
+{
+  "nodeData": {
+    "topic": "🫁 Surgical Anatomy\n& Embryology of the Liver",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Embryology",
+        "id": "node_b521b0f9",
+        "children": [
+          {
+            "topic": "Origin",
+            "id": "node_7ac3ffd3",
+            "children": [
+              {
+                "topic": "Foregut bud (ventral outgrowth)",
+                "id": "node_3b7639bc",
+                "children": []
+              },
+              {
+                "topic": "Visible by day 25",
+                "id": "node_0fa355e2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pars Hepatica (Cranial)",
+            "id": "node_fe8d6429",
+            "children": [
+              {
+                "topic": "→ Hepatocytes",
+                "id": "node_b22f632c",
+                "children": []
+              },
+              {
+                "topic": "→ Intrahepatic bile ducts",
+                "id": "node_fb86d6c9",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pars Cystica (Caudal)",
+            "id": "node_46c15891",
+            "children": [
+              {
+                "topic": "→ Gallbladder",
+                "id": "node_aa568d4a",
+                "children": []
+              },
+              {
+                "topic": "→ Cystic duct",
+                "id": "node_993dd179",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Stroma",
+            "id": "node_18bc2173",
+            "children": [
+              {
+                "topic": "From septum transversum mesoderm",
+                "id": "node_cb2744d1",
+                "children": []
+              },
+              {
+                "topic": "→ Capsule (Glisson's)",
+                "id": "node_2d7733df",
+                "children": []
+              },
+              {
+                "topic": "→ Kupffer cells",
+                "id": "node_11f9453d",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Sinusoidal Endothelium",
+            "id": "node_ed4e30ee",
+            "children": [
+              {
+                "topic": "From vitelline & umbilical veins",
+                "id": "node_1baa42a4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Weight Ratio",
+            "id": "node_936be149",
+            "children": [
+              {
+                "topic": "10% at 60 days",
+                "id": "node_ca4fc941",
+                "children": []
+              },
+              {
+                "topic": "5% at birth",
+                "id": "node_ac95a3ba",
+                "children": []
+              },
+              {
+                "topic": "2.5% adult (1200–1800 g)",
+                "id": "node_4f346fb0",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "II. Peritoneal Coverings\n& Ligaments",
+        "id": "node_f7b7124f",
+        "children": [
+          {
+            "topic": "Nearly complete peritoneal\ncoverage; 5 bare areas",
+            "id": "node_7da5e75e",
+            "children": [
+              {
+                "topic": "Posterior bare area (right of IVC)",
+                "id": "node_4393cefc",
+                "children": []
+              },
+              {
+                "topic": "Gallbladder fossa",
+                "id": "node_40b2ad92",
+                "children": []
+              },
+              {
+                "topic": "IVC groove",
+                "id": "node_c6bd41e3",
+                "children": []
+              },
+              {
+                "topic": "Porta hepatis",
+                "id": "node_04357452",
+                "children": []
+              },
+              {
+                "topic": "Ligament bases",
+                "id": "node_ece4e20b",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Falciform Ligament",
+            "id": "node_8350d8c3",
+            "children": [
+              {
+                "topic": "Connects liver to anterior\nabdominal wall",
+                "id": "node_d99b791b",
+                "children": []
+              },
+              {
+                "topic": "Free edge contains\nligamentum teres\n(obliterated umbilical vein)",
+                "id": "node_c895f887",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Ligamentum Venosum",
+            "id": "node_682d8eea",
+            "children": [
+              {
+                "topic": "= Obliterated ductus venosus",
+                "id": "node_3472d19d",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Lesser Omentum",
+            "id": "node_178f972e",
+            "children": [
+              {
+                "topic": "Free border contains\nportal triad",
+                "id": "node_0f3cdc85",
+                "children": []
+              },
+              {
+                "topic": "Forms anterior wall of\nForamen of Winslow",
+                "id": "node_62f909a7",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "III. Winslow's Foramen\n(Epiploic Foramen)",
+        "id": "node_5538efd2",
+        "children": [
+          {
+            "topic": "Boundaries",
+            "id": "node_027fb86c",
+            "children": [
+              {
+                "topic": "Superior: Caudate lobe",
+                "id": "node_8c5cafdd",
+                "children": []
+              },
+              {
+                "topic": "Inferior: D1\n(first part of duodenum)",
+                "id": "node_7f2b4f5b",
+                "children": []
+              },
+              {
+                "topic": "Anterior: Free edge of\nlesser omentum\n(portal triad: PV, HA, CBD)",
+                "id": "node_498cab32",
+                "children": []
+              },
+              {
+                "topic": "Posterior: IVC",
+                "id": "node_3304e645",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "⚠️ Pearl",
+            "id": "node_105db81c",
+            "children": [
+              {
+                "topic": "Pringle maneuver compresses\nthe anterior border (portal triad)\nto control hepatic inflow hemorrhage",
+                "id": "node_52089f7b",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "IV. Lobes, Sectors\n& Segments",
+        "id": "node_6eb222f1",
+        "children": [
+          {
+            "topic": "Anatomical Division",
+            "id": "node_1bc774f5",
+            "children": [
+              {
+                "topic": "Falciform ligament →\nsmall left, large right",
+                "id": "node_6b27b3d4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Cantlie's Line",
+            "id": "node_5670eda6",
+            "children": [
+              {
+                "topic": "Gallbladder fossa → IVC",
+                "id": "node_5f28132b",
+                "children": []
+              },
+              {
+                "topic": "Divides liver into two\nfunctional surgical lobes\nof roughly equal size",
+                "id": "node_726ee3a0",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "4 Sectors → 8 Couinaud\nSegments",
+            "id": "node_ab69a597",
+            "children": [
+              {
+                "topic": "Based on hepatic vein &\nportal pedicle distribution",
+                "id": "node_8d83a144",
+                "children": []
+              },
+              {
+                "topic": "Left Lobe",
+                "id": "node_df1a27eb",
+                "children": [
+                  {
+                    "topic": "Lateral sector:\nsegments II, III",
+                    "id": "node_c1b4926d",
+                    "children": []
+                  },
+                  {
+                    "topic": "Medial sector:\nsegment IV",
+                    "id": "node_e174cabe",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Right Lobe",
+                "id": "node_de2d0872",
+                "children": [
+                  {
+                    "topic": "Anterior sector:\nsegments V, VIII",
+                    "id": "node_50df4a69",
+                    "children": []
+                  },
+                  {
+                    "topic": "Posterior sector:\nsegments VI, VII",
+                    "id": "node_b927730f",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Segment I = Caudate Lobe",
+            "id": "node_968c4b6d",
+            "children": [
+              {
+                "topic": "Independent drainage\ndirectly into IVC",
+                "id": "node_f7850537",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "V. Vascular Architecture",
+        "id": "node_c8879d4a",
+        "children": [
+          {
+            "topic": "Dual Inflow (~1.5 L/min)",
+            "id": "node_bbf4504a",
+            "children": [
+              {
+                "topic": "Portal Vein: 80% flow, 50% O₂",
+                "id": "node_269ca175",
+                "children": []
+              },
+              {
+                "topic": "Hepatic Artery: 20% flow, 50% O₂",
+                "id": "node_c6fee6f1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Porta Hepatis Arrangement\n(posterior → anterior)",
+            "id": "node_ffb5a908",
+            "children": [
+              {
+                "topic": "Portal Vein → Hepatic Artery\n→ Bile Duct",
+                "id": "node_735b5edb",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Outflow",
+            "id": "node_20372d1f",
+            "children": [
+              {
+                "topic": "3 hepatic veins\n(right, middle, left) → IVC",
+                "id": "node_77b37668",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Hepatic Artery Buffer\nResponse",
+            "id": "node_6a009095",
+            "children": [
+              {
+                "topic": "Hepatic artery flow increases\nto compensate for portal vein\nflow reduction",
+                "id": "node_72024f91",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Not vice versa",
+                "id": "node_331bb971",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "VI. Liver Function\n& Coagulopathy Pearls",
+        "id": "node_25620f0f",
+        "children": [
+          {
+            "topic": "Markers of Injury\n(NOT synthetic function)",
+            "id": "node_75b4f5d2",
+            "children": [
+              {
+                "topic": "AST / ALT / ALP",
+                "id": "node_36994627",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "True Synthetic Markers",
+            "id": "node_dd83e930",
+            "children": [
+              {
+                "topic": "Albumin",
+                "id": "node_0ebd20e4",
+                "children": []
+              },
+              {
+                "topic": "PT / INR",
+                "id": "node_94c04e12",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Factor VIII Exception",
+            "id": "node_43d0dfbb",
+            "children": [
+              {
+                "topic": "Only clotting factor NOT\nexclusively hepatic",
+                "id": "node_a45e1a26",
+                "children": []
+              },
+              {
+                "topic": "Levels remain normal or\nelevated in liver failure",
+                "id": "node_8a7e7a3e",
+                "children": []
+              },
+              {
+                "topic": "Produced by sinusoidal\nendothelial cells &\nextrahepatic sites",
+                "id": "node_cb8a9ed1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Vitamin K–Dependent\nFactors",
+            "id": "node_6b711143",
+            "children": [
+              {
+                "topic": "Factors II, VII, IX, X",
+                "id": "node_ede5c93f",
+                "children": []
+              },
+              {
+                "topic": "All decline in hepatic failure",
+                "id": "node_2a700792",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "VII. Key Pearls\n& Connections",
+        "id": "node_3034329b",
+        "children": [
+          {
+            "topic": "Key Pearls & Red Flags",
+            "id": "node_d634b7a2",
+            "children": [
+              {
+                "topic": "Pringle Maneuver",
+                "id": "node_de66d90a",
+                "children": [
+                  {
+                    "topic": "Controls portal triad inflow",
+                    "id": "node_af582c87",
+                    "children": []
+                  },
+                  {
+                    "topic": "⚠️ Does NOT control\nhepatic vein back-bleeding",
+                    "id": "node_035afdf6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Caudate Lobe (Segment I)",
+                "id": "node_f13e6dee",
+                "children": [
+                  {
+                    "topic": "Dual portal supply",
+                    "id": "node_34f2b0b2",
+                    "children": []
+                  },
+                  {
+                    "topic": "Independent hepatic vein drainage",
+                    "id": "node_ba7e80e6",
+                    "children": []
+                  },
+                  {
+                    "topic": "Often hypertrophies in\nBudd-Chiari syndrome",
+                    "id": "node_f026d5a7",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Aberrant Hepatic Arterial\nAnatomy",
+                "id": "node_dc7fabb3",
+                "children": [
+                  {
+                    "topic": "Common (~40%)",
+                    "id": "node_e12bc3d4",
+                    "children": []
+                  },
+                  {
+                    "topic": "Replaced right hepatic artery\nfrom SMA is the most clinically\nsignificant variant during\nhepatobiliary surgery",
+                    "id": "node_559a0c6a",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Connections",
+            "id": "node_52d60f74",
+            "children": [
+              {
+                "topic": "Budd-Chiari syndrome\n↔ Caudate lobe hypertrophy",
+                "id": "node_14f80049",
+                "children": [
+                  {
+                    "topic": "Independent venous drainage\nspares segment I",
+                    "id": "node_3032c02a",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Portal hypertension\n↔ Recanalization of\numbilical vein",
+                "id": "node_74f60258",
+                "children": [
+                  {
+                    "topic": "Ligamentum teres →\nCaput medusae",
+                    "id": "node_42780ffc",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Differential Trap:\nElevated ALP",
+                "id": "node_67445feb",
+                "children": [
+                  {
+                    "topic": "Hepatic origin: elevated GGT",
+                    "id": "node_83471a8b",
+                    "children": []
+                  },
+                  {
+                    "topic": "Bone origin: normal GGT",
+                    "id": "node_f1c2601d",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

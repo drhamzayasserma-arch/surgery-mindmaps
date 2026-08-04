@@ -1,0 +1,690 @@
+{
+  "nodeData": {
+    "topic": "🫀 Liver Tumors\n& Lesions",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Benign Liver Tumors\n& Lesions",
+        "id": "node_a8f297c2",
+        "children": [
+          {
+            "topic": "Classification",
+            "id": "node_9cbe37ef",
+            "children": [
+              {
+                "topic": "True Neoplastic: Adenoma",
+                "id": "node_e112ec81",
+                "children": []
+              },
+              {
+                "topic": "Non-neoplastic (Hamartomas/\nHyperplasias): Hemangioma & FNH",
+                "id": "node_8a28aa82",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "1. Hemangioma",
+            "id": "node_066140fb",
+            "children": [
+              {
+                "topic": "📊 Epidemiology",
+                "id": "node_b7526849",
+                "children": [
+                  {
+                    "topic": "Most common overall benign\nhepatic focal lesion",
+                    "id": "node_c673a8fe",
+                    "children": []
+                  },
+                  {
+                    "topic": "Congenital cavernous hamartoma\n(NOT a True neoplasm)",
+                    "id": "node_25072a7d",
+                    "children": []
+                  },
+                  {
+                    "topic": "Female predominance → F:M 4:1",
+                    "id": "node_7130c595",
+                    "children": []
+                  },
+                  {
+                    "topic": "Age: 3rd–6th decade of life",
+                    "id": "node_f514c40f",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "🔬 Pathology",
+                "id": "node_828d63c6",
+                "children": [
+                  {
+                    "topic": "Single or multiple",
+                    "id": "node_8da30b37",
+                    "children": []
+                  },
+                  {
+                    "topic": "Giant hemangioma: >10 cm",
+                    "id": "node_f0384c68",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "⚠️ Complications",
+                "id": "node_593a4261",
+                "children": [
+                  {
+                    "topic": "Spontaneous rupture (~5% of cases)",
+                    "id": "node_c649c963",
+                    "children": []
+                  },
+                  {
+                    "topic": "Rare malignant transformation",
+                    "id": "node_cc5bf04e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Kasabach-Merritt Syndrome\n→ Consumptive coagulopathy\n→ Severe thrombocytopenia\n(platelet trapping in giant\nhemangiomas)",
+                    "id": "node_61ee8707",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "🩺 Clinical Presentation",
+                "id": "node_2fc882a4",
+                "children": [
+                  {
+                    "topic": "Mostly asymptomatic",
+                    "id": "node_b942e722",
+                    "children": []
+                  },
+                  {
+                    "topic": "Giant → RUQ pain\n(capsular stretch)",
+                    "id": "node_189c1848",
+                    "children": []
+                  },
+                  {
+                    "topic": "Pediatric → high-output\ncardiac failure",
+                    "id": "node_02d88d91",
+                    "children": []
+                  },
+                  {
+                    "topic": "Biliary compression →\nobstructive jaundice",
+                    "id": "node_0c8573eb",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "📷 Diagnostics",
+                "id": "node_86d71a53",
+                "children": [
+                  {
+                    "topic": "US: Classic hyperechoic\nfocal lesion",
+                    "id": "node_8406ee18",
+                    "children": []
+                  },
+                  {
+                    "topic": "Triphasic CT: Early peripheral\nenhancement (arterial phase)\n→ delayed venous fill-in",
+                    "id": "node_801c017f",
+                    "children": []
+                  },
+                  {
+                    "topic": "🏆 SPECT (Tc-99m labeled\nRBCs) → highly diagnostic",
+                    "id": "node_d0d16896",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "💊 Management",
+                "id": "node_41a73b77",
+                "children": [
+                  {
+                    "topic": "Asymptomatic → observation\n+ regular follow-up",
+                    "id": "node_f0d586c2",
+                    "children": []
+                  },
+                  {
+                    "topic": "Symptomatic / bleeding →\ngel-foam embolization",
+                    "id": "node_4ffe109c",
+                    "children": []
+                  },
+                  {
+                    "topic": "Refractory → surgical excision",
+                    "id": "node_17dcff96",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "2. Hepatic Adenoma",
+            "id": "node_620a3077",
+            "children": [
+              {
+                "topic": "📊 Epidemiology & Etiology",
+                "id": "node_88f32709",
+                "children": [
+                  {
+                    "topic": "Benign tumor of hepatocytes",
+                    "id": "node_57694d38",
+                    "children": []
+                  },
+                  {
+                    "topic": "Almost exclusively in\nyoung females",
+                    "id": "node_70bf1faf",
+                    "children": []
+                  },
+                  {
+                    "topic": "Strong association with\nOCP use",
+                    "id": "node_e95df6ab",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "🔬 Pathology",
+                "id": "node_b3c32e98",
+                "children": [
+                  {
+                    "topic": "Soft, light-yellow,\nwell-circumscribed",
+                    "id": "node_809fd83f",
+                    "children": []
+                  },
+                  {
+                    "topic": "Multiple in up to ⅓ of cases",
+                    "id": "node_3ea8c640",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "⚠️ Risk Profile",
+                "id": "node_8aeb0b74",
+                "children": [
+                  {
+                    "topic": "⚠️ Spontaneous rupture →\nlife-threatening\nintraperitoneal hemorrhage",
+                    "id": "node_41a1c894",
+                    "children": []
+                  },
+                  {
+                    "topic": "⚠️ Malignant transformation\n→ HCC",
+                    "id": "node_9c83d16e",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "📷 Diagnostics",
+                "id": "node_164c7e9e",
+                "children": [
+                  {
+                    "topic": "LFTs & AFP → normal",
+                    "id": "node_33fbdcc8",
+                    "children": []
+                  },
+                  {
+                    "topic": "Triphasic CT → minimal\nor non-enhancement",
+                    "id": "node_bd521781",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "💊 Management",
+                "id": "node_8ece0e26",
+                "children": [
+                  {
+                    "topic": "Stop OCPs → may\ncause regression",
+                    "id": "node_1f1a75cb",
+                    "children": []
+                  },
+                  {
+                    "topic": "Surgical resection if\n>5 cm or diagnostic doubt",
+                    "id": "node_541dfdb6",
+                    "children": []
+                  },
+                  {
+                    "topic": "Ruptured + hemorrhage →\nurgent angioembolization",
+                    "id": "node_012aede4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "3. Focal Nodular\nHyperplasia (FNH)",
+            "id": "node_699fb66b",
+            "children": [
+              {
+                "topic": "🔬 Pathology",
+                "id": "node_12408c11",
+                "children": [
+                  {
+                    "topic": "✅ Completely harmless\nbenign lesion",
+                    "id": "node_897ccedb",
+                    "children": []
+                  },
+                  {
+                    "topic": "Firm, pale mass with\ncentral stellate scar\n+ fibrous septae",
+                    "id": "node_cad9c36b",
+                    "children": []
+                  },
+                  {
+                    "topic": "Arises from congenital\nvascular malformations →\nlocalized hyper-perfusion",
+                    "id": "node_49e33a71",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "📷 Diagnostics",
+                "id": "node_cef1d5ea",
+                "children": [
+                  {
+                    "topic": "Triphasic CT: peripheral mass\nwith central stellate scar\nthat enhances with contrast",
+                    "id": "node_0594e4b3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "💊 Management",
+                "id": "node_d7f5fc29",
+                "children": [
+                  {
+                    "topic": "✅ No surgical intervention\nrequired",
+                    "id": "node_216e1614",
+                    "children": []
+                  },
+                  {
+                    "topic": "Stop OCP use",
+                    "id": "node_4dccdae9",
+                    "children": []
+                  },
+                  {
+                    "topic": "Resect only if symptomatic\n(mass effect) or malignancy\ncannot be ruled out",
+                    "id": "node_ad629b3b",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "II. Hepatocellular\nCarcinoma (HCC)",
+        "id": "node_648ef3b7",
+        "children": [
+          {
+            "topic": "1. Epidemiology & Etiology",
+            "id": "node_4e774f30",
+            "children": [
+              {
+                "topic": "Peak incidence ~40 years\nin endemic regions",
+                "id": "node_470e435c",
+                "children": []
+              },
+              {
+                "topic": "Male predominance → M:F 8:1",
+                "id": "node_c678d2c4",
+                "children": []
+              },
+              {
+                "topic": "Japan: 80% HCV-positive",
+                "id": "node_ee73cf97",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Major Risk Factors",
+                "id": "node_74872ec3",
+                "children": [
+                  {
+                    "topic": "Chronic HBV & HCV",
+                    "id": "node_bbc0a565",
+                    "children": []
+                  },
+                  {
+                    "topic": "Liver cirrhosis",
+                    "id": "node_560da048",
+                    "children": []
+                  },
+                  {
+                    "topic": "Aflatoxin (Aspergillus flavus)",
+                    "id": "node_b07a82c2",
+                    "children": []
+                  },
+                  {
+                    "topic": "α1-antitrypsin deficiency",
+                    "id": "node_9a71e18f",
+                    "children": []
+                  },
+                  {
+                    "topic": "Haemochromatosis",
+                    "id": "node_ff56ea4a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Wilson's disease",
+                    "id": "node_49222791",
+                    "children": []
+                  },
+                  {
+                    "topic": "Androgenic anabolic steroids\n(athletes)",
+                    "id": "node_51fffe48",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Fibrolamellar Variant",
+                "id": "node_ab1776a6",
+                "children": [
+                  {
+                    "topic": "Young, non-cirrhotic females",
+                    "id": "node_efc18002",
+                    "children": []
+                  },
+                  {
+                    "topic": "✅ Significantly better prognosis\nthan standard HCC",
+                    "id": "node_e3e92334",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "2. Pathology & Spread",
+            "id": "node_ea801657",
+            "children": [
+              {
+                "topic": "Macroscopic Types",
+                "id": "node_29c87045",
+                "children": [
+                  {
+                    "topic": "Massive → single\nlocalized mass",
+                    "id": "node_70a4eb11",
+                    "children": []
+                  },
+                  {
+                    "topic": "Nodular → multiple\nscattered nodules",
+                    "id": "node_4f537e4c",
+                    "children": []
+                  },
+                  {
+                    "topic": "Diffuse → diffuse\nparenchymal infiltration",
+                    "id": "node_a7cfacb8",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Routes of Spread",
+                "id": "node_635887c0",
+                "children": [
+                  {
+                    "topic": "Direct → throughout liver",
+                    "id": "node_5b2a7858",
+                    "children": []
+                  },
+                  {
+                    "topic": "Lymphatic → porta hepatis\n& coeliac lymph nodes",
+                    "id": "node_951c5f68",
+                    "children": []
+                  },
+                  {
+                    "topic": "Trans-coelomic →\nmalignant ascites",
+                    "id": "node_406c2d6e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Hematogenous → hepatic veins\n→ lungs & bones",
+                    "id": "node_9c01ff05",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "3. Clinical Picture",
+            "id": "node_736b18cc",
+            "children": [
+              {
+                "topic": "⚠️ Sudden deterioration in\npre-existing liver cirrhosis",
+                "id": "node_14d5c7eb",
+                "children": []
+              },
+              {
+                "topic": "Low-grade fever",
+                "id": "node_6e24fcb5",
+                "children": []
+              },
+              {
+                "topic": "RUQ pain",
+                "id": "node_61f8c49d",
+                "children": []
+              },
+              {
+                "topic": "Weight loss (>10 kg)",
+                "id": "node_650d9c39",
+                "children": []
+              },
+              {
+                "topic": "Ascites & jaundice",
+                "id": "node_796c5d6f",
+                "children": []
+              },
+              {
+                "topic": "Rare: haemobilia\n(bleeding into biliary tree)",
+                "id": "node_331c719a",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "4. Investigations",
+            "id": "node_f9cef777",
+            "children": [
+              {
+                "topic": "🏆 AFP Tumor Marker",
+                "id": "node_657ec580",
+                "children": [
+                  {
+                    "topic": "Elevated in 70–90% of cases",
+                    "id": "node_a5112367",
+                    "children": []
+                  },
+                  {
+                    "topic": "AFP >200 ng/ml →\nhighly suggestive",
+                    "id": "node_83fba523",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "📷 Triphasic CT",
+                "id": "node_975bf716",
+                "children": [
+                  {
+                    "topic": "🏆 Early arterial enhancement\n+ delayed venous washout",
+                    "id": "node_1b44530c",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "5. Treatment",
+            "id": "node_911ddb2a",
+            "children": [
+              {
+                "topic": "Resection",
+                "id": "node_980d4969",
+                "children": [
+                  {
+                    "topic": "Segmental resection with\n1–2 cm safety margin",
+                    "id": "node_22c9f560",
+                    "children": []
+                  },
+                  {
+                    "topic": "⚠️ Cirrhosis = major\ncontraindication\n(↑ bleeding, poor reserve,\nimpaired regeneration)",
+                    "id": "node_c8dd0cfc",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Transplantation",
+                "id": "node_3758f67f",
+                "children": [
+                  {
+                    "topic": "🏆 Preferred curative modality\nfor advanced cirrhosis\n+ tumor",
+                    "id": "node_ea61ccab",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Inoperable Palliation",
+                "id": "node_608796de",
+                "children": [
+                  {
+                    "topic": "Percutaneous alcohol injection",
+                    "id": "node_341d650c",
+                    "children": []
+                  },
+                  {
+                    "topic": "RFA (Radio-Frequency Ablation)",
+                    "id": "node_276ac172",
+                    "children": []
+                  },
+                  {
+                    "topic": "TACE (Trans-Arterial\nChemoembolization)",
+                    "id": "node_d6509ab1",
+                    "children": []
+                  },
+                  {
+                    "topic": "MCT (Microwave\nCoagulonecrotic Therapy)",
+                    "id": "node_ab2dbace",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Paraneoplastic Syndrome",
+                "id": "node_38160c71",
+                "children": [
+                  {
+                    "topic": "Ectopic EPO production\n→ erythrocytosis\n(↑ Hb & Hct)",
+                    "id": "node_4f47bea6",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "III. Liver Metastasis\n(Secondary Malignant Tumors)",
+        "id": "node_d75d427e",
+        "children": [
+          {
+            "topic": "📊 Incidence",
+            "id": "node_d8dc90f8",
+            "children": [
+              {
+                "topic": "20× more common than\nprimary liver tumors",
+                "id": "node_49e27d5e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "🔬 Pathology",
+            "id": "node_85d9e5c6",
+            "children": [
+              {
+                "topic": "Multiple, white,\numbilicated nodules\n(central tumor necrosis)",
+                "id": "node_f9e639f5",
+                "children": []
+              },
+              {
+                "topic": "Synchronous → found at\nsame time as primary",
+                "id": "node_8ca13a15",
+                "children": []
+              },
+              {
+                "topic": "Metasynchronous → appears\nmonths/years after primary\ntumor resection",
+                "id": "node_047e274f",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "🔗 Source Sites\n(Routes to Liver)",
+            "id": "node_f45f086f",
+            "children": [
+              {
+                "topic": "Portal circulation →\nGIT carcinomas",
+                "id": "node_422d7931",
+                "children": []
+              },
+              {
+                "topic": "Hepatic artery →\nbreast, lung, kidney,\novary cancers",
+                "id": "node_444570c4",
+                "children": []
+              },
+              {
+                "topic": "Direct invasion →\ngallbladder carcinoma",
+                "id": "node_8f7b1a65",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "🏆 Surgical Management\n(Colorectal Mets)",
+            "id": "node_66427a32",
+            "children": [
+              {
+                "topic": "Although metastatic disease\ngenerally implies inoperable\nstate, colorectal mets\ncan be curative:",
+                "id": "node_3124a4fa",
+                "children": []
+              },
+              {
+                "topic": "Criteria:",
+                "id": "node_f6e4a4a8",
+                "children": [
+                  {
+                    "topic": "1. Primary colorectal tumor\ntotally resectable",
+                    "id": "node_cae0f2cc",
+                    "children": []
+                  },
+                  {
+                    "topic": "2. Solitary nodule ()\nor multiple nodules confined\nto single lobe/segment",
+                    "id": "node_809bb67f",
+                    "children": []
+                  },
+                  {
+                    "topic": "3. Absolute absence of\nextra-hepatic metastatic disease",
+                    "id": "node_9da8052d",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

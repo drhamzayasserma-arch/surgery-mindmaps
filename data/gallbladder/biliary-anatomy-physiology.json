@@ -1,0 +1,286 @@
+{
+  "nodeData": {
+    "topic": "🟢 Biliary Tract\nAnatomy, Physiology &\nSurgical Clinical Anatomy",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Gross Anatomy —\nGallbladder",
+        "id": "node_54272a97",
+        "children": [
+          {
+            "topic": "Pear-shaped, on visceral surface of liver;\n~7.5–12.5 cm, capacity ~50 mL",
+            "id": "node_d70988e5",
+            "children": []
+          },
+          {
+            "topic": "Four segments:\nfundus → body → infundibulum → neck → cystic duct",
+            "id": "node_1e2996a0",
+            "children": [
+              {
+                "topic": "Fundus at tip of 9th costal cartilage /\nlateral rectus border; fully peritonealized",
+                "id": "node_357ddf03",
+                "children": []
+              },
+              {
+                "topic": "Hartmann's pouch = dilated infundibulum;\nnot universal — found in 12.2% of gallbladders",
+                "id": "node_3b6a7b87",
+                "children": []
+              },
+              {
+                "topic": "Cystic duct 1–3 cm, mucosal spiral valves of Heister;\nconventional cystic duct anatomy in 89%",
+                "id": "node_282b51bb",
+                "children": []
+              },
+              {
+                "topic": "Rokitansky–Aschoff sinuses =\nmucosal outpouchings",
+                "id": "node_0dc9ae5f",
+                "children": []
+              },
+              {
+                "topic": "Ducts of Luschka = subvesical bile ducts\nin the cystic plate ⚠️ (bile leak source)",
+                "id": "node_2dfd8152",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "II. Gross Anatomy —\nExtrahepatic Ducts / CBD",
+        "id": "node_7ecbe389",
+        "children": [
+          {
+            "topic": "Right hepatic duct = anterior + posterior sectoral ducts;\nleft = medial + lateral",
+            "id": "node_22bac185",
+            "children": []
+          },
+          {
+            "topic": "Variants: right posterior duct into\nleft hepatic duct 16%; triple confluence 12%",
+            "id": "node_44b2a5e9",
+            "children": []
+          },
+          {
+            "topic": "CHD ~4 cm → CBD 8–10 cm long, 5–6 mm diameter\n(up to 8 mm)",
+            "id": "node_0d929b26",
+            "children": []
+          },
+          {
+            "topic": "Four parts:\nsupraduodenal → retroduodenal → intrapancreatic → intraduodenal",
+            "id": "node_87b6477d",
+            "children": []
+          },
+          {
+            "topic": "Portal triad rule: CBD anterolateral right,\nhepatic artery left, portal vein posterior",
+            "id": "node_a1108f9e",
+            "children": []
+          },
+          {
+            "topic": "Terminates at ampulla of Vater, major papilla,\nD2, encircled by sphincter of Oddi",
+            "id": "node_55a70b17",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "III. Vascular Supply",
+        "id": "node_c4404556",
+        "children": [
+          {
+            "topic": "Cystic artery from right hepatic artery in 83.6%;\nother origins 16.4%",
+            "id": "node_c0cbc3c8",
+            "children": []
+          },
+          {
+            "topic": "Duplicate cystic artery 7.18%; aberrant supply\nseen in up to 57% of CVS photos",
+            "id": "node_df40ca4c",
+            "children": []
+          },
+          {
+            "topic": "Bile duct supply is axial — 3 o'clock and 9 o'clock arteries;\nplus retroportal artery (major contributor in 32%)",
+            "id": "node_c94033b2",
+            "children": []
+          },
+          {
+            "topic": "⚠️ Circumferential/lateral dissection of the supraduodenal duct\n→ ischemic, long strictures",
+            "id": "node_db8797ae",
+            "children": []
+          },
+          {
+            "topic": "Venous: multiple small veins to liver bed + cystic vein\n→ right portal branch (does not parallel artery)",
+            "id": "node_d4bbd2c4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "IV. Triangles",
+        "id": "node_ac52cde6",
+        "children": [
+          {
+            "topic": "Hepatocystic triangle: cystic duct (inferior),\nCHD (medial), inferior liver surface (superior)",
+            "id": "node_25a410ce",
+            "children": []
+          },
+          {
+            "topic": "Calot's original triangle: CHD (base),\ncystic duct (inferior), cystic artery (superior)",
+            "id": "node_5770e5e7",
+            "children": []
+          },
+          {
+            "topic": "Contents: cystic artery, cystic node of Lund,\n± aberrant right hepatic duct (1.03%)",
+            "id": "node_56eceb09",
+            "children": []
+          },
+          {
+            "topic": "Critical View of Safety > triangle dogma:\ncleared triangle, lower third of cystic plate exposed,\nonly 2 structures entering gallbladder",
+            "id": "node_664d11c6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "V. Variations\n(High-Yield)",
+        "id": "node_f4f4e132",
+        "children": [
+          {
+            "topic": "Moynihan's hump / caterpillar turn of RHA:\ncadaveric/imaging 1.8%; intraoperative series 6.26% ⚠️ vulnerable to ligation",
+            "id": "node_31667876",
+            "children": []
+          },
+          {
+            "topic": "Phrygian cap — kinked fundal fold,\nbenign, mimics pathology on imaging",
+            "id": "node_3f1debbc",
+            "children": []
+          },
+          {
+            "topic": "Cystic duct: low insertion 11.2%,\nmedial insertion 9.8%, parallel course 7.4%",
+            "id": "node_f216a8a1",
+            "children": []
+          },
+          {
+            "topic": "\"Normal\" textbook pattern present\nin only 57–72%",
+            "id": "node_05dd89b0",
+            "children": []
+          },
+          {
+            "topic": "Embryologic basis: caudal bud → gallbladder/cystic duct;\nover-migration → intrahepatic GB, lag → floating GB",
+            "id": "node_9914029f",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "VI. Physiology",
+        "id": "node_1b3a636c",
+        "children": [
+          {
+            "topic": "Hepatic bile secretion ~40 mL/hr (continuous)",
+            "id": "node_d6b7cec8",
+            "children": []
+          },
+          {
+            "topic": "GB concentrates bile 5–10× by absorbing\nwater, Na⁺, Cl⁻, HCO₃⁻; secretes ~20 mL/day mucus",
+            "id": "node_b11e6f29",
+            "children": []
+          },
+          {
+            "topic": "CCK from duodenal I-cells (fat/AA) →\nGB contraction + sphincter of Oddi relaxation",
+            "id": "node_d1546551",
+            "children": []
+          },
+          {
+            "topic": "Cholangiocytes actively modify bile:\nadd HCO₃⁻ and mucin, reabsorb water/chloride",
+            "id": "node_670cd000",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "VII. Clinical Syndromes,\nPearls & Connections",
+        "id": "node_57eea938",
+        "children": [
+          {
+            "topic": "Clinical Anatomy Syndromes",
+            "id": "node_3eedb7c0",
+            "children": [
+              {
+                "topic": "Mirizzi syndrome: stone impacted in infundibulum/neck\n→ external CHD compression → jaundice;\nmay erode to cholecystocholedochal fistula",
+                "id": "node_a34e6510",
+                "children": [
+                  {
+                    "topic": "Incidence danger = CHD mistaken for cystic duct → bile duct injury",
+                    "id": "node_f891e188",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Gallstone ileus: cholecystoduodenal fistula →\nstone impacts at terminal ileum;\ntriad = SBO + pneumobilia + ectopic stone (Rigler's triad)",
+                "id": "node_10d20f50",
+                "children": []
+              },
+              {
+                "topic": "Bouveret syndrome = gastric outlet obstruction\nfrom stone impacted in duodenum",
+                "id": "node_be23d15c",
+                "children": []
+              },
+              {
+                "topic": "\"Lost\" spilled stones → delayed intra-abdominal abscess",
+                "id": "node_6c40b4ff",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pearls / Red Flags",
+            "id": "node_a88e580d",
+            "children": [
+              {
+                "topic": "⚠️ Never dissect at 3 and 9 o'clock on the CBD",
+                "id": "node_8d6bc58f",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Any \"third element\" in the hepatocystic triangle =\nstop and reassess (posterior cystic artery, caterpillar hump, aberrant RHD)",
+                "id": "node_85b67831",
+                "children": []
+              },
+              {
+                "topic": "Jaundice + cholecystitis picture → think Mirizzi,\nimage with MRCP before laparoscopy",
+                "id": "node_b9ba3247",
+                "children": []
+              },
+              {
+                "topic": "Pneumobilia without prior instrumentation/ERCP\n→ biliary-enteric fistula",
+                "id": "node_a8692291",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Connections",
+            "id": "node_f678a99a",
+            "children": [
+              {
+                "topic": "Mirizzi ↔ gallstone ileus ↔ Bouveret —\none pathophysiologic continuum from an impacted infundibular stone\n(pressure necrosis → fistula), differing only in where the fistula drains",
+                "id": "node_96c3b56a",
+                "children": []
+              },
+              {
+                "topic": "3-and-9-o'clock arteries ↔ post-cholecystectomy\nand post-transplant strictures — the same ischemic mechanism\nexplains anastomotic strictures after Whipple and liver transplant",
+                "id": "node_72de9587",
+                "children": []
+              },
+              {
+                "topic": "Differential trap: Phrygian cap, adenomyomatosis septations,\nand a folded gallbladder on ultrasound can mimic wall thickening\nor a mass — and a caterpillar-hump RHA can be mistaken for the cystic artery",
+                "id": "node_cd27bb44",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

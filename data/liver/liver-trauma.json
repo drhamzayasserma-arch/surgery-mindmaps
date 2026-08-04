@@ -1,0 +1,722 @@
+{
+  "nodeData": {
+    "topic": "🫀 Liver Trauma",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Epidemiology\n& Etiology",
+        "id": "node_c58a6e27",
+        "children": [
+          {
+            "topic": "Incidence",
+            "id": "node_38bcdd51",
+            "children": [
+              {
+                "topic": "Liver is highly vulnerable\nto abdominal injuries",
+                "id": "node_406ea6f8",
+                "children": []
+              },
+              {
+                "topic": "Most commonly injured organ\nafter blunt trauma overall",
+                "id": "node_f32782ee",
+                "children": []
+              },
+              {
+                "topic": "Some classifications rank it\nsecond only to the spleen",
+                "id": "node_649baa3e",
+                "children": []
+              },
+              {
+                "topic": "~80% of liver injuries associated\nwith other concurrent abdominal trauma",
+                "id": "node_6a5b14d6",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Predisposing Factors",
+            "id": "node_12096b3f",
+            "children": [
+              {
+                "topic": "Pathological liver enlargement\n(hepatomegaly)",
+                "id": "node_9d2e3a12",
+                "children": []
+              },
+              {
+                "topic": "Congestive liver disease\n→ ↑ susceptibility to traumatic rupture",
+                "id": "node_f2c0a8b9",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Mechanisms of Injury",
+            "id": "node_cfff19bd",
+            "children": [
+              {
+                "topic": "Closed (Blunt)",
+                "id": "node_7c20abe4",
+                "children": [
+                  {
+                    "topic": "Direct impact (e.g., motor vehicle\ncollisions, steering wheel compression)",
+                    "id": "node_438733d7",
+                    "children": []
+                  },
+                  {
+                    "topic": "Indirect trauma (e.g., lower\nright rib fractures)",
+                    "id": "node_041f7fb3",
+                    "children": []
+                  },
+                  {
+                    "topic": "Very rarely: spontaneous rupture\nin a diseased/pathological liver",
+                    "id": "node_b68e7c56",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Open (Penetrating)",
+                "id": "node_107758ac",
+                "children": [
+                  {
+                    "topic": "Gunshot wounds",
+                    "id": "node_1054f748",
+                    "children": []
+                  },
+                  {
+                    "topic": "Stab wounds",
+                    "id": "node_7c3eb0a3",
+                    "children": []
+                  },
+                  {
+                    "topic": "Iatrogenic injuries (e.g., complications\nfrom percutaneous liver biopsy)",
+                    "id": "node_1227c932",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "II. Pathology &\nAAST Injury Scale",
+        "id": "node_9db98a29",
+        "children": [
+          {
+            "topic": "Grade I",
+            "id": "node_d93f65fe",
+            "children": [
+              {
+                "topic": "Subcapsular hematoma\n&lt;10% surface area",
+                "id": "node_0d602681",
+                "children": []
+              },
+              {
+                "topic": "Superficial parenchymal\nlaceration &lt;1 cm depth",
+                "id": "node_007b6267",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Grade II",
+            "id": "node_4214e4c4",
+            "children": [
+              {
+                "topic": "Subcapsular hematoma\n10%–50% surface area",
+                "id": "node_81bb8003",
+                "children": []
+              },
+              {
+                "topic": "Intraparenchymal hematoma\n&lt;10 cm diameter",
+                "id": "node_c4faa037",
+                "children": []
+              },
+              {
+                "topic": "Capsular tear\n1–3 cm depth",
+                "id": "node_dc0782b8",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Grade III",
+            "id": "node_7d25961c",
+            "children": [
+              {
+                "topic": "Subcapsular hematoma &gt;50%\n(or actively expanding)",
+                "id": "node_7698bf07",
+                "children": []
+              },
+              {
+                "topic": "Intraparenchymal hematoma\n≥10 cm (or expanding)",
+                "id": "node_394aaea3",
+                "children": []
+              },
+              {
+                "topic": "Laceration &gt;3 cm depth",
+                "id": "node_3ae4792c",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Grade IV",
+            "id": "node_f390f4ee",
+            "children": [
+              {
+                "topic": "Lobar tissue disruption\n25%–75% of a single hepatic lobe",
+                "id": "node_c68428b5",
+                "children": []
+              },
+              {
+                "topic": "Involving 1–3 Couinaud\nsegments within a single lobe",
+                "id": "node_c449665b",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Grade V",
+            "id": "node_c5ca7c7f",
+            "children": [
+              {
+                "topic": "Deep parenchymal disruption\n&gt;75% of a hepatic lobe\n(shattered liver)",
+                "id": "node_77eae792",
+                "children": []
+              },
+              {
+                "topic": "Juxtahepatic vascular injuries",
+                "id": "node_17ba9517",
+                "children": [
+                  {
+                    "topic": "Retrohepatic inferior vena cava",
+                    "id": "node_5e37d0ab",
+                    "children": []
+                  },
+                  {
+                    "topic": "Central major hepatic veins",
+                    "id": "node_09360847",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Grade VI",
+            "id": "node_df4eca68",
+            "children": [
+              {
+                "topic": "Hepatic avulsion\nComplete separation of liver\nfrom its vascular pedicle",
+                "id": "node_4bf87023",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Almost universally fatal",
+                "id": "node_c9bbb5d4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "III. Clinical Picture\n& Complications",
+        "id": "node_16f99680",
+        "children": [
+          {
+            "topic": "Presentation",
+            "id": "node_773c7347",
+            "children": [
+              {
+                "topic": "Range: Asymptomatic /\nmasked injury → severe",
+                "id": "node_91bebcea",
+                "children": []
+              },
+              {
+                "topic": "Severe abdominal pain",
+                "id": "node_b84fec8f",
+                "children": []
+              },
+              {
+                "topic": "Right lower chest wall bruising",
+                "id": "node_9a2d04bd",
+                "children": []
+              },
+              {
+                "topic": "Tenderness",
+                "id": "node_bba48dc8",
+                "children": []
+              },
+              {
+                "topic": "Hemorrhagic Shock Signs",
+                "id": "node_376970cd",
+                "children": [
+                  {
+                    "topic": "Tachycardia",
+                    "id": "node_819295c9",
+                    "children": []
+                  },
+                  {
+                    "topic": "Hypotension",
+                    "id": "node_d758164a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Tachypnea",
+                    "id": "node_d11daddf",
+                    "children": []
+                  },
+                  {
+                    "topic": "Cool extremities",
+                    "id": "node_57e76785",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Physical Exam",
+            "id": "node_4a4222ef",
+            "children": [
+              {
+                "topic": "Fracture of the lower right ribs",
+                "id": "node_b5b4001a",
+                "children": []
+              },
+              {
+                "topic": "Direct abdominal wall rigidity",
+                "id": "node_42424581",
+                "children": []
+              },
+              {
+                "topic": "Guarding",
+                "id": "node_9429960b",
+                "children": []
+              },
+              {
+                "topic": "Peritonitis (if accompanied\nby hollow viscus injury)",
+                "id": "node_7705c327",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_0f342aef",
+            "children": [
+              {
+                "topic": "Massive hemoperitoneum",
+                "id": "node_eafb3de4",
+                "children": []
+              },
+              {
+                "topic": "Hypovolemic shock",
+                "id": "node_7fedd5b7",
+                "children": []
+              },
+              {
+                "topic": "Biliary leakage\n(bile peritonitis)",
+                "id": "node_2135a9c2",
+                "children": []
+              },
+              {
+                "topic": "Localized liver or\nsubphrenic abscesses",
+                "id": "node_88294ed0",
+                "children": []
+              },
+              {
+                "topic": "Hemobilia (bleeding\ninto the bile ducts)",
+                "id": "node_91a16a1b",
+                "children": []
+              },
+              {
+                "topic": "Delayed Vascular Complications",
+                "id": "node_51fd54d9",
+                "children": [
+                  {
+                    "topic": "Hepatic artery pseudoaneurysms",
+                    "id": "node_2f89d1e1",
+                    "children": []
+                  },
+                  {
+                    "topic": "Arteriovenous fistulas (AVF)",
+                    "id": "node_cde25c4a",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "IV. Diagnostic\nWorkup",
+        "id": "node_b35d6161",
+        "children": [
+          {
+            "topic": "Erect Plain X-ray",
+            "id": "node_f1202dcc",
+            "children": [
+              {
+                "topic": "May show fractures of the\nlower right ribs",
+                "id": "node_5970870c",
+                "children": []
+              },
+              {
+                "topic": "Elevated, fixed right cupola\nof the diaphragm",
+                "id": "node_b9acdcdc",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "FAST\n(Focused Assessment with\nSonography for Trauma)",
+            "id": "node_b5a3b5b2",
+            "children": [
+              {
+                "topic": "Primary rapid screening tool\nin the emergency bay",
+                "id": "node_3428237e",
+                "children": []
+              },
+              {
+                "topic": "For hemodynamically\nunstable patients",
+                "id": "node_cc434937",
+                "children": []
+              },
+              {
+                "topic": "Checks for free peritoneal fluid",
+                "id": "node_4c6809e4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "CT Scan with Contrast\n🏆 Gold Standard",
+            "id": "node_cca746c9",
+            "children": [
+              {
+                "topic": "Most diagnostic tool in\nhemodynamically stable patients",
+                "id": "node_5f64f3e8",
+                "children": []
+              },
+              {
+                "topic": "Precisely details parenchymal\nlacerations & hematoma sizes",
+                "id": "node_5b110cbb",
+                "children": []
+              },
+              {
+                "topic": "Active contrast extravasation\n(blush)",
+                "id": "node_129ea781",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Diagnostic Peritoneal\nLavage (DPL)",
+            "id": "node_335bd288",
+            "children": [
+              {
+                "topic": "Largely replaced by FAST",
+                "id": "node_26976373",
+                "children": []
+              },
+              {
+                "topic": "Still indicated if FAST unavailable in:\nunstable, unconscious, or\nclinically equivocal patients",
+                "id": "node_ee9b6838",
+                "children": []
+              },
+              {
+                "topic": "Positive DPL Criteria",
+                "id": "node_787434cf",
+                "children": [
+                  {
+                    "topic": "&gt;100,000 RBCs/ml\n(indicating hemorrhage)",
+                    "id": "node_a6224bf0",
+                    "children": []
+                  },
+                  {
+                    "topic": "&gt;500 WBCs/ml\n(indicating peritonitis)",
+                    "id": "node_0fcf5c81",
+                    "children": []
+                  },
+                  {
+                    "topic": "Presence of bile, amylase,\nor food particles",
+                    "id": "node_eb79a78d",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "V. Non-Operative\n(Conservative) Management",
+        "id": "node_96aa7368",
+        "children": [
+          {
+            "topic": "Frequency",
+            "id": "node_d8532008",
+            "children": [
+              {
+                "topic": "~80% of hepatic injuries\nmanaged non-operatively",
+                "id": "node_c6e072da",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Indications",
+            "id": "node_56228b03",
+            "children": [
+              {
+                "topic": "Patient must be\nhemodynamically stable",
+                "id": "node_bc47caed",
+                "children": []
+              },
+              {
+                "topic": "Minor injury grade",
+                "id": "node_8ca20603",
+                "children": []
+              },
+              {
+                "topic": "Absence of other intra-abdominal\norgan injuries requiring surgery",
+                "id": "node_821d0a9a",
+                "children": []
+              },
+              {
+                "topic": "Immediate access to serial\nCT scans & emergent OR backup",
+                "id": "node_c81110b9",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Management Protocols",
+            "id": "node_7850f8d8",
+            "children": [
+              {
+                "topic": "Strict bed rest",
+                "id": "node_bc080891",
+                "children": []
+              },
+              {
+                "topic": "Continuous hemodynamic monitoring",
+                "id": "node_3ddd51f3",
+                "children": []
+              },
+              {
+                "topic": "IV fluids",
+                "id": "node_176226e1",
+                "children": []
+              },
+              {
+                "topic": "Broad-spectrum prophylactic\nantibiotics",
+                "id": "node_d724afbf",
+                "children": []
+              },
+              {
+                "topic": "Angioembolization\n(via interventional radiology)",
+                "id": "node_47cf9e65",
+                "children": [
+                  {
+                    "topic": "Preferred therapeutic adjunct",
+                    "id": "node_b4ae90aa",
+                    "children": []
+                  },
+                  {
+                    "topic": "For stable patients with ongoing\nlocalized arterial bleeding\n(blush on CT)",
+                    "id": "node_be55ec98",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "VI. Surgical Management\n(Laparotomy)",
+        "id": "node_28099f47",
+        "children": [
+          {
+            "topic": "Indications",
+            "id": "node_f60fc7e9",
+            "children": [
+              {
+                "topic": "Hemodynamic instability",
+                "id": "node_64e7f53b",
+                "children": []
+              },
+              {
+                "topic": "Penetrating trauma",
+                "id": "node_692afae0",
+                "children": []
+              },
+              {
+                "topic": "Persistent or recurrent\nintra-abdominal bleeding",
+                "id": "node_2a8889ac",
+                "children": []
+              },
+              {
+                "topic": "Associated injuries to\nother hollow organs",
+                "id": "node_38c73a7b",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Surgical Strategy\n& Vascular Control",
+            "id": "node_10d4c242",
+            "children": [
+              {
+                "topic": "1. Compression",
+                "id": "node_ffc0af3d",
+                "children": [
+                  {
+                    "topic": "Minor/moderate active bleeding",
+                    "id": "node_f830f74f",
+                    "children": []
+                  },
+                  {
+                    "topic": "Direct manual compression\nfor 20 minutes",
+                    "id": "node_79a5bdbe",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "2. Pringle Maneuver",
+                "id": "node_2a0b7053",
+                "children": [
+                  {
+                    "topic": "If bleeding continues\nafter compression",
+                    "id": "node_10cc111a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Clamp the hepatoduodenal\nligament",
+                    "id": "node_fc497c3a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Temporarily occludes liver inflow\n(hepatic artery & portal vein)",
+                    "id": "node_642e022a",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "3. Evaluating the\nPringle Maneuver",
+                "id": "node_85e883f6",
+                "children": [
+                  {
+                    "topic": "If bleeding STOPS",
+                    "id": "node_96960511",
+                    "children": [
+                      {
+                        "topic": "Source: Inflow-related\n(hepatic artery or portal vein branches)",
+                        "id": "node_c8c0b526",
+                        "children": []
+                      },
+                      {
+                        "topic": "Treat with direct\nsuture ligation",
+                        "id": "node_98c8c765",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "If bleeding CONTINUES",
+                    "id": "node_5e894687",
+                    "children": [
+                      {
+                        "topic": "Source: Outflow-related",
+                        "id": "node_12b1fe79",
+                        "children": [
+                          {
+                            "topic": "Retrohepatic hepatic veins",
+                            "id": "node_f2f34e37",
+                            "children": []
+                          },
+                          {
+                            "topic": "Inferior vena cava (IVC)",
+                            "id": "node_b4ecc7c2",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "4. Shattered Lobe",
+                "id": "node_bffdd7ed",
+                "children": [
+                  {
+                    "topic": "Requires formal lobectomy",
+                    "id": "node_97eddd31",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "5. Peri-hepatic Packing",
+                "id": "node_1bdea2d0",
+                "children": [
+                  {
+                    "topic": "For diffuse, uncontrollable\nbleeding",
+                    "id": "node_6f52b153",
+                    "children": []
+                  },
+                  {
+                    "topic": "Laparotomy pads packed tightly\naround the liver",
+                    "id": "node_2b08b214",
+                    "children": []
+                  },
+                  {
+                    "topic": "Left in situ for\n24–48 hours",
+                    "id": "node_39295ff9",
+                    "children": []
+                  },
+                  {
+                    "topic": "Patient transferred to ICU to\ncorrect the \"Lethal Triad\"",
+                    "id": "node_dc9c2ddb",
+                    "children": [
+                      {
+                        "topic": "Coagulopathy",
+                        "id": "node_08220fa8",
+                        "children": []
+                      },
+                      {
+                        "topic": "Hypothermia",
+                        "id": "node_8e18eb12",
+                        "children": []
+                      },
+                      {
+                        "topic": "Acidosis",
+                        "id": "node_7c82c097",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Planned surgical\nre-exploration after correction",
+                    "id": "node_32a71d6e",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

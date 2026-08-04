@@ -1,0 +1,483 @@
+{
+  "nodeData": {
+    "topic": "🦠 Pyogenic Liver Abscess\n& Liver Metastasis",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Pyogenic Liver Abscess",
+        "id": "node_71376f3f",
+        "children": [
+          {
+            "topic": "Pathophysiology &\nRoutes of Infection",
+            "id": "node_4eda9a44",
+            "children": [
+              {
+                "topic": "Biliary Tract\n(Cholangitic Abscess)",
+                "id": "node_b8ac6118",
+                "children": [
+                  {
+                    "topic": "🏆 Most common route",
+                    "id": "node_d53d3c5c",
+                    "children": []
+                  },
+                  {
+                    "topic": "Secondary to ascending cholangitis\nfrom biliary obstruction",
+                    "id": "node_5c3c2331",
+                    "children": []
+                  },
+                  {
+                    "topic": "Most common organism:\nEscherichia coli (E. coli)",
+                    "id": "node_e3a598ea",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Portal Vein\n(Pyaemic Abscess)",
+                "id": "node_9a7ef460",
+                "children": [
+                  {
+                    "topic": "Spreads from intra-abdominal\ninfectious sites",
+                    "id": "node_39e07f6f",
+                    "children": []
+                  },
+                  {
+                    "topic": "e.g., Suppurative appendicitis,\ndiverticulitis",
+                    "id": "node_9149c52a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Organisms: Streptococcus faecalis\n& Anaerobes",
+                    "id": "node_e1c68db8",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Hepatic Artery\n(Hematogenous Abscess)",
+                "id": "node_a6f17416",
+                "children": [
+                  {
+                    "topic": "Spreads from systemic bacteremia",
+                    "id": "node_fd29400f",
+                    "children": []
+                  },
+                  {
+                    "topic": "e.g., Bacterial endocarditis,\nrenal infections",
+                    "id": "node_35477877",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Idiopathic\n(Cryptogenic)",
+                "id": "node_1de27cca",
+                "children": [
+                  {
+                    "topic": "Accounts for 15% of cases",
+                    "id": "node_f74a4b1e",
+                    "children": []
+                  },
+                  {
+                    "topic": "No identifiable primary source",
+                    "id": "node_774d8465",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Presentation",
+            "id": "node_61ef6d48",
+            "children": [
+              {
+                "topic": "Systemic Signs",
+                "id": "node_d7967e24",
+                "children": [
+                  {
+                    "topic": "Highly toxic patient",
+                    "id": "node_78a5d271",
+                    "children": []
+                  },
+                  {
+                    "topic": "High fevers & rigors",
+                    "id": "node_c78795d6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Cholangitic Route →\nCharcot's Triad",
+                "id": "node_2269112f",
+                "children": [
+                  {
+                    "topic": "① Upper abdominal pain",
+                    "id": "node_e593a8b6",
+                    "children": []
+                  },
+                  {
+                    "topic": "② Jaundice",
+                    "id": "node_1ec534c5",
+                    "children": []
+                  },
+                  {
+                    "topic": "③ Fever with rigors",
+                    "id": "node_a709bee6",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Local Signs",
+                "id": "node_bfb61987",
+                "children": [
+                  {
+                    "topic": "Severe right hypochondrium pain",
+                    "id": "node_19153624",
+                    "children": []
+                  },
+                  {
+                    "topic": "Hepatomegaly",
+                    "id": "node_837e70b0",
+                    "children": []
+                  },
+                  {
+                    "topic": "Local tenderness / rigidity",
+                    "id": "node_eb521e76",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_6a89acce",
+            "children": [
+              {
+                "topic": "Rupture",
+                "id": "node_b18735bb",
+                "children": [
+                  {
+                    "topic": "→ Empyema",
+                    "id": "node_e23d0dec",
+                    "children": []
+                  },
+                  {
+                    "topic": "→ Peritonitis",
+                    "id": "node_2f0ab433",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "⚠️ Septic Shock\n(if left untreated)",
+                "id": "node_17fdf413",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Investigations",
+            "id": "node_64d6625a",
+            "children": [
+              {
+                "topic": "Laboratory",
+                "id": "node_94466d9f",
+                "children": [
+                  {
+                    "topic": "Leukocytosis (↑ WBCs)",
+                    "id": "node_67762df4",
+                    "children": []
+                  },
+                  {
+                    "topic": "Raised ESR",
+                    "id": "node_94e4a5f1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Imaging",
+                "id": "node_a2fb15ff",
+                "children": [
+                  {
+                    "topic": "Abdominal Ultrasound\nInitial screening test\n→ detects focal lesion",
+                    "id": "node_78042eec",
+                    "children": []
+                  },
+                  {
+                    "topic": "CT Scan with Contrast\n🏆 Highly diagnostic",
+                    "id": "node_b364b03d",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Treatment Strategy",
+            "id": "node_abed1d14",
+            "children": [
+              {
+                "topic": "Conservative",
+                "id": "node_2b61f67c",
+                "children": [
+                  {
+                    "topic": "IV Antibiotics:\n3rd gen Cephalosporin +\nMetronidazole",
+                    "id": "node_fd2ada90",
+                    "children": []
+                  },
+                  {
+                    "topic": "Reserved for multiple\nsmall abscesses",
+                    "id": "node_61f5f2cf",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "CT-Guided Percutaneous\nAspiration",
+                "id": "node_4eb3038f",
+                "children": [
+                  {
+                    "topic": "Indicated for abscess",
+                    "id": "node_fe38e13d",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "CT-Guided Percutaneous\nCatheter Drainage",
+                "id": "node_db3339b6",
+                "children": [
+                  {
+                    "topic": "Indicated for abscess > 6 cm",
+                    "id": "node_3cba0d0e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Uses pig-tail catheter",
+                    "id": "node_a631af1c",
+                    "children": []
+                  },
+                  {
+                    "topic": "Continue until cavity collapses",
+                    "id": "node_fec55935",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Open Surgical Drainage",
+                "id": "node_ed536f11",
+                "children": [
+                  {
+                    "topic": "Failed percutaneous drainage",
+                    "id": "node_ce97be73",
+                    "children": []
+                  },
+                  {
+                    "topic": "Very large or multilocular abscess",
+                    "id": "node_b40ad69b",
+                    "children": []
+                  },
+                  {
+                    "topic": "Associated surgical pathology\n(e.g., CBD stones requiring extraction)",
+                    "id": "node_755bcd71",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "II. Liver Metastasis\n(Secondary Malignant Tumors)",
+        "id": "node_e89e6753",
+        "children": [
+          {
+            "topic": "Incidence",
+            "id": "node_4bcc3eca",
+            "children": [
+              {
+                "topic": "Metastatic lesions are 20×\nmore common than primary liver tumors",
+                "id": "node_32aec4fd",
+                "children": []
+              },
+              {
+                "topic": "🏆 Most common overall\nliver tumors",
+                "id": "node_8449d9ec",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Routes of Spread",
+            "id": "node_d5684fe3",
+            "children": [
+              {
+                "topic": "Portal Circulation",
+                "id": "node_ec5fc18f",
+                "children": [
+                  {
+                    "topic": "Primarily from GIT carcinomas",
+                    "id": "node_e967573f",
+                    "children": []
+                  },
+                  {
+                    "topic": "e.g., Colorectal, Gastric",
+                    "id": "node_418d6b8d",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Hepatic Artery",
+                "id": "node_4b201b5f",
+                "children": [
+                  {
+                    "topic": "From distant malignancies",
+                    "id": "node_6d3caa8b",
+                    "children": []
+                  },
+                  {
+                    "topic": "e.g., Breast, Lung,\nKidney, Ovarian cancers",
+                    "id": "node_51ddc31b",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Direct Invasion",
+                "id": "node_8d20a5b8",
+                "children": [
+                  {
+                    "topic": "From gallbladder carcinoma",
+                    "id": "node_75e008ff",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Pathology",
+            "id": "node_e497c0a6",
+            "children": [
+              {
+                "topic": "Macroscopic Appearance",
+                "id": "node_bc3aa3f1",
+                "children": [
+                  {
+                    "topic": "Multiple, white,\numbilicated nodules",
+                    "id": "node_743410be",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Central Umbilication",
+                "id": "node_5bcf4cad",
+                "children": [
+                  {
+                    "topic": "Caused by rapid central\ntumor necrosis",
+                    "id": "node_79a30b67",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Timing",
+            "id": "node_686f7e86",
+            "children": [
+              {
+                "topic": "Synchronous\nDiscovered at same time\nas primary tumor",
+                "id": "node_6b486d33",
+                "children": []
+              },
+              {
+                "topic": "Metasynchronous\nDiscovered months/years\nafter resection of primary",
+                "id": "node_4db33452",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Presentation",
+            "id": "node_d5731e94",
+            "children": [
+              {
+                "topic": "Progressive weight loss",
+                "id": "node_c23f0d50",
+                "children": []
+              },
+              {
+                "topic": "Fatigue",
+                "id": "node_a6df5ef2",
+                "children": []
+              },
+              {
+                "topic": "Hepatomegaly",
+                "id": "node_cac0bb6c",
+                "children": []
+              },
+              {
+                "topic": "Ascites",
+                "id": "node_48e16c85",
+                "children": []
+              },
+              {
+                "topic": "Late-stage jaundice",
+                "id": "node_0323326f",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Surgical Management",
+            "id": "node_8e97177f",
+            "children": [
+              {
+                "topic": "⚠️ Metastatic disease generally\nimplies inoperable state",
+                "id": "node_c6f1f5ec",
+                "children": []
+              },
+              {
+                "topic": "Exception: Colorectal\nCarcinoma Metastasis\n→ Curative resection possible",
+                "id": "node_d38e1fbb",
+                "children": [
+                  {
+                    "topic": "Strict Criteria",
+                    "id": "node_6f352687",
+                    "children": [
+                      {
+                        "topic": "① Primary colorectal tumor\nis totally resectable",
+                        "id": "node_9da0bfbc",
+                        "children": []
+                      },
+                      {
+                        "topic": "② Metastasis is solitary,\nor multiple nodules confined\nto a single lobe/segment",
+                        "id": "node_80e69d90",
+                        "children": []
+                      },
+                      {
+                        "topic": "③ Absolute absence of\nextra-hepatic metastatic disease",
+                        "id": "node_00759d2a",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

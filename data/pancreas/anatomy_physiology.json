@@ -1,0 +1,55 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Pancreas — Anatomy & Physiology",
+    "root": true,
+    "children": [
+      {
+        "topic": "Gross Anatomy & Relations",
+        "id": "p_anat_1",
+        "direction": 0,
+        "children": [
+          { "topic": "Retroperitoneal organ (except tail which lies in splenorenal ligament)", "id": "p_anat_1_1", "children": [] },
+          { "topic": "Anatomical Regions: Head (embraced by C-loop of duodenum), Uncinate Process (posterior to SMA/SMV), Neck (anterior to SMA/SMV union), Body, Tail (touches splenic hilum)", "id": "p_anat_1_2", "children": [] },
+          { "topic": "Posterior Relations: IVC, Aorta, SMA, Left renal vein, Splenic vein, Common Bile Duct (grooves posterior head)", "id": "p_anat_1_3", "children": [] }
+        ]
+      },
+      {
+        "topic": "Ductal System",
+        "id": "p_anat_2",
+        "direction": 0,
+        "children": [
+          { "topic": "Main Pancreatic Duct (Wirsung): Drains tail, body, posterior head → joins CBD at Ampulla of Vater → opens at Major Duodenal Papilla", "id": "p_anat_2_1", "children": [] },
+          { "topic": "Accessory Duct (Santorini): Drains anterior head → opens 2 cm proximal at Minor Duodenal Papilla", "id": "p_anat_2_2", "children": [] },
+          { "topic": "Pancreas Divisum (Most common congenital anomaly - 5-10%): Failure of dorsal & ventral ducts to fuse → main drainage via small accessory duct → risk of recurrent pancreatitis", "id": "p_anat_2_3", "children": [] },
+          { "topic": "Annular Pancreas: Ring of pancreatic tissue encircling D2 of duodenum → neonatal duodenal obstruction (Double bubble sign on X-ray)", "id": "p_anat_2_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Vascular Supply & Drainage",
+        "id": "p_anat_3",
+        "direction": 1,
+        "children": [
+          { "topic": "Head & Uncinate Process: Superior Pancreaticoduodenal A. (from GDA) & Inferior Pancreaticoduodenal A. (from SMA) → Celiac-SMA collateral bed", "id": "p_anat_3_1", "children": [] },
+          { "topic": "Body & Tail: Splenic Artery (branches: Dorsal pancreatic, Great pancreatic, Caudal pancreatic arteries)", "id": "p_anat_3_2", "children": [] },
+          { "topic": "Venous Drainage: Portal system via Splenic vein and SMV", "id": "p_anat_3_3", "children": [] },
+          { "topic": "Lymphatics: Drains to pancreaticosplenic, celiac, and superior mesenteric lymph nodes", "id": "p_anat_3_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Exocrine & Endocrine Physiology",
+        "id": "p_anat_4",
+        "direction": 1,
+        "children": [
+          { "topic": "Exocrine (85% mass): Acinar cells produce Zymogens (Trypsinogen, Chymotrypsinogen, Lipase, Amylase); Duct cells secrete HCO₃⁻ (neutralizes gastric acid via Secretin stimulation)", "id": "p_anat_4_1", "children": [] },
+          { "topic": "Endocrine (Islets of Langerhans - 1-2% mass):", "id": "p_anat_4_2", "children": [
+            { "topic": "Alpha (α) cells (20%): Glucagon", "id": "p_anat_4_2_1", "children": [] },
+            { "topic": "Beta (β) cells (70%): Insulin, C-peptide, Amylin", "id": "p_anat_4_2_2", "children": [] },
+            { "topic": "Delta (δ) cells (5%): Somatostatin", "id": "p_anat_4_2_3", "children": [] },
+            { "topic": "PP (F) cells: Pancreatic polypeptide", "id": "p_anat_4_2_4", "children": [] }
+          ]}
+        ]
+      }
+    ]
+  }
+}

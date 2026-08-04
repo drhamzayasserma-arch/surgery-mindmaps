@@ -1,0 +1,66 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Cholelithiasis & Acute/Chronic Cholecystitis",
+    "root": true,
+    "children": [
+      {
+        "topic": "Cholelithiasis (Gallstones)",
+        "id": "chole_1",
+        "direction": 0,
+        "children": [
+          { "topic": "Types of Stones:", "id": "chole_1_1", "children": [
+            { "topic": "Cholesterol stones (80%): Yellow-green, radiolucent, risk factors = 5 Fs (Female, Fat, Forty, Fertile, Fair)", "id": "chole_1_1_1", "children": [] },
+            { "topic": "Black Pigment stones: Calcium bilirubinate, radiopaque, hemolysis (sickle cell, thalassemia), cirrhosis", "id": "chole_1_1_2", "children": [] },
+            { "topic": "Brown Pigment stones: Biliary infection (E. coli, Clonorchis), radiolucent, formed in ducts", "id": "chole_1_1_3", "children": [] }
+          ]},
+          { "topic": "Biliary Colic: Episodic postprandial RUQ/epigastric pain radiating to right scapula (Boas sign), duration <6 hours, normal LFTs & WBC", "id": "chole_1_2", "children": [] }
+        ]
+      },
+      {
+        "topic": "Acute Cholecystitis",
+        "id": "chole_2",
+        "direction": 0,
+        "children": [
+          { "topic": "Pathophysiology: Cystic duct obstruction → gallbladder distension, ischemia, bacterial superinfection (E. coli, Klebsiella, Enterococcus)", "id": "chole_2_1", "children": [] },
+          { "topic": "Clinical Triad: Constant RUQ pain (>6 hours), Fever, Leukocytosis", "id": "chole_2_2", "children": [] },
+          { "topic": "Physical Signs: Murphy's sign (inspiratory arrest on RUQ palpation), tender palpable GB (30%)", "id": "chole_2_3", "children": [] },
+          { "topic": "Tokyo Guidelines (TG18) Diagnostic Criteria: A. Local inflammation (Murphy, RUQ pain/mass) B. Systemic inflammation (Fever, ↑WBC, ↑CRP) C. Imaging findings (US)", "id": "chole_2_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Imaging & Diagnosis",
+        "id": "chole_3",
+        "direction": 1,
+        "children": [
+          { "topic": "Ultrasound (1st line, 95% sensitivity): GB wall thickening (>4 mm), Pericholecystic fluid, Sonographic Murphy sign, Impacted stone in neck", "id": "chole_3_1", "children": [] },
+          { "topic": "HIDA Scan (Most sensitive): Non-visualization of GB after 4 hours = positive for cystic duct obstruction", "id": "chole_3_2", "children": [] },
+          { "topic": "CT Abdomen: Used if complications suspected (gangrene, perforation, gas)", "id": "chole_3_3", "children": [] }
+        ]
+      },
+      {
+        "topic": "Management & Surgery",
+        "id": "chole_4",
+        "direction": 1,
+        "children": [
+          { "topic": "Early Laparoscopic Cholecystectomy (within 72 hours of symptom onset) = Standard of care", "id": "chole_4_1", "children": [] },
+          { "topic": "Conservative / Delay: NPO, IV fluids, IV antibiotics (Ceftriaxone + Metronidazole), analgesia", "id": "chole_4_2", "children": [] },
+          { "topic": "Percutaneous Cholecystostomy: High-risk/unstable surgical candidates unfit for general anesthesia", "id": "chole_4_3", "children": [] },
+          { "topic": "Bailout Options in Difficult Cholecystectomy: Subtotal cholecystectomy (fenestrating/reconstituting), Fundus-first (retrograde) approach", "id": "chole_4_4", "children": [] }
+        ]
+      },
+      {
+        "topic": "Complications of Cholecystitis",
+        "id": "chole_5",
+        "direction": 0,
+        "children": [
+          { "topic": "Empyema of Gallbladder (suppurative cholecystitis)", "id": "chole_5_1", "children": [] },
+          { "topic": "Gangrenous Cholecystitis → Free perforation (peritonitis) or Covered perforation (abscess)", "id": "chole_5_2", "children": [] },
+          { "topic": "Emphysematous Cholecystitis: Gas in GB wall/lumen (Clostridium perfringens), emergency in elderly males with Diabetes", "id": "chole_5_3", "children": [] },
+          { "topic": "Cholecystoenteric Fistula & Gallstone Ileus: Erosion into duodenum → obstruction at ileocecal valve (Rigler triad: SBO, pneumobilia, ectopic stone)", "id": "chole_5_4", "children": [] },
+          { "topic": "Mirizzi Syndrome: Stone in cystic duct/neck compressing CHD (Type I: external compression, Type II–IV: cholecystobiliary fistula)", "id": "chole_5_5", "children": [] }
+        ]
+      }
+    ]
+  }
+}

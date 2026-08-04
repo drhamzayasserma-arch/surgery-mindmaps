@@ -1,0 +1,860 @@
+{
+  "nodeData": {
+    "topic": "🫁 Portal Hypertension\n& Esophageal Varices",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Anatomy & Physiology\nof the Portal System",
+        "id": "node_222d9d0c",
+        "children": [
+          {
+            "topic": "Dual Blood Supply",
+            "id": "node_5a0be4bd",
+            "children": [
+              {
+                "topic": "Portal Vein: 80% of blood flow → 50% of O₂",
+                "id": "node_d75bc03e",
+                "children": []
+              },
+              {
+                "topic": "Hepatic Artery: 20% of blood flow → 50% of O₂",
+                "id": "node_0bf05f7d",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Portal Pressures",
+            "id": "node_31d6e3a3",
+            "children": [
+              {
+                "topic": "Normal: 5–10 mmHg (8–12 cm H₂O)",
+                "id": "node_24ebfd4d",
+                "children": []
+              },
+              {
+                "topic": "Portal HTN: > 20 mmHg (25–30 cm H₂O)",
+                "id": "node_dc74daf8",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "II. Etiology of\nPortal Hypertension",
+        "id": "node_83a0c06f",
+        "children": [
+          {
+            "topic": "Pre-hepatic (19%)\nExtrahepatic portal vein obstruction",
+            "id": "node_d3f2c26f",
+            "children": [
+              {
+                "topic": "Congenital atresia / stenosis",
+                "id": "node_e3a882db",
+                "children": []
+              },
+              {
+                "topic": "Neonatal umbilical sepsis",
+                "id": "node_23e0c3c2",
+                "children": []
+              },
+              {
+                "topic": "Intra-abdominal sepsis",
+                "id": "node_2191c17c",
+                "children": []
+              },
+              {
+                "topic": "Oral contraceptive pills\n(hypercoagulability)",
+                "id": "node_bb40f08d",
+                "children": []
+              },
+              {
+                "topic": "Extrinsic compression\n(e.g., cancer head of pancreas)",
+                "id": "node_66bf566a",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Key: Liver parenchyma &\nLFTs completely normal",
+                "id": "node_6eafa963",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Intra-hepatic (80%)\nThree zones of obstruction",
+            "id": "node_8024beb8",
+            "children": [
+              {
+                "topic": "Pre-sinusoidal",
+                "id": "node_2b60c084",
+                "children": [
+                  {
+                    "topic": "Schistosomiasis (Bilharziasis)",
+                    "id": "node_a288eaad",
+                    "children": []
+                  },
+                  {
+                    "topic": "→ Peri-portal tract fibrosis",
+                    "id": "node_614f1ba8",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Sinusoidal",
+                "id": "node_6145e20c",
+                "children": [
+                  {
+                    "topic": "Liver Cirrhosis",
+                    "id": "node_e963dd82",
+                    "children": []
+                  },
+                  {
+                    "topic": "→ Fibrous tissue compresses sinusoids",
+                    "id": "node_5acca3b4",
+                    "children": []
+                  },
+                  {
+                    "topic": "→ Regenerating nodules compress\nhepatic venules",
+                    "id": "node_5b96eeb3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Post-sinusoidal",
+                "id": "node_ea1fc7fc",
+                "children": [
+                  {
+                    "topic": "Veno-occlusive disease",
+                    "id": "node_50b60ed4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Post-hepatic (1%)\nOutflow tract obstruction",
+            "id": "node_051d8661",
+            "children": [
+              {
+                "topic": "Budd-Chiari Syndrome\nThrombosis of hepatic veins at IVC entry",
+                "id": "node_00ee8600",
+                "children": []
+              },
+              {
+                "topic": "Congenital suprahepatic IVC stenosis",
+                "id": "node_7cb77bdd",
+                "children": []
+              },
+              {
+                "topic": "Constrictive pericarditis",
+                "id": "node_61678cac",
+                "children": []
+              },
+              {
+                "topic": "Severe pericardial effusion",
+                "id": "node_9b437c1d",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "III. Porto-Systemic\nCollaterals",
+        "id": "node_371284f7",
+        "children": [
+          {
+            "topic": "Lower Esophagus &\nGastric Fundus",
+            "id": "node_30899c4d",
+            "children": [
+              {
+                "topic": "Portal: L. Gastric (Coronary) v.\n& Short Gastric vv.",
+                "id": "node_9a2b8a4e",
+                "children": []
+              },
+              {
+                "topic": "Systemic: Azygos &\nHemi-azygos vv.",
+                "id": "node_8c5b140b",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Esophageal Varices\n(Hematemesis)",
+                "id": "node_b97121d3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Lower Anal Canal",
+            "id": "node_35694030",
+            "children": [
+              {
+                "topic": "Portal: Superior Rectal v.",
+                "id": "node_e63c1c3a",
+                "children": []
+              },
+              {
+                "topic": "Systemic: Middle & Inferior\nRectal vv.",
+                "id": "node_59a1eca8",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Secondary Piles\n(Hemorrhoids)",
+                "id": "node_40240fb4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Umbilicus",
+            "id": "node_ddd4adc0",
+            "children": [
+              {
+                "topic": "Portal: Para-umbilical vv.\n(in ligamentum teres)",
+                "id": "node_95e4c705",
+                "children": []
+              },
+              {
+                "topic": "Systemic: Sup. & Inf.\nEpigastric vv.",
+                "id": "node_24796260",
+                "children": []
+              },
+              {
+                "topic": "⚠️ Caput Medusae\n(radiating abdominal veins)",
+                "id": "node_1449dc7a",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Retroperitoneal",
+            "id": "node_7f116193",
+            "children": [
+              {
+                "topic": "Portal: Sup. & Inf.\nMesenteric vv.",
+                "id": "node_6be858bf",
+                "children": []
+              },
+              {
+                "topic": "Systemic: Posterior abdominal\nwall vv. (Retzius)",
+                "id": "node_575b3860",
+                "children": []
+              },
+              {
+                "topic": "✅ Silent — No clinical bleeding",
+                "id": "node_3c2b5430",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "IV. Clinical Picture\n& Sequelae",
+        "id": "node_cfcfed40",
+        "children": [
+          {
+            "topic": "1. Splenomegaly\n& Hypersplenism",
+            "id": "node_4a95079e",
+            "children": [
+              {
+                "topic": "Cause: Venous congestion +\nreticuloendothelial hyperplasia",
+                "id": "node_7ac87a84",
+                "children": []
+              },
+              {
+                "topic": "Presentation: Firm mass in\nleft hypochondrium",
+                "id": "node_c68d083d",
+                "children": []
+              },
+              {
+                "topic": "Secondary Hypersplenism\n→ Pancytopenia",
+                "id": "node_045292e7",
+                "children": [
+                  {
+                    "topic": "Anemia",
+                    "id": "node_e2617262",
+                    "children": []
+                  },
+                  {
+                    "topic": "Leukopenia",
+                    "id": "node_ec706553",
+                    "children": []
+                  },
+                  {
+                    "topic": "Thrombocytopenia",
+                    "id": "node_56b90ca1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "2. Ascites\nMulti-factorial fluid accumulation",
+            "id": "node_fda8a999",
+            "children": [
+              {
+                "topic": "Portal HTN → ↑ local filtration",
+                "id": "node_f1e07195",
+                "children": []
+              },
+              {
+                "topic": "Hypoalbuminemia → ↓ oncotic pressure\n(liver failure)",
+                "id": "node_4023e602",
+                "children": []
+              },
+              {
+                "topic": "Failure to inactivate ADH & Aldosterone\n→ salt & water retention",
+                "id": "node_a1db66d4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "3. Hepatic\nEncephalopathy",
+            "id": "node_40a6481c",
+            "children": [
+              {
+                "topic": "Ammonia absorbed from gut",
+                "id": "node_c289ffcc",
+                "children": []
+              },
+              {
+                "topic": "Bypasses liver via collateral shunts",
+                "id": "node_8de15248",
+                "children": []
+              },
+              {
+                "topic": "→ Enters systemic circulation & brain",
+                "id": "node_b0bcd9a8",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "4. Esophageal Varices",
+            "id": "node_2982f695",
+            "children": [
+              {
+                "topic": "Pathology",
+                "id": "node_76efb9fa",
+                "children": [
+                  {
+                    "topic": "Bleeding in lower 3–5 cm of esophagus",
+                    "id": "node_252224ca",
+                    "children": []
+                  },
+                  {
+                    "topic": "Mucosal veins run superficially\nin lamina propria",
+                    "id": "node_f124c4fb",
+                    "children": []
+                  },
+                  {
+                    "topic": "Unsupported by muscularis mucosae\n→ highly vulnerable to rupture",
+                    "id": "node_ce751e29",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Why Bleeding is Massive",
+                "id": "node_145f80e3",
+                "children": [
+                  {
+                    "topic": "Does NOT stop spontaneously",
+                    "id": "node_725a8591",
+                    "children": []
+                  },
+                  {
+                    "topic": "Negative intra-thoracic pressure\nacts as vacuum",
+                    "id": "node_4c071044",
+                    "children": []
+                  },
+                  {
+                    "topic": "Keeps veins held wide open",
+                    "id": "node_82306f87",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Mortality ⚠️",
+                "id": "node_c436d95d",
+                "children": [
+                  {
+                    "topic": "1st attack: 30–50%",
+                    "id": "node_028967b0",
+                    "children": []
+                  },
+                  {
+                    "topic": "2nd attack: 60–70%",
+                    "id": "node_3482dfc4",
+                    "children": []
+                  },
+                  {
+                    "topic": "3rd attack: Usually fatal",
+                    "id": "node_2bf2d272",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "V. Diagnostics &\nRisk Stratification",
+        "id": "node_59badfdc",
+        "children": [
+          {
+            "topic": "Varices Detection",
+            "id": "node_1a3267c0",
+            "children": [
+              {
+                "topic": "Fiberoptic Upper Endoscopy\n(🏆 Gold Standard)",
+                "id": "node_a8fe87df",
+                "children": [
+                  {
+                    "topic": "Grade I: Minimal mucosal elevation",
+                    "id": "node_f7a2fa90",
+                    "children": []
+                  },
+                  {
+                    "topic": "Grade II: Elevated tortuous veins,\nnormal mucosa",
+                    "id": "node_a4f7feb2",
+                    "children": []
+                  },
+                  {
+                    "topic": "Grade III: Elevated tortuous veins,\nabnormal mucosa",
+                    "id": "node_f2340143",
+                    "children": []
+                  },
+                  {
+                    "topic": "Grade IV: Mucosal erosion/ulceration\n⚠️ \"Cherry-red spots\"\n→ impending rupture",
+                    "id": "node_e010e42f",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Barium Swallow",
+                "id": "node_6bd2b398",
+                "children": [
+                  {
+                    "topic": "Multiple smooth rounded filling defects",
+                    "id": "node_a32c19e4",
+                    "children": []
+                  },
+                  {
+                    "topic": "\"Grape-like appearance\"",
+                    "id": "node_9829aa8b",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Child-Pugh Score\n(Modified Child's Classification)",
+            "id": "node_80fffe80",
+            "children": [
+              {
+                "topic": "5 Parameters",
+                "id": "node_89e98e00",
+                "children": [
+                  {
+                    "topic": "Bilirubin",
+                    "id": "node_d5ec31fb",
+                    "children": []
+                  },
+                  {
+                    "topic": "Albumin",
+                    "id": "node_1be92a92",
+                    "children": []
+                  },
+                  {
+                    "topic": "Ascites",
+                    "id": "node_0c5c2007",
+                    "children": []
+                  },
+                  {
+                    "topic": "Prothrombin Time / INR",
+                    "id": "node_39a200ef",
+                    "children": []
+                  },
+                  {
+                    "topic": "Encephalopathy",
+                    "id": "node_e2c8afc7",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Child A (5–6 pts)\nGood reserve → suitable for surgery",
+                "id": "node_af12470a",
+                "children": []
+              },
+              {
+                "topic": "Child B (7–9 pts)\nMarginal suitability",
+                "id": "node_152e4e0a",
+                "children": []
+              },
+              {
+                "topic": "Child C (10–15 pts)\nPoor reserve → unsuitable for\nelective surgery",
+                "id": "node_efe833c8",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "VI. Management of\nVariceal Bleeding",
+        "id": "node_b600a53d",
+        "children": [
+          {
+            "topic": "1. Resuscitation",
+            "id": "node_4c8847ac",
+            "children": [
+              {
+                "topic": "IV fluid support",
+                "id": "node_436efe94",
+                "children": []
+              },
+              {
+                "topic": "Blood typing / matching",
+                "id": "node_a5df3135",
+                "children": []
+              },
+              {
+                "topic": "NG tube insertion",
+                "id": "node_7696d939",
+                "children": []
+              },
+              {
+                "topic": "Urinary catheterization",
+                "id": "node_e947c33a",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "2. Preventing\nEncephalopathy",
+            "id": "node_5ca25406",
+            "children": [
+              {
+                "topic": "Blood in bowel → bacteria ferment\nit to ammonia",
+                "id": "node_5c542e4e",
+                "children": []
+              },
+              {
+                "topic": "Rapidly evacuate from gut:",
+                "id": "node_a7c589c7",
+                "children": [
+                  {
+                    "topic": "Lactulose",
+                    "id": "node_14a48bed",
+                    "children": []
+                  },
+                  {
+                    "topic": "Magnesium sulfate",
+                    "id": "node_390be151",
+                    "children": []
+                  },
+                  {
+                    "topic": "Enemas",
+                    "id": "node_e9d7b116",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "3. Pharmacotherapy",
+            "id": "node_4531e928",
+            "children": [
+              {
+                "topic": "Vasopressin (Pitressin)",
+                "id": "node_4e53cbf0",
+                "children": [
+                  {
+                    "topic": "Selective splanchnic arteriolar\nvasoconstriction → ↓ portal inflow",
+                    "id": "node_3b58011a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Side effects: Colicky pain,\ndiarrhea, coronary spasm ⚠️",
+                    "id": "node_87158a3c",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Octreotide / Somatostatin",
+                "id": "node_77e45a9b",
+                "children": [
+                  {
+                    "topic": "Splanchnic vasoconstrictors",
+                    "id": "node_63ce0590",
+                    "children": []
+                  },
+                  {
+                    "topic": "✅ Much safer — no cardiac side effects",
+                    "id": "node_38a4661d",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "4. Endoscopic\nInterventions",
+            "id": "node_684e7fc8",
+            "children": [
+              {
+                "topic": "Endoscopic Band Ligation (EBL)",
+                "id": "node_48e3f445",
+                "children": [
+                  {
+                    "topic": "🏆 Most modern, preferred method",
+                    "id": "node_28b4c789",
+                    "children": []
+                  },
+                  {
+                    "topic": "Lower risk of esophageal stricture\nvs. sclerotherapy",
+                    "id": "node_3f8889ad",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "5. Mechanical\nTamponade",
+            "id": "node_b87446b1",
+            "children": [
+              {
+                "topic": "Sengstaken-Blakemore tube",
+                "id": "node_37c53bba",
+                "children": []
+              },
+              {
+                "topic": "Linton tube",
+                "id": "node_55842109",
+                "children": []
+              },
+              {
+                "topic": "Physically compresses bleeding site",
+                "id": "node_99dd240c",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "6. Surgical Shunts",
+            "id": "node_348d1767",
+            "children": [
+              {
+                "topic": "Portocaval Shunt\n(Total shunt)",
+                "id": "node_5a261fa6",
+                "children": [
+                  {
+                    "topic": "Portal vein → IVC directly",
+                    "id": "node_f4728568",
+                    "children": []
+                  },
+                  {
+                    "topic": "Highly effective at stopping bleeding",
+                    "id": "node_992626d5",
+                    "children": []
+                  },
+                  {
+                    "topic": "⚠️ Severely accelerates\nhepatic encephalopathy",
+                    "id": "node_6e1021b1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Distal Splenorenal\n(Warren Shunt)\n(Selective shunt)",
+                "id": "node_73dbba98",
+                "children": [
+                  {
+                    "topic": "Decompresses varices",
+                    "id": "node_404cbc54",
+                    "children": []
+                  },
+                  {
+                    "topic": "✅ Maintains portal perfusion to liver",
+                    "id": "node_f314d801",
+                    "children": []
+                  },
+                  {
+                    "topic": "✅ Reduces encephalopathy risk",
+                    "id": "node_118caffc",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "TIPSS\n(Transjugular Intrahepatic\nPortosystemic Shunt)",
+                "id": "node_24ea1f9c",
+                "children": [
+                  {
+                    "topic": "Self-expanding stent between\nhepatic vein ↔ portal vein branch",
+                    "id": "node_4fccecb1",
+                    "children": []
+                  },
+                  {
+                    "topic": "Minimally invasive",
+                    "id": "node_abf2dd49",
+                    "children": []
+                  },
+                  {
+                    "topic": "✅ Ideal for rescuing actively\nbleeding Child C patients",
+                    "id": "node_8ae1a74a",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "7. Non-Shunt Ops\n(Hassab-Kairy)",
+            "id": "node_ce8b8373",
+            "children": [
+              {
+                "topic": "Popular in endemic areas (Egypt)",
+                "id": "node_0df69ead",
+                "children": []
+              },
+              {
+                "topic": "Procedure:",
+                "id": "node_0c5a087f",
+                "children": [
+                  {
+                    "topic": "Splenectomy",
+                    "id": "node_f6a99147",
+                    "children": []
+                  },
+                  {
+                    "topic": "Devascularization of lower\n4–10 cm esophagus + upper stomach",
+                    "id": "node_2e3f2c26",
+                    "children": []
+                  },
+                  {
+                    "topic": "Ligate: L. gastric, short gastric,\nL. gastroepiploic vessels",
+                    "id": "node_83851e98",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "✅ Advantage: Stops hematemesis\nWITHOUT encephalopathy risk",
+                "id": "node_13935c00",
+                "children": []
+              },
+              {
+                "topic": "Portal venous flow to\nhepatocyte is preserved",
+                "id": "node_6d222420",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "VII. Sinistral\n(Left-Sided) PH",
+        "id": "node_f4529774",
+        "children": [
+          {
+            "topic": "Pathology",
+            "id": "node_c6d3a2c2",
+            "children": [
+              {
+                "topic": "Highly localized (not generalized)",
+                "id": "node_280034eb",
+                "children": []
+              },
+              {
+                "topic": "Caused by Splenic Vein\nThrombosis (SVT)",
+                "id": "node_fa65c65e",
+                "children": []
+              },
+              {
+                "topic": "Most commonly secondary to\nacute/chronic pancreatitis",
+                "id": "node_efe7a500",
+                "children": []
+              },
+              {
+                "topic": "Splenic vein runs along posterior\nsurface of pancreas",
+                "id": "node_e8e70f5a",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Result",
+            "id": "node_abe92dfb",
+            "children": [
+              {
+                "topic": "Splenic blood cannot drain\ninto portal vein",
+                "id": "node_baa3b471",
+                "children": []
+              },
+              {
+                "topic": "Backs up through short gastric veins",
+                "id": "node_b4ea6f75",
+                "children": []
+              },
+              {
+                "topic": "→ Isolated gastric varices\nalong fundus & greater curvature",
+                "id": "node_25a23a22",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Key Distinction",
+            "id": "node_705497cd",
+            "children": [
+              {
+                "topic": "⚠️ NEVER causes esophageal varices",
+                "id": "node_baed0a27",
+                "children": []
+              },
+              {
+                "topic": "Collateral path does NOT involve\nesophageal venous plexus",
+                "id": "node_c495a2c0",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Treatment",
+            "id": "node_93036ec6",
+            "children": [
+              {
+                "topic": "🏆 Splenectomy → 100% curative",
+                "id": "node_e63c3658",
+                "children": []
+              },
+              {
+                "topic": "Removes source of venous\noutflow obstruction",
+                "id": "node_631089ac",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

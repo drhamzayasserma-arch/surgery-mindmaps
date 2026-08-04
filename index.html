@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Surgery Mind Maps</title>
+  <meta name="description" content="Interactive mind map collection for surgery study — organized by organ systems and surgical topics.">
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <span class="app-header__icon">🧠</span>
+      <h1 class="app-header__title">Surgery Mind Maps</h1>
+      <p class="app-header__subtitle">Organized by organ system — tap a category to explore</p>
+    </header>
+
+    <!-- Search -->
+    <div class="search-container">
+      <span class="search-icon">🔍</span>
+      <input
+        type="text"
+        class="search-bar"
+        id="search-input"
+        placeholder="Search categories..."
+        autocomplete="off"
+        spellcheck="false"
+      >
+    </div>
+
+    <!-- Category Grid -->
+    <div class="card-grid" id="card-grid">
+      <div class="loading" id="loading">
+        <div class="loading-spinner"></div>
+        <span>Loading categories...</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+  <script>
+    (async function() {
+      const grid = document.getElementById('card-grid');
+      const loading = document.getElementById('loading');
+      const searchInput = document.getElementById('search-input');
+
+      // Load categories
+      let categories = await loadCategories();
+      renderCategories(categories);
+
+      // Search filter
+      searchInput.addEventListener('input', () => {
+        const query = searchInput.value.toLowerCase().trim();
+        const cards = grid.querySelectorAll('.card:not(.card--add)');
+        cards.forEach(card => {
+          const name = card.dataset.name.toLowerCase();
+          card.style.display = name.includes(query) ? '' : 'none';
+        });
+      });
+
+      async function renderCategories(cats) {
+        grid.innerHTML = '';
+
+        if (cats.length === 0) {
+          grid.innerHTML = `
+            <div class="empty-state" style="grid-column: 1 / -1;">
+              <div class="empty-state__icon">📁</div>
+              <div class="empty-state__text">No categories yet</div>
+              <div class="empty-state__hint">Click the + button below to add your first category</div>
+            </div>
+          `;
+        }
+
+        // Render category cards
+        for (const cat of cats) {
+          const topics = await loadTopics(cat.id);
+          const count = topics.length;
+
+          const card = document.createElement('a');
+          card.href = `category.html?cat=${cat.id}`;
+          card.className = 'card';
+          card.dataset.name = cat.name;
+          card.innerHTML = `
+            <span class="card__icon">${cat.icon || getCategoryIcon(cat.id)}</span>
+            <span class="card__name">${cat.name}</span>
+            <span class="card__meta">
+              <span class="card__badge">📋 ${count} topic${count !== 1 ? 's' : ''}</span>
+            </span>
+          `;
+          grid.appendChild(card);
+        }
+
+        // Add Category button
+        const addBtn = document.createElement('div');
+        addBtn.className = 'card card--add';
+        addBtn.id = 'add-category-btn';
+        addBtn.innerHTML = `
+          <span class="card--add__icon">+</span>
+          <span class="card--add__label">Add New Category</span>
+        `;
+        addBtn.addEventListener('click', handleAddCategory);
+        grid.appendChild(addBtn);
+      }
+
+      function handleAddCategory() {
+        showModal({
+          title: 'Add New Category',
+          placeholder: 'e.g. Orthopedics, ENT, Neurosurgery...',
+          onSubmit: async (name) => {
+            const id = slugify(name);
+
+            // Check for duplicate
+            if (categories.find(c => c.id === id)) {
+              showToast('⚠️ This category already exists');
+              return;
+            }
+
+            // Add to list
+            const newCat = {
+              id: id,
+              name: name,
+              icon: DEFAULT_ICON
+            };
+            categories.push(newCat);
+
+            // Save to localStorage
+            saveCategoriesToLocal(categories);
+
+            // Initialize empty topics for this category
+            saveTopicsToLocal(id, []);
+
+            // Re-render
+            await renderCategories(categories);
+            showToast(`✅ "${name}" category added!`);
+          }
+        });
+      }
+    })();
+  </script>
+</body>
+</html>

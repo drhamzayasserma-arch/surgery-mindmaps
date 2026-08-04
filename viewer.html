@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mind Map Viewer — Surgery Mind Maps</title>
+  <meta name="description" content="Interactive mind map viewer and editor for surgery study topics.">
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mind-elixir/dist/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+  <style>
+    /* Ensure full-height layout for viewer */
+    html, body {
+      height: 100%;
+      overflow: hidden;
+    }
+    body::before {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="viewer-layout">
+    <!-- Toolbar -->
+    <div class="viewer-toolbar">
+      <div class="viewer-toolbar__breadcrumb">
+        <nav id="breadcrumb-nav"></nav>
+      </div>
+      <div class="viewer-toolbar__actions">
+        <div class="viewer-toolbar__status" id="save-status">
+          <span class="viewer-toolbar__status-dot"></span>
+          <span id="status-text">Saved</span>
+        </div>
+        <button class="toolbar-btn toolbar-btn--danger" id="btn-clear" title="Discard local edits and reload from JSON file">
+          🗑️ <span class="toolbar-btn__label">Clear Local</span>
+        </button>
+        <button class="toolbar-btn toolbar-btn--primary" id="btn-download" title="Download mind map as JSON file">
+          ⬇️ <span class="toolbar-btn__label">Download JSON</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mind Map Container -->
+    <div id="map-container"></div>
+  </div>
+
+  <!-- Loading overlay (shown while mind-elixir loads) -->
+  <div id="loading-overlay" style="
+    position: fixed; inset: 0;
+    background: var(--bg-primary);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 999; flex-direction: column; gap: 1rem;
+  ">
+    <div class="loading-spinner" style="width: 40px; height: 40px;"></div>
+    <span style="color: var(--text-secondary); font-size: 0.95rem;">Loading mind map editor...</span>
+  </div>
+
+  <script src="assets/app.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mind-elixir/dist/MindElixir.iife.js"></script>
+  <script>
+    (async function() {
+      const mapPath = getParam('map');
+
+      if (!mapPath) {
+        window.location.href = 'index.html';
+        return;
+      }
+
+      // Parse map path: "liver/anatomy_physiology"
+      const parts = mapPath.split('/');
+      const catId = parts[0];
+      const topicId = parts.slice(1).join('/');
+
+      // Load category info for breadcrumb
+      const categories = await loadCategories();
+      const category = findCategory(categories, catId);
+      const catName = category ? category.name : unslugify(catId);
+
+      // Load topics to find the display name
+      const topics = await loadTopics(catId);
+      const topic = topics.find(t => t.id === topicId);
+      const topicName = topic ? topic.name : unslugify(topicId);
+
+      // Update page title
+      document.title = `${topicName} — ${catName} — Surgery Mind Maps`;
+
+      // Breadcrumbs
+      const breadcrumbNav = document.getElementById('breadcrumb-nav');
+      renderBreadcrumbs(breadcrumbNav, [
+        { label: '🏠 Home', href: 'index.html' },
+        { label: catName, href: `category.html?cat=${catId}` },
+        { label: topicName }
+      ]);
+
+      // Load mind map data
+      const { data: mapData, source } = await loadMindMapData(mapPath, topicName);
+
+      // Status tracking
+      const saveStatus = document.getElementById('save-status');
+      const statusText = document.getElementById('status-text');
+      let hasUnsavedChanges = source === 'local';
+
+      function updateStatus() {
+        if (hasUnsavedChanges) {
+          saveStatus.className = 'viewer-toolbar__status viewer-toolbar__status--unsaved';
+          statusText.textContent = 'Unsaved changes';
+        } else {
+          saveStatus.className = 'viewer-toolbar__status';
+          statusText.textContent = 'Saved';
+        }
+      }
+      updateStatus();
+
+      // Initialize Mind Elixir
+      const ME = MindElixir.default || MindElixir;
+
+      const mind = new ME({
+        el: '#map-container',
+        direction: ME.SIDE,
+        draggable: true,
+        contextMenu: true,
+        toolBar: true,
+        keypress: true,
+        locale: 'en',
+        overflowHidden: false,
+        mainLinkStyle: 2,
+        contextMenuOption: {
+          focus: true,
+          link: false,
+          extend: []
+        }
+      });
+
+      // Init with data
+      try {
+        mind.init(mapData);
+      } catch (e) {
+        console.warn('Failed to init with saved data, using default:', e);
+        mind.init(getDefaultMindMapData(topicName));
+      }
+
+      // Remove loading overlay
+      const loadingOverlay = document.getElementById('loading-overlay');
+      if (loadingOverlay) {
+        loadingOverlay.style.opacity = '0';
+        loadingOverlay.style.transition = 'opacity 0.3s ease';
+        setTimeout(() => loadingOverlay.remove(), 300);
+      }
+
+      // Auto-save on operations
+      mind.bus.addListener('operation', (operation) => {
+        try {
+          const currentData = mind.getData();
+          saveMindMapToLocal(mapPath, currentData);
+          hasUnsavedChanges = true;
+          updateStatus();
+        } catch (e) {
+          console.error('Auto-save failed:', e);
+        }
+      });
+
+      // Also auto-save on selectNode (captures edits)
+      mind.bus.addListener('selectNode', () => {
+        setTimeout(() => {
+          try {
+            const currentData = mind.getData();
+            saveMindMapToLocal(mapPath, currentData);
+          } catch (e) {
+            // Ignore
+          }
+        }, 500);
+      });
+
+      // Download JSON button
+      document.getElementById('btn-download').addEventListener('click', () => {
+        try {
+          const data = mind.getData();
+          const json = JSON.stringify(data, null, 2);
+          const blob = new Blob([json], { type: 'application/json' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = `${topicId}.json`;
+          a.click();
+          URL.revokeObjectURL(url);
+          showToast(`✅ Downloaded ${topicId}.json`);
+        } catch (e) {
+          showToast('❌ Export failed: ' + e.message);
+        }
+      });
+
+      // Clear Local Changes button
+      document.getElementById('btn-clear').addEventListener('click', () => {
+        if (confirm('Discard all local edits and reload from the JSON file?\n\nThis cannot be undone.')) {
+          clearMindMapLocal(mapPath);
+          hasUnsavedChanges = false;
+          updateStatus();
+          // Reload the page to fetch from JSON file
+          window.location.reload();
+        }
+      });
+
+      // Warn before leaving with unsaved changes
+      window.addEventListener('beforeunload', (e) => {
+        // Don't warn - data is auto-saved to localStorage
+        // The "unsaved" indicator is about not having downloaded the JSON
+      });
+
+    })();
+  </script>
+</body>
+</html>
