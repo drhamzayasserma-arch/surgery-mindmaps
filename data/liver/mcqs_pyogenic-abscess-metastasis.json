@@ -1,0 +1,191 @@
+{
+  "questions": [
+    {
+      "q": "According to the textbook, what is the most common anatomical route of infection for a Pyogenic Liver Abscess, and which organism is most frequently isolated from this pathway?",
+      "options": [
+        "Portal vein (pyaemic route); Streptococcus faecalis",
+        "Hepatic artery (haematogenous route); Staphylococcus aureus",
+        "Biliary tract (cholangitic route); Escherichia coli",
+        "Direct extension from gallbladder; Bacteroides fragilis"
+      ],
+      "answer": 2,
+      "explanation": "The biliary tract (cholangitic abscess) is the most common route of pyogenic liver infection, arising from ascending cholangitis secondary to biliary obstruction, with Escherichia coli (E. coli) being the most common causative organism."
+    },
+    {
+      "q": "A patient with severe suppurative appendicitis or diverticulitis is at risk of developing portal pyemia leading to a pyogenic liver abscess. Which set of organisms is classically associated with this \"pyaemic\" portal vein route?",
+      "options": [
+        "Escherichia coli and Klebsiella",
+        "Streptococcus faecalis and anaerobes",
+        "Staphylococcus aureus and Streptococcus pyogenes",
+        "Pseudomonas aeruginosa and Clostridium perfringens"
+      ],
+      "answer": 1,
+      "explanation": "Portal vein spread (pyaemic abscess) typically originates from suppurative abdominal foci like appendicitis or diverticulitis, with Streptococcus faecalis and anaerobes being the predominant organisms."
+    },
+    {
+      "q": "Hepatic artery dissemination (haematogenous abscess) is a recognized pathway for pyogenic liver abscesses. Which pre-existing condition is classically cited as a primary source for this hematogenous route?",
+      "options": [
+        "Suppurative colonic diverticulitis",
+        "Ascending calculous cholangitis",
+        "Bacterial endocarditis or renal infections",
+        "Perforated acute appendicitis"
+      ],
+      "answer": 2,
+      "explanation": "Haematogenous spread through the hepatic artery typically arises from systemic bacteremia, such as in cases of bacterial endocarditis or renal infections."
+    },
+    {
+      "q": "What percentage of pyogenic liver abscess cases are classified as idiopathic or cryptogenic, having no identifiable primary source of infection?",
+      "options": [
+        "5%",
+        "15%",
+        "30%",
+        "50%"
+      ],
+      "answer": 1,
+      "explanation": "Idiopathic (cryptogenic) pyogenic liver abscesses, where no definitive primary infective source can be established, account for 15% of all cases."
+    },
+    {
+      "q": "When a pyogenic liver abscess develops via the cholangitic (biliary) route, the patient classically presents with which clinical triad?",
+      "options": [
+        "Saint's Triad (peptic ulcer, hiatus hernia, cholelithiasis)",
+        "Mackler's Triad (vomiting, lower chest pain, subcutaneous emphysema)",
+        "Charcot's Triad (abdominal pain, jaundice, fever with rigors)",
+        "Cushing's Triad (bradycardia, hypertension, irregular respirations)"
+      ],
+      "answer": 2,
+      "explanation": "The classic clinical presentation of a pyogenic biliary (cholangitic) abscess is Charcot's Triad, which consists of upper abdominal pain, jaundice, and fever with rigors."
+    },
+    {
+      "q": "Which of the following conditions or states is recognized as a predisposing factor that increases a patient's risk of developing a Pyogenic Liver Abscess?",
+      "options": [
+        "Secondary infection of a pre-existing amoebic abscess, hydatid cyst, or hemangioma, or decreased immunity (e.g., DM, leukemia)",
+        "Long-term use of oral contraceptive pills",
+        "Congenital vascular hyperperfusion",
+        "History of high-carbohydrate diet"
+      ],
+      "answer": 0,
+      "explanation": "Pyogenic liver abscesses are predisposed by decreased immunity (such as in diabetes mellitus or leukemia) or by the secondary bacterial infection of a pre-existing liver focal lesion (such as an infected amoebic abscess, hydatid cyst, or cavernous hemangioma)."
+    },
+    {
+      "q": "On physical examination of a patient with a pyogenic liver abscess, what are the characteristic local signs expected in the abdomen?",
+      "options": [
+        "Scaphoid abdomen with shifting dullness",
+        "Palpable, non-tender, massively distended gallbladder",
+        "Severe pain at the right hypochondrium accompanied by tenderness and rigidity at the upper right abdomen",
+        "Minimal tenderness with a loud succession splash"
+      ],
+      "answer": 2,
+      "explanation": "Local abdominal signs of a pyogenic liver abscess include severe pain localized to the right hypochondrium, accompanied by localized tenderness and muscle rigidity over the upper right abdomen."
+    },
+    {
+      "q": "If a pyogenic liver abscess is left neglected, what is the most common lethal systemic complication that develops, and what are its common routes of local rupture?",
+      "options": [
+        "Septic shock; ruptures into the pleural cavity (pleural empyema) or peritoneal cavity (peritonitis)",
+        "Hepatorenal syndrome; ruptures into the hepatic veins",
+        "Portal vein thrombosis; ruptures into the gallbladder",
+        "High-output cardiac failure; ruptures into the stomach and duodenum"
+      ],
+      "answer": 0,
+      "explanation": "Neglecting a pyogenic liver abscess can lead to life-threatening septic shock. Locally, the abscess can rupture upward to cause a pleural empyema or downward to cause generalized peritonitis."
+    },
+    {
+      "q": "A patient is found to have multiple, small pyogenic liver abscesses on ultrasound and CT. He is hemodynamically stable with minimal systemic toxicity. What is the recommended treatment strategy?",
+      "options": [
+        "Urgent right hepatic lobectomy",
+        "Diagnostic peritoneal lavage followed by laparotomy",
+        "Conservative management with intravenous 3rd-generation cephalosporin and Metronidazole",
+        "Immediate open surgical drainage posteriorly through the 12th rib"
+      ],
+      "answer": 2,
+      "explanation": "For multiple, small pyogenic liver abscesses that are responsive to medical therapy, conservative management consisting of intravenous antibiotics (specifically a 3rd-generation cephalosporin combined with Metronidazole) is the treatment of choice."
+    },
+    {
+      "q": "In which clinical scenario is active drainage (such as ultrasound/CT-guided percutaneous drainage or open surgical drainage) indicated for a pyogenic liver abscess?",
+      "options": [
+        "Only if the patient has a history of diabetes mellitus",
+        "In all cases of cryptogenic abscesses regardless of size",
+        "For larger, localized abscesses or those that fail to respond to conservative antibiotic therapy, under antibiotic cover",
+        "Only if the tumor marker CA 19-9 is elevated"
+      ],
+      "answer": 2,
+      "explanation": "Drainage of a pyogenic liver abscess—either percutaneously (U/S or CT guided) or via open surgery—is indicated for localized collections, under systemic antibiotic coverage."
+    },
+    {
+      "q": "How does the general incidence of secondary metastatic liver tumors compare to that of primary malignant liver tumors?",
+      "options": [
+        "Primary liver tumors are 10 times more common than metastases",
+        "Secondary metastases are 20 times more common than primary liver tumors",
+        "Secondary metastases are 5 times more common than primary liver tumors",
+        "They have an equal 1:1 incidence ratio"
+      ],
+      "answer": 1,
+      "explanation": "Secondary metastatic liver tumors are highly prevalent, occurring approximately 20 times more frequently than all primary malignant liver tumors combined."
+    },
+    {
+      "q": "Which correctly pairs the secondary liver tumor's route of spread with its classic primary malignant source?",
+      "options": [
+        "Portal circulation: Primary Gastrointestinal Tract (GIT) Carcinomas",
+        "Hepatic artery: Primary Gallbladder Carcinoma",
+        "Direct invasion: Primary Colorectal and Gastric Carcinomas",
+        "Lymphatics: Primary Renal Cell Carcinomas"
+      ],
+      "answer": 0,
+      "explanation": "Secondary liver metastases reach the liver via four main routes: the portal circulation (classically from primary GIT carcinomas), the hepatic artery (from breast, lung, ovarian, and kidney cancers), the lymphatics, and via direct invasion (classically from gallbladder carcinoma)."
+    },
+    {
+      "q": "During macroscopic examination of a liver resection specimen, the surgeon identifies multiple white hepatic nodules that exhibit central \"umbilication.\" What is the underlying pathological explanation for this umbilicated appearance?",
+      "options": [
+        "Localized calcification of the overlying hepatic capsule",
+        "Rapid tumor growth outstripping its blood supply, resulting in central necrosis",
+        "Localized compression from adjacent normal hepatic parenchyma",
+        "Spontaneous immunological regression of the metastatic core"
+      ],
+      "answer": 1,
+      "explanation": "Macroscopically, liver metastases typically present as multiple white nodules. They feature central \"umbilication\" because the rapid growth of the metastatic tissue outstrips its vascular supply, leading to focal central tumor necrosis."
+    },
+    {
+      "q": "In clinical oncology, how is a secondary liver metastasis classified if it is discovered at the exact same time as the primary visceral malignancy versus one that is identified months or years after the primary tumor's resection?",
+      "options": [
+        "Concordant versus Discordant",
+        "Primary versus Metasynchronous",
+        "Synchronous versus Metasynchronous",
+        "Acute versus Chronic"
+      ],
+      "answer": 2,
+      "explanation": "Liver metastases are pathologically classified as \"synchronous\" when they are detected at the same time as the primary tumor, and \"metasynchronous\" when they manifest months or years after the surgical resection of the primary."
+    },
+    {
+      "q": "Which clinical signs and symptoms are classically associated with advanced secondary metastatic liver disease?",
+      "options": [
+        "Severe hematemesis, secondary piles, and caput medusae with normal liver enzymes",
+        "Progressive weight loss, fatigue, hepatomegaly, ascites, and jaundice, in addition to the symptoms of the primary tumor",
+        "Recurrent hypoglycemia, severe bone pain, and high-output cardiac failure",
+        "Alternating bouts of constipation and diarrhea with a palpable left lower quadrant mass"
+      ],
+      "answer": 1,
+      "explanation": "The clinical picture of liver metastasis is characterized by the signs of the primary tumor accompanied by progressive weight loss, fatigue, hepatomegaly, ascites, and jaundice."
+    },
+    {
+      "q": "Although the presence of liver metastases generally signifies a systemic, inoperable state, surgical resection of colorectal liver metastases can be curative in select cases. Which represents the correct criteria for a curative liver metastasectomy?",
+      "options": [
+        "Primary tumor is inoperable, the metastases are diffuse across both lobes, and extra-hepatic metastases are present",
+        "Primary tumor is totally resectable (R0), metastases are solitary or multiple but confined to a single lobe, and there is an absolute absence of extra-hepatic metastasis",
+        "Metastases are cystic, liver enzymes are normal, and the primary tumor is a squamous cell carcinoma",
+        "Primary tumor is in the esophagus, there is a solitary nodule in the caudate lobe, and bone metastases are stable"
+      ],
+      "answer": 1,
+      "explanation": "Surgical resection of liver metastases from colorectal carcinoma may be curative under strict clinical criteria: (1) the primary colorectal tumor is totally resectable (R0), (2) the metastasis is a solitary hepatic nodule or multiple nodules confined to a single lobe, and (3) there is an absolute absence of extra-hepatic metastatic disease."
+    },
+    {
+      "q": "When performing a diagnostic workup for suspected liver metastases, which statement is correct regarding laboratory markers versus imaging?",
+      "options": [
+        "Alpha-fetoprotein (AFP) is highly elevated in 95% of metastatic cases, making it the most diagnostic test",
+        "Elevated serum bilirubin and alkaline phosphatase are common, but abdominal ultrasound and CT scans are much more accurate",
+        "Barium enema is the most accurate diagnostic imaging modality for liver metastases",
+        "Serum transaminases are completely normal in all cases of secondary liver tumors"
+      ],
+      "answer": 1,
+      "explanation": "While liver metastases can cause elevations in serum bilirubin and alkaline phosphatase, radiological imaging with abdominal ultrasound and contrast-enhanced CT scans is significantly more accurate for defining the lesions."
+    }
+  ]
+}
