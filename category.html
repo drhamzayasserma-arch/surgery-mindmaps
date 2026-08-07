@@ -6,6 +6,7 @@
   <title>Category — Surgery Mind Maps</title>
   <meta name="description" content="Surgery mind map topics for a specific organ system category.">
   <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="assets/quiz.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
 </head>
 <body>
@@ -92,7 +93,7 @@
         });
       });
 
-      function renderTopics(topicList) {
+      async function renderTopics(topicList) {
         grid.innerHTML = '';
 
         // Update meta
@@ -109,24 +110,39 @@
         }
 
         // Render topic cards
-        topicList.forEach(topic => {
+        for (const topic of topicList) {
+          const hasLocal = hasMindMapLocal(`${catId}/${topic.id}`);
+
+          // Check if MCQ exists for this topic
+          const hasMcq = await checkMcqExists(catId, topic.id);
+
           const card = document.createElement('a');
           card.href = `viewer.html?map=${catId}/${topic.id}`;
           card.className = 'card';
           card.dataset.name = topic.name;
-
-          // Check if there's local edits
-          const hasLocal = hasMindMapLocal(`${catId}/${topic.id}`);
 
           card.innerHTML = `
             <span class="card__icon">🧠</span>
             <span class="card__name">${topic.name}</span>
             <span class="card__meta">
               ${hasLocal ? '<span class="card__badge" style="background:rgba(245,158,11,0.12);color:#f59e0b;">● Local edits</span>' : '<span class="card__badge">📄 Mind Map</span>'}
+              ${hasMcq ? '' : ''}
             </span>
           `;
+
+          // If MCQ exists, add a quiz button that doesn't navigate the card
+          if (hasMcq) {
+            const quizLink = document.createElement('a');
+            quizLink.href = `quiz.html?cat=${catId}&topic=${topic.id}`;
+            quizLink.className = 'card__quiz-link';
+            quizLink.textContent = '📝 Quiz';
+            quizLink.title = 'Take the MCQ quiz for this topic';
+            quizLink.addEventListener('click', (e) => e.stopPropagation());
+            card.querySelector('.card__meta').appendChild(quizLink);
+          }
+
           grid.appendChild(card);
-        });
+        }
 
         // Add Topic button
         const addBtn = document.createElement('div');

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCQ Quiz — Surgery Mind Maps</title>
+  <meta name="description" content="Multiple choice quiz for surgery study topics.">
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="assets/quiz.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+</head>
+<body>
+  <div class="app-container quiz-container">
+    <!-- Breadcrumb -->
+    <nav id="breadcrumb-nav"></nav>
+
+    <!-- Quiz Header -->
+    <header class="quiz-header" id="quiz-header">
+      <div class="quiz-header__top">
+        <div class="quiz-header__title-group">
+          <div class="page-header__icon" id="header-icon"></div>
+          <div>
+            <h1 class="page-header__title" id="header-title">Loading...</h1>
+            <p class="page-header__meta" id="header-meta"></p>
+          </div>
+        </div>
+        <div class="quiz-header__actions">
+          <button class="toolbar-btn toolbar-btn--danger" id="reset-btn" title="Reset all answers and start over">
+            🔄 <span>Reset Quiz</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Score Bar -->
+      <div class="quiz-scorebar" id="scorebar">
+        <div class="quiz-scorebar__track">
+          <div class="quiz-scorebar__fill" id="scorebar-fill"></div>
+        </div>
+        <div class="quiz-scorebar__stats">
+          <span id="score-answered">0</span> / <span id="score-total">0</span> answered
+          <span class="quiz-scorebar__divider">•</span>
+          <span class="quiz-scorebar__correct">✓ <span id="score-correct">0</span></span>
+          <span class="quiz-scorebar__wrong">✗ <span id="score-wrong">0</span></span>
+          <span class="quiz-scorebar__percent" id="score-percent"></span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Questions Container -->
+    <div id="quiz-questions"></div>
+
+    <!-- Loading State -->
+    <div class="loading" id="loading">
+      <div class="loading-spinner"></div>
+      <span>Loading quiz...</span>
+    </div>
+
+    <!-- Empty State -->
+    <div class="empty-state" id="empty-state" style="display:none;">
+      <div class="empty-state__icon">📝</div>
+      <div class="empty-state__text" id="empty-text">No MCQs available for this topic yet.</div>
+      <div class="empty-state__hint">Check back later or add your own questions.</div>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+  <script>
+    (async function() {
+      // Parse URL parameters: quiz.html?cat=liver&topic=anatomy_physiology
+      const catId = getParam('cat');
+      const topicId = getParam('topic');
+
+      if (!catId || !topicId) {
+        window.location.href = 'index.html';
+        return;
+      }
+
+      // DOM references
+      const breadcrumbNav = document.getElementById('breadcrumb-nav');
+      const headerIcon = document.getElementById('header-icon');
+      const headerTitle = document.getElementById('header-title');
+      const headerMeta = document.getElementById('header-meta');
+      const questionsContainer = document.getElementById('quiz-questions');
+      const loadingEl = document.getElementById('loading');
+      const emptyState = document.getElementById('empty-state');
+      const resetBtn = document.getElementById('reset-btn');
+      const scorebarFill = document.getElementById('scorebar-fill');
+      const scoreAnswered = document.getElementById('score-answered');
+      const scoreTotal = document.getElementById('score-total');
+      const scoreCorrect = document.getElementById('score-correct');
+      const scoreWrong = document.getElementById('score-wrong');
+      const scorePercent = document.getElementById('score-percent');
+
+      // Load category info
+      const categories = await loadCategories();
+      const category = findCategory(categories, catId);
+      const catName = category ? category.name : unslugify(catId);
+      const catIcon = category ? (category.icon || getCategoryIcon(catId)) : getCategoryIcon(catId);
+
+      // Load topic info
+      const topics = await loadTopics(catId);
+      const topic = topics.find(t => t.id === topicId);
+      const topicName = topic ? topic.name : unslugify(topicId);
+
+      // Update page
+      document.title = `MCQ: ${topicName} — Surgery Mind Maps`;
+      headerIcon.textContent = catIcon;
+      headerTitle.textContent = topicName;
+      headerMeta.textContent = 'MCQ Quiz';
+
+      // Breadcrumbs
+      renderBreadcrumbs(breadcrumbNav, [
+        { label: '🏠 Home', href: 'index.html' },
+        { label: catName, href: `category.html?cat=${catId}` },
+        { label: `📝 ${topicName} — MCQs` }
+      ]);
+
+      // Load MCQ data
+      const storageKey = `surgery_maps_mcq_${catId}_${topicId}`;
+      let questions = [];
+      let userAnswers = {};
+
+      // Try to load saved answers
+      const savedAnswers = localStorage.getItem(storageKey + '_answers');
+      if (savedAnswers) {
+        try { userAnswers = JSON.parse(savedAnswers); } catch(e) {}
+      }
+
+      // Load questions from JSON
+      try {
+        const resp = await fetch(`data/${catId}/mcqs_${topicId}.json`);
+        if (resp.ok) {
+          const data = await resp.json();
+          questions = data.questions || [];
+        }
+      } catch(e) {
+        console.warn('Could not load MCQ file:', e);
+      }
+
+      // Also try localStorage for user-added questions
+      const storedQuestions = localStorage.getItem(storageKey);
+      if (storedQuestions) {
+        try {
+          const parsed = JSON.parse(storedQuestions);
+          if (parsed.questions && parsed.questions.length > 0) {
+            questions = parsed.questions;
+          }
+        } catch(e) {}
+      }
+
+      // Hide loading
+      loadingEl.style.display = 'none';
+
+      if (questions.length === 0) {
+        emptyState.style.display = 'block';
+        document.getElementById('scorebar').style.display = 'none';
+        resetBtn.style.display = 'none';
+        return;
+      }
+
+      // Update total count
+      scoreTotal.textContent = questions.length;
+
+      // Render all questions
+      renderAllQuestions(questions);
+
+      // Update the score from saved answers
+      updateScore();
+
+      // Reset button
+      resetBtn.addEventListener('click', () => {
+        if (confirm('Are you sure you want to reset all your answers? This cannot be undone.')) {
+          userAnswers = {};
+          localStorage.removeItem(storageKey + '_answers');
+          renderAllQuestions(questions);
+          updateScore();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+          showToast('🔄 Quiz reset! All answers cleared.');
+        }
+      });
+
+      // ── Render Functions ──
+
+      function renderAllQuestions(qs) {
+        questionsContainer.innerHTML = '';
+
+        qs.forEach((q, index) => {
+          const qEl = document.createElement('div');
+          qEl.className = 'quiz-question';
+          qEl.id = `question-${index}`;
+
+          const answered = userAnswers[index] !== undefined;
+          const selectedIdx = answered ? userAnswers[index] : null;
+          const isCorrect = answered ? selectedIdx === q.answer : null;
+
+          // Question number and text
+          let html = `
+            <div class="quiz-question__number">Question ${index + 1}</div>
+            <div class="quiz-question__text">${q.q}</div>
+            <div class="quiz-question__options">
+          `;
+
+          // Options
+          q.options.forEach((opt, optIdx) => {
+            const letter = String.fromCharCode(65 + optIdx); // A, B, C, D...
+            let optClass = 'quiz-option';
+            let indicator = '';
+
+            if (answered) {
+              optClass += ' quiz-option--locked';
+              if (optIdx === q.answer) {
+                optClass += ' quiz-option--correct';
+                indicator = '<span class="quiz-option__indicator">✓</span>';
+              } else if (optIdx === selectedIdx && optIdx !== q.answer) {
+                optClass += ' quiz-option--wrong';
+                indicator = '<span class="quiz-option__indicator">✗</span>';
+              }
+            }
+
+            html += `
+              <div class="${optClass}" data-q="${index}" data-opt="${optIdx}">
+                <span class="quiz-option__letter">${letter}</span>
+                <span class="quiz-option__text">${opt}</span>
+                ${indicator}
+              </div>
+            `;
+          });
+
+          html += '</div>'; // close options
+
+          // Explanation (shown only if answered)
+          if (answered) {
+            html += `
+              <div class="quiz-explanation ${isCorrect ? 'quiz-explanation--correct' : 'quiz-explanation--wrong'}">
+                <div class="quiz-explanation__header">
+                  <span class="quiz-explanation__icon">${isCorrect ? '✅' : '❌'}</span>
+                  <span class="quiz-explanation__verdict">${isCorrect ? 'Correct!' : 'Incorrect'}</span>
+                </div>
+                ${q.explanation ? `<div class="quiz-explanation__text">${q.explanation}</div>` : ''}
+              </div>
+            `;
+          }
+
+          qEl.innerHTML = html;
+          questionsContainer.appendChild(qEl);
+        });
+
+        // Attach click listeners to unanswered options
+        questionsContainer.querySelectorAll('.quiz-option:not(.quiz-option--locked)').forEach(optEl => {
+          optEl.addEventListener('click', handleOptionClick);
+        });
+      }
+
+      function handleOptionClick(e) {
+        const optEl = e.currentTarget;
+        const qIdx = parseInt(optEl.dataset.q);
+        const optIdx = parseInt(optEl.dataset.opt);
+
+        // Save the answer
+        userAnswers[qIdx] = optIdx;
+        localStorage.setItem(storageKey + '_answers', JSON.stringify(userAnswers));
+
+        // Re-render just this question (and re-render all to keep it simple)
+        renderAllQuestions(questions);
+        updateScore();
+
+        // Scroll to show the explanation smoothly
+        const questionEl = document.getElementById(`question-${qIdx}`);
+        const explanation = questionEl.querySelector('.quiz-explanation');
+        if (explanation) {
+          setTimeout(() => {
+            explanation.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          }, 100);
+        }
+      }
+
+      function updateScore() {
+        const total = questions.length;
+        const answeredCount = Object.keys(userAnswers).length;
+        let correctCount = 0;
+
+        Object.entries(userAnswers).forEach(([qIdx, selected]) => {
+          if (questions[qIdx] && selected === questions[qIdx].answer) {
+            correctCount++;
+          }
+        });
+
+        const wrongCount = answeredCount - correctCount;
+        const percent = answeredCount > 0 ? Math.round((correctCount / answeredCount) * 100) : 0;
+        const fillPercent = total > 0 ? Math.round((answeredCount / total) * 100) : 0;
+
+        scoreAnswered.textContent = answeredCount;
+        scoreCorrect.textContent = correctCount;
+        scoreWrong.textContent = wrongCount;
+        scorebarFill.style.width = fillPercent + '%';
+
+        if (answeredCount > 0) {
+          scorePercent.textContent = `(${percent}%)`;
+          // Color the fill bar based on percentage
+          if (percent >= 80) {
+            scorebarFill.style.background = 'linear-gradient(90deg, #14b8a6, #10b981)';
+          } else if (percent >= 50) {
+            scorebarFill.style.background = 'linear-gradient(90deg, #f59e0b, #eab308)';
+          } else {
+            scorebarFill.style.background = 'linear-gradient(90deg, #ef4444, #f87171)';
+          }
+        } else {
+          scorePercent.textContent = '';
+          scorebarFill.style.background = 'var(--gradient-accent)';
+        }
+
+        // Show completion toast
+        if (answeredCount === total && total > 0) {
+          showToast(`🎉 Quiz complete! You scored ${correctCount}/${total} (${percent}%)`, 4000);
+        }
+      }
+
+    })();
+  </script>
+</body>
+</html>

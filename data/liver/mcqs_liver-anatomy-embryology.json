@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "Which embryological structure gives rise to the hepatocytes and intrahepatic bile ducts?",
+      "options": [
+        "Pars Cystica (caudal bud)",
+        "Septum Transversum",
+        "Pars Hepatica (cranial bud)",
+        "Vitelline veins"
+      ],
+      "answer": 2,
+      "explanation": "The Pars Hepatica (cranial part of the hepatic diverticulum) gives rise to hepatocytes and intrahepatic bile ducts. The Pars Cystica gives rise to the gallbladder and cystic duct, the Septum Transversum contributes the stromal elements (Glisson's capsule, Kupffer cells), and vitelline veins contribute to the sinusoidal endothelium."
+    },
+    {
+      "q": "Cantlie's line runs from the gallbladder fossa to the IVC and divides the liver into which two parts?",
+      "options": [
+        "Right anatomical lobe and left anatomical lobe",
+        "Right functional (surgical) lobe and left functional (surgical) lobe",
+        "Anterior sector and posterior sector",
+        "Caudate lobe and quadrate lobe"
+      ],
+      "answer": 1,
+      "explanation": "Cantlie's line (gallbladder fossa → IVC) divides the liver into the right and left functional (surgical) lobes of roughly equal size. This is different from the anatomical division by the falciform ligament, which creates a large right and small left lobe."
+    },
+    {
+      "q": "The Pringle maneuver controls hemorrhage by compressing which structure?",
+      "options": [
+        "Hepatic veins at the IVC confluence",
+        "The portal triad in the free edge of the lesser omentum (hepatoduodenal ligament)",
+        "The aorta above the celiac trunk",
+        "The right hepatic artery only"
+      ],
+      "answer": 1,
+      "explanation": "The Pringle maneuver involves clamping the hepatoduodenal ligament (free edge of the lesser omentum), which contains the portal triad — portal vein, hepatic artery, and common bile duct. It controls hepatic inflow but does NOT control back-bleeding from the hepatic veins."
+    },
+    {
+      "q": "Which Couinaud segment has independent venous drainage directly into the IVC and often hypertrophies in Budd-Chiari syndrome?",
+      "options": [
+        "Segment IV",
+        "Segment VIII",
+        "Segment I (Caudate lobe)",
+        "Segment V"
+      ],
+      "answer": 2,
+      "explanation": "Segment I (Caudate lobe) is unique because it has dual portal supply and independent hepatic venous drainage directly into the IVC. In Budd-Chiari syndrome (hepatic vein thrombosis), the caudate lobe is spared and often hypertrophies because its drainage pathway is unaffected."
+    },
+    {
+      "q": "What percentage of hepatic blood flow comes from the portal vein?",
+      "options": [
+        "20%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "answer": 2,
+      "explanation": "The portal vein provides approximately 80% of total hepatic blood flow but only about 50% of the liver's oxygen supply. The hepatic artery provides the remaining 20% of flow and 50% of oxygen. Total hepatic blood flow is approximately 1.5 L/min."
+    },
+    {
+      "q": "Which clotting factor is NOT exclusively produced by the liver and remains normal or elevated in liver failure?",
+      "options": [
+        "Factor II",
+        "Factor VII",
+        "Factor VIII",
+        "Factor X"
+      ],
+      "answer": 2,
+      "explanation": "Factor VIII is the only clotting factor NOT exclusively produced by hepatocytes. It is produced by sinusoidal endothelial cells and extrahepatic sites. Therefore, Factor VIII levels remain normal or may even be elevated in liver failure. Factors II, VII, IX, and X are vitamin K-dependent factors that all decline in hepatic failure."
+    },
+    {
+      "q": "The obliterated umbilical vein becomes which structure in the adult?",
+      "options": [
+        "Ligamentum venosum",
+        "Ligamentum teres (in the free edge of the falciform ligament)",
+        "Median umbilical ligament",
+        "Round ligament of the uterus"
+      ],
+      "answer": 1,
+      "explanation": "The umbilical vein obliterates after birth to become the ligamentum teres (round ligament of the liver), which lies in the free edge of the falciform ligament. The ductus venosus obliterates to become the ligamentum venosum. The median umbilical ligament is the obliterated urachus."
+    },
+    {
+      "q": "A replaced right hepatic artery — the most clinically significant arterial variant during hepatobiliary surgery — arises from which vessel?",
+      "options": [
+        "Left gastric artery",
+        "Celiac trunk directly",
+        "Superior mesenteric artery (SMA)",
+        "Gastroduodenal artery"
+      ],
+      "answer": 2,
+      "explanation": "A replaced right hepatic artery arising from the SMA is the most clinically significant variant (found in ~15-20% of patients). It courses posterior to the portal vein and pancreatic head, and can be inadvertently injured during pancreaticoduodenectomy or cholecystectomy if not identified. Aberrant hepatic arterial anatomy overall is common (~40% of patients)."
+    }
+  ]
+}

@@ -366,3 +366,29 @@ function getCategoryIcon(catId) {
 function findCategory(categories, catId) {
   return categories.find(c => c.id === catId);
 }
+
+/**
+ * Check if an MCQ file exists for a given category and topic.
+ * @param {string} catId - e.g. "liver"
+ * @param {string} topicId - e.g. "anatomy_physiology"
+ * @returns {Promise<boolean>}
+ */
+async function checkMcqExists(catId, topicId) {
+  // Check localStorage first
+  const storageKey = `surgery_maps_mcq_${catId}_${topicId}`;
+  const stored = localStorage.getItem(storageKey);
+  if (stored) {
+    try {
+      const parsed = JSON.parse(stored);
+      if (parsed.questions && parsed.questions.length > 0) return true;
+    } catch(e) {}
+  }
+
+  // Check JSON file
+  try {
+    const resp = await fetch(`data/${catId}/mcqs_${topicId}.json`, { method: 'HEAD' });
+    return resp.ok;
+  } catch(e) {
+    return false;
+  }
+}
