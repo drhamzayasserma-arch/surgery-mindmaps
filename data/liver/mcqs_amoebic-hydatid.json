@@ -1,0 +1,191 @@
+{
+  "questions": [
+    {
+      "q": "A 30-year-old male from a humid tropical region presents with low-grade fever, pale appearance, and right upper quadrant pain. He has a history of colonic dysentery. Which of the following correctly describes the transmission and pathogenesis of his likely diagnosis?",
+      "options": [
+        "Ingestion of trophozoites (infective stage) which directly penetrate the bile duct mucosa",
+        "Ingestion of cysts (infective stage) which change to trophozoites (invasive stage) in the colon and invade portal blood to reach the right liver lobe",
+        "Direct hematogenous invasion of Entamoeba histolytica cysts via the hepatic artery",
+        "Ascending biliary infection of trophozoites from the duodenum"
+      ],
+      "answer": 1,
+      "explanation": "In colonic and hepatic amoebiasis, the cyst stage is the infective form transmitted feco-orally via contaminated vegetables, whereas the trophozoite stage is the invasive form that causes right-sided colonic colitis and invades the portal system to reach the liver."
+    },
+    {
+      "q": "Why is the right lobe of the liver—specifically the postero-superior segment (Segment VII)—affected in 80% of hepatic amoebic abscess cases?",
+      "options": [
+        "The right hepatic artery carries a higher oxygen tension favored by the anaerobe",
+        "Portal blood from the right side of the colon drains preferentially to the right liver lobe, and the segmental branch of the right portal vein is in direct continuity with the main portal vein",
+        "Visceral peritoneal attachments of the falciform ligament guide trophozoite migration",
+        "The right lobe contains a higher concentration of Kupffer cells that trigger liquefactive necrosis"
+      ],
+      "answer": 1,
+      "explanation": "The right hepatic lobe is preferentially affected (80%) because portal blood from the right colon drains directly to it. Segment VII (postero-superior segment) is the most common site because its segmental portal vein branch is in direct anatomical continuity with the main portal vein."
+    },
+    {
+      "q": "During a pathologic review of a resected hepatic focal lesion, the surgeon notes a single, unilocular cavity with a shaggy, irregular wall containing living protozoa. The fluid inside is sterile and resembles \"anchovy sauce.\" This classical fluid is pathologically composed of:",
+      "options": [
+        "Pure polymorphonuclear neutrophilic exudate and bile",
+        "Mucinous glycoproteins secreted by neoplastic hepatocytes",
+        "Brownish necrotic material of destructed liver substance, leukocytes, and red blood cells",
+        "Hydatid fluid containing active scolices"
+      ],
+      "answer": 2,
+      "explanation": "The classic \"anchovy sauce\" or \"chocolate pus\" of an amoebic abscess is sterile and consists of brownish necrotic liver tissue, leukocytes, and red blood cells destroyed by liquefactive necrosis."
+    },
+    {
+      "q": "A 24-year-old toxic male is admitted with a high-grade fever (39°C), severe right hypochondrial pain, and a tender liver. A chest X-ray reveals an elevated, fixed right hemidiaphragm and right-sided pleural effusion. What is the most common cause of death if this amoebic abscess undergoes upward rupture?",
+      "options": [
+        "Empyema of the right lung",
+        "Rupture into the pleural cavity",
+        "Rupture into the pericardium causing pericarditis",
+        "Hepatocellular liver cell failure"
+      ],
+      "answer": 2,
+      "explanation": "While upward rupture of an amoebic abscess can cause subphrenic abscess, pleural empyema, or lung abscess, rupture into the pericardium causing pericarditis is the leading cause of death."
+    },
+    {
+      "q": "When evaluating a patient with suspected amoebic liver hepatitis or abscess, which of the following investigations is considered the most clinically \"accurate\" imaging modality?",
+      "options": [
+        "Plain abdominal X-ray in the erect position",
+        "Contrast-enhanced abdominal CT scan",
+        "Magnetic Resonance Imaging (MRI)",
+        "Abdominal Ultrasound"
+      ],
+      "answer": 2,
+      "explanation": "Although ultrasound and CT scan are highly valuable for defining the number, size, and shape of the abscess, MRI is recognized as the most accurate diagnostic imaging modality."
+    },
+    {
+      "q": "What is the first-line definitive medical therapy for an uncomplicated liver amoebic abscess, and how is a \"therapeutic test\" defined?",
+      "options": [
+        "Albendazole 400 mg; clinical response within 72 hours",
+        "Metronidazole (Flagyl) 750 mg three times daily for 7–10 days; rapid clinical improvement",
+        "Intravenous 3rd-generation cephalosporins; normalization of the white blood cell count",
+        "Percutaneous catheter drainage; sterile aspirate culture"
+      ],
+      "answer": 1,
+      "explanation": "The primary medical treatment is Metronidazole (Flagyl) 750 mg t.d.s. for 7–10 days. A rapid clinical response to this regimen serves as a highly diagnostic therapeutic test confirming the amoebic origin."
+    },
+    {
+      "q": "In which of the following clinical scenarios is ultrasound-guided percutaneous needle aspiration of an amoebic liver abscess strictly indicated?",
+      "options": [
+        "An asymptomatic 2 cm unilocular abscess in a stable patient",
+        "Absence of clinical response to Metronidazole after 72 hours, or a very large abscess/secondary infection",
+        "Whenever stool analysis is negative for Entamoeba histolytica",
+        "To avoid the long-term systemic side effects of oral Metronidazole"
+      ],
+      "answer": 1,
+      "explanation": "Percutaneous aspiration is indicated when there is a lack of clinical response after 72 hours of Flagyl therapy, if the abscess is extremely large (> 5 cm), if there is a secondary bacterial infection, or if the patient is highly toxic."
+    },
+    {
+      "q": "A toxic patient with a multilocular amoebic abscess of the right lobe presents with signs of peritonitis and thick pus that cannot be aspirated. The surgeon plans open surgical drainage. What is the correct anatomical approach for this procedure?",
+      "options": [
+        "Anterior trans-peritoneal approach",
+        "Posterior extra-peritoneal approach through the bed of the 12th rib",
+        "Right-sided lower thoracotomy through the 8th intercostal space",
+        "Midline laparotomy with mobilization of the coronary ligaments"
+      ],
+      "answer": 1,
+      "explanation": "Because most amoebic abscesses are located in the postero-superior segment of the right lobe, open drainage of a right-sided abscess is classically performed posteriorly through the bed of the 12th rib using an extra-peritoneal approach to avoid peritoneal contamination. (Left lobe abscesses are drained via an anterior trans-peritoneal approach.)"
+    },
+    {
+      "q": "Humans act as accidental intermediate hosts in the lifecycle of Echinococcus granulosus. Which of the following represents the infective stage for humans, and how is it transmitted?",
+      "options": [
+        "Ingestion of cysts in undercooked beef (feco-oral)",
+        "Ingestion of embryonated eggs passed in dog feces contaminating grass or vegetables",
+        "Direct penetration of active oncospheres through the skin of the feet",
+        "Ingestion of adult worms in contaminated sheep organs"
+      ],
+      "answer": 1,
+      "explanation": "Dogs are the definitive hosts (harboring adult worms), and sheep/cattle are the typical intermediate hosts. Humans accidentally ingest embryonated eggs (the infective stage) passed in dog feces, which then hatch into oncospheres in the duodenum and migrate via portal circulation to the liver."
+    },
+    {
+      "q": "A pathology resident is describing the three distinct layers of a classic hepatic hydatid cyst. Which layer is biochemically and pathologically recognized as the ONLY living part of the parasite?",
+      "options": [
+        "The adventitia (Pseudo-cyst) consisting of host fibrous tissue",
+        "The laminated membrane (Ecto-cyst) consisting of acellular hyaline",
+        "The germinal layer (Endo-cyst) which secretes hydatid fluid and produces brood capsules",
+        "The fibrous capsule formed by liver tissue reaction"
+      ],
+      "answer": 2,
+      "explanation": "The germinal layer (endo-cyst) is the only living part of the hydatid cyst; it secretes the hydatid fluid internally, and from it develop the brood capsules, scolices (daughter worms), and daughter cysts."
+    },
+    {
+      "q": "A neurosurgeon notes that a hydatid cyst resected from a patient's brain contains only two histological layers. Why does a brain hydatid cyst differ structurally from a classic hepatic hydatid cyst?",
+      "options": [
+        "The brain parasite is a sterile strain that does not develop an ecto-cyst",
+        "There is no host-derived fibrous reaction (adventitia) formed by brain tissue",
+        "The germinal layer is replaced by microglial cells",
+        "The brain lacks a portal circulation, preventing endo-cyst development"
+      ],
+      "answer": 1,
+      "explanation": "In the liver, the outermost layer (the adventitia) is a host-derived fibrous reaction. Because brain tissue does not form a fibrous inflammatory reaction, hydatid cysts in the brain characteristically consist of only 2 layers (laminated and germinal)."
+    },
+    {
+      "q": "An asymptomatic shepherd undergoes routine screening. Physical examination of his right upper quadrant reveals a huge palpable mass. On percussion of this mass, a distinct \"hydatid thrill\" is appreciated. What is the physical mechanism of this sign?",
+      "options": [
+        "High-velocity portal blood flow bypassing the cyst",
+        "The vibration of multiple daughter cysts knocking against each other within the hydatid fluid",
+        "High-pressure jetting of fluid through a microscopic tear in the adventitia",
+        "Transmission of cardiac pulsations through a dense, calcified capsule"
+      ],
+      "answer": 1,
+      "explanation": "A hydatid thrill is a classical sign felt on percussion due to the physical vibration of daughter cysts knocking against one another inside the hydatid fluid."
+    },
+    {
+      "q": "What are the clinical consequences of a hepatic hydatid cyst undergoing downward rupture into the peritoneal cavity versus the biliary tract?",
+      "options": [
+        "Peritonitis & anaphylactic shock (peritoneal) vs. obstructive jaundice (biliary)",
+        "Hematuria (peritoneal) vs. acute necrotizing pancreatitis (biliary)",
+        "Subphrenic empyema (peritoneal) vs. secondary pyogenic abscess (biliary)",
+        "Liver cell failure (peritoneal) vs. portal vein thrombosis (biliary)"
+      ],
+      "answer": 0,
+      "explanation": "Downward rupture of a hydatid cyst into the peritoneal cavity leads to severe peritonitis and life-threatening anaphylactic shock, whereas rupture into the biliary tract leads to biliary obstruction and obstructive jaundice."
+    },
+    {
+      "q": "A patient from an endemic region (e.g., Iraq, Yemen, or Libya) presents with a suspected hepatic hydatid cyst. Which of the following diagnostic workups is considered the MOST accurate serological test and the MOST accurate imaging modality, respectively?",
+      "options": [
+        "ELISA and CT Scan",
+        "Casoni's skin test and Abdominal Ultrasound",
+        "Indirect Haemagglutination (IHA) and Magnetic Resonance Imaging (MRI)",
+        "Complete blood count (eosinophilia) and Plain abdominal X-ray"
+      ],
+      "answer": 2,
+      "explanation": "Indirect Haemagglutination is the most accurate serological test (while ELISA is the most specific). MRI is the most accurate imaging modality for detecting the site, size, and shape of the cyst. (Note: Casoni's skin test has a high 40% false-positive rate.)"
+    },
+    {
+      "q": "During a planned surgical excision of a live hepatic hydatid cyst, what critical intraoperative precautions and surgical steps must the surgeon execute?",
+      "options": [
+        "Occlude the portal triad (Pringle maneuver) and perform a wide hepatic lobectomy",
+        "Surround the cyst with dark green towels moistened with a scolicidal agent (Betadine/Hypertonic Saline), aspirate fluid first, inject scolicidal agent, excise, and fill the cavity with an omental patch",
+        "Immediate en-bloc trans-peritoneal resection without prior aspiration to avoid any risk of needle tracking",
+        "Extracorporeal shock-wave lithotripsy followed by laparoscopic PAIR protocol"
+      ],
+      "answer": 1,
+      "explanation": "To prevent dangerous peritoneal dissemination and anaphylactic shock from accidental spillage, the surgical field is packed with dark green towels soaked in a scolicidal agent (Betadine or Hypertonic Saline). The cyst is aspirated first, a scolicidal agent is injected, the adventitia is incised to excise the cyst, and the remaining space is closed with an omental patch (omentoplasty)."
+    },
+    {
+      "q": "In which of the following patients is medical therapy with Albendazole or Mebendazole (400–600 mg every 8 hours for a month) the preferred primary approach rather than standard surgical excision?",
+      "options": [
+        "A young, healthy patient with a single, large, viable 8 cm cyst in the right lobe",
+        "An elderly, unfit patient, or those with small multiple cysts, or as pre- and post-operative cover",
+        "Any patient presenting with a calcified, inactive, and sterile cyst",
+        "As a complete substitute for surgery in all cases of active hydatid disease"
+      ],
+      "answer": 1,
+      "explanation": "Medical therapy does not replace surgery for active, resectable cysts. However, it is highly valuable for elderly/unfit patients, small multiple cysts, recurrent cases, and as pre- and post-operative cover. (Calcified cysts are sterile/inactive and generally require no intervention.)"
+    },
+    {
+      "q": "A 35-year-old male presents with acute right upper quadrant pain, high fever with rigors, and mild scleral icterus. Based on your surgical pathology curriculum, which of the following features would strongly point toward a Pyogenic Liver Abscess rather than an Amoebic Liver Abscess?",
+      "options": [
+        "History of dysentery and a single Segment VII cavity on CT",
+        "Marked leukocytosis, presentation with Charcot's triad (pain, jaundice, fever with rigors), and association with biliary obstruction",
+        "A positive skin reaction (edema and redness) after intradermal injection of hydatid fluid",
+        "Rapid clinical improvement after 48 hours of Metronidazole therapy"
+      ],
+      "answer": 1,
+      "explanation": "Charcot's triad (pain, jaundice, and fever with rigors) is highly characteristic of a pyogenic liver abscess of biliary (cholangitic) origin, which is the most common route of pyogenic infection. It is associated with severe systemic toxicity and high-grade fevers, unlike the low-grade fevers and typical single, posterocubital Segment VII localization of uncomplicated amoebic abscesses."
+    }
+  ]
+}
