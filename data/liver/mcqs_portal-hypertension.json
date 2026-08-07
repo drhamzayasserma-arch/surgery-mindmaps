@@ -1,0 +1,224 @@
+{
+  "questions": [
+    {
+      "q": "Normal portal vein pressure is defined within which of the following ranges, and at what pressure threshold is the clinical diagnosis of portal hypertension established?",
+      "options": [
+        "Normal: 1–3 mmHg; Portal Hypertension: > 5 mmHg",
+        "Normal: 5–10 mmHg; Portal Hypertension: > 20 mmHg",
+        "Normal: 12–15 mmHg; Portal Hypertension: > 35 mmHg",
+        "Normal: 20–25 mmHg; Portal Hypertension: > 50 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "Normal portal vein pressure is 5–10 mmHg (8–12 cm H₂O). Portal hypertension is clinically defined when portal venous pressure exceeds 20 mmHg (25–30 cm H₂O)."
+    },
+    {
+      "q": "A 22-year-old male with a history of neonatal umbilical sepsis presents with massive upper gastrointestinal bleeding. On workup, he is diagnosed with portal hypertension. His liver biopsy is completely normal, and liver function tests are within normal limits. Which of the following is the most likely etiology?",
+      "options": [
+        "Schistosomiasis",
+        "Liver Cirrhosis",
+        "Budd-Chiari Syndrome",
+        "Extra-hepatic portal vein thrombosis"
+      ],
+      "answer": 3,
+      "explanation": "Neonatal umbilical sepsis is a classic pre-hepatic cause of extra-hepatic portal vein thrombosis. Pre-hepatic causes are uniquely characterized by the absolute absence of hepatic parenchymal dysfunction and normal liver histology."
+    },
+    {
+      "q": "In endemic regions like Egypt, Schistosomiasis (Bilharziasis) is a major cause of portal hypertension. Under which etiological classification does Schistosomiasis fall, and what is its characteristic histopathology?",
+      "options": [
+        "Pre-hepatic; extra-hepatic venous thrombosis",
+        "Intra-hepatic pre-sinusoidal; peri-portal tract fibrosis",
+        "Intra-hepatic sinusoidal; regenerating hepatocyte nodules",
+        "Post-hepatic; hepatic vein ostial stenosis"
+      ],
+      "answer": 1,
+      "explanation": "Schistosomiasis is an intra-hepatic pre-sinusoidal cause of portal hypertension. The clinical pathology is characterized by peri-portal tract fibrosis triggered by the deposition of parasitic eggs in the portal venules."
+    },
+    {
+      "q": "A 48-year-old female is diagnosed with Budd-Chiari Syndrome. Obstruction of which vascular structure is the hallmark of this condition, and what is its classic clinical triad?",
+      "options": [
+        "Portal vein bifurcation; pain, hematemesis, and splenomegaly",
+        "Splenic vein; isolated gastric varices, anemia, and thrombocytopenia",
+        "Main hepatic veins; abdominal pain, tense ascites, and hepatomegaly",
+        "Inferior mesenteric vein; bleeding piles, diarrhea, and cachexia"
+      ],
+      "answer": 2,
+      "explanation": "Budd-Chiari syndrome is caused by the thrombotic or malignant obstruction of the main hepatic veins at their opening into the IVC. It presents with the classic clinical triad of abdominal pain, tense ascites, and hepatomegaly."
+    },
+    {
+      "q": "When evaluating the anastomotic sites of porto-systemic collaterals in portal hypertension, which correctly pairs the portal venous tributary with its systemic venous tributary at the lower end of the rectum?",
+      "options": [
+        "Superior rectal vein anastomosing with middle and inferior rectal veins",
+        "Left gastric vein anastomosing with esophageal azygos veins",
+        "Para-umbilical veins anastomosing with epigastric veins",
+        "Superior mesenteric vein anastomosing with posterior abdominal wall veins"
+      ],
+      "answer": 0,
+      "explanation": "At the lower end of the rectum and anal canal, the portal venous tributary is the superior rectal (hemorrhoidal) vein. It anastomoses with the systemic tributaries, which are the middle and inferior rectal veins, leading to the development of secondary piles."
+    },
+    {
+      "q": "A 55-year-old cirrhotic patient presents with radiating, dilated superficial abdominal veins around his umbilicus, known as \"Caput Medusae.\" This physical sign represents a patent collateral network between which vessels?",
+      "options": [
+        "Esophageal branches of the left gastric vein and azygos veins",
+        "Para-umbilical veins (in the ligamentum teres) and superior/inferior epigastric veins",
+        "Superior mesenteric vein and retroperitoneal renal veins",
+        "Short gastric veins and left phrenic veins"
+      ],
+      "answer": 1,
+      "explanation": "Caput Medusae is formed at the umbilicus by the collateral anastomosis of the para-umbilical veins (portal system, running in the ligamentum teres) with the superior and inferior epigastric veins (systemic system)."
+    },
+    {
+      "q": "A patient with portal hypertension is noted to have severe splenomegaly. On laboratory evaluation, he exhibits pancytopenia indicative of secondary hypersplenism. Which diagnostic test is considered highly specific for documenting this overactivity of the spleen?",
+      "options": [
+        "Digital Subtraction Angiography (DSA) of the celiac trunk",
+        "Radiofrequency ablation scintigraphy",
+        "Radioactive isotopic studies using the patient's RBCs tagged with Chromium-51 (Cr⁵¹)",
+        "Core needle biopsy of the splenic pulp"
+      ],
+      "answer": 2,
+      "explanation": "Secondary hypersplenism is documented using a radioactive isotope study where the patient's RBCs are tagged with Chromium-51 (Cr⁵¹). This test demonstrates a shortened half-life of the circulating RBCs and a marked concentration of radioactivity localized over the spleen."
+    },
+    {
+      "q": "The pathogenesis of ascites in a cirrhotic patient with portal hypertension is multi-factorial. Which mechanism is responsible for the systemic salt and water retention seen in these patients?",
+      "options": [
+        "Massive localized filtration of fluid through the splenic capsule",
+        "Failure of the diseased liver to inactivate antidiuretic hormone (ADH) and aldosterone",
+        "Severe hypoalbuminemia increasing plasma oncotic pressure",
+        "Thrombosis of the renal veins by migrating microthrombi"
+      ],
+      "answer": 1,
+      "explanation": "Cirrhotic ascites is multi-factorial. Systemic fluid retention is primarily driven by hepatic insufficiency, where the diseased liver fails to metabolically inactivate ADH and aldosterone, leading to sustained renal retention of sodium and water."
+    },
+    {
+      "q": "Esophageal varices can be identified throughout the entire length of the esophagus during endoscopy, yet clinical bleeding occurs almost exclusively within the lower 3–5 cm. What is the pathological explanation for this localized bleeding pattern?",
+      "options": [
+        "Splanchnic blood flow is highest at the gastroesophageal junction",
+        "The mucosal veins at this specific site run superficially in the lamina propria and lack muscular or tissue support",
+        "Columnar metaplasia (Barrett's esophagus) erodes the adjacent veins",
+        "High gastric acid production directly digests the lower esophageal wall"
+      ],
+      "answer": 1,
+      "explanation": "While varices run all-through the esophagus, bleeding occurs only in the lower 3–5 cm because the veins at this specific site lie superficially within the lamina propria (unsupported by muscularis mucosae), leaving them vulnerable to erosion and rupture."
+    },
+    {
+      "q": "Why is esophageal variceal hemorrhage clinically characterized as massive, continuous, and highly unlikely to arrest spontaneously?",
+      "options": [
+        "Esophageal varices are thick-walled muscular arteries",
+        "Splanchnic vasoconstrictors are degraded by colonic bacteria",
+        "The negative intra-thoracic pressure during respiration acts as a continuous vacuum that keeps the ruptured venous lumen open",
+        "High portal pressure destroys the coagulation factors at the site of injury"
+      ],
+      "answer": 2,
+      "explanation": "Unlike other GI bleeds, variceal hemorrhage does not stop spontaneously because the negative intra-thoracic pressure during respiration continuously exerts a vacuum effect that keeps the unsupported, ruptured thin-walled veins held wide open."
+    },
+    {
+      "q": "During an elective upper GI endoscopy on a patient with chronic liver disease, the gastroenterologist notes \"cherry-red spots\" and erosions on large, tortuous esophageal varices. How should this endoscopic finding be graded, and what is its clinical significance?",
+      "options": [
+        "Grade I; indicating a low risk of bleeding that can be monitored conservatively",
+        "Grade II; indicating the need for immediate surgical shunt placement",
+        "Grade III; indicating the need for long-term beta-blocker therapy only",
+        "Grade IV; indicating impending rupture requiring active prophylactic intervention"
+      ],
+      "answer": 3,
+      "explanation": "Endoscopic Grade IV is characterized by the presence of mucosal erosions, ulceration, and cherry-red spots, which are classic clinical markers of impending rupture and indicate the need for active prophylactic treatment."
+    },
+    {
+      "q": "You are evaluating a patient's liver status before a major abdominal operation. He has a serum bilirubin of 2.5 mg/dL, a serum albumin of 3.2 g/dL, moderate ascites controlled with diuretics, no neurological encephalopathy, and a Prothrombin Time prolongation of < 4 seconds. According to the Modified Child's classification, what is his total score and surgical suitability?",
+      "options": [
+        "6 points; Child A (Highly suitable for surgery)",
+        "8 points; Child B (Marginally suitable for surgery)",
+        "11 points; Child C (Unsuitable for elective surgery)",
+        "13 points; Child C (Requires emergency total shunt surgery)"
+      ],
+      "answer": 1,
+      "explanation": "Scoring: Bilirubin 2–3 mg/dL = 2 points, Albumin 2.8–3.5 g/dL = 2 points, Ascites (controlled) = 2 points, PT prolongation < 4 sec = 1 point, Encephalopathy (none) = 1 point. Total = 8 points. This falls into Child B (7–9 points), indicating marginal suitability for surgery."
+    },
+    {
+      "q": "Blood in the intestinal tract of a patient with active variceal bleeding is fermented by colonic bacteria into ammonia, putting the patient at extreme risk for hepatic coma. Which therapeutic regimen is indicated to reduce the bacterial flora and prevent encephalopathy?",
+      "options": [
+        "Intravenous Vitamin K injections",
+        "Sclerotherapy combined with beta-blockers",
+        "Oral Lactulose and oral Neomycin (0.5 g every 4 hours)",
+        "Absolute bed rest under opiate sedation"
+      ],
+      "answer": 2,
+      "explanation": "To prevent hepatic coma, gut bacteria must be suppressed and ammonia cleared. Lactulose is fermented into lactic acid to bind ammonia, and Neomycin (0.5 g every 4 hours) or Flagyl is administered to directly reduce the ammonia-producing bacterial flora. (Note: Opiates are strictly contraindicated as they precipitate hepatic coma.)"
+    },
+    {
+      "q": "Intravenous Vasopressin (Pitressin) can be used to manage acute variceal bleeding. Which cardiovascular side effect represents a major contraindication to its use, and what is the preferred safer alternative?",
+      "options": [
+        "Severe systemic hypotension; treat with Nitroglycerin",
+        "Coronary artery spasm causing anginal pain; use Octreotide (Somatostatin) instead",
+        "High-output cardiac failure; use Propranolol instead",
+        "Atrial fibrillation; use Vasopressin only in the ICU"
+      ],
+      "answer": 1,
+      "explanation": "Vasopressin causes non-selective vasoconstriction, which can trigger dangerous coronary artery spasms and anginal pain. Octreotide (Somatostatin) is a selective splanchnic vasoconstrictor with a safer profile and is the preferred alternative."
+    },
+    {
+      "q": "A 55-year-old male with active variceal bleeding is undergoing temporary mechanical tamponade using a Sengstaken-Blakemore tube. What are the correct physiological parameters and clinical limits for the deployment of this device?",
+      "options": [
+        "Esophageal balloon inflated to 200 cc of volume; cannot maintain for > 12 hours",
+        "Gastric balloon inflated with 200 cc of volume and esophageal balloon inflated to 40 mmHg; cannot maintain for > 48 hours",
+        "Both balloons inflated to 100 mmHg; can be left in place for up to 1 week",
+        "Gastric balloon inflated to 40 mmHg and esophageal balloon with 500 cc of saline; cannot maintain for > 24 hours"
+      ],
+      "answer": 1,
+      "explanation": "Tamponade parameters require the gastric balloon to be inflated to 200 cc of volume and the esophageal balloon to 40 mmHg. It cannot be maintained for > 48 hours due to the risk of severe mucosal ischemic necrosis, ulceration, or perforation."
+    },
+    {
+      "q": "Long-term administration of non-selective beta-blockers (such as Propranolol/Inderal) is a cornerstone of esophageal varices management. What is their correct clinical indication?",
+      "options": [
+        "Intravenous administration during an acute, active bleeding episode",
+        "Long-term oral prophylaxis to prevent recurrent bleeding",
+        "To stimulate hepatic regeneration in patients with Child C cirrhosis",
+        "To treat secondary hypersplenism and reverse pancytopenia"
+      ],
+      "answer": 1,
+      "explanation": "Non-selective beta-blockers are used orally for long-term prophylaxis to prevent recurrent bleeding; they are not helpful and are contraindicated during an acute bleeding episode."
+    },
+    {
+      "q": "A cirrhotic patient with recurrent, life-threatening variceal bleeding is scheduled for surgery. The surgical team decides to perform a total portocaval shunt. While this total shunt is highly effective at stopping bleeding, what is its primary post-operative complication?",
+      "options": [
+        "High rate of anastomotic stricture requiring repeated dilatation",
+        "Severe acceleration of hepatic encephalopathy",
+        "Acute thrombosis of the hepatic artery",
+        "Biliary gastritis and alkaline reflux vomiting"
+      ],
+      "answer": 1,
+      "explanation": "Total shunt operations (like the Portocaval shunt) divert the entire portal flow directly into the systemic circulation (IVC), bypassing the liver. This leads to a severe accumulation of toxic ammonia in the systemic circulation, severely accelerating hepatic encephalopathy."
+    },
+    {
+      "q": "In endemic regions where Bilharziasis is common, the Hassab-Kairy operation is highly popular. Which correctly describes the steps of this procedure, and what is its primary advantage?",
+      "options": [
+        "Anastomosing the splenic vein to the left renal vein; maintains portal perfusion to prevent splenomegaly",
+        "Splenectomy and devascularization of the lower 4–10 cm of the esophagus and upper stomach; stops hematemesis with zero risk of post-operative encephalopathy",
+        "Esophageal transaction using a circular stapler; reduces the need for post-operative beta-blockers",
+        "Left lobectomy and creation of an intrahepatic portosystemic stent; avoids the risk of post-operative ascites"
+      ],
+      "answer": 1,
+      "explanation": "The Hassab-Kairy operation is a non-shunt devascularization procedure consisting of splenectomy and meticulous gastro-esophageal devascularization. Its primary advantage is that it stops hematemesis without any risk of post-operative hepatic encephalopathy because portal blood flow to the hepatocyte is fully preserved."
+    },
+    {
+      "q": "A 40-year-old female presents with massive hematemesis. Emergency endoscopy reveals large, actively bleeding gastric varices localized strictly within the gastric fundus, but a completely normal esophagus. She has a history of chronic pancreatitis. What is the most likely etiology, and what is the definitive curative treatment?",
+      "options": [
+        "Liver cirrhosis; TIPSS",
+        "Schistosomiasis; Hassab-Kairy operation",
+        "Budd-Chiari Syndrome; urgent portocaval shunt",
+        "Splenic vein thrombosis; splenectomy"
+      ],
+      "answer": 3,
+      "explanation": "This patient has sinistral (left-sided) portal hypertension caused by Splenic Vein Thrombosis (SVT) secondary to her pancreatitis. Blocked splenic outflow is forced through the short gastric veins, forming isolated gastric varices along the fundus. A splenectomy is 100% curative as it removes the source of the high-pressure venous obstruction."
+    },
+    {
+      "q": "A 12-year-old child presents with a history of recurrent hematemesis. On evaluation, he is found to have massive splenomegaly, pancytopenia, and large esophageal varices on endoscopy. He has normal liver enzymes, normal serum albumin, and no ascites or jaundice. What is the most likely diagnosis?",
+      "options": [
+        "Non-cirrhotic portal hypertension due to chronic portal vein thrombosis",
+        "Post-hepatic portal hypertension due to Budd-Chiari syndrome",
+        "Childhood liver cirrhosis secondary to Hepatitis B",
+        "Intra-hepatic pre-sinusoidal portal hypertension due to Schistosomiasis"
+      ],
+      "answer": 0,
+      "explanation": "Portal vein thrombosis is a main cause of non-cirrhotic portal hypertension in children and young adults. It is characterized by severe portal hypertension sequelae (varices, splenomegaly, hypersplenism) in the absolute absence of hepatic parenchymatous dysfunction (normal albumin, normal enzymes, no ascites or encephalopathy)."
+    }
+  ]
+}
