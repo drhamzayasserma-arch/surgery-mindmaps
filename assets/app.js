@@ -65,28 +65,31 @@ function unslugify(slug) {
  * Priority: localStorage → data/categories.json
  */
 async function loadCategories() {
-  // Try localStorage first
+  let localData = [];
   const stored = localStorage.getItem('surgery_maps_categories');
   if (stored) {
     try {
-      return JSON.parse(stored);
-    } catch (e) {
-      console.warn('Invalid localStorage categories, falling back to JSON file');
-    }
+      localData = JSON.parse(stored);
+    } catch (e) {}
   }
-  // Fallback to JSON file
+  
   try {
-    const resp = await fetch('data/categories.json');
+    const resp = await fetch('data/categories.json', { cache: 'no-cache' });
     if (resp.ok) {
       const data = await resp.json();
-      // Cache in localStorage
-      localStorage.setItem('surgery_maps_categories', JSON.stringify(data.categories));
-      return data.categories;
+      const serverData = data.categories;
+      const merged = [...serverData];
+      const serverIds = new Set(serverData.map(c => c.id));
+      for (const lc of localData) {
+        if (!serverIds.has(lc.id)) merged.push(lc);
+      }
+      localStorage.setItem('surgery_maps_categories', JSON.stringify(merged));
+      return merged;
     }
   } catch (e) {
     console.warn('Could not load categories.json:', e);
   }
-  return [];
+  return localData;
 }
 
 /**
@@ -102,26 +105,31 @@ function saveCategoriesToLocal(categories) {
  */
 async function loadTopics(catId) {
   const storageKey = `surgery_maps_topics_${catId}`;
+  let localTopics = [];
   const stored = localStorage.getItem(storageKey);
   if (stored) {
     try {
-      return JSON.parse(stored);
-    } catch (e) {
-      console.warn('Invalid localStorage topics, falling back to JSON file');
-    }
+      localTopics = JSON.parse(stored);
+    } catch (e) {}
   }
-  // Fallback to JSON file
+  
   try {
-    const resp = await fetch(`data/${catId}/topics.json`);
+    const resp = await fetch(`data/${catId}/topics.json`, { cache: 'no-cache' });
     if (resp.ok) {
       const data = await resp.json();
-      localStorage.setItem(storageKey, JSON.stringify(data.topics));
-      return data.topics;
+      const serverTopics = data.topics;
+      const merged = [...serverTopics];
+      const serverIds = new Set(serverTopics.map(t => t.id));
+      for (const lt of localTopics) {
+        if (!serverIds.has(lt.id)) merged.push(lt);
+      }
+      localStorage.setItem(storageKey, JSON.stringify(merged));
+      return merged;
     }
   } catch (e) {
     console.warn(`Could not load topics for ${catId}:`, e);
   }
-  return [];
+  return localTopics;
 }
 
 /**
