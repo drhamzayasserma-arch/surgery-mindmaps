@@ -1,0 +1,224 @@
+{
+  "questions": [
+    {
+      "q": "A surgeon is reviewing the dimensions and anatomical landmarks of the gallbladder before a laparoscopic procedure. According to the textbook, what is the normal length and capacity of a healthy human gallbladder?",
+      "options": [
+        "5.0–7.5 cm long, with a capacity of 30 ml",
+        "7.5–12.5 cm long, with a capacity of 50 ml",
+        "12.5–15.0 cm long, with a capacity of 100 ml",
+        "15.0–18.5 cm long, with a capacity of 150 ml"
+      ],
+      "answer": 1,
+      "explanation": "The gallbladder is a pear-shaped organ lying on the visceral surface of the liver, measuring approximately 7.5–12.5 cm long with a normal capacity of 50 ml."
+    },
+    {
+      "q": "During a laparoscopic cholecystectomy, the surgical team dissects the peritoneal coverings of the gallbladder. Which of the following statements correctly describes the peritoneal relations of the divisions of the gallbladder?",
+      "options": [
+        "The fundus is completely retroperitoneal, while the body is completely covered in peritoneum.",
+        "Both the fundus and the body are completely covered in peritoneum.",
+        "The fundus is usually completely covered with peritoneum, whereas the body is only partially covered.",
+        "Both the fundus and the body are completely retroperitoneal."
+      ],
+      "answer": 2,
+      "explanation": "The fundus is located at the angle of the 9th rib and is completely covered with peritoneum. The body lies in contact with the 1st part of the duodenum in the gallbladder fossa and is only partially covered with peritoneum."
+    },
+    {
+      "q": "Microscopic mucosal invaginations known as the \"Crypts of Luschka\" are histologically characteristic of which specific division of the gallbladder?",
+      "options": [
+        "Fundus",
+        "Body",
+        "Infundibulum",
+        "Neck"
+      ],
+      "answer": 1,
+      "explanation": "The mucosa of the body of the gallbladder characteristically contains the crypts of Luschka."
+    },
+    {
+      "q": "An angulated posterior portion of the gallbladder body may pathologically dilate when a gallstone becomes impacted within it. What is the clinical term for this dilated anatomical compartment?",
+      "options": [
+        "Phrygian cap",
+        "Spiral valve of Heister",
+        "Hartmann's pouch",
+        "Ampulla of Vater"
+      ],
+      "answer": 2,
+      "explanation": "The infundibulum is the angulated posterior part of the body, which, when dilated (often due to stone impaction), is clinically called Hartmann's pouch."
+    },
+    {
+      "q": "A resident is asked to identify the anatomical structure responsible for preventing the collapse or over-distension of the cystic duct during sudden pressure changes. This mucosal structure is arranged in crescentic folds and is known as the:",
+      "options": [
+        "Sphincter of Oddi",
+        "Spiral valve of Heister",
+        "Crypts of Luschka",
+        "Major duodenal papilla"
+      ],
+      "answer": 1,
+      "explanation": "The mucosa of the cystic duct (which is 1–3 cm long and 2–3 mm in diameter) is arranged in crescentic folds to form the spiral valve of Heister."
+    },
+    {
+      "q": "The right hepatic duct drains segments of the right liver lobe. Anatomically, how is the right hepatic duct formed?",
+      "options": [
+        "By the union of the medial and lateral segmental hepatic ducts",
+        "By the union of the anterior and posterior segmental hepatic ducts",
+        "By the union of the caudate and quadrate segmental hepatic ducts",
+        "By the union of the superior and inferior segmental hepatic ducts"
+      ],
+      "answer": 1,
+      "explanation": "The Right hepatic duct is formed by the union of the anterior and posterior segmental hepatic ducts, whereas the Left hepatic duct is formed by the union of the medial and lateral segmental hepatic ducts."
+    },
+    {
+      "q": "Which of the following options correctly represents the average diameters of the Common Hepatic Duct (CHD) and the Common Bile Duct (CBD), respectively?",
+      "options": [
+        "CHD: 2 mm; CBD: 4 mm",
+        "CHD: 4 mm; CBD: 8 mm",
+        "CHD: 8 mm; CBD: 12 mm",
+        "CHD: 10 mm; CBD: 15 mm"
+      ],
+      "answer": 1,
+      "explanation": "The common hepatic duct has an average diameter of 4 mm (and length of 2–3 cm). The common bile duct has an average diameter of 8 mm (and length of 5–10 cm)."
+    },
+    {
+      "q": "The extra-hepatic biliary tree has a segmented arterial supply. Which of the following options correctly maps the arterial supply to the corresponding biliary segments?",
+      "options": [
+        "Gallbladder is supplied by the gastroduodenal artery; CBD is supplied by the splenic artery.",
+        "Gallbladder is supplied by the cystic artery; Biliary tracts above the duodenum are supplied by descending choledochoal arteries.",
+        "Biliary tracts below the duodenum are supplied by short gastric arteries.",
+        "The entire extrahepatic biliary tract is supplied exclusively by the left gastric artery."
+      ],
+      "answer": 1,
+      "explanation": "The gallbladder is supplied by the cystic artery (arising from the right hepatic artery) and cholecysto-hepatic arteries. Biliary tracts situated above the duodenum are supplied by descending choledochoal arteries, while retro- and infra-duodenal biliary tracts are supplied by branches of the gastro-duodenal artery."
+    },
+    {
+      "q": "⚠️ Surgical Safety Alert: During exploration or dissection of the common bile duct, why must the surgeon strictly avoid dissecting at the 3 o'clock and 9 o'clock longitudinal positions?",
+      "options": [
+        "The parasympathetic vagal nerves run along these borders.",
+        "The main venous drainage to the portal vein is located here.",
+        "The longitudinal blood supply of the bile ducts runs strictly at these positions, and dissecting them causes ischemic necrosis/stricture.",
+        "The accessory pancreatic ducts open into the CBD at these angles."
+      ],
+      "answer": 2,
+      "explanation": "The blood supply of the bile ducts runs longitudinally at the 3 and 9 o'clock positions; therefore, surgical exploration or dissection at these positions must be avoided to prevent ischemic duct injury."
+    },
+    {
+      "q": "Which of the following is correct regarding the venous drainage of the gallbladder?",
+      "options": [
+        "Venous drainage runs parallel to the cystic artery course into the celiac vein.",
+        "The main cystic vein directly enters the Left branch of the portal vein.",
+        "Small veins directly enter the liver bed, while the cystic vein enters the Right branch of the portal vein.",
+        "The venous outflow drains exclusively into the splenic vein."
+      ],
+      "answer": 2,
+      "explanation": "Gallbladder venous drainage is not related to the course of the cystic artery. Small veins enter the liver bed directly, while the cystic vein enters the Right branch of the portal vein."
+    },
+    {
+      "q": "Autonomic parasympathetic motor innervation to the gallbladder, which promotes contraction and bile evacuation, is supplied by:",
+      "options": [
+        "The posterior truncal vagus nerve",
+        "The pelvic splanchnic nerves (S2, S3, S4)",
+        "The hepatic branch of the anterior vagus nerve",
+        "The greater splanchnic nerve (T5–T10)"
+      ],
+      "answer": 2,
+      "explanation": "Parasympathetic fibers reach the gallbladder through the hepatic branch of the anterior vagus nerve."
+    },
+    {
+      "q": "A surgical resident is dissecting the hepatocystic triangle to safely isolate the cystic duct and artery. What are the correct anatomical boundaries of the Hepato-cystic Triangle?",
+      "options": [
+        "Cystic artery (superiorly), Common hepatic duct (medially), Cystic duct (inferiorly)",
+        "Lower margin of the liver (superiorly), Cystic duct (inferolaterally), Common hepatic duct (medially)",
+        "Right hepatic duct (superiorly), Portal vein (posteriorly), Gallbladder wall (laterally)",
+        "Duodenum (inferiorly), Pancreatic head (medially), Cystic duct (laterally)"
+      ],
+      "answer": 1,
+      "explanation": "The Hepato-cystic Triangle is bounded by the under surface of the liver, the cystic duct, and the common hepatic duct."
+    },
+    {
+      "q": "Calot's (Callot's) Triangle is a critical surgical sub-space. What are the boundaries of Calot's Triangle, and what important lymphatic structure does it contain?",
+      "options": [
+        "Bounded by the liver, cystic duct, and CHD; contains the hepatic lymph node.",
+        "Bounded by the cystic artery, common hepatic duct, and cystic duct; contains the Cystic Lymph Node of Lund.",
+        "Bounded by the portal vein, hepatic artery, and CBD; contains the celiac node.",
+        "Bounded by the gallbladder wall, liver, and cystic artery; contains Cloquet's node."
+      ],
+      "answer": 1,
+      "explanation": "Calot's Triangle is bounded by the cystic artery, the common hepatic duct (CHD), and the cystic duct. It contains the cystic lymph node of Lund."
+    },
+    {
+      "q": "During a difficult cholecystectomy, the surgeon notes a tortuous, looped Right Hepatic Artery that arches in front of the common bile duct, resulting in an extremely short cystic artery. What is this hazardous vascular anomaly called?",
+      "options": [
+        "Saint's triad",
+        "Moynihan's hump (Caterpillar turn)",
+        "Phrygian cap",
+        "Inverted cystic artery"
+      ],
+      "answer": 1,
+      "explanation": "The caterpillar turn (Moynihan's hump deformity) is an abnormal course of the Right Hepatic Artery, where it becomes highly tortuous and passes in front of the bile duct, leaving a very short cystic artery that is highly prone to accidental ligation or injury."
+    },
+    {
+      "q": "A 25-year-old female is found to have a \"Phrygian cap\" on a routine abdominal ultrasound. This finding represents:",
+      "options": [
+        "An accessory gallbladder with a duplicated cystic duct",
+        "A congenital kink in the fundus of the gallbladder",
+        "A diverticulum protruding directly from the common bile duct",
+        "Complete atresia of the common hepatic duct"
+      ],
+      "answer": 1,
+      "explanation": "A Phrygian cap is a benign congenital anomaly of the gallbladder where there is a kinked fundus; it is present in approximately 2.5% of the population."
+    },
+    {
+      "q": "Bile is continuously synthesized and secreted by the liver parenchyma. What is the normal baseline rate of hepatic bile excretion?",
+      "options": [
+        "10 ml/hour",
+        "20 ml/hour",
+        "40 ml/hour",
+        "80 ml/hour"
+      ],
+      "answer": 2,
+      "explanation": "The liver excretes bile at a continuous baseline rate of 40 ml/hour."
+    },
+    {
+      "q": "The concentration of bile within the gallbladder is a key physiological process. By what factor does the gallbladder concentrate bile, and which ions/substances are reabsorbed to achieve this?",
+      "options": [
+        "Concentrated 2 times by reabsorbing glucose and proteins",
+        "Concentrated 5–10 times by reabsorbing water, sodium chloride (NaCl), and bicarbonate",
+        "Concentrated 20 times by secreting potassium and hydrogen ions",
+        "Concentrated 50 times by reabsorbing bile pigments and cholesterol"
+      ],
+      "answer": 1,
+      "explanation": "The gallbladder stores and concentrates bile 5–10 times by reabsorbing water, NaCl, and bicarbonate."
+    },
+    {
+      "q": "A patient eats a meal rich in fats and lipids. Which of the following physiological cascades is triggered to allow the excretion of concentrated bile into the duodenum?",
+      "options": [
+        "Secretion of Gastrin -> contraction of the sphincter of Oddi -> relaxation of the gallbladder wall.",
+        "Release of Cholecystokinin (CCK) from the duodenum -> contraction of the gallbladder -> relaxation of the sphincter of Oddi.",
+        "Secretion of Somatostatin -> closure of the cystic duct -> activation of the gastric pump.",
+        "Release of Secretin -> direct activation of the spiral valve of Heister."
+      ],
+      "answer": 1,
+      "explanation": "Fat ingestion in the duodenum triggers the release of Cholecystokinin (CCK). CCK coordinates biliary excretion by stimulating gallbladder contraction and sphincter of Oddi relaxation."
+    },
+    {
+      "q": "A large gallstone becomes impacted in the neck of the gallbladder or Hartmann's pouch, causing severe localized inflammation that externally compresses the adjacent Common Hepatic Duct (CHD), resulting in obstructive jaundice. This clinical pathology is known as:",
+      "options": [
+        "Saint's triad",
+        "Budd-Chiari syndrome",
+        "Mirizzi's syndrome",
+        "Gallstone ileus"
+      ],
+      "answer": 2,
+      "explanation": "Mirizzi's syndrome is caused by a large gallstone impacted in the cystic duct or Hartmann's pouch that externally compresses the common hepatic duct, causing biliary obstruction and jaundice."
+    },
+    {
+      "q": "In \"Gallstone Ileus,\" a massive gallstone in Hartmann's pouch erodes through the inflamed gallbladder wall directly into the gastrointestinal tract. What is the most common anatomical site of this fistulous communication, and where does the stone typically cause mechanical obstruction?",
+      "options": [
+        "Cholecystogastric fistula -> obstruction at the pyloric sphincter",
+        "Cholecystoduodenal fistula -> obstruction at the narrow terminal ileum",
+        "Cholecystojejunal fistula -> obstruction at the ligament of Treitz",
+        "Cholecystocolic fistula -> obstruction at the sigmoid colon"
+      ],
+      "answer": 1,
+      "explanation": "In gallstone ileus, a very large stone erodes into the duodenum, creating a cholecystoduodenal fistula. The stone travels down the gastrointestinal tract and becomes impacted at the terminal ileum (the narrowest part of the small bowel near the ileocecal valve), causing a mechanical obstruction."
+    }
+  ]
+}
