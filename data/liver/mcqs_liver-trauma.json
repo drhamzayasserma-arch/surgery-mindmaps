@@ -1,0 +1,168 @@
+{
+  "questions": [
+    {
+      "q": "A 43-year-old male is involved in a high-impact motor vehicle collision. Which of the following pre-existing pathological conditions would clinically make his liver significantly more vulnerable to traumatic rupture from blunt abdominal impact?",
+      "options": [
+        "Chronic atrophic gastritis",
+        "Pathological hepatomegaly (liver enlargement) or a congested liver",
+        "History of non-specific mesenteric lymphadenitis",
+        "Prior highly selective vagotomy"
+      ],
+      "answer": 1,
+      "explanation": "Predisposing factors that make the liver highly susceptible to trauma include liver enlargement (hepatomegaly)—which physically increases its surface exposure—and underlying diseases of the liver, such as a congested liver."
+    },
+    {
+      "q": "During a surgical board review, a resident is asked about the incidence of solid organ injury in abdominal trauma. According to the textbook and lecture notes, how does the liver rank in blunt trauma compared to other visceral organs?",
+      "options": [
+        "It is the most common overall, with 95% of cases requiring immediate surgery",
+        "It is the second most common injured solid organ after the spleen, with 80% of cases associated with other abdominal trauma",
+        "It is less commonly injured than the pancreas due to its protected retroperitoneal location",
+        "It is the most common organ injured in penetrating trauma but rarely injured in blunt trauma"
+      ],
+      "answer": 1,
+      "explanation": "The liver is the 2nd common injured solid organ after the spleen. Furthermore, approximately 80% of liver injuries are associated with other concurrent abdominal trauma."
+    },
+    {
+      "q": "Which of the following clinical scenarios represents an \"iatrogenic\" etiology of liver trauma?",
+      "options": [
+        "A right-sided lower chest wall laceration from a stab wound",
+        "A parenchymal tear occurring as a complication of a percutaneous liver biopsy",
+        "Spontaneous capsular rupture of a diseased liver during a violent coughing fit",
+        "Direct steering wheel compression during a motor vehicle accident"
+      ],
+      "answer": 1,
+      "explanation": "Liver trauma etiologies are classified into Closed (blunt), Opened (penetrating), and Iatrogenic—the latter being caused by invasive diagnostic investigations, classically a percutaneous liver biopsy."
+    },
+    {
+      "q": "A hemodynamically stable patient undergoes an abdominal contrast CT scan after blunt trauma. The scan demonstrates an intraparenchymal hepatic hematoma measuring 6 cm in diameter, accompanied by a single parenchymal laceration of 2 cm in depth and 8 cm in length. According to the AAST Liver Injury Scale, how is this injury graded?",
+      "options": [
+        "Grade I",
+        "Grade II",
+        "Grade III",
+        "Grade IV"
+      ],
+      "answer": 1,
+      "explanation": "According to the AAST Liver Injury Scale, Grade II hematomas are subcapsular 10%-50% or intraparenchymal <10 cm in diameter; Grade II lacerations are 1–3 cm parenchymal depth and <10 cm in length. This patient's findings fit the criteria for a Grade II liver injury."
+    },
+    {
+      "q": "A trauma surgeon is reviewing a CT scan of a patient with a severe liver injury. The scan reveals deep parenchymal disruption involving more than 75% of the right hepatic lobe, along with active contrast extravasation from the retrohepatic inferior vena cava. How is this injury graded, and what is its prognosis?",
+      "options": [
+        "Grade III; low mortality with conservative management",
+        "Grade IV; manageable with angiographic embolization alone",
+        "Grade V; associated with juxtahepatic venous injuries and high mortality"
+      ],
+      "answer": 2,
+      "explanation": "Under the AAST scale, Grade V injuries are characterized by parenchymal disruption involving >75% of a hepatic lobe or juxtahepatic venous injuries (such as the retrohepatic vena cava or central major hepatic veins). These are highly critical, complex injuries."
+    },
+    {
+      "q": "A 29-year-old male is brought to the ER after falling from a construction scaffolding. On physical exam, he has significant right upper quadrant tenderness, guarding, and bruising over his lower right rib cage. A plain chest X-ray is ordered. Which of the following radiographic findings would be most suggestive of a significant underlying liver injury?",
+      "options": [
+        "Obliteration of the left psoas muscle shadow and left diaphragmatic elevation",
+        "Paradoxical chest wall movement with a left-sided pleural effusion",
+        "Fractures of the lower right ribs and an elevated, fixed right cupola of the diaphragm",
+        "Pneumobilia and free air under the right hemidiaphragm"
+      ],
+      "answer": 2,
+      "explanation": "Physical and radiological signs indicating liver injury include a fracture of the lower right ribs and an elevated, fixed right cupola (copula) of the diaphragm on a plain X-ray."
+    },
+    {
+      "q": "An unconscious blunt trauma patient is evaluated in the emergency bay. A Diagnostic Peritoneal Lavage (DPL) is performed because a FAST scan is unavailable. Which of the following DPL fluid analysis findings is considered a positive result that mandates immediate surgical exploration?",
+      "options": [
+        "Red Blood Cell (RBC) count of 50,000/ml",
+        "White Blood Cell (WBC) count of 150/ml",
+        "The presence of bile, food particles, or an RBC count > 100,000/ml",
+        "Amylase level of 50 U/L with clear fluid"
+      ],
+      "answer": 2,
+      "explanation": "A DPL is considered positive for intra-abdominal injury/hemorrhage and requires exploration if the aspirate shows: > 100,000 RBC/ml (indicating active hemorrhage), > 500 WBC/ml (indicating peritonitis), or the presence of bile, amylase, or food particles."
+    },
+    {
+      "q": "When selecting the initial diagnostic workup for a patient suspected of having a liver injury, which statement is clinically correct regarding the utility of U/S, FAST, and CT scan?",
+      "options": [
+        "FAST is the gold standard for defining parenchymal lacerations in stable patients",
+        "Contrast-enhanced CT scan is the most diagnostic imaging modality in a hemodynamically stable patient",
+        "Abdominal ultrasound is contraindicated if there is an associated right-sided rib fracture",
+        "DPL has completely replaced FAST in modern trauma protocols due to its non-invasive nature"
+      ],
+      "answer": 1,
+      "explanation": "CT scan with contrast is the most \"diagnostic tool in a stable patient\" because it can precisely delineate lacerations and active vascular bleeding. FAST has largely replaced DPL for rapid bedside screening in unstable patients."
+    },
+    {
+      "q": "Approximately 80% of hepatic injuries are successfully managed non-operatively. Which patient is the ideal candidate for conservative, non-operative management?",
+      "options": [
+        "An unstable patient with a blood pressure of 80/40 mmHg who responds transiently to fluids",
+        "A stable patient with a Grade II liver laceration, normal mental status, no signs of peritonitis, and immediate access to serial CT scans and an operating room",
+        "A patient with an anterior abdominal gunshot wound who is stable and cooperative",
+        "A patient with a Grade V shattered liver and a suspected associated duodenal perforation"
+      ],
+      "answer": 1,
+      "explanation": "Indications for conservative treatment of hepatic injuries (which applies to 80% of cases) include: (1) the patient is hemodynamically stable, (2) minor injury grade, (3) no other indication for surgical exploration (like peritonitis or hollow viscus perforation), and (4) immediate availability of regular CT scanning and emergency OR facilities."
+    },
+    {
+      "q": "A 30-year-old male is admitted for conservative management of a Grade II liver injury. What are the key components of his conservative care protocol?",
+      "options": [
+        "Intravenous heparinization, early ambulation, and oral liquids",
+        "Absolute bed rest, intravenous fluids, broad-spectrum IV antibiotics, and regular clinical/radiological reassessment with a signed consent for surgery",
+        "Immediate therapeutic ERCP followed by discharge within 12 hours",
+        "Insertion of an intraperitoneal pig-tail catheter for continuous lavage"
+      ],
+      "answer": 1,
+      "explanation": "Non-surgical conservative methods require: complete bed rest, intravenous (I.V.) fluids, I.V. antibiotics, regular clinical and radiological assessment, and a ready consent for immediate exploration if the patient's condition deteriorates."
+    },
+    {
+      "q": "During an emergency laparotomy for a blunt trauma patient with a deep, actively bleeding hepatic laceration, the surgeon performs the Pringle maneuver. Which of the following options correctly describes the steps and anatomical structures occluded during this maneuver?",
+      "options": [
+        "Clamping the coronary ligament to occlude the hepatic veins",
+        "Clamping the hepatoduodenal ligament to temporarily occlude inflow through the portal vein and hepatic artery",
+        "Occluding the retrohepatic inferior vena cava using a vascular stapler",
+        "Clamping the gastrocolic ligament to isolate the gastroduodenal artery"
+      ],
+      "answer": 1,
+      "explanation": "The Pringle maneuver (inflow-occlusion) is performed by clamping the hepatoduodenal ligament (the free border of the lesser omentum) which contains the portal vein and hepatic artery, temporarily controlling inflow-related bleeding."
+    },
+    {
+      "q": "During a trauma laparotomy, a surgeon applies a Pringle clamp to the portal triad, but massive venous hemorrhage continues to pour from behind the liver. What is the diagnostic significance of a \"failed\" Pringle maneuver, and how should the surgeon manage this?",
+      "options": [
+        "The bleeding is from the left gastric artery; perform a gastrotomy and ligate the coronary vein",
+        "The source of bleeding is outflow-related (retrohepatic hepatic veins or IVC); proceed to perihepatic packing, or consider a thoraco-abdominal incision",
+        "The gallbladder has ruptured; perform an immediate cholecystostomy tube placement",
+        "The hepatic artery has a pseudoaneurysm; perform immediate intraoperative angioembolization"
+      ],
+      "answer": 1,
+      "explanation": "In liver surgery, failure of the Pringle maneuver to stop bleeding implies that the hemorrhage is originating from the outflow tract, namely the retrohepatic hepatic veins or the inferior vena cava (IVC). If packing fails to control this, a thoraco-abdominal incision is required to access the hepatic veins (associated with very high mortality)."
+    },
+    {
+      "q": "A 35-year-old male undergoes a laparotomy for a Grade IV liver injury. The surgeon notes diffuse, uncontrollable venous oozing from a large raw parenchymal surface, and the patient begins to develop acidosis, hypothermia, and coagulopathy (the \"lethal triad\"). What is the most appropriate next surgical step?",
+      "options": [
+        "Persist with attempts at suture repair until all raw surfaces are dry",
+        "Perform a formal right hepatic lobectomy",
+        "Execute perihepatic packing with laparotomy pads, close the abdomen temporarily, and transfer the patient to the ICU for stabilization",
+        "Administer high-dose systemic thrombolytics"
+      ],
+      "answer": 2,
+      "explanation": "This scenario describes damage control surgery. When diffuse, non-arterial bleeding is uncontrolled and the patient is succumbing to the lethal triad (coagulopathy, hypothermia, and acidosis), the surgeon must perform peri-hepatic packing with laparotomy pads, temporarily close the abdomen, and stabilize the patient in the ICU before a planned re-exploration."
+    },
+    {
+      "q": "Following perihepatic packing during a damage-control laparotomy, how long should the abdominal packs be left in situ before the patient is brought back to the operating room for planned re-exploration and pack removal?",
+      "options": [
+        "2 to 4 hours",
+        "24 to 36 hours (or up to 48 hours)",
+        "5 to 7 days",
+        "2 weeks, under a continuous antibiotic infusion"
+      ],
+      "answer": 1,
+      "explanation": "If perihepatic packing is performed and controls the bleeding, the packs are left in situ for 24–36 hours (or up to 48 hours in damage-control protocols) before planned surgical re-exploration and unpackaging once the patient's physiology has been normalized in the ICU."
+    },
+    {
+      "q": "A 38-year-old male is admitted to the hospital 3 weeks after being discharged following conservative management of a Grade III blunt liver injury. He now complains of episodic right upper quadrant pain, mild scleral icterus, and has had two episodes of melena and hematemesis. Which of the following complications has most likely occurred?",
+      "options": [
+        "Secondary bacterial infection forming a pyogenic liver abscess",
+        "Traumatic diaphragmatic hernia containing loops of colon",
+        "Hemobilia (bleeding into the bile ducts) secondary to a hepatic artery pseudoaneurysm",
+        "Spontaneous conversion of the liver hematoma into a hydatid cyst"
+      ],
+      "answer": 2,
+      "explanation": "A classic delayed vascular complication of liver trauma is hemobilia (bleeding into the bile ducts) and the formation of a hepatic artery pseudoaneurysm. Hemobilia presents with the classic triad of right upper quadrant pain, upper GI bleeding (melena/hematemesis), and obstructive jaundice."
+    }
+  ]
+}
