@@ -1,92 +1,246 @@
 {
   "questions": [
     {
-      "q": "Which embryological structure gives rise to the hepatocytes and intrahepatic bile ducts?",
+      "q": "The embryonic liver bud first begins to develop on which day of gestation, and from which division of the primitive gut tube does it arise?",
       "options": [
-        "Pars Cystica (caudal bud)",
-        "Septum Transversum",
-        "Pars Hepatica (cranial bud)",
-        "Vitelline veins"
-      ],
-      "answer": 2,
-      "explanation": "The Pars Hepatica (cranial part of the hepatic diverticulum) gives rise to hepatocytes and intrahepatic bile ducts. The Pars Cystica gives rise to the gallbladder and cystic duct, the Septum Transversum contributes the stromal elements (Glisson's capsule, Kupffer cells), and vitelline veins contribute to the sinusoidal endothelium."
-    },
-    {
-      "q": "Cantlie's line runs from the gallbladder fossa to the IVC and divides the liver into which two parts?",
-      "options": [
-        "Right anatomical lobe and left anatomical lobe",
-        "Right functional (surgical) lobe and left functional (surgical) lobe",
-        "Anterior sector and posterior sector",
-        "Caudate lobe and quadrate lobe"
+        "8th day of gestation; Midgut",
+        "8th day of gestation; Foregut",
+        "25th day of gestation; Foregut",
+        "25th day of gestation; Hindgut"
       ],
       "answer": 1,
-      "explanation": "Cantlie's line (gallbladder fossa → IVC) divides the liver into the right and left functional (surgical) lobes of roughly equal size. This is different from the anatomical division by the falciform ligament, which creates a large right and small left lobe."
+      "explanation": "The liver begins developing on the 8th day of gestation as a bud from the foregut, and it becomes clearly visible by the 25th day."
     },
     {
-      "q": "The Pringle maneuver controls hemorrhage by compressing which structure?",
+      "q": "During hepatic development, the embryonic liver bud splits into cranial and caudal divisions. Which of the following correctly describes the fate of the cranial part (pars hepatica)?",
       "options": [
-        "Hepatic veins at the IVC confluence",
-        "The portal triad in the free edge of the lesser omentum (hepatoduodenal ligament)",
-        "The aorta above the celiac trunk",
-        "The right hepatic artery only"
+        "It forms the gallbladder and cystic duct.",
+        "It forms the hepatic stroma and capsule.",
+        "It forms the hepatic parenchyma (hepatocytes and intrahepatic ductal cells).",
+        "It forms the Kupffer cells."
+      ],
+      "answer": 2,
+      "explanation": "The cranial part (pars hepatica) of the liver bud forms the hepatic parenchyma (hepatocytes and intrahepatic ductal cells), while the caudal part (pars cystica) forms the cystic duct and gallbladder."
+    },
+    {
+      "q": "A medical student is asked to identify the embryological origin of the hepatic capsule and Kupffer cells. Which of the following is the correct source?",
+      "options": [
+        "Endoderm of the foregut",
+        "Mesoderm of the septum transversum",
+        "Endothelium of the vitelline veins",
+        "Ectoderm of the proctodeum"
       ],
       "answer": 1,
-      "explanation": "The Pringle maneuver involves clamping the hepatoduodenal ligament (free edge of the lesser omentum), which contains the portal triad — portal vein, hepatic artery, and common bile duct. It controls hepatic inflow but does NOT control back-bleeding from the hepatic veins."
+      "explanation": "The hepatic bud invades the surrounding mesoderm of the septum transversum, which gives rise to both the hepatic capsule and the Kupffer cells."
     },
     {
-      "q": "Which Couinaud segment has independent venous drainage directly into the IVC and often hypertrophies in Budd-Chiari syndrome?",
+      "q": "The hepatic sinusoids—which sit between columns of hepatocytes—develop from which of the following embryonic structures?",
       "options": [
-        "Segment IV",
-        "Segment VIII",
-        "Segment I (Caudate lobe)",
-        "Segment V"
-      ],
-      "answer": 2,
-      "explanation": "Segment I (Caudate lobe) is unique because it has dual portal supply and independent hepatic venous drainage directly into the IVC. In Budd-Chiari syndrome (hepatic vein thrombosis), the caudate lobe is spared and often hypertrophies because its drainage pathway is unaffected."
-    },
-    {
-      "q": "What percentage of hepatic blood flow comes from the portal vein?",
-      "options": [
-        "20%",
-        "50%",
-        "80%",
-        "100%"
-      ],
-      "answer": 2,
-      "explanation": "The portal vein provides approximately 80% of total hepatic blood flow but only about 50% of the liver's oxygen supply. The hepatic artery provides the remaining 20% of flow and 50% of oxygen. Total hepatic blood flow is approximately 1.5 L/min."
-    },
-    {
-      "q": "Which clotting factor is NOT exclusively produced by the liver and remains normal or elevated in liver failure?",
-      "options": [
-        "Factor II",
-        "Factor VII",
-        "Factor VIII",
-        "Factor X"
-      ],
-      "answer": 2,
-      "explanation": "Factor VIII is the only clotting factor NOT exclusively produced by hepatocytes. It is produced by sinusoidal endothelial cells and extrahepatic sites. Therefore, Factor VIII levels remain normal or may even be elevated in liver failure. Factors II, VII, IX, and X are vitamin K-dependent factors that all decline in hepatic failure."
-    },
-    {
-      "q": "The obliterated umbilical vein becomes which structure in the adult?",
-      "options": [
-        "Ligamentum venosum",
-        "Ligamentum teres (in the free edge of the falciform ligament)",
-        "Median umbilical ligament",
-        "Round ligament of the uterus"
+        "The dorsal mesogastrium",
+        "The vitelline and umbilical veins",
+        "The umbilical artery",
+        "The pars cystica"
       ],
       "answer": 1,
-      "explanation": "The umbilical vein obliterates after birth to become the ligamentum teres (round ligament of the liver), which lies in the free edge of the falciform ligament. The ductus venosus obliterates to become the ligamentum venosum. The median umbilical ligament is the obliterated urachus."
+      "explanation": "The liver endothelium is derived from the vitelline and umbilical veins, which anastomose to form the network of liver sinusoids."
     },
     {
-      "q": "A replaced right hepatic artery — the most clinically significant arterial variant during hepatobiliary surgery — arises from which vessel?",
+      "q": "Which of the following options correctly represents the physiological transition of the liver's weight relative to total body weight throughout development into adulthood?",
       "options": [
-        "Left gastric artery",
-        "Celiac trunk directly",
-        "Superior mesenteric artery (SMA)",
-        "Gastroduodenal artery"
+        "60th day: 20% → At Birth: 10% → Adult: 5%",
+        "60th day: 10% → At Birth: 5% → Adult: 2.5%",
+        "60th day: 5% → At Birth: 2.5% → Adult: 1.5%",
+        "60th day: 15% → At Birth: 8% → Adult: 3%"
+      ],
+      "answer": 1,
+      "explanation": "The liver's relative weight ratio shifts from 10% of body weight on the 60th day of gestation, to 5% at birth, and ultimately to 2.5% in adults."
+    },
+    {
+      "q": "What is the average weight of the adult human liver, and how does it rank in size among the body's organs?",
+      "options": [
+        "500–800 grams; It is the largest overall organ",
+        "1200–1800 grams; It is the second-largest organ overall (after the skin)",
+        "1200–1800 grams; It is the third-largest organ overall (after the skin and brain)",
+        "2000–2500 grams; It is the largest visceral organ"
+      ],
+      "answer": 1,
+      "explanation": "The adult liver weighs on average 1200–1800 grams, making it the second-largest organ in the body (after the skin) and the largest visceral organ."
+    },
+    {
+      "q": "Anatomical lobes of the liver are divided into a small left lobe and a very large right lobe. What peritoneal and ligamentous structures mark this division on the superior/anterior and inferior surfaces?",
+      "options": [
+        "Cantlie's line superiorly; Gallbladder fossa inferiorly",
+        "Falciform ligament superiorly/anteriorly; Round ligament (ligamentum teres) inferiorly",
+        "Coronary ligament superiorly; Ligamentum venosum inferiorly",
+        "Gastrocolic omentum superiorly; Lesser omentum inferiorly"
+      ],
+      "answer": 1,
+      "explanation": "The division between the anatomical lobes is defined by the falciform ligament on the superior and anterior surfaces, and the round ligament (ligamentum teres) on the inferior surface."
+    },
+    {
+      "q": "A surgeon planning a formal right hemihepatectomy uses \"Cantlie's Line\" to divide the liver into equal surgical (physiological) lobes. What are the correct surface landmarks for Cantlie's Line?",
+      "options": [
+        "From the falciform ligament to the ligamentum venosum",
+        "From the gallbladder fossa anteriorly to the Inferior Vena Cava (IVC) posteriorly",
+        "From the caudate lobe to the quadrate lobe",
+        "From the right triangular ligament to the porta hepatis"
+      ],
+      "answer": 1,
+      "explanation": "Physiological (surgical) lobes are split into equal halves by Cantlie's Line, which runs from the gallbladder fossa anteriorly to the IVC posteriorly."
+    },
+    {
+      "q": "Which of the following options correctly describes the division of the surgical sectors (sections) of the left and right lobes of the liver?",
+      "options": [
+        "Left lobe is divided by coronal plane; Right lobe is divided by falciform ligament",
+        "Left lobe is divided into anterior/posterior sectors; Right lobe is divided into lateral/medial sectors",
+        "Left lobe is divided by the falciform ligament into lateral and medial sectors; Right lobe is divided by a coronal plane into anterior and posterior sectors",
+        "Both lobes are divided into superior and inferior sectors by a horizontal transverse plane"
       ],
       "answer": 2,
-      "explanation": "A replaced right hepatic artery arising from the SMA is the most clinically significant variant (found in ~15-20% of patients). It courses posterior to the portal vein and pancreatic head, and can be inadvertently injured during pancreaticoduodenectomy or cholecystectomy if not identified. Aberrant hepatic arterial anatomy overall is common (~40% of patients)."
+      "explanation": "The left lobe is divided by the falciform ligament into lateral and medial sectors, whereas the right lobe is divided by a coronal plane into anterior and posterior sectors."
+    },
+    {
+      "q": "How many functional liver segments are recognized transversely based on the distribution of the hepatic veins and portal tracts?",
+      "options": [
+        "4 segments",
+        "5 segments",
+        "8 segments",
+        "9 segments"
+      ],
+      "answer": 2,
+      "explanation": "The four sectors of the liver are subdivided transversely into 8 functional segments depending on the branches of the hepatic veins and portal tract distributions."
+    },
+    {
+      "q": "A radiology resident is reviewing an abdominal CT scan. She is asked to locate the \"Caudate Lobe.\" Where is it situated, and what are its boundaries?",
+      "options": [
+        "On the inferior surface, between the gallbladder and the ligamentum teres fissure",
+        "On the posterior surface, between the IVC and the fissure for ligamentum venosum",
+        "On the superior surface, to the left of the falciform ligament",
+        "On the visceral surface, directly adjacent to the renal impression"
+      ],
+      "answer": 1,
+      "explanation": "The Caudate Lobe lies on the posterior surface of the liver, bounded between the IVC and the fissure for ligamentum venosum."
+    },
+    {
+      "q": "During a laparoscopic cholecystectomy, the surgeon identifies the \"Quadrate Lobe\" next to the gallbladder. What is the correct anatomical position and boundaries of this lobe?",
+      "options": [
+        "On the posterior surface, between the bare area and the IVC",
+        "On the superior surface, immediately below the diaphragm",
+        "On the inferior (visceral) surface, between the gallbladder and the fissure for ligamentum teres",
+        "On the visceral surface, between the renal and colic impressions"
+      ],
+      "answer": 2,
+      "explanation": "The Quadrate Lobe lies on the inferior (visceral) surface, situated between the gallbladder and the fissure for ligamentum teres."
+    },
+    {
+      "q": "Although the liver is almost completely covered with visceral peritoneum, there are several \"bare areas\" devoid of peritoneal covering. Which of the following is NOT one of these bare areas?",
+      "options": [
+        "The bare area on the posterior surface (to the right of the IVC)",
+        "The gallbladder fossa",
+        "The porta hepatis",
+        "The gastric impression on the left lobe"
+      ],
+      "answer": 3,
+      "explanation": "The gastric impression is fully covered in peritoneum. The five bare areas are: (1) the posterior bare area to the right of the IVC, (2) the gallbladder fossa, (3) the groove for the IVC, (4) the porta hepatis, and (5) the bases of the peritoneal ligaments."
+    },
+    {
+      "q": "The lesser omentum is a peritoneal fold connecting the lesser curvature of the stomach to the visceral surface of the liver. Which structures run within its free border, and what opening's anterior boundary do they form?",
+      "options": [
+        "Portal triad; Foramen of Winslow (Epiploic Foramen)",
+        "Hepatic veins; Foramen of Winslow",
+        "Short gastric vessels; Lesser sac",
+        "Gastroduodenal artery; Splenic hilum"
+      ],
+      "answer": 0,
+      "explanation": "The free border of the lesser omentum contains the portal triad (portal vein, hepatic artery, common bile duct) and forms the anterior boundary of the Foramen of Winslow (Epiploic Foramen)."
+    },
+    {
+      "q": "A surgical resident is asked to identify the anatomical boundaries of the Foramen of Winslow (Winslow's Foramen) during a laparotomy. Which of the following pairs is correct?",
+      "options": [
+        "Upper: 1st part of duodenum; Lower: Caudate lobe of liver",
+        "Anterior: Portal triad in lesser omentum free border; Posterior: Inferior Vena Cava (IVC)",
+        "Anterior: IVC; Posterior: Aorta",
+        "Upper: Left kidney; Lower: Transverse colon"
+      ],
+      "answer": 1,
+      "explanation": "The boundaries of the Foramen of Winslow are: Upper (Caudate lobe of liver), Lower (1st part of duodenum), Anterior (Free border of lesser omentum containing the portal triad), and Posterior (IVC)."
+    },
+    {
+      "q": "The liver has a massive, highly unique dual blood supply with a total inflow of approximately 1.5 L/min. Which of the following options correctly represents the flow and oxygen contributions of the portal vein and hepatic artery?",
+      "options": [
+        "Portal Vein: 20% flow, 50% O₂ needs; Hepatic Artery: 80% flow, 50% O₂ needs",
+        "Portal Vein: 50% flow, 80% O₂ needs; Hepatic Artery: 50% flow, 20% O₂ needs",
+        "Portal Vein: 80% flow, 50% O₂ needs; Hepatic Artery: 20% flow, 50% O₂ needs",
+        "Portal Vein: 80% flow, 80% O₂ needs; Hepatic Artery: 20% flow, 20% O₂ needs"
+      ],
+      "answer": 2,
+      "explanation": "The Portal Vein carries venous blood from the GIT, supplying 80% of the total blood flow and 50% of the liver's oxygen requirements. The Hepatic Artery supplies 20% of the blood flow and 50% of the oxygen requirements."
+    },
+    {
+      "q": "Within the hilum of the liver (porta hepatis), three major structures are arranged in a strict posterior-to-anterior relationship. From posterior to anterior, what is this arrangement?",
+      "options": [
+        "Portal Vein (most posterior) → Hepatic Artery (intermediate) → Right & Left Hepatic Ducts (most anterior)",
+        "Hepatic Ducts (most posterior) → Hepatic Artery (intermediate) → Portal Vein (most anterior)",
+        "Hepatic Artery (most posterior) → Portal Vein (intermediate) → Hepatic Ducts (most anterior)",
+        "Portal Vein (most posterior) → Hepatic Ducts (intermediate) → Hepatic Artery (most anterior)"
+      ],
+      "answer": 0,
+      "explanation": "At the porta hepatis, the arrangement of structures from posterior to anterior is: (1) Portal Vein, (2) Hepatic Artery, and (3) Right and Left Hepatic Ducts."
+    },
+    {
+      "q": "Hepatic venous blood is drained from the parenchyma and returned to the systemic circulation via:",
+      "options": [
+        "The portal vein directly into the splenic vein",
+        "Three hepatic veins draining directly into the Inferior Vena Cava (IVC)",
+        "Two hepatic veins draining into the renal veins",
+        "The cystic vein directly into the Azygos system"
+      ],
+      "answer": 1,
+      "explanation": "The outflow of the liver is carried by three hepatic veins that drain directly into the Inferior Vena Cava (IVC)."
+    },
+    {
+      "q": "Under the microscope, the classic liver lobule is described as a hexagonal-shaped unit. Which structures occupy the center and the periphery of this lobule, respectively?",
+      "options": [
+        "Central vein at the center; Portal tracts (containing triads) at the periphery",
+        "Portal tract at the center; Central veins at the periphery",
+        "Central vein at the center; Kupffer cells at the periphery",
+        "Space of Disse at the center; Bile canaliculi at the periphery"
+      ],
+      "answer": 0,
+      "explanation": "The classic liver lobule is arranged around a central vein at its center, with portal tracts (containing portal venules, hepatic arterioles, and bile ductules) situated at the periphery of the lobule."
+    },
+    {
+      "q": "During surgical management of a traumatic liver laceration, the surgeon performs \"Pringle's maneuver\" (inflow-occlusion) to control bleeding. Which ligament is clamped, and which vessels are occluded?",
+      "options": [
+        "Gastrocolic ligament; Splenic artery and vein",
+        "Hepatoduodenal ligament (free border of lesser omentum); Portal vein and hepatic artery",
+        "Falciform ligament; Hepatic veins",
+        "Coronary ligament; Inferior Vena Cava"
+      ],
+      "answer": 1,
+      "explanation": "Pringle's maneuver consists of clamping the hepatoduodenal ligament (the free border of the lesser omentum), which temporarily occludes the liver's vascular inflow (portal vein and hepatic artery)."
+    },
+    {
+      "q": "A patient with severe liver cirrhosis undergoes a workup for portal hypertension. To which systemic venous system does the esophageal branch of the Left Gastric (Coronary) vein anastomose, forming the classic site for esophageal varices?",
+      "options": [
+        "Superior rectal vein",
+        "Retroperitoneal veins of Retzius",
+        "Esophageal veins from the Azygos and Hemi-azygos veins",
+        "Para-umbilical veins"
+      ],
+      "answer": 2,
+      "explanation": "At the lower end of the esophagus, the portal tributary (esophageal branches of the left gastric/coronary vein and short gastric veins) anastomoses with the systemic tributary (esophageal veins from the azygos and hemi-azygos veins), forming esophageal varices."
+    },
+    {
+      "q": "In portal hypertension, embryonic channels at the umbilicus open up to connect the portal and systemic systems, clinically presenting as \"Caput Medusae.\" What are the portal and systemic vessels involved in this anastomosis?",
+      "options": [
+        "Superior rectal vein anastomosing with inferior rectal vein",
+        "Para-umbilical veins (in the ligamentum teres) anastomosing with superior and inferior epigastric veins",
+        "Superior mesenteric vein anastomosing with renal veins",
+        "Short gastric veins anastomosing with inferior phrenic veins"
+      ],
+      "answer": 1,
+      "explanation": "Caput Medusae is formed at the umbilicus by the anastomosis of the para-umbilical vein (portal) with the superior and inferior epigastric veins (systemic)."
     }
   ]
 }
