@@ -1,0 +1,81 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following best defines the histopathological characteristics of liver cirrhosis?",
+      "options": [
+        "Focal lobular hypertrophy, minimal fibrosis, and preservation of the hepatic venous anatomy",
+        "Diffuse hepatocyte necrosis, nodular regeneration, extensive fibrosis, and loss of normal hepatic architecture",
+        "Localized periportal tract expansion, biliary duplication, and intrahepatic venous dilation",
+        "Centrilobular microvesicular steatosis with lymphocytic invasion of the portal triad"
+      ],
+      "answer": 1,
+      "explanation": "According to the textbook, cirrhosis is defined as a diffuse process characterized by necrosis, regeneration, extensive fibrosis, nodule formation, and a total loss of normal hepatic architecture."
+    },
+    {
+      "q": "A 52-year-old male patient in Egypt presents with progressive abdominal distension. A liver biopsy is performed, showing \"piece-meal\" necrosis, destruction of hepatocytes, macronodular cirrhotic changes, and infiltration by lymphocytes and plasma cells. What is the most likely etiology of this patient's condition, and what major sequela is he at high risk of developing?",
+      "options": [
+        "Alcoholic liver disease; Hepatic encephalopathy",
+        "Chronic Hepatitis B or C infection; Hepatocellular Carcinoma (HCC)",
+        "Primary Biliary Cirrhosis; Obstructive jaundice",
+        "Copper storage disease (Wilson's); Parkinsonian tremor"
+      ],
+      "answer": 1,
+      "explanation": "Post-hepatic cirrhosis (secondary to Hepatitis B & C viral infections) is the most common type of cirrhosis in Egypt. Pathologically, it is characterized by piece-meal necrosis with destruction of liver cells, lymphocytic/plasma cell infiltration, and a macronodular pattern. This specific viral etiology carries a highly elevated risk of progression to Hepatocellular Carcinoma (HCC)."
+    },
+    {
+      "q": "A 48-year-old male presenting with chronic liver disease in a Western country is diagnosed with early-stage cirrhosis. Histological examination reveals a micronodular pattern. Which of the following is correct regarding the etiology, pathology, and clinical course of his likely diagnosis?",
+      "options": [
+        "It is primarily post-viral, macronodular from the onset, and progresses rapidly.",
+        "It is caused by chronic alcohol consumption (typically ≈ 100 mg/day), presents as micronodular in early stages, progresses slower than other types, and can show clinical improvement with abstinence.",
+        "It is an autosomal recessive copper overload state that produces macro-nodules in the early stages.",
+        "It is an autoimmune disorder that selectively destroys the large extrahepatic bile ducts."
+      ],
+      "answer": 1,
+      "explanation": "Alcoholic cirrhosis is the most common cause in Western countries, typically associated with a continuous consumption of about 100 mg/day. It presents as a micronodular pattern in its early stages (though it can later become mixed or macronodular). Its clinical progress is slower than other types, and complete abstinence from alcohol may lead to clinical improvement."
+    },
+    {
+      "q": "A 40-year-old female presents with persistent pruritus, fatigue, and an elevated alkaline phosphatase. A liver biopsy demonstrates a dense lymphocytic and plasma cell infiltration localized specifically to the small intrahepatic bile ducts. Which of the following laboratory markers is highly specific and diagnostic for this patient's likely condition?",
+      "options": [
+        "Alpha-fetoprotein (AFP)",
+        "Anti-mitochondrial antibodies (AMA)",
+        "p-ANCA",
+        "Anti-double stranded DNA (dsDNA)"
+      ],
+      "answer": 1,
+      "explanation": "This clinical and histological presentation is classic for Primary Biliary Cirrhosis (PBC), which is characterized by an autoimmune lymphocytic and plasma cell infiltration of the small intrahepatic bile ducts. It is definitively diagnosed via liver biopsy and the detection of anti-mitochondrial antibodies (AMA)."
+    },
+    {
+      "q": "A pediatric patient is evaluated for progressive liver dysfunction accompanied by neurological symptoms. Genetic testing confirms an autosomal recessive disorder. According to your surgical curriculum, which of the following congenital disorders is correctly paired with its accumulating substance and target organ?",
+      "options": [
+        "Haemochromatosis; excessive copper accumulation in the gallbladder",
+        "Wilson's disease; increased amounts of copper accumulating in the liver",
+        "Alpha-1 antitrypsin deficiency; toxic iron accumulation in the spleen",
+        "Wilson's disease; excessive deposits of iron into the kidneys"
+      ],
+      "answer": 1,
+      "explanation": "Congenital causes of cirrhosis include Wilson's disease, which is an autosomal recessive disorder characterized by the pathological accumulation of copper within the liver parenchyma. Haemochromatosis is characterized by excessive iron deposition in the liver."
+    },
+    {
+      "q": "A 35-year-old patient from an endemic rural Egyptian village presents with massive splenomegaly, pancytopenia, and esophageal varices. Scleral icterus and ascites are completely absent. A liver biopsy shows extensive periportal tract fibrosis. How should this patient's hepatic pathology be classified?",
+      "options": [
+        "Primary Biliary Cirrhosis",
+        "Micronodular Alcoholic Cirrhosis",
+        "Bilharzial periportal fibrosis, which is not a true cirrhosis",
+        "Macronodular Post-Hepatic Cirrhosis"
+      ],
+      "answer": 2,
+      "explanation": "Bilharzial periportal fibrosis is a major cause of portal hypertension in endemic areas, but it is explicitly categorized in the surgical curriculum as not a true cirrhosis."
+    },
+    {
+      "q": "Which of the following conditions represents a secondary biliary cause of liver cirrhosis?",
+      "options": [
+        "Autoimmune destruction of the tiny intrahepatic bile canaliculi",
+        "Piece-meal necrosis secondary to chronic Hepatitis C replication",
+        "Long-standing mechanical obstruction of the larger biliary passages, such as a post-operative biliary stricture",
+        "Autosomal recessive impairment of biliary copper excretion"
+      ],
+      "answer": 2,
+      "explanation": "Secondary biliary cirrhosis results from chronic, long-standing mechanical obstruction of the larger, extrahepatic biliary tracts, with post-operative biliary stricture being a classic predisposing example."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "q": "Budd-Chiari syndrome is a rare but critical vascular disorder of the liver outflow tract. Which of the following represents the correct distribution of its primary and secondary etiologies?",
+      "options": [
+        "95% due to congenital suprahepatic stenosis; 5% due to portal vein thrombosis",
+        "75% primary due to spontaneous thrombosis; 25% secondary due to malignant obstruction",
+        "50% primary due to liver cirrhosis; 50% secondary due to TB infection",
+        "25% primary due to oral contraceptives; 75% secondary due to Protein C deficiency"
+      ],
+      "answer": 1,
+      "explanation": "The etiology of Budd-Chiari syndrome is divided into Primary causes (accounting for 75% of cases, typically arising from spontaneous venous thrombosis) and Secondary causes (accounting for 25% of cases, resulting from malignant obstruction of the outflow vessels)."
+    },
+    {
+      "q": "A 29-year-old female taking oral contraceptives presents with acute right upper quadrant pain. On examination, she has severe hepatomegaly and a tense, fluid-filled abdomen. Which of the following represents the classic clinical triad of Budd-Chiari syndrome illustrated by this patient?",
+      "options": [
+        "Pain, Tense ascites, and Hepatomegaly/hepatopathy",
+        "Fever with rigors, Jaundice, and Colicky abdominal pain",
+        "Epigastric pain, Hematemesis, and Splenomegaly",
+        "Vomiting, Left pleural effusion, and Subcutaneous chest emphysema"
+      ],
+      "answer": 0,
+      "explanation": "The classic clinical triad of Budd-Chiari syndrome consists of: (1) pain, (2) tense ascites, and (3) hepatomegaly or hepatopathy."
+    },
+    {
+      "q": "Which of the following hypercoagulable states or clinical conditions is NOT recognized as a predisposing risk factor for developing Budd-Chiari syndrome?",
+      "options": [
+        "Protein C and Protein S deficiency",
+        "Antiphospholipid syndrome",
+        "Use of oral contraceptive pills (OCPs) and pregnancy",
+        "Factor VIII deficiency (Hemophilia A)"
+      ],
+      "answer": 3,
+      "explanation": "Predisposing factors for Budd-Chiari venous thrombosis include hypercoagulable states like Protein C & S deficiency, antiphospholipid syndrome, pregnancy, OCP use, para-malignant syndromes, and chronic infections like TB or hepatitis. Hemophilia A (Factor VIII deficiency) is a bleeding disorder and does not predispose to thrombosis."
+    },
+    {
+      "q": "Which of the following options correctly describes the pathophysiology of liver injury in Budd-Chiari syndrome?",
+      "options": [
+        "Inflow occlusion leads to immediate arterial infarction of the caudate lobe.",
+        "Venous obstruction of the intrahepatic veins leads to congestive hepatopathy, causing hepatocellular injury secondary to microvascular congestion-induced ischemia, resulting in portal hypertension and liver insufficiency.",
+        "Toxic bile retention causes piece-meal necrosis and progressive destruction of hepatocytes in the portal zones.",
+        "Ascending bacterial translocation via the portal vein leads to systemic endotoxemia and renal vasospasm."
+      ],
+      "answer": 1,
+      "explanation": "The pathophysiology of Budd-Chiari involves the obstruction of intrahepatic veins, which causes severe congestive hepatopathy. This venous congestion leads to microvascular ischemia, which injures the hepatocytes, ultimately progressing to portal hypertension and hepatic insufficiency."
+    },
+    {
+      "q": "A 30-year-old female is diagnosed with the most common clinical variant of Budd-Chiari syndrome. Her symptoms have developed slowly over several weeks. Which clinical subtype does she have, and what are the classic findings associated with the fulminant subtype?",
+      "options": [
+        "Acute subtype (most common); fulminant presents with isolated splenic vein thrombosis",
+        "Subacute subtype (most common); fulminant presents as a rapidly progressive course with hepatic encephalopathy",
+        "Chronic subtype (most common); fulminant presents with secondary hemorrhoids and caput medusae",
+        "Fulminant subtype (most common); acute presents with silent retroperitoneal varices"
+      ],
+      "answer": 1,
+      "explanation": "Clinical classification of Budd-Chiari syndrome divides it into four types: Fulminate (rapidly progressive, presenting with hepatic encephalopathy), Acute (extensive venous blockage), Subacute (insidious, which is the most common clinical type), and Chronic (progressing to cirrhosis, portal hypertension, and liver cell failure)."
+    },
+    {
+      "q": "A patient with acute-onset Budd-Chiari syndrome is admitted to the ICU. Which of the following represents the correct sequential steps of surgical and interventional management if first-line medical therapy (anticoagulation and thrombolytics) fails to stabilize the patient?",
+      "options": [
+        "Portocaval shunt followed by urgent total splenectomy",
+        "Emergency distal splenorenal (Warren) shunt followed by right hepatic lobectomy",
+        "Angioplasty with stenting, Transjugular Intrahepatic Portosystemic Shunt (TIPS), or Liver Transplantation as the definitive curative treatment",
+        "Immediate laparoscopic Hassab-Kairy devascularization and omental patching"
+      ],
+      "answer": 2,
+      "explanation": "While medical management consists of anticoagulation (heparin, marivan) and thrombolytics (TPA, urokinase), the surgical/interventional pipeline for Budd-Chiari syndrome consists of: (1) angioplasty with stenting, (2) TIPS placement, and (3) Liver Transplantation as the definitive curative option."
+    }
+  ]
+}
