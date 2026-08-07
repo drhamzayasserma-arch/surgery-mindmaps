@@ -1,0 +1,191 @@
+{
+  "questions": [
+    {
+      "q": "A 30-year-old female presents with an asymptomatic liver lesion found incidentally on routine transabdominal ultrasound. She has a history of oral contraceptive pill (OCP) use for 7 years. A triphasic contrast-enhanced CT scan demonstrates a soft, well-circumscribed, light-yellow, 4 cm hepatic focal lesion with minimal to non-enhancement. Liver function tests and serum AFP are completely normal. What is the most appropriate initial management?",
+      "options": [
+        "Immediate surgical wedge resection",
+        "CT-guided percutaneous core-needle biopsy",
+        "Discontinuation of oral contraceptives and monitoring for regression",
+        "Trans-arterial chemoembolization (TACE)"
+      ],
+      "answer": 2,
+      "explanation": "This presentation is classic for a hepatic cell adenoma, which is strongly associated with estrogen hormone and OCP use. It classically presents as a soft, well-circumscribed, light-yellow mass with normal LFTs, normal AFP, and minimal to non-enhancement on triphasic CT. The initial management of choice is the discontinuation of OCPs, which typically leads to tumor regression. Liver resection is reserved for symptomatic lesions, those larger than 5 cm, or when there is diagnostic doubt about malignancy."
+    },
+    {
+      "q": "When managing a benign liver cell adenoma, what is the specific threshold size at which surgical resection is indicated, or under what other clinical circumstance is surgery recommended?",
+      "options": [
+        "Any lesion larger than 2 cm, or if the patient is symptomatic",
+        "Any lesion larger than 5 cm, or if there is diagnostic doubt about malignancy",
+        "Only if multiple lesions are present in more than 1/3 of cases",
+        "Only if the lesion demonstrates hyper-enhancement during the arterial phase on CT"
+      ],
+      "answer": 1,
+      "explanation": "Surgical liver resection for a hepatic adenoma is indicated if the lesion's size is larger than 5 cm, or if there is any clinical or radiological doubt about malignancy."
+    },
+    {
+      "q": "A 45-year-old female is found to have a well-circumscribed hepatic focal lesion. Her diagnostic workup includes a gamma camera nuclear imaging study (SPECT) following the administration of Technetium-99m-labeled red blood cells, which demonstrates highly concentrated activity localized within the mass. This specific nuclear scan is considered diagnostic for which of the following?",
+      "options": [
+        "Liver cell adenoma",
+        "Focal Nodular Hyperplasia (FNH)",
+        "Cavernous Hemangioma",
+        "Fibrolamellar Hepatoma"
+      ],
+      "answer": 2,
+      "explanation": "Radionuclide scintigraphy (SPECT) using Tc-99m-labeled red blood cells is highly specific and diagnostic for cavernous hemangioma, which is a congenital hamartoma and the most common benign hepatic focal lesion."
+    },
+    {
+      "q": "A pediatric patient is diagnosed with a giant hepatic cavernous hemangioma (> 10 cm). The clinical team notes that the patient is developing signs of high-output cardiac failure and has a critically low platelet count (severe thrombocytopenia). What is the underlying pathological mechanism of the thrombocytopenia?",
+      "options": [
+        "Ectopic production of anti-platelet antibodies by the cavernous endothelium",
+        "Progressive portal hypertension leading to severe congestive splenomegaly",
+        "Consumptive coagulopathy due to platelet trapping within the giant hemangioma",
+        "Toxic bone marrow suppression by tumor-secreted cytokines"
+      ],
+      "answer": 2,
+      "explanation": "Giant hemangiomas (>10 cm) can lead to severe thrombocytopenia. This occurs due to platelet trapping and consumptive coagulopathy within the cavernous spaces of the giant vascular lesion."
+    },
+    {
+      "q": "A triphasic abdominal CT scan is performed on a 36-year-old female with an incidental liver mass. The scan demonstrates a well-demarcated, firm, pale mass in the periphery of the liver. The hallmark diagnostic feature is a hypodense central stellate scar that enhances intensely with contrast. What is the correct etiology and malignant potential of this lesion?",
+      "options": [
+        "True epithelial neoplasm with a 10% risk of malignant transformation",
+        "Congenital vascular anomaly causing localized hyperperfusion; completely benign with no malignant potential",
+        "Mesenchymal tumor of hepatocytes; highly prone to spontaneous rupture and bleeding",
+        "Parasitic infection leading to localized fibrous scarring; prone to secondary bacterial infection"
+      ],
+      "answer": 1,
+      "explanation": "This describes Focal Nodular Hyperplasia (FNH), which is a completely harmless, benign lesion characterized macroscopically by a firm, pale mass featuring a central stellate scar with fibrous septae. It is hypothesized to arise from congenital vascular malformations that cause localized hyperperfusion, leading to focal hyperplasia. FNH carries no risk of rupture or subsequent malignancy."
+    },
+    {
+      "q": "Hepatocellular Carcinoma (HCC) has a distinct global distribution. In which of the following countries is the peak incidence of HCC highest, and what is the characteristic gender ratio in endemic areas?",
+      "options": [
+        "Japan; 3 Male : 1 Female",
+        "China; 4 Male : 1 Female",
+        "Mozambique; 8 Male : 1 Female",
+        "Italy; 1.5 Male : 1 Female"
+      ],
+      "answer": 2,
+      "explanation": "Hepatocellular Carcinoma is a major worldwide malignancy with a peak incidence in the Far East, Africa, and Europe, with the highest overall incidence documented in Mozambique. The male-to-female ratio is 8:1, which increases further in endemic areas."
+    },
+    {
+      "q": "Etiological factors for primary Hepatocellular Carcinoma (HCC) are diverse. In Japan, what percentage of HCC cases are associated with chronic Hepatitis C virus (HCV) infection?",
+      "options": [
+        "40%",
+        "60%",
+        "80%",
+        "95%"
+      ],
+      "answer": 2,
+      "explanation": "In Japan, 80% of all diagnosed cases of Hepatocellular Carcinoma are positive for the Hepatitis C virus (HCV +ve)."
+    },
+    {
+      "q": "Which of the following conditions or ingestions is NOT recognized as an etiological risk factor for primary Hepatocellular Carcinoma (HCC)?",
+      "options": [
+        "Alpha-1 antitrypsin deficiency",
+        "Aflatoxin ingestion (Aspergillus flavus toxin)",
+        "Wilson's disease",
+        "Primary sclerosing cholangitis"
+      ],
+      "answer": 3,
+      "explanation": "Primary risk factors for HCC include HBV & HCV infection, cirrhosis, alpha-1 antitrypsin deficiency, haemochromatosis, Wilson's disease, Aflatoxin ingestion, and long-term anabolic androgenic steroid use in athletes. Primary sclerosing cholangitis (PSC) is a known predisposing factor for cholangiocarcinoma, not primary HCC."
+    },
+    {
+      "q": "A 25-year-old female with no history of cirrhosis, alcohol abuse, or viral hepatitis presents with a solitary, firm liver mass. Her serum AFP is completely normal. Surgical resection is performed, and pathology confirms a well-differentiated primary hepatic malignancy with prominent lamellar collagen bands. What is the specific diagnosis, and what is its prognosis?",
+      "options": [
+        "Nodular Cholangiocarcinoma; highly lethal",
+        "Fibrolamellar Hepatoma; young female, non-cirrhotic, with a good prognosis",
+        "Diffuse Hepatoblastoma; uniformly fatal within 6 months",
+        "Biliary Cystadenocarcinoma; poor prognosis with high recurrence"
+      ],
+      "answer": 1,
+      "explanation": "Fibrolamellar Hepatoma is a highly unique primary variant of HCC that typically presents in young, non-cirrhotic females, lacks an association with AFP elevations, and carries a significantly better prognosis than standard HCC."
+    },
+    {
+      "q": "Standard primary Hepatocellular Carcinoma (HCC) is highly vascular and exhibits rapid hematogenous spread. Which of the following blood-borne pathways represents the primary route of early extrahepatic metastasis in HCC, and what are its most common target organs?",
+      "options": [
+        "Invasion of the portal vein branches spreading to the spleen and stomach",
+        "Early invasion of the hepatic veins leading to metastases in the lungs and bones",
+        "Retrograde flow through the left gastric vein metastasizing to the esophagus",
+        "Lymphatic flow through the thoracic duct to the left supraclavicular lymph node"
+      ],
+      "answer": 1,
+      "explanation": "Hepatocellular Carcinoma spreads hematogenously via early invasion of the hepatic veins, which drain directly into the systemic circulation (IVC), resulting in early distant metastases preferentially located in the lungs and bones."
+    },
+    {
+      "q": "A 58-year-old male with long-standing cirrhosis secondary to chronic Hepatitis B presents with weight loss, low-grade fever, and sudden clinical deterioration. Scleral icterus and ascites are noted. Which parameter is highly suggestive of HCC, and what is its classic diagnostic triad on triphasic CT scan?",
+      "options": [
+        "AFP > 100 ng/ml; central hypodense stellate scar with fibrous septae",
+        "AFP > 200 ng/ml; early arterial enhancement with delayed venous washout",
+        "Direct bilirubin > 18 mg/dl; normal arterial enhancement with delayed portal filling",
+        "CA 19-9 > 100 U/ml; multiple hypovascular cystic spaces"
+      ],
+      "answer": 1,
+      "explanation": "Serum alpha-fetoprotein (AFP) is elevated in 70-90% of HCC cases, and a level > 200 ng/ml is highly suggestive of the disease. The diagnostic imaging hallmark on triphasic CT is rapid contrast uptake during the early arterial phase (\"early arterial enhancement\") followed by rapid contrast clearance during the venous phase (\"delayed venous washout\")."
+    },
+    {
+      "q": "A cirrhotic patient is diagnosed with an early-stage, localized 3.5 cm HCC confined to Segment VI. Why is advanced liver cirrhosis considered a major contraindication for standard segmental liver resection?",
+      "options": [
+        "High propensity of cirrhotic liver to undergo acute biliary necrosis",
+        "Resection triggers systemic paraneoplastic erythrocytosis",
+        "Cirrhosis is associated with a severe bleeding tendency, poor functional reserve of the remaining liver, and impaired regenerative capacity of hepatocytes",
+        "Segmental resection promotes early trans-coelomic peritoneal seeding"
+      ],
+      "answer": 2,
+      "explanation": "Resection of HCC is contraindicated in patients with significant liver cirrhosis due to three primary pathophysiological limitations: (1) a severe bleeding tendency, (2) poor functional reserve of the remaining non-resected liver parenchyma, and (3) a severely compromised capacity for hepatocyte regeneration."
+    },
+    {
+      "q": "Ectopic hormone production causing paraneoplastic syndromes is well-documented in certain visceral malignancies. Which hematological abnormality is classically associated with primary Hepatocellular Carcinoma (HCC) as a paraneoplastic syndrome?",
+      "options": [
+        "Severe hemolytic anemia and thrombocytopenia",
+        "Ectopic erythropoietin (EPO) production leading to erythrocytosis (elevated hemoglobin and hematocrit)",
+        "Consumptive leukopenia and agranulocytosis",
+        "Severe granulocytosis mimicking leukemoid reaction"
+      ],
+      "answer": 1,
+      "explanation": "Hepatocellular Carcinoma, alongside renal cell carcinoma, pheochromocytoma, and hemangioblastoma, is classically associated with the ectopic production of erythropoietin (EPO), clinically presenting as secondary polycythemia (erythrocytosis with elevated hemoglobin and hematocrit)."
+    },
+    {
+      "q": "What is the relative incidence of secondary metastatic liver tumors compared to primary malignant liver tumors, and what is their classic macroscopic pathology appearance?",
+      "options": [
+        "Metastasis is 20 times more common than primary tumors; presenting as multiple, white, umbilicated nodules",
+        "Primary tumors are 20 times more common than metastasis; presenting as a single, localized green massive mass",
+        "Metastasis is 5 times more common than primary tumors; presenting as diffuse hemorrhagic infiltrates",
+        "They have identical incidences; presenting as smooth, cystic, non-necrotic subcapsular lesions"
+      ],
+      "answer": 0,
+      "explanation": "Liver metastasis is highly common, occurring approximately 20 times more frequently than all primary malignant liver tumors combined. Macroscopically, metastatic lesions typically present as multiple, white nodules that feature central umbilication."
+    },
+    {
+      "q": "During a macroscopic review of a liver resection specimen containing metastatic nodules, the pathologist identifies distinct \"central umbilication\" at the center of the white tumor nodules. What is the underlying cause of this umbilicated appearance?",
+      "options": [
+        "Localized calcification of the liver capsule",
+        "Direct pressure from the overlying diaphragm",
+        "Rapid central tumor growth outstripping its blood supply, leading to central necrosis",
+        "Spontaneous regression and focal fibrous tissue contraction"
+      ],
+      "answer": 2,
+      "explanation": "The characteristic central umbilication of metastatic liver nodules is caused by rapid central tumor necrosis, which occurs as the hypervascular tumor outgrows its metabolic blood supply at the center of the nodule."
+    },
+    {
+      "q": "Secondary liver tumors can arise at different times relative to the primary malignancy. What is the correct terminology for a liver metastasis that is identified at the same time as the primary tumor versus one that is discovered years after primary tumor resection?",
+      "options": [
+        "Synchronous (same time) & Metasynchronous (later)",
+        "Metasynchronous (same time) & Synchronous (later)",
+        "Concordant (same time) & Discordant (later)",
+        "Primary (same time) & Recurrent (later)"
+      ],
+      "answer": 0,
+      "explanation": "Liver metastases are classified as \"synchronous\" when they are discovered at the same time as the primary tumor, and \"metasynchronous\" when they are identified months or years after the surgical resection of the primary tumor."
+    },
+    {
+      "q": "Although metastatic disease to the liver generally indicates an inoperable state, surgical liver resection (metastasectomy) can be curative in select patients with metastases originating from which primary malignancy, and under what specific criteria?",
+      "options": [
+        "Breast carcinoma; if multiple nodules are bilateral and extra-hepatic metastases are stable",
+        "Colorectal carcinoma; if the primary tumor is totally resectable, there are no extra-hepatic metastases, and the nodules are solitary (<3.5 cm) or multiple but confined to a single lobe/segment",
+        "Gastric adenocarcinoma; if Linitis Plastica is absent and the nodules are cystic",
+        "Renal cell carcinoma; if bilateral adrenalectomy was performed successfully"
+      ],
+      "answer": 1,
+      "explanation": "Liver metastasectomy can be curative in select patients with metastatic colorectal carcinoma if four strict criteria are met: (1) the primary colorectal tumor is totally resectable (R0 resection), (2) there is an absolute absence of extra-hepatic metastatic disease, (3) the metastasis presents as a solitary hepatic nodule (< 3.5 cm) or as multiple nodules, and (4) the nodules are strictly confined to a single lobe or segment."
+    }
+  ]
+}
