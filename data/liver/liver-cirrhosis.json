@@ -1,0 +1,400 @@
+{
+  "nodeData": {
+    "topic": "🫀 Liver Cirrhosis",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Definition",
+        "id": "node_f32893ac",
+        "children": [
+          {
+            "topic": "Diffuse hepatic fibrosis with regenerative nodules replacing normal parenchyma [1][2]",
+            "id": "node_194944c8",
+            "children": []
+          },
+          {
+            "topic": "Progresses from compensated (asymptomatic) → decompensated (symptomatic) at 5–7%/year [2]",
+            "id": "node_d39c7307",
+            "children": []
+          },
+          {
+            "topic": "Early fibrosis may be reversible [3]",
+            "id": "node_f2291369",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "II. Etiology",
+        "id": "node_748e564d",
+        "children": [
+          {
+            "topic": "Alcohol use disorder — ~45% of US cases [4]",
+            "id": "node_a0117d79",
+            "children": []
+          },
+          {
+            "topic": "NAFLD/NASH — 61.8% of new incident cases, now leading cause of new diagnoses [4]",
+            "id": "node_643aaf35",
+            "children": []
+          },
+          {
+            "topic": "Hepatitis C — ~41% (often overlapping); now curable with DAAs [4]",
+            "id": "node_478b623e",
+            "children": []
+          },
+          {
+            "topic": "Hepatitis B — most common cause in endemic regions (Egypt, Asia)",
+            "id": "node_8ee77fda",
+            "children": []
+          },
+          {
+            "topic": "Autoimmune",
+            "id": "node_bb4483f8",
+            "children": [
+              {
+                "topic": "PBC (anti-mitochondrial antibodies)",
+                "id": "node_e2425c7c",
+                "children": []
+              },
+              {
+                "topic": "PSC",
+                "id": "node_a7a5e6d0",
+                "children": []
+              },
+              {
+                "topic": "Autoimmune hepatitis",
+                "id": "node_0b302c94",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Metabolic",
+            "id": "node_1deb9fc5",
+            "children": [
+              {
+                "topic": "Wilson disease (copper)",
+                "id": "node_879ca210",
+                "children": []
+              },
+              {
+                "topic": "Hemochromatosis (iron)",
+                "id": "node_ff40b402",
+                "children": []
+              },
+              {
+                "topic": "Alpha-1 antitrypsin deficiency",
+                "id": "node_dc3917f1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Other",
+            "id": "node_d598a461",
+            "children": [
+              {
+                "topic": "Biliary obstruction",
+                "id": "node_e11695c7",
+                "children": []
+              },
+              {
+                "topic": "Cardiac cirrhosis",
+                "id": "node_eda0e178",
+                "children": []
+              },
+              {
+                "topic": "Cryptogenic",
+                "id": "node_b0f7f3a6",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "III. Pathophysiology",
+        "id": "node_f395f5ac",
+        "children": [
+          {
+            "topic": "Chronic inflammation → stellate cell activation → collagen deposition → fibrosis",
+            "id": "node_ec337327",
+            "children": []
+          },
+          {
+            "topic": "Portal hypertension driven by increased intrahepatic resistance + splanchnic vasodilation [5]",
+            "id": "node_ea7d22a3",
+            "children": []
+          },
+          {
+            "topic": "Splanchnic vasodilation → ↓ effective arterial blood volume → RAAS/SNS activation → sodium/water retention [6][5]",
+            "id": "node_9105a173",
+            "children": []
+          },
+          {
+            "topic": "Bacterial translocation → systemic inflammation → organ dysfunction [6]",
+            "id": "node_30e3cd22",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "IV. Risk Factors",
+        "id": "node_92d0e9c8",
+        "children": [
+          {
+            "topic": "Heavy alcohol intake (≥100 g/day historically cited)",
+            "id": "node_da389168",
+            "children": []
+          },
+          {
+            "topic": "Chronic viral hepatitis (HBV/HCV)",
+            "id": "node_15000e81",
+            "children": []
+          },
+          {
+            "topic": "Metabolic syndrome / obesity",
+            "id": "node_52a0e132",
+            "children": []
+          },
+          {
+            "topic": "Prolonged cholestasis",
+            "id": "node_a50adf2a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "V. Clinical Presentation",
+        "id": "node_495c8549",
+        "children": [
+          {
+            "topic": "Compensated: often asymptomatic; ~40% diagnosed only at first decompensation [4]",
+            "id": "node_a9ee96ad",
+            "children": []
+          },
+          {
+            "topic": "Decompensated: ascites, variceal bleeding, hepatic encephalopathy, jaundice",
+            "id": "node_494de9cf",
+            "children": []
+          },
+          {
+            "topic": "Common symptoms:",
+            "id": "node_02a1f0ea",
+            "children": [
+              {
+                "topic": "Muscle cramps (64%)",
+                "id": "node_ce6d9ca3",
+                "children": []
+              },
+              {
+                "topic": "Poor sleep (63%)",
+                "id": "node_738ff9d8",
+                "children": []
+              },
+              {
+                "topic": "Pruritus (39%)",
+                "id": "node_c7bfd791",
+                "children": []
+              },
+              {
+                "topic": "Sexual dysfunction (53%) [4]",
+                "id": "node_f4bdc0b6",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Physical exam:",
+            "id": "node_27059bc6",
+            "children": [
+              {
+                "topic": "Spider angiomata",
+                "id": "node_2662c815",
+                "children": []
+              },
+              {
+                "topic": "Palmar erythema",
+                "id": "node_939801cd",
+                "children": []
+              },
+              {
+                "topic": "Gynecomastia",
+                "id": "node_a748baf0",
+                "children": []
+              },
+              {
+                "topic": "Caput medusae",
+                "id": "node_f9bdf2e3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "VI. Diagnostic Workup",
+        "id": "node_6bc975d4",
+        "children": [
+          {
+            "topic": "Elastography ≥15 kPa typically confirms cirrhosis [4]",
+            "id": "node_cfcfb4d9",
+            "children": []
+          },
+          {
+            "topic": "Noninvasive scores: APRI, FIB-4, FibroTest, NAFLD fibrosis score [3]",
+            "id": "node_c628816d",
+            "children": []
+          },
+          {
+            "topic": "Labs: CBC, LFTs, PT/INR, albumin, bilirubin; HCV/HBV serologies, ferritin/transferrin sat [3]",
+            "id": "node_d9af58c2",
+            "children": []
+          },
+          {
+            "topic": "Abdominal ultrasound — first-line imaging",
+            "id": "node_ba847891",
+            "children": []
+          },
+          {
+            "topic": "Liver biopsy — gold standard but rarely needed if noninvasive tests concordant",
+            "id": "node_3069d596",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "VII. Differential Diagnosis",
+        "id": "node_eb9316c5",
+        "children": [
+          {
+            "topic": "Budd-Chiari syndrome (hepatic vein thrombosis)",
+            "id": "node_5b54c093",
+            "children": []
+          },
+          {
+            "topic": "Cardiac hepatopathy / congestive hepatopathy",
+            "id": "node_ba819ab8",
+            "children": []
+          },
+          {
+            "topic": "Sinusoidal obstruction syndrome (veno-occlusive disease)",
+            "id": "node_e44de581",
+            "children": []
+          },
+          {
+            "topic": "Non-cirrhotic portal hypertension",
+            "id": "node_7c5a610a",
+            "children": [
+              {
+                "topic": "Schistosomiasis",
+                "id": "node_26160fa5",
+                "children": []
+              },
+              {
+                "topic": "Nodular regenerative hyperplasia",
+                "id": "node_5a3be791",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "VIII. Management / Treatment",
+        "id": "node_821369bf",
+        "children": [
+          {
+            "topic": "Etiology-directed: alcohol abstinence, DAAs for HCV, immunosuppression for autoimmune",
+            "id": "node_295cd5ef",
+            "children": []
+          },
+          {
+            "topic": "Portal hypertension: carvedilol or propranolol — reduced decompensation/death (16% vs 27%) [4]",
+            "id": "node_02b9920f",
+            "children": []
+          },
+          {
+            "topic": "Ascites: combination aldosterone antagonist + loop diuretic (76% resolution vs 56% sequential); salt restriction [4]",
+            "id": "node_acc1da9e",
+            "children": []
+          },
+          {
+            "topic": "Hepatic encephalopathy: lactulose (↓ mortality 8.5% vs 14%) ± rifaximin [4]",
+            "id": "node_cd42d012",
+            "children": []
+          },
+          {
+            "topic": "Hepatorenal syndrome: terlipressin improved reversal (39% vs 18%) [4]",
+            "id": "node_1be3ba33",
+            "children": []
+          },
+          {
+            "topic": "HCC screening: ultrasound every 6 months [3]",
+            "id": "node_1ace48c3",
+            "children": []
+          },
+          {
+            "topic": "Liver transplantation for end-stage disease",
+            "id": "node_e4baa787",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "IX. Complications",
+        "id": "node_0f4e29d2",
+        "children": [
+          {
+            "topic": "Median survival after ascites onset: ~1.1 years; after encephalopathy: ~0.92 years [4]",
+            "id": "node_977d068f",
+            "children": []
+          },
+          {
+            "topic": "SBP — 11% annual incidence in ascites patients [4]",
+            "id": "node_b63ef564",
+            "children": []
+          },
+          {
+            "topic": "Hepatorenal syndrome — 8%/year; median survival [4]",
+            "id": "node_80a9f49d",
+            "children": []
+          },
+          {
+            "topic": "HCC — 1–4%/year; 5-year survival ~20% [4]",
+            "id": "node_523f7dd8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "X. Key Pearls / Red Flags",
+        "id": "node_648231be",
+        "children": [
+          {
+            "topic": "Discontinue antihypertensives in decompensated cirrhosis with hypotension; target MAP >82 mmHg [5]",
+            "id": "node_108e9ed9",
+            "children": []
+          },
+          {
+            "topic": "Only 1 in 3 patients with cirrhosis knows their diagnosis [3]",
+            "id": "node_ea8a7c3f",
+            "children": []
+          },
+          {
+            "topic": "NAFLD has overtaken HCV as the leading cause of new cirrhosis diagnoses [4]",
+            "id": "node_e5242beb",
+            "children": []
+          },
+          {
+            "topic": "Micronodular = early alcoholic; macronodular = viral/post-necrotic",
+            "id": "node_5b151243",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

@@ -5,6 +5,8 @@
     { "id": "liver-anatomy-embryology", "name": "Surgical Anatomy & Embryology", "createdAt": "2026-08-04T15:45:00Z" },
     { "id": "liver-trauma", "name": "Liver Trauma", "createdAt": "2026-08-04T15:45:00Z" },
     { "id": "liver-tumors", "name": "Liver Tumors", "createdAt": "2026-08-04T15:45:00Z" },
-    { "id": "pyogenic-abscess-metastasis", "name": "Pyogenic Abscess & Metastasis", "createdAt": "2026-08-04T15:45:00Z" }
+    { "id": "pyogenic-abscess-metastasis", "name": "Pyogenic Abscess & Metastasis", "createdAt": "2026-08-04T15:45:00Z" },
+    { "id": "liver-cirrhosis", "name": "Liver Cirrhosis", "createdAt": "2026-08-07T20:45:00Z" },
+    { "id": "budd-chiari-syndrome", "name": "Budd-Chiari Syndrome", "createdAt": "2026-08-07T20:45:00Z" }
   ]
 }

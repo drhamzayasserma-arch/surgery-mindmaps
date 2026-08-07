@@ -1,0 +1,268 @@
+{
+  "nodeData": {
+    "topic": "🫀 Budd-Chiari Syndrome",
+    "id": "root",
+    "children": [
+      {
+        "topic": "I. Definition",
+        "id": "node_f9cf7fed",
+        "children": [
+          {
+            "topic": "Obstruction of hepatic venous outflow tract — from small intrahepatic venules to suprahepatic IVC [7][8]",
+            "id": "node_0dfff223",
+            "children": []
+          },
+          {
+            "topic": "Rare: 0.5–2 per million (Western); 5–7 per million (Asia) [7]",
+            "id": "node_ca9357cc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "II. Etiology / Risk Factors",
+        "id": "node_04fd408b",
+        "children": [
+          {
+            "topic": "Myeloproliferative neoplasms (MPN) — ~50% of cases; screen with JAK2 V617F mutation [7][9]",
+            "id": "node_92b19d65",
+            "children": []
+          },
+          {
+            "topic": "Prothrombotic states identified in 79–84% of patients; ≥2 disorders in 25–46% [7]",
+            "id": "node_192303ba",
+            "children": []
+          },
+          {
+            "topic": "Inherited: Factor V Leiden, prothrombin gene mutation, protein C/S/antithrombin deficiency [9][8]",
+            "id": "node_354f996b",
+            "children": []
+          },
+          {
+            "topic": "Acquired: antiphospholipid syndrome, PNH, OCPs, pregnancy [10][8]",
+            "id": "node_531c2264",
+            "children": []
+          },
+          {
+            "topic": "Systemic: Behçet disease, sarcoidosis, vasculitis [9]",
+            "id": "node_993f8dfb",
+            "children": []
+          },
+          {
+            "topic": "Secondary (non-thrombotic): malignant invasion/compression of hepatic veins [7]",
+            "id": "node_2fddbc4f",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "III. Pathophysiology",
+        "id": "node_f0734600",
+        "children": [
+          {
+            "topic": "Hepatic venous obstruction → ↑ sinusoidal pressure → centrilobular congestion and ischemia [8][11]",
+            "id": "node_ae2214e3",
+            "children": []
+          },
+          {
+            "topic": "Ischemic injury → free radical release → hepatocyte necrosis (centrilobular) [8]",
+            "id": "node_fe83cde8",
+            "children": []
+          },
+          {
+            "topic": "Chronic congestion → sinusoidal thrombosis → centrilobular fibrosis → cirrhosis [9][11]",
+            "id": "node_ba4fdaeb",
+            "children": []
+          },
+          {
+            "topic": "Caudate lobe hypertrophy — independent drainage directly into IVC [8]",
+            "id": "node_3d0bbc6e",
+            "children": []
+          },
+          {
+            "topic": "Compensatory: intrahepatic collaterals + increased arterial flow [11]",
+            "id": "node_da79d799",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "IV. Clinical Presentation",
+        "id": "node_a3f652b1",
+        "children": [
+          {
+            "topic": "Classic triad: abdominal pain + hepatomegaly + ascites [12][7]",
+            "id": "node_3455f863",
+            "children": []
+          },
+          {
+            "topic": "~20% asymptomatic (chronic, with collateral formation) [12][7]",
+            "id": "node_688498a6",
+            "children": []
+          },
+          {
+            "topic": "Subacute = most common presentation [10][7]",
+            "id": "node_58c6040b",
+            "children": []
+          },
+          {
+            "topic": "Fulminant: acute liver failure with encephalopathy",
+            "id": "node_912634b0",
+            "children": []
+          },
+          {
+            "topic": "Chronic: portal hypertension complications, risk of HCC [10]",
+            "id": "node_69c754a2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "V. Diagnostic Workup",
+        "id": "node_92217b6a",
+        "children": [
+          {
+            "topic": "Doppler ultrasound — first-line; absent/reversed hepatic vein flow [7]",
+            "id": "node_818c0d41",
+            "children": []
+          },
+          {
+            "topic": "CT/MRI: patchy liver enhancement, caudate lobe hypertrophy, venous collaterals [7]",
+            "id": "node_f8c58a99",
+            "children": []
+          },
+          {
+            "topic": "Venography: \"spider web\" pattern of collaterals [8]",
+            "id": "node_dabd74c5",
+            "children": []
+          },
+          {
+            "topic": "Liver biopsy: only if small-vessel BCS suspected [9]",
+            "id": "node_00eb83a9",
+            "children": []
+          },
+          {
+            "topic": "Always screen for MPN (JAK2 V617F) even if another cause found [9][12]",
+            "id": "node_86b4de25",
+            "children": []
+          },
+          {
+            "topic": "Full thrombophilia workup in all patients [7]",
+            "id": "node_cc7ab09e",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "VI. Management Stepwise Approach",
+        "id": "node_88eb17b5",
+        "children": [
+          {
+            "topic": "Step 1: Anticoagulation (LMWH → warfarin) — lifelong in most patients [10]",
+            "id": "node_94ca5f28",
+            "children": []
+          },
+          {
+            "topic": "Step 2: Angioplasty ± stenting of stenotic hepatic veins/IVC [9][13]",
+            "id": "node_d133e1e4",
+            "children": []
+          },
+          {
+            "topic": "Step 3: TIPS — for refractory cases or deteriorating liver function [9][12]",
+            "id": "node_db8303f6",
+            "children": []
+          },
+          {
+            "topic": "Step 4: Liver transplantation — definitive for end-stage/fulminant cases [10][9]",
+            "id": "node_81085d98",
+            "children": []
+          },
+          {
+            "topic": "Treat underlying prothrombotic condition (e.g., cytoreduction for MPN)",
+            "id": "node_b93c362a",
+            "children": []
+          },
+          {
+            "topic": "5-year survival with stepwise strategy: ~90% [9]",
+            "id": "node_4d57fcfd",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "VII. Complications",
+        "id": "node_eff616f3",
+        "children": [
+          {
+            "topic": "Progressive cirrhosis and portal hypertension",
+            "id": "node_857644de",
+            "children": []
+          },
+          {
+            "topic": "Hepatocellular carcinoma — mechanism linked to hyperarterialization rather than chronic inflammation [11]",
+            "id": "node_f83a4252",
+            "children": []
+          },
+          {
+            "topic": "Portal vein thrombosis (concurrent in many cases) [14][8]",
+            "id": "node_8101d4b9",
+            "children": []
+          },
+          {
+            "topic": "Focal nodular hyperplasia-like nodules [7][14]",
+            "id": "node_e249c4c1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "VIII. Key Pearls / Connections",
+        "id": "node_3656a696",
+        "children": [
+          {
+            "topic": "Suspect BCS in any unexplained acute/chronic liver disease — especially young patients with ascites [13]",
+            "id": "node_ec49a87d",
+            "children": []
+          },
+          {
+            "topic": "Discovery of one prothrombotic factor should not stop further workup — multiple causes common [9]",
+            "id": "node_4893dd26",
+            "children": []
+          },
+          {
+            "topic": "JAK2 V617F testing essential even if another etiology identified [9]",
+            "id": "node_9107dcef",
+            "children": []
+          },
+          {
+            "topic": "Pregnancy not contraindicated post-BCS, but fetal outcomes remain poor [10]",
+            "id": "node_f10613c2",
+            "children": []
+          },
+          {
+            "topic": "Cirrhosis ↔ Budd-Chiari",
+            "id": "node_ad3d1767",
+            "children": [
+              {
+                "topic": "Chronic BCS causes a unique veno-centric cirrhosis pattern distinct from viral/alcoholic cirrhosis; conversely, pre-existing cirrhosis is a risk factor for BCS [9][14]",
+                "id": "node_ca3dfab9",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Portal hypertension is the shared final common pathway — but mechanisms differ (intrahepatic resistance in cirrhosis vs. post-sinusoidal congestion in BCS)",
+            "id": "node_4c9dbd44",
+            "children": []
+          },
+          {
+            "topic": "Differential trap: Cryptogenic cirrhosis — always consider chronic BCS as an overlooked cause, especially with prominent caudate hypertrophy or IVC compression on imaging [15]",
+            "id": "node_9ab69ecd",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}
