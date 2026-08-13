@@ -1,0 +1,428 @@
+{
+  "nodeData": {
+    "topic": "🧠 BILIARY GALLSTONE DISEASE",
+    "id": "root",
+    "children": [
+      {
+        "topic": "📊 1. Etiology &\nTypes of Gallstones",
+        "id": "node_4e8d3567",
+        "children": [
+          {
+            "topic": "Epidemiology",
+            "id": "node_6b42171f",
+            "children": [
+              {
+                "topic": "Classic patient profile follows the 4 Fs:\nFemale, Fat, Forty, Fertile",
+                "id": "node_92dc6531",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Cholesterol Stones (75-80%)",
+            "id": "node_9e0083ef",
+            "children": [
+              {
+                "topic": "Formed when bile is supersaturated with cholesterol\nrelative to bile salts and lecithin",
+                "id": "node_1b3109cb",
+                "children": []
+              },
+              {
+                "topic": "Reduced Bile Salts:\nFrom liver diseases or malabsorption\n(e.g., Crohn's disease, terminal ileal resection)",
+                "id": "node_e64967c1",
+                "children": []
+              },
+              {
+                "topic": "Increased Cholesterol Secretion:\nObesity, high dietary fat, hyperlipidemia,\nand estrogen (pregnancy, OCP use)",
+                "id": "node_800352f7",
+                "children": []
+              },
+              {
+                "topic": "Biliary Stasis / Impaired Emptying:\nInduced by progesterone, diabetic neuropathy,\ntruncal vagotomy, or prolonged TPN",
+                "id": "node_3ee48f9c",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pigment Stones (20-25%)",
+            "id": "node_5ced5ef2",
+            "children": [
+              {
+                "topic": "Driven by excess unconjugated bilirubin",
+                "id": "node_70cfcb89",
+                "children": []
+              },
+              {
+                "topic": "Black Stones (from Blood):\nHemolytic anemia, hemolytic disorders, liver cirrhosis",
+                "id": "node_fe131bcb",
+                "children": []
+              },
+              {
+                "topic": "Brown Stones (from Bacteria):\nChronic infection/stasis, biliary pathogens produce\nbeta-glucuronidase (hydrolyzes bilirubin)",
+                "id": "node_ef5eea72",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "🩺 2. Clinical Spectrum",
+        "id": "node_964c9b7b",
+        "children": [
+          {
+            "topic": "Silent (Asymptomatic)",
+            "id": "node_a24d07c6",
+            "children": [
+              {
+                "topic": "Accidentally discovered in 70% of cases",
+                "id": "node_d8eb5ae1",
+                "children": []
+              },
+              {
+                "topic": "Management: Observation\nProphylactic cholecystectomy only for high risk\n(porcelain gallbladder, diabetics, immunosuppressed)",
+                "id": "node_bbc4e472",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Biliary Colic (Symptomatic)",
+            "id": "node_83380e5f",
+            "children": [
+              {
+                "topic": "Pathology: Transient cystic duct obstruction",
+                "id": "node_581652e7",
+                "children": []
+              },
+              {
+                "topic": "Symptoms: Constant RUQ/epigastrium pain radiating to back,\nprecipitated by fatty meals, resolves in hours",
+                "id": "node_a3aa7f31",
+                "children": []
+              },
+              {
+                "topic": "Labs: Normal liver function tests, amylase, and lipase",
+                "id": "node_499a46a0",
+                "children": []
+              },
+              {
+                "topic": "Associated: Saint's Triad\n(Hiatus Hernia, Peptic Ulcer, Cholelithiasis)",
+                "id": "node_dcad1d56",
+                "children": []
+              },
+              {
+                "topic": "Management: Elective laparoscopic cholecystectomy",
+                "id": "node_e8b78be0",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Acute Calcular Cholecystitis",
+            "id": "node_d843851e",
+            "children": [
+              {
+                "topic": "Pathology: Persistent obstruction leading to\ninflammation, edema, ischemia, and bacterial overgrowth",
+                "id": "node_99a5a386",
+                "children": []
+              },
+              {
+                "topic": "Symptoms: Severe constant RUQ pain > 4-6 hours,\nfever, tachycardia, leukocytosis",
+                "id": "node_fd661990",
+                "children": []
+              },
+              {
+                "topic": "Signs: Positive Murphy's Sign, Boas' Sign\n(hyperesthesia between 9th-11th right ribs)",
+                "id": "node_345ca20d",
+                "children": []
+              },
+              {
+                "topic": "Progression: Mucocele, Empyema (Pyocele), Gangrene, Perforation",
+                "id": "node_1479dc57",
+                "children": []
+              },
+              {
+                "topic": "Management:\nEarly ( 3d): Conservative (Rule of 6Rs), interval surgery in 6 weeks",
+                "id": "node_256b89d3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Acute Acalculous Cholecystitis",
+            "id": "node_b35c9cf1",
+            "children": [
+              {
+                "topic": "Pathology: Absence of stones. Seen in ICU,\ndriven by bile stasis and gallbladder ischemia",
+                "id": "node_80e81477",
+                "children": []
+              },
+              {
+                "topic": "Management: Broad-spectrum IV antibiotics.\nPercutaneous cholecystostomy tube if unstable",
+                "id": "node_b72ffc6a",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Emphysematous Cholecystitis",
+            "id": "node_d0005cb6",
+            "children": [
+              {
+                "topic": "Pathology: Gas-forming bacteria (Clostridium).\nCommon in elderly diabetic males",
+                "id": "node_b74f3d35",
+                "children": []
+              },
+              {
+                "topic": "Management: Emergent cholecystectomy\ndue to high risk of gangrene and rapid perforation",
+                "id": "node_51042021",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "🚨 3. Complications of Migration",
+        "id": "node_72bf9e08",
+        "children": [
+          {
+            "topic": "Choledocholithiasis (Stones in CBD)",
+            "id": "node_59c6e2b2",
+            "children": [
+              {
+                "topic": "Pathology: Stone migrates to CBD causing biliary obstruction",
+                "id": "node_b73061cb",
+                "children": []
+              },
+              {
+                "topic": "Symptoms: RUQ pain, fluctuating obstructive jaundice\n(pale/clay stools, dark urine)",
+                "id": "node_6588f3fa",
+                "children": []
+              },
+              {
+                "topic": "Diagnostics: Elevated AP and GGT out of proportion.\nUltrasound shows dilated intra/extrahepatic biliary radicals",
+                "id": "node_54bd8b84",
+                "children": []
+              },
+              {
+                "topic": "Management:\n1. ERCP (sphincterotomy and stone extraction)\n2. Laparoscopic Cholecystectomy (3-7 days later)\n3. Open Choledocholithotomy with T-Tube (if ERCP fails)",
+                "id": "node_0fa0a1f5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Acute Ascending Cholangitis",
+            "id": "node_9a8377ee",
+            "children": [
+              {
+                "topic": "Pathology: CBD obstruction leads to rapid\nascending bacterial infection into liver",
+                "id": "node_6c84a85c",
+                "children": []
+              },
+              {
+                "topic": "Presentation:\nCharcot's Triad (Fever with rigors, RUQ pain, Jaundice)\nReynold's Pentad (+ Hypotension, Altered mental status)",
+                "id": "node_52ae92bb",
+                "children": []
+              },
+              {
+                "topic": "Management:\nIV fluid resuscitation and broad-spectrum antibiotics\nEmergent biliary decompression (ERCP or PTC)\nCholecystectomy delayed until sepsis resolves",
+                "id": "node_2a87a04b",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Acute Gallstone Pancreatitis",
+            "id": "node_0574b9f6",
+            "children": [
+              {
+                "topic": "Pathology: Stone impaction at ampulla of Vater\nblocking pancreatic duct, causing autodigestion",
+                "id": "node_171ff820",
+                "children": []
+              },
+              {
+                "topic": "Symptoms: Sudden severe epigastric pain radiating through to back.\nElevated serum amylase (> 1000 IU/dL) and lipase",
+                "id": "node_1a9881fb",
+                "children": []
+              },
+              {
+                "topic": "Management: Supportive care (fluids, analgesics, bowel rest).\nLaparoscopic cholecystectomy during same admission",
+                "id": "node_ffb0ea19",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Mirizzi's Syndrome",
+            "id": "node_5abd3e28",
+            "children": [
+              {
+                "topic": "Pathology: Large stone impacted in gallbladder neck/Hartmann's pouch\nexternally compresses Common Hepatic Duct (CHD)",
+                "id": "node_7ce221ec",
+                "children": []
+              },
+              {
+                "topic": "Surgical Danger: Stone can erode forming fistulous cavity.\nCHD can be accidentally ligated during surgery",
+                "id": "node_2c22f204",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Gallstone Ileus",
+            "id": "node_392f16fc",
+            "children": [
+              {
+                "topic": "Pathology: Large stone (> 2.5cm) erodes into duodenum (fistula),\nimpacts at terminal ileum causing mechanical small bowel obstruction",
+                "id": "node_2adb40c9",
+                "children": []
+              },
+              {
+                "topic": "Symptoms: Intermittent tumbling obstruction (pain, nausea, vomiting)",
+                "id": "node_e854a3a4",
+                "children": []
+              },
+              {
+                "topic": "Rigler's Triad: Small bowel obstruction,\nPneumobilia, Radiopaque gallstone in right iliac fossa",
+                "id": "node_33e93181",
+                "children": []
+              },
+              {
+                "topic": "Management: Urgent laparotomy and enterotomy to extract stone.\nLeave gallbladder and fistula alone during emergency",
+                "id": "node_6dc1c95b",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "🔍 4. Diagnostic Workup",
+        "id": "node_9b006fea",
+        "children": [
+          {
+            "topic": "Abdominal Ultrasound (U/S)",
+            "id": "node_6268204e",
+            "children": [
+              {
+                "topic": "First-line screening tool of choice (95% accuracy)",
+                "id": "node_a6abcc16",
+                "children": []
+              },
+              {
+                "topic": "Symptomatic Cholelithiasis: Acoustic shadowing,\nnormal gallbladder wall and normal CBD",
+                "id": "node_1505433d",
+                "children": []
+              },
+              {
+                "topic": "Acute Cholecystitis: Wall thickening > 4mm,\npericholecystic fluid, positive sonographic Murphy's sign",
+                "id": "node_45d2c1c7",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "HIDA Scan (Cholescintigraphy)",
+            "id": "node_6d3897a4",
+            "children": [
+              {
+                "topic": "Most sensitive diagnostic test for acute cholecystitis\nif ultrasound is equivocal",
+                "id": "node_01048e01",
+                "children": []
+              },
+              {
+                "topic": "Positive finding: Gallbladder fails to visualize\n(cystic duct is obstructed)",
+                "id": "node_1ecf901f",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "MRCP",
+            "id": "node_56bd3376",
+            "children": [
+              {
+                "topic": "Non-invasive standard for detailed anatomical mapping of biliary tree",
+                "id": "node_e56770a1",
+                "children": []
+              },
+              {
+                "topic": "Highly diagnostic for choledocholithiasis, biliary strictures, cysts",
+                "id": "node_356869eb",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "ERCP",
+            "id": "node_6ca505a3",
+            "children": [
+              {
+                "topic": "Primarily a therapeutic modality for extracting CBD stones,\ndilating strictures, or placing stents",
+                "id": "node_6f69fd16",
+                "children": []
+              },
+              {
+                "topic": "Complications: Bleeding/hemobilia (2-9%),\npost-ERCP pancreatitis (1-4%), acute ascending cholangitis (1-3%)",
+                "id": "node_f2fcdb38",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "⚠️ 5. Post-Operative Complications",
+        "id": "node_4f12fcf0",
+        "children": [
+          {
+            "topic": "Common Bile Duct (CBD) Injury",
+            "id": "node_6ca974bc",
+            "children": [
+              {
+                "topic": "Most feared complication of laparoscopic cholecystectomy",
+                "id": "node_8cb2d6d4",
+                "children": []
+              },
+              {
+                "topic": "Occurs when CBD is mistaken for cystic duct and divided",
+                "id": "node_1013f659",
+                "children": []
+              },
+              {
+                "topic": "Consequences: Bile leaks (bilomas), chronic strictures,\nrecurrent cholangitis, secondary biliary cirrhosis",
+                "id": "node_f8802f5d",
+                "children": []
+              },
+              {
+                "topic": "Treatment: Urgent reconstruction via Roux-en-Y hepaticojejunostomy",
+                "id": "node_4b180335",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Postcholecystectomy Syndrome (PCS)",
+            "id": "node_33c8bdc8",
+            "children": [
+              {
+                "topic": "Recurrent or persistent RUQ pain and biliary symptoms after surgery",
+                "id": "node_197b2506",
+                "children": []
+              },
+              {
+                "topic": "Causes: Retained/missed CBD stone, long cystic duct stump,\nsphincter of Oddi dysfunction, gastritis/peptic ulcer disease",
+                "id": "node_54136966",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}
