@@ -1,0 +1,171 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Biliary Cholecystitis",
+    "root": true,
+    "children": [
+      {
+        "id": "n1",
+        "topic": "Acute Cholecystitis",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n1_1",
+            "topic": "Acute Calculous",
+            "children": [
+              { "id": "n1_1_1", "topic": "98 percent of cases", "children": [] },
+              { "id": "n1_1_2", "topic": "Stone obstruction in Hartmanns pouch", "children": [] },
+              {
+                "id": "n1_1_3",
+                "topic": "Pathophysiology",
+                "children": [
+                  { "id": "n1_1_3_1", "topic": "Sterile", "children": [
+                      { "id": "n1_1_3_1_1", "topic": "Hydrops", "children": [] },
+                      { "id": "n1_1_3_1_2", "topic": "White Bile", "children": [] }
+                    ]
+                  },
+                  { "id": "n1_1_3_2", "topic": "Infective", "children": [
+                      { "id": "n1_1_3_2_1", "topic": "Empyema", "children": [] },
+                      { "id": "n1_1_3_2_2", "topic": "Purulent Content", "children": [] }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "n1_1_4",
+                "topic": "Presentation",
+                "children": [
+                  { "id": "n1_1_4_1", "topic": "RUQ pain over 4 hours", "children": [] },
+                  { "id": "n1_1_4_2", "topic": "Murphys sign", "children": [] },
+                  { "id": "n1_1_4_3", "topic": "Boas sign", "children": [] }
+                ]
+              },
+              {
+                "id": "n1_1_5",
+                "topic": "Diagnosis",
+                "children": [
+                  { "id": "n1_1_5_1", "topic": "Ultrasound First Line", "children": [] },
+                  { "id": "n1_1_5_2", "topic": "HIDA scan Most Sensitive", "children": [] }
+                ]
+              },
+              {
+                "id": "n1_1_6",
+                "topic": "Management",
+                "children": [
+                  { "id": "n1_1_6_1", "topic": "Early under 72h", "children": [
+                      { "id": "n1_1_6_1_1", "topic": "Urgent Lap Cholecystectomy", "children": [] }
+                    ]
+                  },
+                  { "id": "n1_1_6_2", "topic": "Late over 72h", "children": [
+                      { "id": "n1_1_6_2_1", "topic": "Conservative then Elective in 6 weeks", "children": [] }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n1_2",
+            "topic": "Acute Acalculous",
+            "children": [
+              { "id": "n1_2_1", "topic": "2 percent of cases", "children": [] },
+              { "id": "n1_2_2", "topic": "No stones involved", "children": [] },
+              { "id": "n1_2_3", "topic": "Bile stasis and ischemia", "children": [] },
+              { "id": "n1_2_4", "topic": "Critically ill ICU patients", "children": [] },
+              { "id": "n1_2_5", "topic": "Management", "children": [
+                  { "id": "n1_2_5_1", "topic": "Stable", "children": [
+                      { "id": "n1_2_5_1_1", "topic": "Urgent Cholecystectomy", "children": [] }
+                    ]
+                  },
+                  { "id": "n1_2_5_2", "topic": "Unstable", "children": [
+                      { "id": "n1_2_5_2_1", "topic": "Percutaneous Cholecystostomy", "children": [] }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n1_3",
+            "topic": "Acute Emphysematous",
+            "children": [
+              { "id": "n1_3_1", "topic": "Gas forming organisms", "children": [] },
+              { "id": "n1_3_2", "topic": "Elderly diabetic males", "children": [] },
+              { "id": "n1_3_3", "topic": "Surgical emergency", "children": [] },
+              { "id": "n1_3_4", "topic": "Management", "children": [
+                  { "id": "n1_3_4_1", "topic": "Emergent Cholecystectomy", "children": [] },
+                  { "id": "n1_3_4_2", "topic": "Anti clostridial antibiotics", "children": [] }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n2",
+        "topic": "Chronic Cholecystitis",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n2_1",
+            "topic": "Chronic Calculous",
+            "children": [
+              { "id": "n2_1_1", "topic": "Post recurrent acute attacks", "children": [] },
+              { "id": "n2_1_2", "topic": "Porcelain Gallbladder", "children": [] },
+              { "id": "n2_1_3", "topic": "High Malignancy Risk", "children": [] },
+              { "id": "n2_1_4", "topic": "Management", "children": [
+                  { "id": "n2_1_4_1", "topic": "Laparoscopic Cholecystectomy", "children": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n2_2",
+            "topic": "Chronic Non Calculous",
+            "children": [
+              { "id": "n2_2_1", "topic": "Typhoid Gallbladder", "children": [
+                  { "id": "n2_2_1_1", "topic": "Infective Salmonella typhi", "children": [] }
+                ]
+              },
+              { "id": "n2_2_2", "topic": "Cholesterolosis", "children": [
+                  { "id": "n2_2_2_1", "topic": "Strawberry Gallbladder", "children": [] }
+                ]
+              },
+              { "id": "n2_2_3", "topic": "Biliary Dyskinesia", "children": [
+                  { "id": "n2_2_3_1", "topic": "Sphincter of Oddi achalasia", "children": [] },
+                  { "id": "n2_2_3_2", "topic": "Management", "children": [
+                      { "id": "n2_2_3_2_1", "topic": "ERCP sphincterotomy", "children": [] }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "topic": "Post Operative Complications",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n3_1",
+            "topic": "Bile Leaks",
+            "children": [
+              { "id": "n3_1_1", "topic": "Cystic duct stump leak", "children": [
+                  { "id": "n3_1_1_1", "topic": "Tracer in small bowel", "children": [] },
+                  { "id": "n3_1_1_2", "topic": "Manage with ERCP stenting", "children": [] }
+                ]
+              },
+              { "id": "n3_1_2", "topic": "Main CBD cut", "children": [
+                  { "id": "n3_1_2_1", "topic": "No tracer in small bowel", "children": [] },
+                  { "id": "n3_1_2_2", "topic": "Manage with Hepaticojejunostomy", "children": [] }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
