@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "q": "A 48-year-old female presents with yellowing of her skin and sclera. Laboratory testing reveals a total bilirubin of 4.2 mg/dL with a direct (conjugated) bilirubin of 2.8 mg/dL. Which of the following statements correctly defines the biochemical thresholds and tissue staining properties of jaundice based on her presentation?",
+      "options": [
+        "She has sub-clinical jaundice; normal bilirubin is <2.5 mg%, and tissue staining is absent.",
+        "She has clinical jaundice; jaundice is physically visible when bilirubin exceeds 3 mg%, and she exhibits staining of all body tissues and fluids except the brain, cerebrospinal fluid (CSF), tears, saliva, and milk.",
+        "She has sub-icteric jaundice; tissues are stained because direct bilirubin is hydrophobic and bound tightly to albumin.",
+        "She has clinical jaundice; direct bilirubin is highly hydrophobic and selectively stains the liver parenchyma and spleen."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: Normal serum bilirubin is <1 mg%. Jaundice is classified as sub-clinical (sub-icteric) when levels are between 1-3 mg%, and becomes clinically apparent (visible in the sclera) once the total serum level exceeds 3 mg%. Obstructive biliary jaundice leads to generalized yellow staining of all body tissues and fluids except the brain, CSF, tears, saliva, and milk."
+    },
+    {
+      "q": "A patient with complete extra-hepatic biliary obstruction complains of dark, 'tea-like' urine and pale, clay-colored, highly offensive stools. What are the correct physiological mechanisms explaining these changes?",
+      "options": [
+        "Increased urine urobilinogen turns the urine dark; increased stercobilinogen robs the stool of pigment.",
+        "Unconjugated bilirubin is filtered by the glomerulus, turning the urine dark; a compensatory overproduction of pancreatic lipase causes pale, fatty stools.",
+        "Direct (conjugated) bilirubin is water-soluble and excreted in the urine, making it dark; a lack of bilirubin entering the duodenum prevents stercobilin formation, causing pale stools, and the deficiency of intestinal bile salts allows bacterial fermentation, leading to bulky, offensive stools.",
+        "Mucus secretion ('white bile') inside the bile ducts translocates directly into the renal veins, staining the urine dark."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation & Grounding: Direct (conjugated) bilirubin is highly water-soluble; when it backs up into the bloodstream, it is filtered by the kidneys and excreted, rendering the urine dark or tea-colored. Because bilirubin is blocked from entering the intestine, no stercobilinogen (and thus no brown stercobilin pigment) is produced, turning the stool pale or clay-colored. Furthermore, a deficiency of intestinal bile salts impairs fat emulsification (causing steatorrhea) and abrogates the normal bacteriostatic function of bile, allowing colonic bacteria to ferment intestinal contents, which makes the stool bulky and highly offensive."
+    },
+    {
+      "q": "A resident wants to differentiate between post-hepatic (obstructive) jaundice and hepatic (hepatocellular) damage in a patient with a prolonged Prothrombin Time (PT) and elevated INR. What is the most accurate clinical approach to distinguish these two etiologies?",
+      "options": [
+        "Check AST and ALT levels; they are completely normal in all cases of hepatocellular damage.",
+        "Administer intravenous (IV) Vitamin K; if the PT and INR normalize, it confirms obstructive jaundice, whereas a failure to improve indicates hepatocellular damage.",
+        "Measure serum amylase; amylase is only elevated in patients with hepatocellular damage.",
+        "Check p-ANCA levels; p-ANCA is highly elevated in all patients with post-operative biliary leaks."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: Bile is necessary for the intestinal absorption of fat-soluble vitamins, including Vitamin K. Biliary obstruction prevents bile from entering the duodenum, leading to malabsorption of Vitamin K and a prolonged Prothrombin Time (PT/INR). To differentiate this from hepatocellular failure (where the sick liver cannot synthesize clotting factors), IV Vitamin K is administered for a few days. If the PT/INR improves, it confirms obstructive jaundice (demonstrating healthy hepatocytes that simply lacked absorbed Vitamin K). If the PT/INR does not improve, it points to primary hepatocellular damage."
+    },
+    {
+      "q": "A patient with long-standing, complete mechanical obstruction of the extra-hepatic biliary tract is found to have a biliary tree filled entirely with clear, colorless, mucous-like fluid ('white bile') instead of normal bile. What is the underlying pathophysiology behind this finding?",
+      "options": [
+        "Complete bacterial destruction of bile pigments by ascending E. coli infection.",
+        "Chronic stasis and high intraductal pressure impair hepatocyte secretory function, causing the duct to be filled solely with mucous secreted by the ductal mucosal lining.",
+        "Direct filtration of pure lymphatic fluid into the common bile duct.",
+        "Premature activation of pancreatic trypsinogen inside the duct wall."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: When biliary obstruction is complete and chronic, sustained high pressure within the biliary tree halts the excretion of bile from hepatocytes. Consequently, the biliary tree fills entirely with clear, colorless mucosal secretions ('white bile') produced by the epithelial cells lining the ductal wall."
+    },
+    {
+      "q": "A 40-year-old female presents with progressive jaundice and a persistent biliary fistula 10 days after undergoing a difficult laparoscopic cholecystectomy. Which of the following predisposing intraoperative factors is the most common cause of her likely diagnosis, and what is the definitive reconstruction?",
+      "options": [
+        "Excessive use of electrocautery near the duodenum; reconstruction with a T-tube.",
+        "Direct injury to the phrenic nerve; reconstruction with a choledochoduodenostomy.",
+        "Traumatic biliary stricture caused by complete ligation, ischemia of the duct, or failure to identify Calot’s triangle from severe inflammation; reconstruction with a Roux-en-Y hepaticojejunostomy.",
+        "Accidental division of the left gastric artery; reconstruction with a gastric bypass."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation & Grounding: Traumatic (iatrogenic) biliary stricture accounts for 80% of benign stricture cases and classically follows cholecystectomy or choledocholithotomy. It is caused by complete ligation of the CBD, ductal ischemia, blind ligation of a bleeding cystic artery, excessive traction, or failure to safely identify Calot's triangle due to dense inflammation. Post-operatively, patients present with jaundice or a biliary fistula. The gold-standard treatment is surgical reconstruction via a Roux-en-Y hepaticojejunostomy."
+    },
+    {
+      "q": "A 32-year-old male with a history of bloody diarrhea presents with progressive jaundice, pruritus, and right upper quadrant pain. Cholangiography reveals multiple, chronic, alternating intrahepatic and extrahepatic biliary strictures and dilations ('pearls on a string'). Which of the following is correct regarding the etiology, association, and prognosis of his condition?",
+      "options": [
+        "Primary Biliary Cholangitis; associated with Crohn's disease; carries a low risk of cancer.",
+        "Primary Sclerosing Cholangitis (PSC); associated with Ulcerative Colitis in 80% of cases; is highly precancerous and predisposes to cholangiocarcinoma.",
+        "Biliary Dyskinesia; associated with peptic ulcer disease; treated with a Whipple procedure.",
+        "Congenital biliary atresia Type III; associated with a history of neonatal umbilical sepsis; treated with a Kasai procedure."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: Primary Sclerosing Cholangitis (PSC) is characterized by chronic, multifocal inflammatory strictures and dilations of the intrahepatic and/or extrahepatic bile ducts, classically described as 'pearls on a string' on cholangiography. It is strongly associated with Ulcerative Colitis in 80% of cases. PSC is a highly precancerous condition that predisposes to cholangiocarcinoma, and advanced cases are typically candidates for liver transplantation."
+    },
+    {
+      "q": "A 62-year-old male presents with progressive, painless jaundice, weight loss, and fever with rigors. Imaging reveals a mass localized specifically at the bifurcation of the right and left hepatic ducts. What is the clinical term for this specific tumor, and what are its known risk factors?",
+      "options": [
+        "Klatskin tumor (perihilar cholangiocarcinoma); risk factors include Primary Sclerosing Cholangitis, Clonorchis sinensis (liver fluke), and choledochal cysts.",
+        "Hepatocellular Carcinoma (HCC); risk factors include chronic Hepatitis B and C.",
+        "Ampullary carcinoma; risk factors include chronic pancreatitis and smoking.",
+        "Gallstone pancreatitis; risk factors include obesity and pregnancy."
+      ],
+      "answer": 0,
+      "explanation": "High-Yield Explanation & Grounding: Cholangiocarcinoma is classified by anatomical site: intrahepatic (10%), perihilar (65%), and distal (25%). Perihilar tumors involving the hepatic duct bifurcation are known as Klatskin tumors. Risk factors include sclerosing cholangitis, chronic liver fluke infections (Clonorchis sinensis), choledochal cysts, Caroli's disease, and Hepatitis C. Over 90% of cholangiocarcinomas are adenocarcinomas."
+    },
+    {
+      "q": "A 68-year-old female presents to the emergency department with a 24-hour history of severe right hypochondrial pain, high fever (39.2°C) with chills, and visible jaundice. On physical exam, she is hypotensive (85/55 mmHg) and lethargic. Which of the following statements is correct regarding her presentation and diagnosis?",
+      "options": [
+        "She has acute pancreatitis presenting with Charcot’s triad, which has a 95% sensitivity.",
+        "She has acute ascending cholangitis presenting with Charcot’s triad (RUQ pain, fever, jaundice), which is seen in over 90% of patients.",
+        "She has acute suppurative ascending cholangitis presenting with Reynold’s Pentad (Charcot’s triad + hypotensive shock + altered mental status), which is associated with severe disease and a poor prognosis.",
+        "She has gallbladder empyema presenting with Cullen’s sign."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation & Grounding: This patient exhibits all five components of Reynold's Pentad: (1) fever, (2) RUQ pain, (3) jaundice (Charcot’s Triad), plus (4) altered mental status and (5) hypotensive shock. This clinical picture represents suppurative ascending cholangitis with septic shock, which occurs in approximately 5% of cholangitis cases and carries a poor prognosis if unrecognized. While Charcot’s triad is highly specific, it is only present in 40-50% of patients."
+    },
+    {
+      "q": "Once a patient with acute ascending cholangitis is admitted to the ICU, what is the correct sequential management algorithm?",
+      "options": [
+        "Emergent laparoscopic cholecystectomy within 2 hours.",
+        "Supportive prep (IV fluids, blood cultures, broad-spectrum IV antibiotics); followed by emergent biliary decompression via ERCP (sphincterotomy and stone extraction); and elective laparoscopic cholecystectomy once the sepsis has completely resolved.",
+        "Immediate percutaneous liver biopsy to isolate the bacteria, followed by outpatient oral antibiotics.",
+        "Insertion of a T-tube operatively as the first-line, non-invasive treatment of choice."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: The initial management of ascending cholangitis focuses on aggressive resuscitation (IV fluids), blood cultures, and broad-spectrum IV antibiotics in the ICU. Once stabilized, the gold-standard treatment is biliary decompression via ERCP (sphincterotomy and stone extraction using a Dormia basket). If ERCP fails, Percutaneous Transhepatic Drainage (PTC) is the next choice. Once the sepsis has completely resolved, the patient should undergo an elective laparoscopic cholecystectomy to prevent future recurrence."
+    },
+    {
+      "q": "An 65-year-old female is found to have a heavily calcified gallbladder wall ('porcelain gallbladder') incidentally on an abdominal CT scan. She is completely asymptomatic. What is the correct clinical management, and what is the underlying pathological risk?",
+      "options": [
+        "Watchful waiting with annual CT scans, as she is asymptomatic.",
+        "Needle biopsy under ultrasound guidance to rule out metaplasia.",
+        "Laparoscopic cholecystectomy is recommended because a porcelain gallbladder (especially with scattered calcifications) carries a highly elevated risk of developing gallbladder adenocarcinoma.",
+        "ERCP with biliary sphincterotomy to decompress the calcified wall."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation & Grounding: A calcified gallbladder is termed a porcelain gallbladder. Even in asymptomatic patients, a porcelain gallbladder with scattered calcifications is associated with a highly elevated risk of developing gallbladder adenocarcinoma. Watchful waiting is contraindicated; the standard of care is a prophylactic laparoscopic cholecystectomy."
+    },
+    {
+      "q": "During a laparoscopic cholecystectomy, the surgeon discovers an incidental mass in the gallbladder wall. Final pathology confirms an adenocarcinoma. Which of the following is correct regarding the spread and surgical management of operable gallbladder carcinoma?",
+      "options": [
+        "GB cancer rarely spreads; standard simple cholecystectomy is always curative.",
+        "The tumor spreads primarily via the splenic vein; managed with an immediate splenectomy.",
+        "GB cancer is highly aggressive, with direct liver invasion occurring in 70% of cases; operable cases require a radical cholecystectomy, wedge resection of the underlying liver tissue, and lymph node clearance.",
+        "The tumor spreads strictly via trans-coelomic seeding; managed with intraperitoneal chemotherapy alone."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation & Grounding: Over 90% of gallbladder cancers are adenocarcinomas. It is a highly aggressive tumor characterized by early direct invasion of the adjacent liver bed (occurring in 70% of cases) and lymphatic spread to the lymph nodes at the porta hepatis. While most cases are advanced and inoperable at presentation, operable cases are managed with a cholecystectomy, wedge excision of the underlying liver tissue, and thorough regional lymph node clearance."
+    }
+  ]
+}

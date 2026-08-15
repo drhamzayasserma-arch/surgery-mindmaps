@@ -1,0 +1,59 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: Biliary Sepsis & Oncology Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Obstructive Jaundice",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Defining Mechanism / Pathology: Blocked flow of conjugated direct bilirubin", "children": [] },
+          { "id": "r1_2", "topic": "Key Clinical / Imaging Sign: Elevated Direct Bilirubin & AP, Positive Vitamin K Test (PT/INR normalizes)", "children": [] },
+          { "id": "r1_3", "topic": "Treatment of Choice: ERCP sphincterotomy & stone extraction", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Traumatic Stricture",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Defining Mechanism / Pathology: Iatrogenic ligation/ischemia of CBD", "children": [] },
+          { "id": "r2_2", "topic": "Key Clinical / Imaging Sign: Post-operative jaundice or biliary fistula", "children": [] },
+          { "id": "r2_3", "topic": "Treatment of Choice: Roux-en-Y Hepaticojejunostomy", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Primary Sclerosing Cholangitis (PSC)",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Defining Mechanism / Pathology: Multifocal intra/extrahepatic strictures", "children": [] },
+          { "id": "r3_2", "topic": "Key Clinical / Imaging Sign: \"Pears on a string\" on cholangiography, Associated with Ulcerative Colitis (80%)", "children": [] },
+          { "id": "r3_3", "topic": "Treatment of Choice: Ultimately Liver Transplantation", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Ascending Cholangitis",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Defining Mechanism / Pathology: CBD block + bacterial infection (E. coli)", "children": [] },
+          { "id": "r4_2", "topic": "Key Clinical / Imaging Sign: Charcot's Triad / Reynold's Pentad", "children": [] },
+          { "id": "r4_3", "topic": "Treatment of Choice: ICU prep, Emergent ERCP decompression, then elective lap chole", "children": [] }
+        ]
+      },
+      {
+        "id": "r5",
+        "topic": "Gallbladder Carcinoma",
+        "direction": 1,
+        "children": [
+          { "id": "r5_1", "topic": "Defining Mechanism / Pathology: Highly aggressive adenocarcinoma (90%)", "children": [] },
+          { "id": "r5_2", "topic": "Key Clinical / Imaging Sign: Often incidental; associated with porcelain gallbladder & gallstones", "children": [] },
+          { "id": "r5_3", "topic": "Treatment of Choice: Radical cholecystectomy + liver wedge resection + lymph node clearance", "children": [] }
+        ]
+      }
+    ]
+  }
+}
