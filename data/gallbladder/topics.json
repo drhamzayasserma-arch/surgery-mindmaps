@@ -9,6 +9,7 @@
     { "id": "revision-biliary-gallstone-disease", "name": "Quick-Revision: Biliary Gallstone Disease", "createdAt": "2026-08-15T15:25:00Z" },
     { "id": "revision-biliary-cholecystitis", "name": "Quick-Revision: Biliary Cholecystitis", "createdAt": "2026-08-15T15:31:00Z" },
     { "id": "obstructive-jaundice", "name": "Obstructive Jaundice", "createdAt": "2026-08-15T23:15:00Z" },
-    { "id": "revision-obstructive-jaundice", "name": "Quick-Revision: Obstructive Jaundice", "createdAt": "2026-08-15T23:20:00Z" }
+    { "id": "revision-obstructive-jaundice", "name": "Quick-Revision: Obstructive Jaundice", "createdAt": "2026-08-15T23:20:00Z" },
+    { "id": "structural-anatomy-biliary-jaundice", "name": "Structural Anatomy of Biliary Jaundice", "createdAt": "2026-08-15T23:17:00Z" }
   ]
 }

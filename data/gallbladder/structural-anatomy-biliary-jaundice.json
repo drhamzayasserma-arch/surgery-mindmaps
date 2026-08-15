@@ -1,0 +1,161 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Structural Anatomy of Biliary Jaundice",
+    "root": true,
+    "children": [
+      {
+        "id": "n1",
+        "topic": "Structural Architecture",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n1_1",
+            "topic": "Normal Physiology",
+            "children": [
+              { "id": "n1_1_1", "topic": "Baseline under 1 mg per dl", "children": [] },
+              { "id": "n1_1_2", "topic": "Sub clinical 1 to 3 mg per dl", "children": [] },
+              { "id": "n1_1_3", "topic": "Clinical over 3 mg per dl", "children": [] }
+            ]
+          },
+          {
+            "id": "n1_2",
+            "topic": "Detection Sites",
+            "children": [
+              { "id": "n1_2_1", "topic": "Sclera and under tongue", "children": [] },
+              { "id": "n1_2_2", "topic": "Progresses head to extremities", "children": [] }
+            ]
+          },
+          {
+            "id": "n1_3",
+            "topic": "Flow and Excretion",
+            "children": [
+              { "id": "n1_3_1", "topic": "Hemoglobin to Unconjugated", "children": [] },
+              { "id": "n1_3_2", "topic": "Transported to hepatocytes", "children": [] },
+              { "id": "n1_3_3", "topic": "Conjugated with glucuronic acid", "children": [] },
+              { "id": "n1_3_4", "topic": "Intestinal conversion to stercobilinogen and urobilinogen", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n2",
+        "topic": "Zones of Obstruction",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n2_1",
+            "topic": "In the Lumen",
+            "children": [
+              { "id": "n2_1_1", "topic": "Choledocholithiasis", "children": [] },
+              { "id": "n2_1_2", "topic": "Parasites", "children": [] },
+              { "id": "n2_1_3", "topic": "Hemobilia", "children": [] }
+            ]
+          },
+          {
+            "id": "n2_2",
+            "topic": "In the Wall",
+            "children": [
+              { "id": "n2_2_1", "topic": "Benign Strictures", "children": [] },
+              { "id": "n2_2_2", "topic": "Cholangiocarcinoma", "children": [] },
+              { "id": "n2_2_3", "topic": "Biliary Atresia and Cysts", "children": [] }
+            ]
+          },
+          {
+            "id": "n2_3",
+            "topic": "Outside the Wall",
+            "children": [
+              { "id": "n2_3_1", "topic": "Pancreatic Head Cancer", "children": [] },
+              { "id": "n2_3_2", "topic": "Lymphadenopathy", "children": [] },
+              { "id": "n2_3_3", "topic": "Periampullary Carcinoma", "children": [] },
+              { "id": "n2_3_4", "topic": "Mirizzi Syndrome", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "topic": "Segmental Levels",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n3_1",
+            "topic": "Level I Perihilar",
+            "children": [
+              { "id": "n3_1_1", "topic": "Klatskin Tumor", "children": [] },
+              { "id": "n3_1_2", "topic": "Atresia Type II and III", "children": [] },
+              { "id": "n3_1_3", "topic": "Non palpable gallbladder", "children": [] }
+            ]
+          },
+          {
+            "id": "n3_2",
+            "topic": "Level II Middle Tract",
+            "children": [
+              { "id": "n3_2_1", "topic": "Mirizzi Syndrome", "children": [] },
+              { "id": "n3_2_2", "topic": "Traumatic Stricture", "children": [] }
+            ]
+          },
+          {
+            "id": "n3_3",
+            "topic": "Level III Distal",
+            "children": [
+              { "id": "n3_3_1", "topic": "Pancreatic Head Cancer", "children": [] },
+              { "id": "n3_3_2", "topic": "Choledocholithiasis", "children": [] },
+              { "id": "n3_3_3", "topic": "Ampullary Carcinoma", "children": [] },
+              { "id": "n3_3_4", "topic": "Palpable gallbladder in cancer", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n4",
+        "topic": "Functional Sequelae",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n4_1",
+            "topic": "Upstream Effects",
+            "children": [
+              { "id": "n4_1_1", "topic": "Direct Bilirubinemia and dark urine", "children": [] },
+              { "id": "n4_1_2", "topic": "Bile Salts and pruritus and bradycardia", "children": [] },
+              { "id": "n4_1_3", "topic": "High Pressure and white bile", "children": [] }
+            ]
+          },
+          {
+            "id": "n4_2",
+            "topic": "Downstream Effects",
+            "children": [
+              { "id": "n4_2_1", "topic": "No stercobilin and pale stools", "children": [] },
+              { "id": "n4_2_2", "topic": "No bile salts and steatorrhea", "children": [] },
+              { "id": "n4_2_3", "topic": "Lack of Vitamin K", "children": [] },
+              { "id": "n4_2_4", "topic": "Endotoxemia and Hepatorenal Syndrome", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n5",
+        "topic": "Diagnostic Flow",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n5_1",
+            "topic": "Vitamin K Challenge",
+            "children": [
+              { "id": "n5_1_1", "topic": "PT normalizes means obstructive", "children": [] },
+              { "id": "n5_1_2", "topic": "PT prolonged means hepatocellular", "children": [] }
+            ]
+          },
+          {
+            "id": "n5_2",
+            "topic": "Imaging Choices",
+            "children": [
+              { "id": "n5_2_1", "topic": "Painful gets RUQ Ultrasound", "children": [] },
+              { "id": "n5_2_2", "topic": "Painless gets Triple Phase CT", "children": [] }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
