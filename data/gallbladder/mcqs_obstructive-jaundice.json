@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "q": "A 48-year-old female presents with yellowing of her skin and sclera. Laboratory testing reveals a total bilirubin of 4.2 mg/dl, which is predominantly conjugated (direct) bilirubin. Which of the following statements correctly defines the biochemical thresholds and tissue staining properties of jaundice based on her clinical presentation?",
+      "options": [
+        "Clinical jaundice is present; normal bilirubin is <2.5 mg%, and she is in the sub-icteric range.",
+        "Jaundice is sub-clinical; bilirubin must exceed 5.0 mg% to stain the brain and cerebrospinal fluid (CSF).",
+        "Clinical jaundice is present; jaundice is physically visible when bilirubin >3 mg%, and she exhibits staining of all body tissues and fluids except the brain, CSF, tears, saliva, and milk.",
+        "Jaundice is sub-icteric; tissues are stained because direct bilirubin is hydrophobic and bound tightly to albumin."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: Jaundice is defined as the yellowish discoloration of body tissues and fluids, but it uniquely spares the brain, cerebrospinal fluid (CSF), tears, saliva, and milk. While normal serum bilirubin is <1 mg%, Jaundice is classified as sub-clinical (sub-icteric) when levels are between 1-3 mg%, and becomes clinically apparent when the serum level exceeds 3 mg%. Because this patient's level is 4.2 mg/dl, she has overt clinical jaundice."
+    },
+    {
+      "q": "A patient with complete extra-hepatic biliary obstruction due to a stone impacted in the distal common bile duct (CBD) complains of dark, 'Coca-Cola' colored urine and bulky, pale, clay-colored, highly offensive stools. What are the correct physiological mechanisms explaining these changes?",
+      "options": [
+        "Increased urine urobilinogen makes the urine dark; increased stercobilinogen robs the stool of pigment.",
+        "Conjugated bilirubin is water-soluble and excreted by the kidneys, darkening the urine; a lack of bilirubin entering the intestine prevents stercobilinogen formation, causing pale stools, and a deficiency of intestinal bile salts allows bacterial fermentation, leading to bulky, offensive stools.",
+        "Hydrophobic unconjugated bilirubin is filtered by the glomerulus, turning the urine dark; a compensatory overproduction of pancreatic lipase causes fatty, pale stools.",
+        "Mucus secretion ('white bile') inside the bile ducts translocates directly into the portal vein, staining the stool pale and the urine dark."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Biliary obstruction prevents conjugated (direct) bilirubin from entering the duodenum. Because conjugated bilirubin does not reach the intestine, no stercobilinogen (and thus no brown stercobilin) is produced, turning the stool pale or clay-colored. However, this water-soluble direct bilirubin is absorbed into the bloodstream and excreted in the urine, giving it a classic dark, tea-like or 'Coca-Cola' appearance. Additionally, the absence of intestinal bile salts severely impairs fat emulsification/absorption (causing steatorrhea) and abrogates the normal bacteriostatic function of bile, promoting bacterial fermentation that renders the stool bulky, frothy, and highly offensive."
+    },
+    {
+      "q": "A patient with long-standing, complete mechanical obstruction of the biliary tract is noted to have a biliary tree filled entirely with clear, colorless, mucous-like fluid ('white bile') instead of normal golden-brown bile. What is the underlying pathophysiology behind this finding?",
+      "options": [
+        "Complete bacterial destruction of bile pigments by ascending E. coli infection.",
+        "Direct filtration of pure lymphatic fluid into the common bile duct.",
+        "High ductal pressure impairs hepatocyte excretion of bile, causing the duct to be filled solely with mucous secreted by its own mucosal lining.",
+        "Premature activation of pancreatic trypsinogen inside the duct wall, digesting all bilirubin."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: Under sustained, complete mechanical obstruction, the pressure within the biliary tree rises significantly. This high intraductal pressure ultimately damages the hepatocytes and halts the excretion of bile into the ducts. Consequently, the bile duct contains only mucous ('white bile') secreted by the epithelial cells of the ductal wall."
+    },
+    {
+      "q": "A 67-year-old male presents with a gradual onset of progressive, painless jaundice, a 20 lb weight loss over 2 months, and a non-tender, palpable right upper quadrant mass. Which of the following is correct regarding Courvoisier's law, the etiology, and the recommended surgical workup for his condition?",
+      "options": [
+        "He has a positive Courvoisier's sign representing a dilated, non-tender gallbladder, which points to a sudden, calculous biliary obstruction; immediate CT-guided biopsy is mandatory.",
+        "He has a positive Courvoisier's sign; the painless, progressive course suggests malignant obstruction (e.g., pancreatic head cancer), and pre-operative tissue biopsy of the mass is not recommended if it is radiologically resectable.",
+        "His gallbladder is palpable because he has chronic calculous cholecystitis; a HIDA scan is the diagnostic test of choice.",
+        "He has a negative Courvoisier's sign; the mass represents metastatic lymphadenopathy at the porta hepatis, and routine pre-operative ERCP biliary stenting should be performed immediately."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Courvoisier's sign (or law) states that a palpable, non-tender gallbladder in a jaundiced patient represents a chronic, gradual distal CBD obstruction, most commonly due to malignancy (such as pancreatic head, ampullary, or bile duct carcinoma). In standard malignant biliary obstruction, the gallbladder is healthy and highly distensible, making it palpable in 98% of cases. Conversely, in calculous obstructive jaundice (gallstones), the gallbladder is fibrotic and scarred from previous cholecystitis, making it non-palpable in 80% of cases. For a resectable pancreatic head mass, routine pre-operative biopsy is unnecessary and not recommended due to risks of sampling error and tumor tracking. Furthermore, routine pre-operative biliary stenting is not recommended because decompressing the biliary tree prior to resection is associated with a higher postoperative infectious complication rate."
+    },
+    {
+      "q": "A resident wants to differentiate between post-hepatic (obstructive) jaundice and hepatic (hepatocellular) damage. Which of the following laboratory investigations and diagnostic tests represents the most accurate clinical approach?",
+      "options": [
+        "ob-jaundice AST and ALT rise out of proportion to Alkaline Phosphatase (AP); Prothrombin Time is normal in both.",
+        "Both cause prolonged Prothrombin Time (PT/INR); administering IV Vitamin K will normalize the PT/INR parameters in obstructive jaundice, but will fail to improve them in hepatocellular damage.",
+        "Checking serum amylase is the single most specific test to differentiate between the two causes.",
+        "Checking p-ANCA levels; p-ANCA is highly elevated in all patients with acute viral hepatitis."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Distinguishing between hepatic and post-hepatic jaundice can be done through liver function tests and coagulation parameters. In hepatocellular damage, transaminases (AST, ALT) are released from damaged liver cells and rise out of proportion to Alkaline Phosphatase (AP). In obstructive jaundice, AP and GGT rise out of proportion to the transaminases. Because both conditions can prolong Prothrombin Time (PT/INR), clinicians perform the Vitamin K Challenge: administering IV Vitamin K for a few days. If the PT/INR normalizes, it confirms obstructive jaundice (since the hepatocytes are healthy and only lacked fat-soluble Vitamin K absorption due to the absence of intestinal bile salts). If it does not normalize, it confirms hepatocellular damage (as the diseased liver cells are functionally unable to synthesize clotting factors)."
+    },
+    {
+      "q": "A 40-year-old female presents with persistent right upper quadrant pain, high fever (39.1°C) with chills, mild scleral icterus, hypotension (90/60 mmHg), and confusion. Her laboratory workup shows marked leukocytosis, a direct bilirubin of 4.5 mg/dl, and dilated bile ducts on ultrasound. Which of the following is correct regarding her diagnosis, the diagnostic criteria, and first-line therapy?",
+      "options": [
+        "She has acute pancreatitis; managed with emergency cholecystectomy within 12 hours.",
+        "She has acute cholecystitis; managed with conservative therapy ('Rule of the 6Rs').",
+        "She has acute ascending cholangitis presenting with Reynold's Pentad; Tokyo guidelines confirm the diagnosis via evidence of systemic inflammation, cholestasis, and biliary dilation. Emergent biliary decompression via ERCP is the first-line therapy.",
+        "She has a Klatskin tumor involving the hepatic duct bifurcation; managed with a Whipple procedure."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: This patient presents with the complete Reynold's Pentad, which includes Charcot's Triad (fever, RUQ pain, and jaundice) plus hypotension (septic shock) and altered mental status (confusion). This is diagnostic of severe, life-threatening acute ascending cholangitis. The Tokyo Guidelines establish the diagnosis based on systemic inflammation (fever, leukocytosis), cholestasis (jaundice, elevated bilirubin/AP), and imaging showing biliary dilation. After immediate resuscitation with aggressive IV fluids and broad-spectrum IV antibiotics, the definitive treatment is emergent biliary decompression via ERCP."
+    }
+  ]
+}

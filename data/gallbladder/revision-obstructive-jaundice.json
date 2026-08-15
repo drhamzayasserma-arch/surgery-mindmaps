@@ -1,0 +1,63 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: Obstructive Jaundice Diagnostic Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "To Prove Jaundice",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Standard Parameter / Finding: Total Serum Bilirubin >3 mg%", "children": [] },
+          { "id": "r1_2", "topic": "Clinical Significance: Confirms overt clinical jaundice. (Sub-clinical is 1-3 mg%).", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "To Prove Obstruction",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Standard Parameter / Finding: Elevated Direct Bilirubin, Elevated Alkaline Phosphatase (AP), GGT", "children": [] },
+          { "id": "r2_2", "topic": "Clinical Significance: Confirms post-hepatic (biliary obstruction) pathology. Concomitant GGT rise is highly liver-specific.", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "To Assess Coagulation",
+        "direction": 0,
+        "children": [
+          { "id": "r3_1", "topic": "Standard Parameter / Finding: Vitamin K Test (IV Vitamin K administration for a few days)", "children": [] },
+          { "id": "r3_2", "topic": "Clinical Significance: If PT/INR improves: Obstructive Jaundice. If PT/INR fails to improve: Hepatocellular damage.", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "To Assess Liver Status",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Standard Parameter / Finding: SGOT, SGPT, Serum Albumin, Child-Pugh Score", "children": [] },
+          { "id": "r4_2", "topic": "Clinical Significance: Determines hepatic synthetic reserve and operative eligibility.", "children": [] }
+        ]
+      },
+      {
+        "id": "r5",
+        "topic": "First-Line Imaging",
+        "direction": 1,
+        "children": [
+          { "id": "r5_1", "topic": "Standard Parameter / Finding: Abdominal Ultrasound", "children": [] },
+          { "id": "r5_2", "topic": "Clinical Significance: Safely demonstrates intrahepatic biliary duct dilation, CBD dilation, and stones/masses.", "children": [] }
+        ]
+      },
+      {
+        "id": "r6",
+        "topic": "Therapeutic Gold Standard",
+        "direction": 1,
+        "children": [
+          { "id": "r6_1", "topic": "Standard Parameter / Finding: ERCP (with Sphincterotomy & Dormia basket)", "children": [] },
+          { "id": "r6_2", "topic": "Clinical Significance: Highly effective for CBD stone extraction. (PTC reserved if obstruction is high up at the porta hepatis).", "children": [] }
+        ]
+      }
+    ]
+  }
+}
