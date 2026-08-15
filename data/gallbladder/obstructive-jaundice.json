@@ -1,0 +1,231 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Obstructive Jaundice",
+    "root": true,
+    "children": [
+      {
+        "id": "n1",
+        "topic": "Definition and Metabolism",
+        "direction": 0,
+        "children": [
+          { "id": "n1_1", "topic": "Excess bilirubin over 1mg", "children": [] },
+          { "id": "n1_2", "topic": "Clinical Jaundice over 3mg", "children": [] },
+          {
+            "id": "n1_3",
+            "topic": "Pathway",
+            "children": [
+              { "id": "n1_3_1", "topic": "RBC to Heme", "children": [] },
+              { "id": "n1_3_2", "topic": "Unconjugated to Conjugated", "children": [] },
+              { "id": "n1_3_3", "topic": "Excreted as Stercobilin and Urobilin", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n2",
+        "topic": "Etiological Classification",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n2_1",
+            "topic": "Intrahepatic",
+            "children": [
+              { "id": "n2_1_1", "topic": "Cirrhosis and Hepatitis", "children": [] }
+            ]
+          },
+          {
+            "id": "n2_2",
+            "topic": "Extrahepatic",
+            "children": [
+              {
+                "id": "n2_2_1",
+                "topic": "In Lumen",
+                "children": [
+                  { "id": "n2_2_1_1", "topic": "Stones and Parasites", "children": [] }
+                ]
+              },
+              {
+                "id": "n2_2_2",
+                "topic": "In Wall",
+                "children": [
+                  { "id": "n2_2_2_1", "topic": "Benign strictures", "children": [] },
+                  { "id": "n2_2_2_2", "topic": "Cholangiocarcinoma", "children": [] }
+                ]
+              },
+              {
+                "id": "n2_2_3",
+                "topic": "Outside Pressure",
+                "children": [
+                  { "id": "n2_2_3_1", "topic": "Pancreatic Cancer", "children": [] },
+                  { "id": "n2_2_3_2", "topic": "Mirizzi Syndrome", "children": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n2_3",
+            "topic": "Commonest Causes",
+            "children": [
+              { "id": "n2_3_1", "topic": "Choledocholithiasis", "children": [] },
+              { "id": "n2_3_2", "topic": "Pancreatic Cancer", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "topic": "Pathophysiology",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n3_1",
+            "topic": "Downstream",
+            "children": [
+              { "id": "n3_1_1", "topic": "Pale clay stools", "children": [] },
+              { "id": "n3_1_2", "topic": "Steatorrhea and Bleeding", "children": [] }
+            ]
+          },
+          {
+            "id": "n3_2",
+            "topic": "Upstream",
+            "children": [
+              { "id": "n3_2_1", "topic": "Dark tea urine", "children": [] },
+              { "id": "n3_2_2", "topic": "Pruritus and Bradycardia", "children": [] },
+              { "id": "n3_2_3", "topic": "White bile", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n4",
+        "topic": "Clinical Distinction",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n4_1",
+            "topic": "Calcular",
+            "children": [
+              { "id": "n4_1_1", "topic": "Sudden and intermittent", "children": [] },
+              { "id": "n4_1_2", "topic": "RUQ colicky pain", "children": [] },
+              { "id": "n4_1_3", "topic": "Charcot Triad", "children": [] },
+              { "id": "n4_1_4", "topic": "Non palpable gallbladder", "children": [] }
+            ]
+          },
+          {
+            "id": "n4_2",
+            "topic": "Malignant",
+            "children": [
+              { "id": "n4_2_1", "topic": "Gradual and progressive", "children": [] },
+              { "id": "n4_2_2", "topic": "Painless initially", "children": [] },
+              { "id": "n4_2_3", "topic": "Weight loss", "children": [] },
+              { "id": "n4_2_4", "topic": "Palpable gallbladder", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n5",
+        "topic": "Diagnostic Workup",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n5_1",
+            "topic": "Prove Jaundice",
+            "children": [
+              { "id": "n5_1_1", "topic": "Serum bilirubin", "children": [] }
+            ]
+          },
+          {
+            "id": "n5_2",
+            "topic": "Prove Obstructive",
+            "children": [
+              { "id": "n5_2_1", "topic": "Elevated Alkaline Phosphatase and GGT", "children": [] }
+            ]
+          },
+          {
+            "id": "n5_3",
+            "topic": "Exclude Others",
+            "children": [
+              { "id": "n5_3_1", "topic": "Hemolytic and Hepatocellular", "children": [] }
+            ]
+          },
+          {
+            "id": "n5_4",
+            "topic": "Vitamin K Test",
+            "children": [
+              { "id": "n5_4_1", "topic": "PT normalizes indicates obstructive", "children": [] }
+            ]
+          },
+          {
+            "id": "n5_5",
+            "topic": "Structural Cause",
+            "children": [
+              { "id": "n5_5_1", "topic": "Ultrasound as initial screen", "children": [] },
+              { "id": "n5_5_2", "topic": "MRCP and ERCP and CT", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n6",
+        "topic": "Pre Operative Prep",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n6_1",
+            "topic": "Correct Clotting",
+            "children": [
+              { "id": "n6_1_1", "topic": "IV Vitamin K", "children": [] }
+            ]
+          },
+          {
+            "id": "n6_2",
+            "topic": "Protect Liver",
+            "children": [
+              { "id": "n6_2_1", "topic": "High glucose", "children": [] }
+            ]
+          },
+          {
+            "id": "n6_3",
+            "topic": "Prevent Cholangitis",
+            "children": [
+              { "id": "n6_3_1", "topic": "IV Cephalosporins", "children": [] }
+            ]
+          },
+          {
+            "id": "n6_4",
+            "topic": "Prevent Hepatorenal Syndrome",
+            "children": [
+              { "id": "n6_4_1", "topic": "IV fluids and Mannitol", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n7",
+        "topic": "Definitive Management",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n7_1",
+            "topic": "Calcular",
+            "children": [
+              { "id": "n7_1_1", "topic": "ERCP with sphincterotomy", "children": [] },
+              { "id": "n7_1_2", "topic": "Choledocholithotomy", "children": [] },
+              { "id": "n7_1_3", "topic": "Choledochoduodenostomy", "children": [] }
+            ]
+          },
+          {
+            "id": "n7_2",
+            "topic": "Malignant",
+            "children": [
+              { "id": "n7_2_1", "topic": "Whipple Procedure if operable", "children": [] },
+              { "id": "n7_2_2", "topic": "Palliative stenting if inoperable", "children": [] }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
