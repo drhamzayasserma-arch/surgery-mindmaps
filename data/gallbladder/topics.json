@@ -5,6 +5,7 @@
     { "id": "choledocholithiasis_cholangitis", "name": "Choledocholithiasis & Cholangitis", "createdAt": "2026-08-04T15:41:00Z" },
     { "id": "biliary_tumors", "name": "Gallbladder & Biliary Tumors", "createdAt": "2026-08-04T15:41:00Z" },
     { "id": "biliary-gallstone-disease", "name": "Biliary Gallstone Disease", "createdAt": "2026-08-13T16:32:00Z" },
-    { "id": "biliary-cholecystitis", "name": "Biliary Cholecystitis", "createdAt": "2026-08-15T15:20:00Z" }
+    { "id": "biliary-cholecystitis", "name": "Biliary Cholecystitis", "createdAt": "2026-08-15T15:20:00Z" },
+    { "id": "revision-biliary-gallstone-disease", "name": "Quick-Revision: Biliary Gallstone Disease", "createdAt": "2026-08-15T15:25:00Z" }
   ]
 }

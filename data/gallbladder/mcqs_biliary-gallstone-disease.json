@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "q": "A 38-year-old female presents with recurrent right upper quadrant pain. She has a body mass index (BMI) of 34 kg/m2 and a history of three pregnancies. During workup, she is diagnosed with cholesterol gallstones. Which of the following physiological disturbances is the primary driver of cholesterol gallstone formation?",
+      "options": [
+        "Direct bacterial hydrolysis of bilirubin glucuronide into unconjugated bilirubin",
+        "A reduction in the normal 25:1 bile salts-to-cholesterol ratio down to a lithogenic ratio (e.g., 13:1), supersaturating the bile",
+        "Overproduction of lecithin, which acts as a nucleating agent in the gallbladder",
+        "Chronic systemic metabolic acidosis causing calcium palmitate precipitation"
+      ],
+      "answer": 1,
+      "explanation": "Mechanism: The solubility of cholesterol in bile is dependent on the concentration of cholesterol relative to its solubilizing detergents, namely bile salts and lecithin. The normal ratio of bile salts to cholesterol is 25:1. When this ratio drops to 13:1, the bile becomes lithogenic (supersaturated), causing cholesterol to precipitate out of solution and form crystals. Incorrect Options: Option A describes the formation of brown pigment stones by E. coli infection. Option C is incorrect because lecithin increases cholesterol solubility rather than driving precipitation. Option D is not involved in the pathogenesis of cholesterol stones."
+    },
+    {
+      "q": "During a clinical seminar on biliary disease, a resident asks how to distinguish between black and brown pigment gallstones. Which of the following represents the correct clinicopathological pairing for these stones?",
+      "options": [
+        "Black stones: Form within the bile ducts; associated with parasites like Clonorchis sinensis",
+        "Brown stones: Form from the blood; associated with hereditary spherocytosis",
+        "Black stones: Form from the blood (hemolytic diseases); found primarily in the gallbladder",
+        "Brown stones: Form from blood breakdown; associated with sickle cell disease"
+      ],
+      "answer": 2,
+      "explanation": "Black Pigment Stones: Classically form 'from the Blood' (hemolysis). Conditions that cause chronic intravascular hemolysis (e.g., hereditary spherocytosis, sickle cell disease, G6PD deficiency) release massive amounts of unconjugated bilirubin, driving the formation of calcium bilirubinate-rich black stones, which are found mostly inside the gallbladder. Brown Pigment Stones: Form 'from Bacteria' or parasites (e.g., Clonorchis sinensis). Biliary infections trigger bacteria to release beta-glucuronidase, hydrolyzing conjugated bilirubin into insoluble unconjugated bilirubin. These are larger, softer, and form primarily within the bile ducts."
+    },
+    {
+      "q": "A 40-year-old female presents with a 2-hour history of constant, dull-aching pain in the right upper quadrant (RUQ) that radiates to her right subscapular region. The pain began shortly after she ate a fatty meal. She is afebrile with normal vital signs, a normal white blood cell (WBC) count, and normal liver function tests. What is the correct term for this patient's clinical state, and what is its underlying pathophysiology?",
+      "options": [
+        "Biliary colic (symptomatic cholelithiasis); persistent obstruction of the cystic duct with parietal peritoneal inflammation",
+        "Acute calculous cholecystitis; transient obstruction of the common bile duct",
+        "Biliary colic (symptomatic cholelithiasis); transient obstruction of the cystic duct causing gallbladder contraction and visceral peritoneal stretch",
+        "Acute cholecystitis; transient obstruction of the sphincter of Oddi"
+      ],
+      "answer": 2,
+      "explanation": "Pathophysiology: This patient is experiencing symptomatic cholelithiasis (traditionally called 'biliary colic,' which is technically a misnomer as the pain is constant rather than waxing and waning). Ingestion of fatty foods triggers the release of cholecystokinin (CCK) from the duodenum, stimulating gallbladder contraction. If a stone transiently obstructs the cystic duct, the gallbladder cannot empty, leading to distension and stretching of the visceral peritoneum. This produces a vague, constant RUQ or epigastric pain that typically resolves within a few hours. Distinction: Because the obstruction is transient and there is no tissue inflammation or bacterial infection, the patient has normal vital signs, a normal WBC count, and no systemic inflammatory response. Acute cholecystitis, by contrast, is caused by persistent cystic duct obstruction, resulting in a systemic inflammatory response (fever, tachycardia, leukocytosis) and unremitting pain lasting >4-6 hours."
+    },
+    {
+      "q": "A 45-year-old female presents with severe, constant RUQ pain that has persisted for 8 hours. On examination, she is tachycardic (pulse 110/min) and has a low-grade fever of 38.2°C. While palpating her RUQ, the examiner asks her to take a deep breath; she suddenly stops her inspiration midway due to sharp pain. She also exhibits cutaneous hyperesthesia between the 9th and 11th ribs posteriorly on the right side. What are these two diagnostic physical signs, and what is the next step in her diagnostic evaluation?",
+      "options": [
+        "Murphy's sign and Boas' sign; obtain a right upper quadrant ultrasound",
+        "Cullen's sign and Kehr's sign; obtain an abdominal CT scan with oral contrast",
+        "Murphy's sign and Rovsing's sign; perform an emergent ERCP",
+        "Boas' sign and Courvoisier's sign; perform a HIDA scan as the first-line test"
+      ],
+      "answer": 0,
+      "explanation": "Physical Signs: The cessation of inspiration during deep RUQ palpation is Murphy's sign, which represents localized peritonitis of the anterior parietal peritoneum as the inflamed gallbladder moves inferiorly and contacts the examiner's hand. Hyperesthesia between the 9th and 11th ribs posteriorly on the right side is Boas' sign. Diagnostic Evaluation: The standard initial imaging technique of choice for suspected biliary disease is a RUQ ultrasound. Ultrasound is highly sensitive and will demonstrate gallstones, gallbladder wall thickening (>4 mm), pericholecystic fluid, and a sonographic Murphy's sign. If the ultrasound is nondiagnostic but clinical suspicion remains high, a HIDA scan is the next diagnostic step."
+    },
+    {
+      "q": "A 52-year-old diabetic male presents with severe right upper quadrant (RUQ) pain, high fevers, and marked tachycardia. On physical exam, he has exquisite tenderness to palpation in the RUQ. His WBC is 20,000/μL with 10% bands. A emergency RUQ ultrasound demonstrates gallstones, a normal common bile duct diameter, and gas bubbles localized within the wall of the gallbladder. What is the most likely diagnosis, and what is the definitive management?",
+      "options": [
+        "Acute biliary colic; outpatient laparoscopic cholecystectomy",
+        "Emphysematous cholecystitis; immediate cholecystectomy",
+        "Hydrops of the gallbladder; urgent percutaneous cholecystostomy tube placement",
+        "Ascending cholangitis; emergent ERCP decompression"
+      ],
+      "answer": 1,
+      "explanation": "Diagnosis: The presence of gas bubbles within the gallbladder wall or lumen in an elderly or diabetic male with severe sepsis is diagnostic of emphysematous cholecystitis. It is caused by gas-forming organisms (classically Clostridium species or E. coli) and represents a rapidly progressive, necrotizing infection. Management: Emphysematous cholecystitis is a surgical emergency associated with high rates of gangrene and gallbladder perforation. Following immediate resuscitation with fluids and broad-spectrum antibiotics, the patient must undergo an immediate cholecystectomy. A percutaneous cholecystostomy tube is not the ideal choice because it fails to remove the necrotizing, gangrenous gallbladder tissue."
+    },
+    {
+      "q": "A 60-year-old female with a long history of biliary dyspepsia presents with a painless, non-tender mass in the right hypochondrium. Imaging reveals a massively distended, thin-walled gallbladder. Surgical aspiration yields a sterile, thick, clear, and white glycoprotein-rich mucus. What pathological process has occurred here?",
+      "options": [
+        "Empyema of the gallbladder",
+        "Gallbladder adenocarcinoma",
+        "Hydrops (Mucocele) of the gallbladder",
+        "Biliary dyskinesia"
+      ],
+      "answer": 2,
+      "explanation": "Pathology: This describes hydrops or mucocele of the gallbladder. It occurs when a gallstone chronically and completely obstructs the cystic duct under sterile conditions. Because there is no active infection, the gallbladder does not undergo acute inflammatory necrosis. Instead, the trapped bile pigments are gradually reabsorbed by the mucosa, while the mucosal glands continue to secrete mucus, eventually distending the organ with a clear, sterile, glycoprotein-rich fluid known as 'white bile'."
+    },
+    {
+      "q": "An 82-year-old female presents to the emergency department with abdominal pain, distension, persistent green bilious vomiting, and obstipation. An abdominal CT scan demonstrates dilated loops of small bowel with multiple air-fluid levels, air inside the biliary tree (pneumobilia), and a large 3 cm calcified density located in the right iliac fossa near the ileocecal valve. Which of the following options correctly identifies the diagnosis and the most appropriate surgical treatment?",
+      "options": [
+        "Emphysematous cholecystitis; immediate cholecystectomy and peritoneal wash",
+        "Gallstone ileus; laparotomy and enterotomy with stone extraction while leaving the gallbladder alone",
+        "Mirizzi's syndrome; urgent laparotomy, cholecystectomy, and common bile duct exploration",
+        "Gallstone ileus; laparotomy with concurrent enterotomy, cholecystectomy, and closure of the cholecystoduodenal fistula"
+      ],
+      "answer": 1,
+      "explanation": "Diagnosis: This patient presents with the classic Rigler's triad of Gallstone Ileus (which is actually a mechanical small bowel obstruction, not a paralytic ileus): (1) mechanical small bowel obstruction, (2) pneumobilia (air in the biliary tree), and (3) an ectopic gallstone. It occurs when a large gallstone (typically >2.5 cm) in Hartmann's pouch causes pressure necrosis and erodes into the adjacent duodenum, creating a cholecystoduodenal fistula. The stone travels through the GI tract and becomes impacted at the narrowest segment of the small intestine, which is the terminal ileum. Surgical Management: The primary goal of surgery is to relieve the bowel obstruction. This is done via laparotomy and enterotomy upstream of the obstruction, extracting the stone, and closing the enterotomy transversely. Crucially, the surgeon must leave the gallbladder and the fistula alone during the emergency procedure. Concurrent cholecystectomy is highly contraindicated due to severe local inflammation, dense adhesions, and the patient's advanced age and physiological instability."
+    },
+    {
+      "q": "A 40-year-old female presents to the ER with a 24-hour history of right upper quadrant (RUQ) and epigastric pain associated with nausea and vomiting. Her family reports that over the past few hours, she has become slightly confused. On physical exam, she is febrile (39.1°C), tachycardic (heart rate 110/min), and hypotensive with a blood pressure of 90/60 mmHg. Scleral icterus and RUQ tenderness are present. Laboratory values are significant for a WBC count of 15,000/μL, total bilirubin of 4.5 mg/dL (mostly direct), and alkaline phosphatase (AP) of 450 U/L. What clinical constellation of symptoms does this patient exhibit, and what is the recommended first-line intervention?",
+      "options": [
+        "Charcot's Triad; immediate laparoscopic cholecystectomy",
+        "Reynold's Pentad; emergent biliary decompression via ERCP",
+        "Courvoisier's Sign; urgent triple-phase abdominal CT scan",
+        "Saint's Triad; urgent diagnostic laparoscopy"
+      ],
+      "answer": 1,
+      "explanation": "Clinical Constellation: This patient exhibits all five components of Reynold's Pentad: (1) fever, (2) RUQ pain, (3) jaundice (Charcot's Triad), plus (4) hypotension (septic shock) and (5) altered mental status (confusion). This is diagnostic of severe, life-threatening acute ascending cholangitis secondary to complete common bile duct obstruction (most commonly due to choledocholithiasis). Management: The patient must be admitted to the ICU, resuscitated aggressively with IV fluids, and started on broad-spectrum IV antibiotics. Once hemodynamically stabilized, the definitive first-line treatment is emergent biliary decompression via ERCP. During ERCP, the sphincter of Oddi is cut (sphincterotomy) and the obstructing stone is extracted using a Dormia basket. Laparoscopic cholecystectomy is delayed until the patient's sepsis has completely resolved."
+    },
+    {
+      "q": "A 42-year-old female presents to the clinic 5 days after undergoing an uncomplicated laparoscopic cholecystectomy. She complains of progressive abdominal distention, mild generalized abdominal pain, and poor appetite. An ultrasound of her abdomen reveals a significant fluid collection in the right upper quadrant. A HIDA scan demonstrates tracer extravasation into the peritoneum; however, tracer is still seen readily entering the duodenum and small bowel. What is the most likely diagnosis, and what is the appropriate treatment?",
+      "options": [
+        "Complete transection of the common bile duct; surgical reconstruction with a Roux-en-Y hepaticojejunostomy",
+        "Cystic duct stump leak; ERCP with sphincter of Oddi stenting",
+        "Postcholecystectomy syndrome; oral ursodeoxycholic acid therapy",
+        "Retained common bile duct stone; immediate surgical CBD exploration"
+      ],
+      "answer": 1,
+      "explanation": "Diagnosis: If a post-cholecystectomy patient presents within the first week with abdominal pain, distension, and anorexia, a biloma (bile leak) must be suspected. The HIDA scan findings-showing peritoneal extravasation of the tracer while demonstrating that tracer still enters the duodenum-indicate that the main biliary tree is intact, pointing to a cystic duct stump leak (often due to the surgical clip slipping off the stump). Management: Cystic duct stump leaks are highly amenable to endoscopic management. The treatment of choice is ERCP with sphincter of Oddi stenting. The stent bypasses the high-pressure sphincter mechanism, lowering intraluminal pressure in the biliary tree, which allows the cystic duct leak to seal spontaneously. Complete CBD transections, on the other hand, would show no tracer entering the small bowel and would require a major surgical reconstruction via a Roux-en-Y hepaticojejunostomy."
+    },
+    {
+      "q": "A 55-year-old female who underwent a cholecystectomy three months ago presents with recurrent, episodic right upper quadrant abdominal pain that is exacerbated by taking opioid analgesics for her chronic back pain. Workup reveals a normal gallbladder wall (status-post cholecystectomy) and normal liver enzymes. If her symptoms are biliary in origin, which of the following is the most likely etiology of her Postcholecystectomy Syndrome (PCS)?",
+      "options": [
+        "Retained common bile duct stone",
+        "Sphincter of Oddi dysfunction",
+        "Peptic ulcer disease",
+        "Biliary gastritis (alkaline reflux)"
+      ],
+      "answer": 1,
+      "explanation": "Pathology: Postcholecystectomy Syndrome (PCS) refers to recurrent or persistent biliary symptoms that continue after cholecystectomy. One of the classic, high-yield etiologies of PCS is Sphincter of Oddi dysfunction (dyskinesia or stenosis). It presents as episodic RUQ pain that is classically worsened with the administration of opioids (as opioids cause spasm and increased pressure at the sphincter of Oddi). Incorrect Options: While retained CBD stones, gastritis, and peptic ulcer disease are also on the differential for PCS, they are not typically exacerbated by opioids in this characteristic diagnostic manner."
+    }
+  ]
+}

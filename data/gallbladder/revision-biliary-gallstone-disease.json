@@ -1,0 +1,59 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: Biliary Gallstone Disease",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Symptomatic Cholelithiasis",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Primary Mechanism: Transient cystic duct obstruction", "children": [] },
+          { "id": "r1_2", "topic": "Key Diagnostic Feature(s): RUQ pain < 4–6 hrs, fatty food trigger, normal WBC/LFTs", "children": [] },
+          { "id": "r1_3", "topic": "Management: Elective laparoscopic cholecystectomy", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Acute Cholecystitis",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Primary Mechanism: Persistent cystic duct obstruction", "children": [] },
+          { "id": "r2_2", "topic": "Key Diagnostic Feature(s): Unremitting RUQ pain > 6 hrs, Fever, leukocytosis, Murphy's sign", "children": [] },
+          { "id": "r2_3", "topic": "Management: Prompt (within 48–72 hrs) lap chole", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Emphysematous Cholecystitis",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Primary Mechanism: Gas-forming bacterial infection", "children": [] },
+          { "id": "r3_2", "topic": "Key Diagnostic Feature(s): Gas in gallbladder wall on imaging, elderly diabetic males", "children": [] },
+          { "id": "r3_3", "topic": "Management: Immediate cholecystectomy (Emergency!)", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Gallstone Ileus",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Primary Mechanism: Cholecystoduodenal fistula", "children": [] },
+          { "id": "r4_2", "topic": "Key Diagnostic Feature(s): Rigler’s triad, mechanical SBO, stone at terminal ileum", "children": [] },
+          { "id": "r4_3", "topic": "Management: Enterotomy & stone removal (leave G.B. alone!)", "children": [] }
+        ]
+      },
+      {
+        "id": "r5",
+        "topic": "Ascending Cholangitis",
+        "direction": 1,
+        "children": [
+          { "id": "r5_1", "topic": "Primary Mechanism: CBD obstruction with infection", "children": [] },
+          { "id": "r5_2", "topic": "Key Diagnostic Feature(s): Charcot’s triad / Reynold's pentad, septic shock", "children": [] },
+          { "id": "r5_3", "topic": "Management: ICU, IV fluids, IV antibiotics, emergent ERCP", "children": [] }
+        ]
+      }
+    ]
+  }
+}
