@@ -1,0 +1,59 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: Biliary Cholecystitis",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Acute Calculous Cholecystitis",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Primary Pathology: Persistent cystic duct block by stone", "children": [] },
+          { "id": "r1_2", "topic": "Gold Standard Imaging: Abdominal Ultrasound (stones, thick wall > 4 mm, pericholecystic fluid)", "children": [] },
+          { "id": "r1_3", "topic": "Treatment of Choice: Laparoscopic Cholecystectomy (Early: < 72h; Late: interval in 6 weeks)", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Acute Emphysematous Cholecystitis",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Primary Pathology: Virulent infection by gas-forming Clostridia/E. coli in diabetics", "children": [] },
+          { "id": "r2_2", "topic": "Gold Standard Imaging: CT Scan / Ultrasound (gas bubbles in wall/lumen)", "children": [] },
+          { "id": "r2_3", "topic": "Treatment of Choice: Immediate Emergent Cholecystectomy (Surgical Emergency!)", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Acute Acalculous Cholecystitis",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Primary Pathology: Bile stasis + low-flow wall ischemia in critically ill ICU patients", "children": [] },
+          { "id": "r3_2", "topic": "Gold Standard Imaging: Abdominal Ultrasound / HIDA Scan", "children": [] },
+          { "id": "r3_3", "topic": "Treatment of Choice: IV Antibiotics + Urgent Cholecystectomy (if stable) or Percutaneous Cholecystostomy (if unstable)", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Biliary Dyskinesia",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Primary Pathology: Achalasia of Sphincter of Oddi (does not relax when GB contracts)", "children": [] },
+          { "id": "r4_2", "topic": "Gold Standard Imaging: ERCP (shows classic \"pen-point\" sphincter)", "children": [] },
+          { "id": "r4_3", "topic": "Treatment of Choice: ERCP Sphincterotomy (Cholecystectomy is strictly contraindicated!)", "children": [] }
+        ]
+      },
+      {
+        "id": "r5",
+        "topic": "Porcelain Gallbladder",
+        "direction": 1,
+        "children": [
+          { "id": "r5_1", "topic": "Primary Pathology: Chronic calcification of the gallbladder wall", "children": [] },
+          { "id": "r5_2", "topic": "Gold Standard Imaging: Coronal/Axial Abdominal CT scan", "children": [] },
+          { "id": "r5_3", "topic": "Treatment of Choice: Prophylactic Laparoscopic Cholecystectomy (Due to high adenocarcinoma risk)", "children": [] }
+        ]
+      }
+    ]
+  }
+}

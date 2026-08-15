@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "q": "A 42-year-old female presents with severe, unremitting right upper quadrant (RUQ) abdominal pain radiating to her right shoulder that has persisted for 8 hours. On examination, she is febrile (38.3°C) and tachycardic. An abdominal ultrasound confirms the presence of multiple gallstones, gallbladder wall thickening of 5 mm, and pericholecystic fluid. Which of the following options correctly describes the primary pathophysiological trigger of her condition and its potential fates?",
+      "options": [
+        "Transient obstruction of the common bile duct; resolving spontaneously with normal LFTs and WBC count",
+        "Sustained obstruction of the cystic duct or Hartmann's pouch; leading to either a sterile mucocele (if bile remains sterile) or a purulent pyocele (if secondary infection with E. coli occurs)",
+        "Primary bacterial translocation from the duodenum; resulting in systemic endotoxemia and high rates of immediate generalized peritonitis",
+        "Ischemia of the cystic artery alone; causing early ischemic mucosal necrosis and rapid, uncontrolled gangrene"
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Acute calculous cholecystitis is triggered by the sustained, persistent obstruction of the cystic duct or Hartmann's pouch by a gallstone. Concentrated bile salts cause chemical irritation of the gallbladder wall, leading to congestion and edema. If the obstructed bile remains sterile, the bile pigment is gradually reabsorbed while the mucosa continues to secrete mucus, distending the gallbladder with clear, sterile, glycoprotein-rich 'white bile' (Mucocele/Hydrops). However, if secondary bacterial invasion occurs (most commonly Escherichia coli), the gallbladder contents become purulent (Pyocele/Empyema)."
+    },
+    {
+      "q": "During a clinical assessment of a patient with suspected acute cholecystitis, the examiner elicits two classic physical signs: localized tenderness with sudden cessation of inspiration during deep right upper quadrant palpation, and a localized area of cutaneous hyperesthesia on the right side of the back. What are the clinical names of these two signs, and what is their neurological/anatomical basis?",
+      "options": [
+        "Kehr's sign (phrenic nerve irritation) and Cullen's sign (abdominal wall discoloration)",
+        "Murphy's sign (focal peritonitis of the anterior parietal peritoneum) and Boas' sign (referred pain from phrenic/biliary cord segments)",
+        "Rovsing's sign (referred rebound tenderness) and Boas' sign (somatic spinal dermatome irritation)",
+        "McBurney's sign (somatic wall irritation) and Courvoisier's sign (palpable non-tender gallbladder)"
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Localized tenderness with sudden cessation of inspiration during RUQ palpation is Murphy's sign. As the diaphragm moves down during inspiration, the inflamed gallbladder contacts the abdominal wall, irritating the highly sensitive anterior parietal peritoneum. Cutaneous hyperesthesia between the 9th and 11th ribs posteriorly on the right side is Boas' sign, which is a referred somatic hyperesthesia originating from the biliary visceral afferent nerve fibers."
+    },
+    {
+      "q": "A 40-year-old female with a history of biliary dyspepsia presents with classic symptoms of acute cholecystitis. A right upper quadrant ultrasound is performed, but is technically limited due to overlying bowel gas and does not show clear gallstones or wall thickening. What is the most sensitive diagnostic test to perform next, and what is considered a positive finding?",
+      "options": [
+        "Computed Tomography (CT) scan; demonstrating gas bubbles within the gallbladder wall",
+        "Endoscopic Retrograde Cholangiopancreatography (ERCP); demonstrating a narrow 'pen-point' sphincter",
+        "Hepatobiliary Iminodiacetic Acid (HIDA) scan; showing visualization of the common bile duct and duodenum but non-visualization of the gallbladder",
+        "Barium Swallow; demonstrating smooth, rounded 'grape-like' filling defects"
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: When an abdominal ultrasound is equivocal or negative but clinical suspicion of acute cholecystitis remains high, a HIDA scan (Cholescintigraphy) is the gold standard diagnostic test. Radiolabeled hepatic iminodiacetic acid is excreted by hepatocytes into the bile ducts. In a normal patient, it fills the gallbladder and flows into the duodenum. In acute cholecystitis, cystic duct obstruction prevents the tracer from entering the gallbladder, resulting in its non-visualization, which is a positive scan."
+    },
+    {
+      "q": "A 62-year-old diabetic male presents to the emergency department with severe right upper quadrant pain, high fever (39.0°C), and marked tachycardia. An abdominal ultrasound reveals gallstones, a normal common bile duct diameter, and gas bubbles localized within the wall of the gallbladder. Following initial fluid resuscitation, what is the next best step in the management of this patient?",
+      "options": [
+        "Admit to the ICU for a 48-hour 'cool down' period with IV fluids and broad-spectrum antibiotics",
+        "Urgent percutaneous cholecystostomy tube placement",
+        "Immediate/emergent cholecystectomy",
+        "Repeat abdominal CT scan to rule out associated choledocholithiasis"
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: This patient has acute emphysematous cholecystitis, which is a highly virulent, necrotizing gallbladder infection caused by gas-forming organisms (classically Clostridium species or E. coli). It is particularly common in elderly, diabetic males. Because it rapidly progresses to early gangrene, tissue infarction, and high rates of spontaneous perforation, it is considered a surgical emergency. Following resuscitation and initiation of antibiotics (covering anaerobes and Clostridium), immediate emergent cholecystectomy is required. Percutaneous cholecystostomy is not sufficient because it fails to remove the necrotizing, gangrenous wall tissue."
+    },
+    {
+      "q": "A 55-year-old male with 45% total body surface area burns is intubated in the ICU. On the fifth hospital day, he spikes a temperature of 38.9°C and develops right upper quadrant guarding. An abdominal ultrasound demonstrates a highly distended gallbladder with pericholecystic fluid, but no acoustic shadowing or gallstones. What are the two primary driving mechanisms of his likely condition?",
+      "options": [
+        "Direct biliary tract invasion by Clostridium and cystic artery thrombosis",
+        "Obstruction of the pancreatic duct and ectopic amylase activation",
+        "Gallbladder bile stasis (due to prolonged fasting/NPO) and gallbladder wall ischemia (due to microvascular hypoperfusion)",
+        "Complete mechanical ligation of the common bile duct and ascending bacterial translocation"
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: This critically ill patient has acute acalculous (non-calculous) cholecystitis. This condition is classically seen in ICU patients who are hospitalized for other severe pathologies (e.g., major burns, trauma, prolonged mechanical ventilation, post-cardiopulmonary bypass). The exact pathogenesis is driven by a combination of bile stasis (resulting from prolonged fasting/NPO status and TPN use, which eliminates the physiological stimulus for CCK release) and gallbladder wall ischemia (caused by systemic hypoperfusion/shock states)."
+    },
+    {
+      "q": "During surgical rounds, a medical student asks why patients with acute appendicitis undergo immediate emergency surgery, whereas stable patients presenting with acute calculous cholecystitis > 72 hours from the onset of symptoms are often managed conservatively first, followed by an interval cholecystectomy in 6 weeks. Which of the following options represents the correct anatomical and pathological explanation?",
+      "options": [
+        "The appendix has numerous direct accessory vascular connections to the cecum, whereas the gallbladder is supplied solely by the terminal, end-arterial cystic artery",
+        "The bacterial pathogens involved in cholecystitis are generally more virulent than those in appendicitis",
+        "The gallbladder has a highly robust, dual blood supply (the cystic artery and numerous direct vascular connections to the liver bed) and is a capacious, thick-walled, distensible organ; the appendix is a narrow, closed-loop organ supplied solely by a single, terminal appendicular artery",
+        "Opioid analgesics easily relieve appendiceal pain but worsen gallbladder spasm"
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: Acute appendicitis represents a narrow closed-loop obstruction that quickly leads to high intraluminal pressure, ischemia, gangrene, and rapid perforation because the appendix is supplied solely by the single, terminal appendicular artery. Conversely, the gallbladder is a highly capacious, distensible, and thick-walled organ. Crucially, it possesses a superior, dual blood supply: the cystic artery as well as numerous direct accessory vascular connections stemming from the under surface of the liver bed. This protects the gallbladder from rapid ischemic gangrene and allows local, fibrinous adhesions to safely contain any localized inflammation, making initial conservative management ('Rule of 6Rs') highly effective in stable patients presenting late (> 72 hours)."
+    },
+    {
+      "q": "A 58-year-old female is incidentally noted on a routine abdominal CT scan to have extensive, heavily scattered calcifications within the wall of her gallbladder. She is completely asymptomatic and denies any abdominal pain or dyspepsia. What is the correct terminology for this finding, and what is the recommended management?",
+      "options": [
+        "Strawberry gallbladder; conservative management with a low-fat diet and antispasmodics",
+        "Porcelain gallbladder; laparoscopic cholecystectomy due to an increased risk of gallbladder adenocarcinoma",
+        "Biliary dyskinesia; ERCP sphincterotomy",
+        "Biliary atresia; surgical reconstruction via a Roux-en-Y hepaticojejunostomy"
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: A heavily calcified gallbladder wall is clinically termed a Porcelain Gallbladder. It is most commonly found incidentally on imaging. Because a porcelain gallbladder (especially one with scattered calcifications) carries a highly elevated risk of developing gallbladder adenocarcinoma, watchful waiting is contraindicated. Even if the patient is completely asymptomatic, the standard recommendation is to perform a laparoscopic cholecystectomy."
+    },
+    {
+      "q": "A 65-year-old male returns to the emergency department 5 days after undergoing a laparoscopic cholecystectomy, complaining of progressive abdominal pain, bloating, and low-grade fevers (37.8°C). An abdominal CT scan reveals a large fluid collection in the right upper quadrant. A diagnostic HIDA scan is obtained, which demonstrates tracer extravasation into the peritoneum, but tracer is still seen readily entering the duodenum and small bowel. What is the correct diagnosis and the standard therapeutic intervention?",
+      "options": [
+        "Main common bile duct (CBD) transection; urgent exploratory laparotomy and primary suture repair of the duct",
+        "Cystic duct stump leak (due to slipped surgical clip); ERCP with stenting of the sphincter of Oddi",
+        "Cystic duct stump leak; immediate surgical re-exploration and clip replacement",
+        "Complete hepatic duct division; urgent reconstruction with a Roux-en-Y hepaticojejunostomy"
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: If a post-cholecystectomy patient presents within the first week with abdominal pain, bloating, and fever, an intraperitoneal biloma (bile leak) must be suspected. CT is performed first to locate the fluid collection. Next, a HIDA scan is crucial to evaluate the integrity of the main biliary tree. Cystic duct stump leak: HIDA scan shows tracer extravasation in the RUQ, but tracer is still seen flowing into the small bowel. This represents an intact main duct, most commonly caused by a surgical clip slipping off the cystic duct stump. It is managed endoscopically via ERCP with sphincter of Oddi stenting. The stent lowers pressure in the biliary system, allowing the cystic duct to seal. Major duct injury (CBD transection): HIDA scan would show extravasation without any tracer entering the small bowel, confirming complete loss of ductal integrity. This requires surgical reconstruction via a Roux-en-Y hepaticojejunostomy."
+    }
+  ]
+}
