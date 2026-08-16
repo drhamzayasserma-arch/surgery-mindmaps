@@ -1,8 +1,219 @@
 {
   "nodeData": {
     "id": "root",
-    "topic": "Biliary Jaundice Strictures",
+    "topic": "Biliary Jaundice Structure",
     "root": true,
-    "children": []
+    "children": [
+      {
+        "id": "n1",
+        "topic": "1. Biliary Jaundice Pathophysiology",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n1_1",
+            "topic": "Definition and Physical Thresholds",
+            "children": [
+              { "id": "n1_1_1", "topic": "Yellowish discoloration of tissues and body fluids EXCEPT the brain, CSF, tears, saliva, and milk", "children": [] },
+              { "id": "n1_1_2", "topic": "Sclera and Under Tongue are the first areas where jaundice manifests because of superficial blood vessels", "children": [] }
+            ]
+          },
+          {
+            "id": "n1_2",
+            "topic": "Conjugated (Direct) Bilirubin Alterations",
+            "children": [
+              { "id": "n1_2_1", "topic": "In the Intestinal Lumen: Direct bilirubin cannot reach the bowel due to obstruction, so no stercobilinogen is produced, leading to pale, clay-colored stools", "children": [] },
+              { "id": "n1_2_2", "topic": "In the Systemic Blood: Conjugated bilirubin backs up into circulation, filtered by the kidneys (water-soluble), and excreted as dark, tea-colored urine", "children": [] }
+            ]
+          },
+          {
+            "id": "n1_3",
+            "topic": "Bile Salts Distortions",
+            "children": [
+              { "id": "n1_3_1", "topic": "Systemic Accumulation (Blood): Causes severe itching (pruritus), bradycardia (vagal stimulation), and frothy urine", "children": [] },
+              {
+                "id": "n1_3_2",
+                "topic": "Intestinal Deficiency",
+                "children": [
+                  { "id": "n1_3_2_1", "topic": "Impaired absorption of fats and fat-soluble vitamins (A, D, E, and K) leading to steatorrhea and bleeding tendencies", "children": [] },
+                  { "id": "n1_3_2_2", "topic": "Loss of gut bacteriostatic barrier leads to increased bacterial fermentation resulting in offensive, bulky, and frothy stools", "children": [] },
+                  { "id": "n1_3_2_3", "topic": "Impaired intestinal motility leads to constipation", "children": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n1_4",
+            "topic": "Ductal Structural Effects (Sustained Obstruction)",
+            "children": [
+              { "id": "n1_4_1", "topic": "Biliary duct dilation and stasis leads to formation of thick biliary mud which predisposes to infection, pus production, and secondary stones", "children": [] },
+              { "id": "n1_4_2", "topic": "The \"White Bile\" Phenomenon: Sustained high pressure damages hepatocyte secretory function. Bile excretion ceases and the biliary tree fills entirely with clear, mucous secretions produced by its own mucosal lining", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n2",
+        "topic": "2. Biliary Tract Strictures",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n2_1",
+            "topic": "A. Benign Strictures",
+            "children": [
+              { "id": "n2_1_1", "topic": "Congenital: Biliary atresia (Types I, II, and III)", "children": [] },
+              {
+                "id": "n2_1_2",
+                "topic": "Traumatic Biliary Stricture (80% of benign cases)",
+                "children": [
+                  {
+                    "id": "n2_1_2_1",
+                    "topic": "Etiology: Typically follows cholecystectomy or choledocholithotomy",
+                    "children": [
+                      { "id": "n2_1_2_1_1", "topic": "Complete ligation of the CBD", "children": [] },
+                      { "id": "n2_1_2_1_2", "topic": "Localized ischemic injury to the duct wall", "children": [] },
+                      { "id": "n2_1_2_1_3", "topic": "Blind ligation of a bleeding cystic artery", "children": [] },
+                      { "id": "n2_1_2_1_4", "topic": "Failure to identify anatomy at Calot triangle due to dense inflammation", "children": [] },
+                      { "id": "n2_1_2_1_5", "topic": "Applying too much traction at the cystic duct, or ignorance of congenital anatomical variations", "children": [] }
+                    ]
+                  },
+                  { "id": "n2_1_2_2", "topic": "Clinical Picture: Post-operative presentation with progressive jaundice or persistent biliary fistula", "children": [] },
+                  { "id": "n2_1_2_3", "topic": "Diagnosis: Abdominal ultrasound to detect ductal dilation, followed by ERCP or PTC to identify exact level of the stricture", "children": [] },
+                  { "id": "n2_1_2_4", "topic": "Definitive Treatment: Surgical reconstruction via Roux-en-Y hepaticojejunostomy", "children": [] }
+                ]
+              },
+              {
+                "id": "n2_1_3",
+                "topic": "Inflammatory (Primary Sclerosing Cholangitis)",
+                "children": [
+                  { "id": "n2_1_3_1", "topic": "Multiple, chronic, alternating intra- and extrahepatic biliary strictures and dilations (\"pearls on a string\" appearance)", "children": [] },
+                  { "id": "n2_1_3_2", "topic": "80% of cases are strongly associated with Ulcerative Colitis", "children": [] },
+                  { "id": "n2_1_3_3", "topic": "Presents with progressive jaundice, right upper quadrant pain, and recurrent fevers", "children": [] },
+                  { "id": "n2_1_3_4", "topic": "Prognosis: Highly precancerous, strongly predisposes to cholangiocarcinoma", "children": [] },
+                  { "id": "n2_1_3_5", "topic": "Treatment: Patients are ultimately candidates for liver transplantation", "children": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n2_2",
+            "topic": "B. Malignant Strictures (Cholangiocarcinoma)",
+            "children": [
+              { "id": "n2_2_1", "topic": "Pathology: Over 90% are adenocarcinomas (sclerosing 80%, nodular, or papillary)", "children": [] },
+              { "id": "n2_2_2", "topic": "Klatskin Tumor: Cholangiocarcinoma arising specifically at the hepatic duct bifurcation (junction of right and left hepatic ducts)", "children": [] },
+              { "id": "n2_2_3", "topic": "Clinical Picture: Progressive, painless jaundice with systemic symptoms like fever and rigors", "children": [] },
+              {
+                "id": "n2_2_4",
+                "topic": "Treatment Guidelines",
+                "children": [
+                  { "id": "n2_2_4_1", "topic": "Operable: Resected via Whipple procedure (pancreaticoduodenectomy) if tumor is in the lower part of CBD", "children": [] },
+                  { "id": "n2_2_4_2", "topic": "Inoperable / Advanced: Palliative management using biliary bypass (cholecystojejunostomy) or endoscopic biliary stenting via ERCP", "children": [] }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "topic": "3. Ascending Cholangitis (Biliary Sepsis)",
+        "direction": 1,
+        "children": [
+          { "id": "n3_1", "topic": "Pathophysiology: Biliary obstruction + elevated intraluminal pressure + bacterial infection. Stagnation allows bacteria to multiply and ascend retrogradely into hepatic parenchymal circulation", "children": [] },
+          { "id": "n3_2", "topic": "Bacteriology: Most common causative organism: Escherichia coli (E. coli)", "children": [] },
+          {
+            "id": "n3_3",
+            "topic": "Predisposing Risk Factors",
+            "children": [
+              { "id": "n3_3_1", "topic": "Gallstones (most common cause)", "children": [] },
+              { "id": "n3_3_2", "topic": "Congenital anomalies, immunosuppression, diabetes, hepatic disorders", "children": [] },
+              { "id": "n3_3_3", "topic": "Prior biliary instrumentation (ERCP, stent insertion, or stone extraction)", "children": [] }
+            ]
+          },
+          {
+            "id": "n3_4",
+            "topic": "Clinical Presentation",
+            "children": [
+              {
+                "id": "n3_4_1",
+                "topic": "Charcot Triad (more than 70% of cases)",
+                "children": [
+                  { "id": "n3_4_1_1", "topic": "1. Fever (with chills/rigors)", "children": [] },
+                  { "id": "n3_4_1_2", "topic": "2. Severe right hypochondrial pain", "children": [] },
+                  { "id": "n3_4_1_3", "topic": "3. Jaundice", "children": [] }
+                ]
+              },
+              {
+                "id": "n3_4_2",
+                "topic": "Reynold Pentad (5-7% of cases)",
+                "children": [
+                  { "id": "n3_4_2_1", "topic": "4. Altered mental status", "children": [] },
+                  { "id": "n3_4_2_2", "topic": "5. Hypotensive Shock (sepsis)", "children": [] },
+                  { "id": "n3_4_2_3", "topic": "Indicates suppurative cholangitis / severe disease and carries a very poor prognosis if unrecognized", "children": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "n3_5",
+            "topic": "Diagnostics (Tokyo Guidelines)",
+            "children": [
+              { "id": "n3_5_1", "topic": "Systemic Inflammation: Leukocytosis, fever, or elevated CRP", "children": [] },
+              { "id": "n3_5_2", "topic": "Cholestasis: Jaundice and hyperbilirubinemia, with AP and GGT elevated out of proportion to AST and ALT", "children": [] },
+              { "id": "n3_5_3", "topic": "Biliary Dilation: Confirmed on ultrasound or MRCP showing dilated CBD or obstructive etiology", "children": [] }
+            ]
+          },
+          {
+            "id": "n3_6",
+            "topic": "Definitive Management",
+            "children": [
+              { "id": "n3_6_1", "topic": "1. ICU Stabilization: Aggressive IV fluid resuscitation, blood cultures, and broad-spectrum empiric IV antibiotics", "children": [] },
+              { "id": "n3_6_2", "topic": "2. Emergent Biliary Decompression: Gold standard: ERCP with sphincterotomy and stone extraction (Dormia basket). If ERCP unsuccessful: Percutaneous Transhepatic Drainage (PTC)", "children": [] },
+              { "id": "n3_6_3", "topic": "3. Preventive Cholecystectomy: Once acute sepsis has completely resolved, elective laparoscopic cholecystectomy to prevent future recurrence", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n4",
+        "topic": "4. Carcinoma of the Gallbladder",
+        "direction": 1,
+        "children": [
+          { "id": "n4_1", "topic": "Epidemiology: Rare but highly aggressive and lethal hepatobiliary malignancy", "children": [] },
+          {
+            "id": "n4_2",
+            "topic": "Risk Factors",
+            "children": [
+              { "id": "n4_2_1", "topic": "Long-standing gallstone disease (Cholelithiasis): Present in 90% of cases; risk increases with the size of the stone", "children": [] },
+              { "id": "n4_2_2", "topic": "Presence of a Porcelain Gallbladder (calcified gallbladder wall)", "children": [] },
+              { "id": "n4_2_3", "topic": "Gallbladder polyps (adenomatous) and chronic typhoid carrier state (Salmonella typhi)", "children": [] }
+            ]
+          },
+          {
+            "id": "n4_3",
+            "topic": "Pathology",
+            "children": [
+              { "id": "n4_3_1", "topic": "90% are adenocarcinomas", "children": [] },
+              { "id": "n4_3_2", "topic": "Primary Route of Spread: Direct invasion into adjacent segments of the liver bed (very early and common), followed by lymphatic spread to the porta hepatis lymph nodes", "children": [] }
+            ]
+          },
+          {
+            "id": "n4_4",
+            "topic": "Clinical Presentation",
+            "children": [
+              { "id": "n4_4_1", "topic": "Frequently asymptomatic in early stages and discovered incidentally on final pathology after routine cholecystectomy", "children": [] },
+              { "id": "n4_4_2", "topic": "Can present as acute cholecystitis, progressive jaundice (tumor compressing porta hepatis lymph nodes), or a palpable, hard RUQ mass", "children": [] }
+            ]
+          },
+          {
+            "id": "n4_5",
+            "topic": "Management",
+            "children": [
+              { "id": "n4_5_1", "topic": "Most tumors are advanced and inoperable at presentation", "children": [] },
+              { "id": "n4_5_2", "topic": "Operable: Treated with radical cholecystectomy, wedge resection of underlying liver tissue, and thorough clearance of the regional lymph nodes", "children": [] }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
