@@ -1,0 +1,669 @@
+{
+  "nodeData": {
+    "topic": "🧠 Splenic Role &\nHemolytic Anemia",
+    "id": "root",
+    "children": [
+      {
+        "topic": "1. Pathophysiological\nClassification",
+        "id": "node_1ca10a43",
+        "children": [
+          {
+            "topic": "Corpuscular (Intrinsic) Defects",
+            "id": "node_29b010a7",
+            "children": [
+              {
+                "topic": "Membrane Defects:",
+                "id": "node_60b27814",
+                "children": [
+                  {
+                    "topic": "Hereditary Spherocytosis",
+                    "id": "node_63934302",
+                    "children": []
+                  },
+                  {
+                    "topic": "Hereditary Elliptocytosis",
+                    "id": "node_10d3fea0",
+                    "children": []
+                  },
+                  {
+                    "topic": "Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+                    "id": "node_c3a7bcc8",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Hemoglobin Defects:",
+                "id": "node_50968c05",
+                "children": [
+                  {
+                    "topic": "Thalassemia (Alpha / Beta)",
+                    "id": "node_2dde622e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Sickle Cell Anemia",
+                    "id": "node_47e25abd",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Enzyme Defects:",
+                "id": "node_6c327dcb",
+                "children": [
+                  {
+                    "topic": "G6PD Deficiency",
+                    "id": "node_f6617aef",
+                    "children": []
+                  },
+                  {
+                    "topic": "Pyruvate Kinase Deficiency",
+                    "id": "node_eeaca6a1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Extra-Corpuscular (Extrinsic) Defects",
+            "id": "node_df0226b1",
+            "children": [
+              {
+                "topic": "Autoimmune Hemolytic Anemia:",
+                "id": "node_bc1241f8",
+                "children": [
+                  {
+                    "topic": "Warm / Cold Reactive",
+                    "id": "node_1a8c4437",
+                    "children": []
+                  },
+                  {
+                    "topic": "Rh-Incompatibility",
+                    "id": "node_3edd3f83",
+                    "children": []
+                  },
+                  {
+                    "topic": "Hemolytic Transfusion Reactions",
+                    "id": "node_c5b95abb",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "2. Hereditary\nSpherocytosis (HS)",
+        "id": "node_8b7c9c07",
+        "children": [
+          {
+            "topic": "Etiology and Pathology",
+            "id": "node_4897cb51",
+            "children": [
+              {
+                "topic": "Autosomal dominant inheritance\naffecting both sexes",
+                "id": "node_4fceb765",
+                "children": []
+              },
+              {
+                "topic": "Deficiency of membrane skeletal proteins\nSpectrin and Ankyrin",
+                "id": "node_e8444653",
+                "children": []
+              },
+              {
+                "topic": "Excessive membrane permeability to\nsodium and water forces spherical shape",
+                "id": "node_7a884e16",
+                "children": []
+              },
+              {
+                "topic": "Splenic Filtering: Spherocytes are inflexible,\nget trapped and destroyed in\nsplenic red pulp cords",
+                "id": "node_96b15d64",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Presentation",
+            "id": "node_3ce24edc",
+            "children": [
+              {
+                "topic": "Presents in infancy or delayed",
+                "id": "node_5b577bfb",
+                "children": []
+              },
+              {
+                "topic": "Triad: Mild hemolytic jaundice,\nvariable anemia, and splenomegaly\n(sometimes hepatomegaly)",
+                "id": "node_1d95f6e8",
+                "children": []
+              },
+              {
+                "topic": "Hemolytic Crises: Recurrent sudden episodes\nof pallor, abdominal pain,\nand worsening jaundice",
+                "id": "node_6e7972e2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_6f863e8b",
+            "children": [
+              {
+                "topic": "Gallstones and CBD stones in 60% of cases,\nfrequently developing under age 10",
+                "id": "node_1c0a59c7",
+                "children": []
+              },
+              {
+                "topic": "Chronic bilateral leg ulcers (rare)",
+                "id": "node_2cb8a3a3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Investigations",
+            "id": "node_960f508b",
+            "children": [
+              {
+                "topic": "Blood Count: Anemia, spherocytes,\nmarked reticulocytosis (5%-20%)",
+                "id": "node_a2ef8dc4",
+                "children": []
+              },
+              {
+                "topic": "Fragility Test: Hemolysis begins at 0.6% saline\n(normal RBCs at 0.45%)",
+                "id": "node_8d1621a9",
+                "children": []
+              },
+              {
+                "topic": "LFTs: Elevated indirect (unconjugated) bilirubin,\nincreased stercobilinogen and urobilinogen",
+                "id": "node_d5bb20f1",
+                "children": []
+              },
+              {
+                "topic": "Radio-isotopic Studies: Chromium-51 tagging\nconfirms diminished RBC lifespan and\nlocalizes spleen as site of destruction",
+                "id": "node_35a39cc0",
+                "children": []
+              },
+              {
+                "topic": "Ultrasound: Documents splenomegaly\nand pigment gallstones",
+                "id": "node_1cae4cc8",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Surgical Management",
+            "id": "node_7c9f15a0",
+            "children": [
+              {
+                "topic": "Splenectomy is the only definitive cure\n(Desirable surgical indication)",
+                "id": "node_f6b0532d",
+                "children": []
+              },
+              {
+                "topic": "Optimal Timing: 6 to 7 years of age",
+                "id": "node_07920915",
+                "children": [
+                  {
+                    "topic": "Why not before 6: High risk of\nOverwhelming Post-Splenectomy\nInfection (OPSI)",
+                    "id": "node_d5c3111e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Why not after 7: Higher risk of\ndeveloping pigment gallstones",
+                    "id": "node_29bf43b2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Intraoperative Mandate: Must search for\naccessory spleens (splenules) and gallstones",
+                "id": "node_6c89f909",
+                "children": [
+                  {
+                    "topic": "Accessory spleen sites:\nHilum (50%), Pancreatic tail (30%),\nSplenic ligaments",
+                    "id": "node_d97587bd",
+                    "children": []
+                  },
+                  {
+                    "topic": "If missed: Hyperplastic expansion\nand recurrence of spherocytosis",
+                    "id": "node_ab5ad73e",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "3. Autoimmune Hemolytic\nAnemia (AIHA)",
+        "id": "node_ae1efc3a",
+        "children": [
+          {
+            "topic": "Etiology",
+            "id": "node_5ba0cee1",
+            "children": [
+              {
+                "topic": "Autoantibodies directed against patient own\nred blood cell surface antigens",
+                "id": "node_9b965626",
+                "children": []
+              },
+              {
+                "topic": "Primary: Idiopathic (no identifiable cause)",
+                "id": "node_13d2f7a9",
+                "children": []
+              },
+              {
+                "topic": "Secondary: Drug reactions (penicillin,\nquinidine, cimetidine), collagen vascular\ndiseases (SLE, RA), lymphoproliferative\ntumors, systemic infections (malaria, viremia)",
+                "id": "node_5a678cec",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Presentation",
+            "id": "node_e4212236",
+            "children": [
+              {
+                "topic": "Negative family history (unlike congenital types)",
+                "id": "node_d497ec85",
+                "children": []
+              },
+              {
+                "topic": "More common in older age groups\nFemale-to-Male ratio 2:1",
+                "id": "node_3830c6a7",
+                "children": []
+              },
+              {
+                "topic": "Splenomegaly present in 50% of cases",
+                "id": "node_8ab44560",
+                "children": []
+              },
+              {
+                "topic": "Mild hemolytic jaundice and mild anemia",
+                "id": "node_4edaf15c",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_b773e6c7",
+            "children": [
+              {
+                "topic": "Pigment gallstones and CBD stones in 25% of cases",
+                "id": "node_5477b411",
+                "children": []
+              },
+              {
+                "topic": "Severe acute hemolysis, hemoglobinuria,\nand acute renal failure",
+                "id": "node_e2aac6f7",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Investigations",
+            "id": "node_7af37fc0",
+            "children": [
+              {
+                "topic": "CBC: Anemia, spherocytes,\nreticulocytosis up to 5%-20%",
+                "id": "node_8d5bd561",
+                "children": []
+              },
+              {
+                "topic": "Indirect Coombs Test: Diagnostic gold standard.\nIdentifies autoantibodies on surface\nof circulating RBCs",
+                "id": "node_01a74645",
+                "children": []
+              },
+              {
+                "topic": "LFTs: Raised indirect bilirubin,\nincreased stercobilinogen and urobilinogen",
+                "id": "node_61ceef0e",
+                "children": []
+              },
+              {
+                "topic": "Isotopic Imaging: Chromium-51 tagging\nidentifies spleen as primary clearance organ",
+                "id": "node_3a264d52",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Management Algorithm",
+            "id": "node_671380c9",
+            "children": [
+              {
+                "topic": "1. Treat underlying trigger or secondary cause",
+                "id": "node_58805a51",
+                "children": []
+              },
+              {
+                "topic": "2. First-line: Corticosteroids",
+                "id": "node_9dfe7680",
+                "children": []
+              },
+              {
+                "topic": "3. Splenectomy (Desirable Category):",
+                "id": "node_ebe8a691",
+                "children": [
+                  {
+                    "topic": "Failure of corticosteroids to control hemolysis",
+                    "id": "node_d2fee3d3",
+                    "children": []
+                  },
+                  {
+                    "topic": "Contraindications to corticosteroid use",
+                    "id": "node_62baa9b3",
+                    "children": []
+                  },
+                  {
+                    "topic": "Development of severe steroid complications",
+                    "id": "node_0315024c",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "4. Second-line: Cytotoxic drugs\n(Azathioprine/Imuran, Cyclophosphamide)",
+                "id": "node_a20e3e2f",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "4. Thalassemia\n(Cooley's Anemia)",
+        "id": "node_2a0237aa",
+        "children": [
+          {
+            "topic": "Etiology and Pathology",
+            "id": "node_2cc9d18c",
+            "children": [
+              {
+                "topic": "Inherited genetic disorder common in\nMediterranean and Middle Eastern populations",
+                "id": "node_0b4295f4",
+                "children": []
+              },
+              {
+                "topic": "Globin chain synthesis diminished or absent\n(Alpha: reduced alpha-chain,\nBeta: reduced beta-chain)",
+                "id": "node_30feda91",
+                "children": []
+              },
+              {
+                "topic": "Abnormal aggregation of unmatched globin chains\ndamages RBCs causing chronic extravascular\nhemolysis and reduced marrow production",
+                "id": "node_04c1fd97",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Features",
+            "id": "node_96759e3b",
+            "children": [
+              {
+                "topic": "Short stature and developmental delay",
+                "id": "node_cbfd2c92",
+                "children": []
+              },
+              {
+                "topic": "Thalassemic Facies: Prominent maxilla,\nupper front teeth, depressed nasal bridge,\nlarge bossy skull",
+                "id": "node_7cdfc593",
+                "children": []
+              },
+              {
+                "topic": "Hepatomegaly and massive splenomegaly",
+                "id": "node_75b69303",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_48ecc082",
+            "children": [
+              {
+                "topic": "Gallstones in 25% of patients",
+                "id": "node_5edca11c",
+                "children": []
+              },
+              {
+                "topic": "Myocardial Hemosiderosis: Iron overload\nin heart muscle from chronic transfusions",
+                "id": "node_31ac076e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Diagnostics",
+            "id": "node_55f170fa",
+            "children": [
+              {
+                "topic": "Microcytic hypochromic anemia\nwith reticulocytosis",
+                "id": "node_19b2b9dc",
+                "children": []
+              },
+              {
+                "topic": "Hb Electrophoresis: Marked reduction/absence\nof HbA and large compensatory\namounts of HbF",
+                "id": "node_8a736121",
+                "children": []
+              },
+              {
+                "topic": "X-ray Skull: Classic \"hair-on-end\" appearance",
+                "id": "node_1ec844bb",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Treatment",
+            "id": "node_2c61ec05",
+            "children": [
+              {
+                "topic": "Regular blood transfusion therapy\nand iron chelation",
+                "id": "node_1bd337aa",
+                "children": []
+              },
+              {
+                "topic": "Splenectomy (Debatable Category):\nIndicated to decrease rate and volume\nof repeated transfusions by\nreducing splenic sequestration",
+                "id": "node_987e930b",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "5. Sickle Cell\nAnemia",
+        "id": "node_05e8ee86",
+        "children": [
+          {
+            "topic": "Etiology and Pathology",
+            "id": "node_5fd53ccb",
+            "children": [
+              {
+                "topic": "Inherited beta-globin mutation\n(primarily in African populations)",
+                "id": "node_0ebe7159",
+                "children": []
+              },
+              {
+                "topic": "Normal HbA replaced by HbS",
+                "id": "node_5103dfbe",
+                "children": []
+              },
+              {
+                "topic": "Under hypoxic conditions HbS crystallizes,\nRBCs distort into fragile sickle shape",
+                "id": "node_18474abd",
+                "children": []
+              },
+              {
+                "topic": "Increased blood viscosity, microvascular\nthrombosis, tissue ischemia,\nand severe hemolytic destruction",
+                "id": "node_4679745d",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Clinical Manifestations",
+            "id": "node_7a218246",
+            "children": [
+              {
+                "topic": "Vaso-occlusive Crises: Severe abdominal pain,\nleg ulcers, and neurological deficits",
+                "id": "node_665c4c74",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Complications",
+            "id": "node_c5c6d7f8",
+            "children": [
+              {
+                "topic": "Gallstones in up to 70% of patients",
+                "id": "node_1bab4ad2",
+                "children": []
+              },
+              {
+                "topic": "Renal and congestive heart failure",
+                "id": "node_4c572917",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Diagnostics",
+            "id": "node_6a59bb16",
+            "children": [
+              {
+                "topic": "Blood Film: Classically demonstrates\nsickle-shaped RBCs",
+                "id": "node_926f674e",
+                "children": []
+              },
+              {
+                "topic": "Electrophoresis: Confirms presence of HbS",
+                "id": "node_d047797f",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Management",
+            "id": "node_e15f9c54",
+            "children": [
+              {
+                "topic": "Avoidance of hypoxia,\ndehydration, and acidosis",
+                "id": "node_102d1899",
+                "children": []
+              },
+              {
+                "topic": "Splenectomy: Indicated strictly when\nlife-threatening acute splenic\nsequestration crises occur",
+                "id": "node_69c68b54",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "6. Hematologic Splenectomy\nRules and Precautions",
+        "id": "node_d65c0a09",
+        "children": [
+          {
+            "topic": "Splenectomy Indications Categorization",
+            "id": "node_d498848b",
+            "children": [
+              {
+                "topic": "Desirable: Hereditary Spherocytosis,\nAutoimmune Hemolytic Anemia, ITP",
+                "id": "node_9eefe77b",
+                "children": []
+              },
+              {
+                "topic": "Debatable: Thalassemia, TTP,\nSmall splenic cyst",
+                "id": "node_6a8c4bd2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Intraoperative Rules for Spherocytosis",
+            "id": "node_f1d8469f",
+            "children": [
+              {
+                "topic": "Search for Splenules: Must scan abdomen\nfor accessory spleens",
+                "id": "node_a44a4156",
+                "children": []
+              },
+              {
+                "topic": "Most common sites: Hilum (50%),\nSplenic vessels and tail of pancreas (30%),\nSplenic ligaments",
+                "id": "node_b4c1966e",
+                "children": []
+              },
+              {
+                "topic": "If left behind: Rapid compensatory hyperplasia\ncausing recurrence of spherocytosis",
+                "id": "node_ed5900db",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Hematologic Platelet Transfusion Rule",
+            "id": "node_6f4a5ef4",
+            "children": [
+              {
+                "topic": "In thrombocytopenic states, platelet transfusions\nonly after safety ligature is tied\n(securing splenic artery without division)",
+                "id": "node_d764abef",
+                "children": []
+              },
+              {
+                "topic": "Purpose: Prevent immediate splenic consumption\nof transfused platelets",
+                "id": "node_4e28aa8e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Preventing OPSI (Overwhelming\nPost-Splenectomy Infection)",
+            "id": "node_50655089",
+            "children": [
+              {
+                "topic": "Spleen removal eliminates IgM, Tuftsin,\nand Properdin needed to opsonize\nencapsulated organisms",
+                "id": "node_46d20364",
+                "children": []
+              },
+              {
+                "topic": "Carries 2% lifetime mortality risk",
+                "id": "node_6cc1746b",
+                "children": []
+              },
+              {
+                "topic": "Primary Pathogens: Streptococcus pneumoniae,\nNeisseria meningitidis,\nHaemophilus influenzae",
+                "id": "node_44e54151",
+                "children": []
+              },
+              {
+                "topic": "Immunization: Polyvalent pneumococcal,\nmeningococcal, and H. influenzae type B vaccines\nexactly 2 weeks post-operatively",
+                "id": "node_9417739d",
+                "children": []
+              },
+              {
+                "topic": "Antibiotic Prophylaxis: Daily Amoxicillin\nor Penicillin for at least 2 years\npost-splenectomy in pediatric patients\nunder age 15",
+                "id": "node_642143fa",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      }
+    ],
+    "root": true
+  }
+}
