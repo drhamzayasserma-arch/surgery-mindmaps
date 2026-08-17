@@ -1,59 +1,291 @@
 {
   "nodeData": {
+    "topic": "🧠 Chronic Pancreatitis\n& Pancreatic Trauma",
     "id": "root",
-    "topic": "Chronic Pancreatitis",
-    "root": true,
     "children": [
       {
-        "topic": "Etiology (TIGAR-O System)",
-        "id": "cp_1",
-        "direction": 0,
+        "topic": "🪵 PART A:\nChronic Pancreatitis",
+        "id": "node_0dd01bce",
         "children": [
-          { "topic": "Toxic-metabolic: Alcohol (70-80%), Smoking, Hypercalcemia, Hyperlipidemia, Chronic renal failure", "id": "cp_1_1", "children": [] },
-          { "topic": "Idiopathic: Early onset (juvenile) vs Late onset (senile)", "id": "cp_1_2", "children": [] },
-          { "topic": "Genetic: PRSS1 (hereditary pancreatitis, 50x cancer risk), SPINK1, CFTR mutations", "id": "cp_1_3", "children": [] },
-          { "topic": "Autoimmune: Type 1 (systemic IgG4-RD, sausage-shaped pancreas), Type 2 (pancreas-specific, GEL lesions)", "id": "cp_1_4", "children": [] },
-          { "topic": "Recurrent & Severe AP: Post-necrotic pancreatitis", "id": "cp_1_5", "children": [] },
-          { "topic": "Obstructive: Pancreas divisum, ductal stricture, tumor, trauma", "id": "cp_1_6", "children": [] }
-        ]
+          {
+            "topic": "1. Definition &\nEtiology",
+            "id": "node_227cb866",
+            "children": [
+              {
+                "topic": "Definition: Irreversible destruction and progressive\nfibroinflammatory transformation of the pancreatic\nparenchyma, leading to permanent loss of both\nexocrine and endocrine functions",
+                "id": "node_d2f1a682",
+                "children": []
+              },
+              {
+                "topic": "Etiology:",
+                "id": "node_d4426c9b",
+                "children": [
+                  {
+                    "topic": "Chronic Alcohol Abuse: Most common cause overall\n(up to 90%). Induces protein plugs that block ductules,\nreducing vascularity and triggering chronic ischemia",
+                    "id": "node_feb01c1d",
+                    "children": []
+                  },
+                  {
+                    "topic": "Biliary Obstruction: Recurrent gallstones impacted\nat the lower end of the CBD",
+                    "id": "node_42323794",
+                    "children": []
+                  },
+                  {
+                    "topic": "Congenital/Anatomical Anomalies:\ne.g., Pancreas Divisum (failure of dorsal\nand ventral buds to fuse)",
+                    "id": "node_bf4e4553",
+                    "children": []
+                  },
+                  {
+                    "topic": "Other Causes: Hereditary pancreatitis,\nhypercalcemia, direct pancreatic trauma,\nor localized malignancies",
+                    "id": "node_5fc6a48e",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "2. Clinical\nPresentation",
+            "id": "node_814dab15",
+            "children": [
+              {
+                "topic": "The Signature Pain: Severe epigastric pain\nradiating straight to the back. Continuous or intermittent.\nClassically exacerbated by meals (intraductal pressure\nelevation behind fibrotic duct strictures)",
+                "id": "node_6709854f",
+                "children": []
+              },
+              {
+                "topic": "Malabsorption & Steatorrhea: Loss of exocrine cells\n(lipase deficiency). Stools become bulky, greasy, soft,\nhighly foul-smelling, and difficult to flush",
+                "id": "node_30aa9eda",
+                "children": []
+              },
+              {
+                "topic": "Type-3 Diabetes Mellitus: Develops in 1/3 of patients\ndue to chronic inflammatory destruction of beta-islet cells.\nHighly brittle, notoriously unstable,\nusually requires insulin",
+                "id": "node_7b71d4c3",
+                "children": []
+              },
+              {
+                "topic": "Obstructive Jaundice (3% of cases): Occurs if severe\nfibrosis of the pancreatic head compresses the adjacent CBD",
+                "id": "node_1d5058fc",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "3. Diagnostic\nWorkup",
+            "id": "node_9222977a",
+            "children": [
+              {
+                "topic": "Fecal Elastase Levels: The most sensitive test to\nconfirm and quantify pancreatic exocrine insufficiency.\nHigh fat content in stools documents steatorrhea",
+                "id": "node_3239d716",
+                "children": []
+              },
+              {
+                "topic": "Plain Abdominal X-ray: May demonstrate pathognomonic\npancreatic calcifications along the ductal system",
+                "id": "node_cb3bb800",
+                "children": []
+              },
+              {
+                "topic": "ERCP & MRCP: Reveal the classic \"chain of lakes\"\nappearance — alternating strictures and segmentally\ndilated areas along the main pancreatic duct",
+                "id": "node_ed1c072f",
+                "children": []
+              },
+              {
+                "topic": "Glucose Tolerance Test (GTT): Indicated to screen\nfor underlying endocrine insufficiency (Type-3 DM)",
+                "id": "node_2c987c42",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "4. Management\nStrategies",
+            "id": "node_09a2995b",
+            "children": [
+              {
+                "topic": "Conservative Management:",
+                "id": "node_f314b73d",
+                "children": [
+                  {
+                    "topic": "Strict and immediate avoidance of alcohol",
+                    "id": "node_2e21d04f",
+                    "children": []
+                  },
+                  {
+                    "topic": "Chronic pain control using non-opioid analgesics\n(Aspirin, Paracetamol)",
+                    "id": "node_953eacb8",
+                    "children": []
+                  },
+                  {
+                    "topic": "Pancreatic Enzyme Replacement Therapy (PERT):\nOral lipase (10,000–12,000 units per meal).\nMust be given with a PPI or H2-blocker to prevent\ngastric HCl from denaturing the enzyme extract",
+                    "id": "node_f397e9ed",
+                    "children": []
+                  },
+                  {
+                    "topic": "Daily supplementation of fat-soluble vitamins\n(A, D, E, and K)",
+                    "id": "node_339d447b",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Surgical Intervention:",
+                "id": "node_a4d2f856",
+                "children": [
+                  {
+                    "topic": "Absolute Indication: Severe, persistent, and\nrefractory abdominal pain that fails\nconservative medical therapy",
+                    "id": "node_7f0bb28e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Lateral Pancreaticojejunostomy (Puestow Procedure):\nStandard drainage operation for diffuse ductal involvement.\nMain duct opened longitudinally head to tail\nand anastomosed to a loop of jejunum",
+                    "id": "node_d7121175",
+                    "children": []
+                  },
+                  {
+                    "topic": "Distal Pancreatectomy: Indicated for localized\nchronic inflammatory lesions strictly confined\nto the tail of the pancreas",
+                    "id": "node_82053ced",
+                    "children": []
+                  },
+                  {
+                    "topic": "Whipple Procedure: Reserved for localized disease\nor a fibrotic mass isolated to the head of the pancreas",
+                    "id": "node_9f4dcb95",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
       },
       {
-        "topic": "Classic Clinical Triad & Features",
-        "id": "cp_2",
-        "direction": 0,
+        "topic": "🚗 PART B:\nPancreatic Trauma",
+        "id": "node_2bc8c8f6",
         "children": [
-          { "topic": "Classic Triad: 1. Pancreatic Calcifications (on X-ray/CT) 2. Steatorrhea (exocrine failure) 3. Diabetes Mellitus (endocrine failure)", "id": "cp_2_1", "children": [] },
-          { "topic": "Abdominal Pain: Postprandial epigastric pain radiating to back, dull, constant, leads to opioid dependence and weight loss", "id": "cp_2_2", "children": [] },
-          { "topic": "Malabsorption: Fat-soluble vitamin deficiencies (A, D, E, K), weight loss despite good appetite", "id": "cp_2_3", "children": [] }
-        ]
-      },
-      {
-        "topic": "Diagnostic Workup",
-        "id": "cp_3",
-        "direction": 1,
-        "children": [
-          { "topic": "Fecal Elastase-1 (<200 µg/g = pancreatic exocrine insufficiency, <100 = severe): Best non-invasive screening test!", "id": "cp_3_1", "children": [] },
-          { "topic": "Abdominal CT: Duct dilation, intraductal calcifications, parenchymal atrophy", "id": "cp_3_2", "children": [] },
-          { "topic": "MRCP / Secretin-MRCP: Chain-of-lakes / ductal side-branching, early ductal changes", "id": "cp_3_3", "children": [] },
-          { "topic": "EUS: Rosemont criteria (hyperechoic foci, strands, lobularity, duct wall hyperechoic)", "id": "cp_3_4", "children": [] }
-        ]
-      },
-      {
-        "topic": "Surgical Management",
-        "id": "cp_4",
-        "direction": 1,
-        "children": [
-          { "topic": "Indications: Intractable pain (most common), complications (biliary/duodenal obstruction, pseudocyst, splenic vein thrombosis)", "id": "cp_4_1", "children": [] },
-          { "topic": "Ductal Drainage Procedures (Dilated Main Duct >6-7 mm):", "id": "cp_4_2", "children": [
-            { "topic": "Partington-Rochelle Procedure: Modified Puestow (longitudinal pancreaticojejunostomy Roux-en-Y)", "id": "cp_4_2_1", "children": [] }
-          ]},
-          { "topic": "Resectional & Hybrid Procedures (Inflammatory Head Mass / Small Duct):", "id": "cp_4_3", "children": [
-            { "topic": "Frey Procedure: Local excision of head of pancreas + longitudinal pancreaticojejunostomy (Hybrid)", "id": "cp_4_3_1", "children": [] },
-            { "topic": "Beger Procedure: Duodenum-preserving pancreatic head resection (DPPHR)", "id": "cp_4_3_2", "children": [] },
-            { "topic": "Whipple Procedure (Pancreaticoduodenectomy): Reserved for suspicion of malignancy", "id": "cp_4_3_3", "children": [] }
-          ]}
-        ]
+          {
+            "topic": "1. Pathophysiology\n& Mechanisms",
+            "id": "node_7aa9ec90",
+            "children": [
+              {
+                "topic": "Location Danger: Deeply nestled in the retroperitoneum.\nProvides physical protection but injuries are notoriously\nmissed on initial physical exams and CT scans,\nleading to high morbidity and delayed diagnosis",
+                "id": "node_f7821f7e",
+                "children": []
+              },
+              {
+                "topic": "Anatomical Danger: Rarely isolated. Highly associated\nwith injuries to adjacent retroperitoneal organs and\nmajor vessels (stomach, duodenum, lower CBD,\naorta, SMA/SMV)",
+                "id": "node_8447c887",
+                "children": []
+              },
+              {
+                "topic": "Mechanisms of Injury:",
+                "id": "node_89211a5b",
+                "children": [
+                  {
+                    "topic": "Blunt Trauma (more than 70%): Direct force to\nepigastrium (steering wheel, bicycle handlebar,\nsports cart). Compresses pancreas against vertebral\ncolumn causing laceration/transection at the neck",
+                    "id": "node_425b3ef8",
+                    "children": []
+                  },
+                  {
+                    "topic": "Penetrating Trauma (less than 30%): Direct laceration\nfrom gunshot wounds (GSWs) or stab wounds",
+                    "id": "node_522cfef6",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "2. Diagnostic\nApproach",
+            "id": "node_6e91034d",
+            "children": [
+              {
+                "topic": "Clinical Presentation: Isolated pancreatic trauma\n(10%) may be initially asymptomatic. Other 90% present\nwith associated injuries, hemorrhagic shock, or peritonitis.\nDelayed adynamic ileus signals retroperitoneal hemorrhage",
+                "id": "node_e5fcb610",
+                "children": []
+              },
+              {
+                "topic": "Serum Amylase: Neither sensitive nor specific for\nacute trauma. Amylase can rise in any abdominal\ncatastrophe (e.g., perforated bowel)",
+                "id": "node_94373be4",
+                "children": []
+              },
+              {
+                "topic": "CT Scan with Contrast: Primary staging modality.\nInitial CT can miss early ductal disruption.\nRepeat CT is mandatory if patient fails to improve",
+                "id": "node_3b6ef1b1",
+                "children": []
+              },
+              {
+                "topic": "Ductal Integrity Evaluation: Status of the main\npancreatic duct is the single most critical factor\nin management. ERCP is more sensitive and specific\nthan MRCP for identifying subtle ductal lacerations",
+                "id": "node_7de2d101",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "3. Lucas\nClassification",
+            "id": "node_9ced946e",
+            "children": [
+              {
+                "topic": "Class I: Simple superficial contusion or peripheral\nparenchymal laceration. Intact main pancreatic duct",
+                "id": "node_a4f64924",
+                "children": []
+              },
+              {
+                "topic": "Class II: Deep laceration, perforation, or transection\nof the pancreatic neck, body, or tail.\nWith or without duct injury",
+                "id": "node_0affafe9",
+                "children": []
+              },
+              {
+                "topic": "Class III: Severe crush injury, perforation, or\ntransection of the pancreatic head.\nWith or without ductal injury",
+                "id": "node_41e1b43f",
+                "children": []
+              },
+              {
+                "topic": "Class IV: Combined complex pancreaticoduodenal\ninjuries (severe head injury + duodenal injury\n+ ductal disruption)",
+                "id": "node_4c5e6bc3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "4. Management\nAlgorithm",
+            "id": "node_258f6d3d",
+            "children": [
+              {
+                "topic": "Minor Injuries (Intact Duct / Class I):\nConservative (non-operative) with NPO,\nIV fluid resuscitation, and closed suction\ndrainage if necessary",
+                "id": "node_896131df",
+                "children": []
+              },
+              {
+                "topic": "Major Injuries (Ductal Disruption / Class II, III, IV):\nMandates surgical exploration to prevent uncontrolled\npancreatic ascites or severe retroperitoneal necrosis",
+                "id": "node_3e386116",
+                "children": []
+              },
+              {
+                "topic": "Surgical Techniques:",
+                "id": "node_992b5b49",
+                "children": [
+                  {
+                    "topic": "Distal Pancreatectomy (Body/Tail injuries):\nIf duct injury is distal to the superior mesenteric\nvessels. Spleen may also be resected (splenectomy)\nif splenic vessels are torn",
+                    "id": "node_5259c62b",
+                    "children": []
+                  },
+                  {
+                    "topic": "Surgical Drainage (Head injuries / Class III):\nCautious debridement and placement of wide,\nclosed-suction retroperitoneal drains",
+                    "id": "node_a3bf9746",
+                    "children": []
+                  },
+                  {
+                    "topic": "Whipple Procedure (Pancreaticoduodenal / Class IV):\nLast resort for devitalizing injuries to pancreatic\nhead and duodenum. Emergency Whipple carries\nextremely high mortality rate (20–40%)",
+                    "id": "node_d9027ea8",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 1
       }
-    ]
+    ],
+    "root": true
   }
 }
