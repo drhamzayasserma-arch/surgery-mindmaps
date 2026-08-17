@@ -1,0 +1,281 @@
+{
+  "nodeData": {
+    "topic": "🧠 Pancreatic Pseudocyst\nRevision",
+    "id": "root",
+    "children": [
+      {
+        "topic": "1. Clinical Definition\n& Anatomy",
+        "id": "node_cc3bdff3",
+        "children": [
+          {
+            "topic": "\"Pseudo\" Nature: False cyst lacking epithelial lining.\nInflammatory fluid walled off by fibrous membrane",
+            "id": "node_55a728dc",
+            "children": []
+          },
+          {
+            "topic": "Anatomical Location:",
+            "id": "node_b3fa2558",
+            "children": [
+              {
+                "topic": "Body and Tail: 2/3 of cases",
+                "id": "node_f9c19448",
+                "children": []
+              },
+              {
+                "topic": "Head: 1/3 of cases",
+                "id": "node_381f52e3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pathogenesis:",
+            "id": "node_c6f7237a",
+            "children": [
+              {
+                "topic": "Ductal disruption -> Extravasation of enzyme-rich fluid",
+                "id": "node_a5047c1a",
+                "children": []
+              },
+              {
+                "topic": "Accumulates in adjacent lesser sac (omental bursa)",
+                "id": "node_bf05d171",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "The Fistula Factor:",
+            "id": "node_5a16cb66",
+            "children": [
+              {
+                "topic": "1/3 seal spontaneously",
+                "id": "node_eb92139c",
+                "children": []
+              },
+              {
+                "topic": "2/3 form persistent fistula (crucial for intervention planning)",
+                "id": "node_3a9f84f2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Fluid Composition: Clear or watery fluid with high\namylase, lipase, and trypsin",
+            "id": "node_2d51821f",
+            "children": []
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "2. Clinical\nPresentation",
+        "id": "node_1c78253d",
+        "children": [
+          {
+            "topic": "Chronology: 4 to 6 weeks post-pancreatitis resolution",
+            "id": "node_060de1eb",
+            "children": []
+          },
+          {
+            "topic": "Symptom Profile:",
+            "id": "node_4d530ef0",
+            "children": [
+              {
+                "topic": "Residual Pain: Persistent dull epigastric aching",
+                "id": "node_be06a42b",
+                "children": []
+              },
+              {
+                "topic": "Gastric Compression: Indigestion, early satiety, nausea",
+                "id": "node_d902a2c2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Physical Exam: Smooth, non-tender,\npalpable epigastric mass or fullness",
+            "id": "node_b8b5576e",
+            "children": []
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "3. Complications\n(The Silent Risks)",
+        "id": "node_1c5407e3",
+        "children": [
+          {
+            "topic": "Infection: Conversion into purulent pancreatic abscess",
+            "id": "node_0fca4b14",
+            "children": []
+          },
+          {
+            "topic": "Rupture:",
+            "id": "node_d5a4f825",
+            "children": [
+              {
+                "topic": "Into peritoneal cavity -> chemical peritonitis & shock",
+                "id": "node_d4e034e8",
+                "children": []
+              },
+              {
+                "topic": "Into hollow organs -> internal GI fistula",
+                "id": "node_327a483e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Vascular Erosion:",
+            "id": "node_74fa72e3",
+            "children": [
+              {
+                "topic": "Erodes splenic artery/vein -> Splenic artery pseudoaneurysm",
+                "id": "node_481b2b6e",
+                "children": []
+              },
+              {
+                "topic": "Rupture -> Intracystic hemorrhage & hypovolemic shock",
+                "id": "node_d020c98d",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "4. Diagnostic\nWorkup",
+        "id": "node_484935a0",
+        "children": [
+          {
+            "topic": "Abdominal Ultrasound: Initial screening.\nShows localized fluid collection",
+            "id": "node_b93b7960",
+            "children": []
+          },
+          {
+            "topic": "Contrast-Enhanced CT: Gold Standard",
+            "id": "node_852f4c94",
+            "children": [
+              {
+                "topic": "Thin-walled, homogeneous peripancreatic fluid",
+                "id": "node_0ae9bc78",
+                "children": []
+              },
+              {
+                "topic": "Defines anatomy for drainage planning",
+                "id": "node_bd2721ce",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "ERCP: Evaluates for fistula communication before percutaneous drainage",
+            "id": "node_392c2624",
+            "children": []
+          },
+          {
+            "topic": "CT-Guided FNA: Rules out cystadenocarcinoma",
+            "id": "node_4a19dd34",
+            "children": [
+              {
+                "topic": "Pseudocyst: High fluid amylase, low CA 19-9",
+                "id": "node_072ae473",
+                "children": []
+              },
+              {
+                "topic": "Malignancy: Low amylase, elevated CA 19-9",
+                "id": "node_fd01bad4",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "5. Management Criteria\n& \"Rule of 6\"",
+        "id": "node_96ee9a62",
+        "children": [
+          {
+            "topic": "Rule of 6 (Spontaneous Resolution Predictors):",
+            "id": "node_c5415f6f",
+            "children": [
+              {
+                "topic": "Duration < 6 weeks",
+                "id": "node_82ff4c93",
+                "children": []
+              },
+              {
+                "topic": "Diameter < 6 cm",
+                "id": "node_c9c2cc23",
+                "children": []
+              },
+              {
+                "topic": "Wall thickness < 6 mm",
+                "id": "node_ac3fea6f",
+                "children": []
+              },
+              {
+                "topic": "Uncomplicated",
+                "id": "node_64f7d607",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "A. Conservative (Observation):",
+            "id": "node_89a68722",
+            "children": [
+              {
+                "topic": "Asymptomatic cysts meeting all Rule of 6 criteria",
+                "id": "node_d377fc0e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "B. Intervention Modalities: (If fails Rule of 6)",
+            "id": "node_c1040488",
+            "children": [
+              {
+                "topic": "1. Percutaneous Drainage: Only for non-communicating cysts",
+                "id": "node_6128b2d3",
+                "children": []
+              },
+              {
+                "topic": "2. Endoscopic Drainage (First-Line): Mature wall (< 1cm).\nCystogastrostomy internal stent placement",
+                "id": "node_6d9dda72",
+                "children": []
+              },
+              {
+                "topic": "3. Surgical Drainage:",
+                "id": "node_5314eff1",
+                "children": [
+                  {
+                    "topic": "Internal: Cystogastrostomy (body/tail) or Cystojejunostomy (head)",
+                    "id": "node_4eb300b2",
+                    "children": []
+                  },
+                  {
+                    "topic": "Excision: Distal pancreatectomy (tail) or Whipple procedure (head)",
+                    "id": "node_c28f3c00",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Contraindication: Routine external drainage\n(causes permanent pancreaticocutaneous fistula)",
+                "id": "node_0b99c075",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      }
+    ],
+    "root": true
+  }
+}
