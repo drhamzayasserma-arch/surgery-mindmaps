@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "q": "During embryogenesis, the pancreas develops from distinct dorsal and ventral endodermal buds. Which of the following correctly describes the origins, anatomical fates, and ductal systems of these two embryonic precursors?",
+      "options": [
+        "Dorsal bud: arises from the hepatic diverticulum; forms the head and uncinate process; duct of Santorini.",
+        "Ventral bud: arises from the hepatic diverticulum; forms the head and uncinate process; duct of Wirsung.",
+        "Dorsal bud: arises from the duodenal diverticulum; forms the head and uncinate process; duct of Wirsung.",
+        "Ventral bud: arises from the duodenal diverticulum; forms the body and tail; duct of Santorini."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: The pancreas begins its development during the 4th week of gestation from the endodermal lining of the duodenum at the lower part of the foregut. The large dorsal pouch (bud) develops in the 4th week from the duodenal diverticulum, forming the body and tail (the main bulk of the pancreas). Its duct is the accessory duct of Santorini. The smaller ventral pouch (bud) develops in the 5th week from the hepatic diverticulum, forming the head and uncinate process. Its duct is the main duct of Wirsung."
+    },
+    {
+      "q": "During the rotation of the gut, the ventral pancreatic bud must migrate to fuse with the dorsal bud. Which of the following options correctly describes this rotation and the subsequent formation of the main pancreatic duct?",
+      "options": [
+        "The ventral bud rotates counterclockwise to fuse with the dorsal bud; the main duct is formed entirely by the dorsal duct.",
+        "The ventral bud rotates clockwise behind the duodenum; the main pancreatic duct (Wirsung) is formed by the fusion of the ventral duct with the distal part of the dorsal duct.",
+        "The dorsal bud rotates clockwise around the superior mesenteric artery; the main duct is formed entirely by the ventral duct.",
+        "The ventral bud rotates counterclockwise anterior to the duodenum; the accessory duct of Santorini is formed by the ventral duct."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: As the duodenum rotates to form its C-shape, the ventral pouch migrates dorsally in a clockwise direction to lie behind and below the dorsal pouch. At the 6th week, the ventral and dorsal buds fuse to form the ductal system. The main pancreatic duct (duct of Wirsung) is formed by the fusion of the ventral pancreatic duct with the more distal portion of the dorsal pancreatic duct. It joins the common bile duct (CBD) and empties at the major duodenal papilla. The proximal aspect of the dorsal pancreatic duct remains as the accessory duct of Santorini, emptying at the minor duodenal papilla."
+    },
+    {
+      "q": "A researcher is studying the timing of pancreatic tissue differentiation in the fetus. At what point during intrauterine life (IUL) do the functional exocrine acini and endocrine islets of Langerhans develop?",
+      "options": [
+        "Acini at 4 weeks IUL; Islets at 5 weeks IUL.",
+        "Acini at 6 weeks IUL; Islets at 3 months IUL.",
+        "Acini at 3 months IUL; Islets at 4 to 5 months IUL.",
+        "Acini at 4 to 5 months IUL; Islets at 3 months IUL."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: The main units of the exocrine system (the acini) form at 3 months IUL. The endocrine portion (Islets of Langerhans) takes place at 4 to 5 months IUL. Consequently, in a diabetic pregnant woman, her baby starts to secrete insulin at 4 or 5 months IUL."
+    },
+    {
+      "q": "A 22-year-old male is admitted with recurrent attacks of mild acute pancreatitis. Magnetic Resonance Cholangiopancreatography (MRCP) reveals a congenital anomaly where the dorsal and ventral pancreatic ducts fail to fuse. What is this anomaly, and how does it drain?",
+      "options": [
+        "Annular pancreas; the pancreas completely surrounds and obstructs the second part of the duodenum.",
+        "Ectopic pancreas; tissue is located in the stomach and ileum, draining directly into the gastric lumen.",
+        "Pancreatic divisum; the two buds do not join, and the main bulk of the pancreas (dorsal bud) must drain through the small accessory duct of Santorini via the minor duodenal papilla.",
+        "Duplicated gallbladder; the accessory pancreatic tissue is located within the gallbladder wall."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: Pancreatic Divisum is caused by the failure of fusion between the dorsal and ventral buds during embryogenesis. Because the two buds do not join, the major portion of the pancreas (derived from the dorsal bud: body, tail, and superior head) must drain its exocrine secretions through the minor duodenal papilla via the accessory duct of Santorini. This relatively narrow orifice can cause a relative outflow obstruction, frequently leading to acute pancreatitis."
+    },
+    {
+      "q": "A newborn is evaluated for projectile vomiting and duodenal obstruction. During laparotomy, the surgeon notes a ring of pancreatic tissue completely encircling the second part of the duodenum. What is the embryological error responsible for this condition?",
+      "options": [
+        "Failure of the dorsal bud to develop.",
+        "Abnormal counterclockwise rotation of the dorsal bud.",
+        "Abnormal or absent clockwise rotation of the ventral pancreatic bud.",
+        "Failure of the vitello-intestinal duct to obliterate."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: Annular Pancreas is a congenital anomaly where the normal clockwise rotation of the ventral bud does not occur (or the ventral bud consists of two lobes that migrate in opposite directions around the duodenum to fuse with the dorsal bud). This leaves a ring of pancreatic tissue encircling the second part of the duodenum, which can clinically lead to either duodenal obstruction or acute pancreatitis."
+    },
+    {
+      "q": "Which of the following retroperitoneal structures is correctly categorized as retroperitoneal according to the \"SAD PUCKER\" mnemonic, and what exception applies to the pancreas?",
+      "options": [
+        "Pancreas is completely intraperitoneal, unlike the duodenum.",
+        "Pancreas is retroperitoneal, with the exception of its tail, which is intraperitoneal.",
+        "Only the head of the pancreas is retroperitoneal; the neck, body, and tail are intraperitoneal.",
+        "Both the duodenum and the entire pancreas are completely retroperitoneal."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: According to the retroperitoneal anatomical mnemonic \"SAD PUCKER\" (Suprarenal glands, Aorta/IVC, Duodenum [2nd and 3rd parts], Pancreas, Ureters, Colon [ascending and descending], Kidneys, Esophagus, and Rectum), the pancreas is retroperitoneal except for its tail, which is intraperitoneal and extends to the splenic hilum."
+    },
+    {
+      "q": "The anatomical relationships of the pancreas are of paramount surgical importance due to the lack of a protective peritoneal safety margin. Which of the following statements correctly maps the anatomical relations of the parts of the pancreas?",
+      "options": [
+        "Head: Lies in front of the junction of the superior mesenteric and splenic veins.",
+        "Neck: Lies directly posterior to the inferior vena cava (IVC).",
+        "Body: Anteriorly related to the lesser sac (omental bursa), which separates it from the posterior surface of the stomach.",
+        "Tail: Posteriorly related to the aorta and celiac trunk."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: The anatomical relationships of each pancreatic section are highly specific:\n- Head: Housed within the \"C-shaped\" curvature of the duodenum. The common bile duct (CBD) is partially embedded posteriorly, and the IVC lies posterior.\n- Neck: Lies directly in front of the junction of the superior mesenteric vein and splenic vein (which meet to form the portal vein).\n- Body: Posteriorly related to the aorta and splenic vein. Anteriorly related to the lesser sac (omental bursa), which separates it from the posterior surface of the stomach. The splenic artery runs along its superior border.\n- Tail: Extends into the splenic hilum."
+    },
+    {
+      "q": "During a difficult open splenectomy for a ruptured spleen, the surgeon must be extremely careful when ligating and dividing the splenic vessels at the hilum. Damage to which part of the pancreas is a known risk during this step, and what is the potential complication?",
+      "options": [
+        "Head of the pancreas; leading to duodenal necrosis.",
+        "Neck of the pancreas; leading to portal vein thrombosis.",
+        "Tail of the pancreas; leading to pancreatic enzyme leakage, fistulization, or postoperative hemorrhage.",
+        "Uncinate process; leading to superior mesenteric artery injury."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: The tail of the pancreas is extended directly into the splenic hilum. It is therefore highly important to take extreme care of the tail during a splenectomy to avoid accidental injury, which can cause severe pancreatic hemorrhage, enzyme leaks, or a pancreatic pseudocyst."
+    },
+    {
+      "q": "Which of the following options correctly describes the arterial blood supply to the head and the body/tail of the pancreas, respectively?",
+      "options": [
+        "Head: Celiac trunk only; Body/Tail: Superior mesenteric artery only.",
+        "Head: Superior pancreaticoduodenal artery (from gastroduodenal/celiac) and Inferior pancreaticoduodenal artery (from SMA); Body/Tail: Splenic artery.",
+        "Head: Splenic artery; Body/Tail: Left gastric artery.",
+        "Head: Gastro-epiploic artery; Body/Tail: Inferior mesenteric artery."
+      ],
+      "answer": 1,
+      "explanation": "Explanation: The pancreatic head receives a dual blood supply: the superior pancreaticoduodenal artery (arising from the gastroduodenal artery, which comes from the celiac axis via the hepatic artery) and the inferior pancreaticoduodenal artery (arising from the superior mesenteric artery [SMA]). The body and tail of the pancreas are supplied primarily by branches of the splenic artery."
+    },
+    {
+      "q": "In evaluating the venous anatomy of the pancreas, a surgical resident is asked to identify the drainage of the pancreatic head. Which of the following represents a high-yield venous anatomical fact regarding this region?",
+      "options": [
+        "The superior pancreaticoduodenal vein drains directly into the splenic vein.",
+        "The inferior pancreaticoduodenal vein drains directly into the inferior mesenteric vein.",
+        "There is no gastroduodenal vein; the superior pancreaticoduodenal vein passes to the gastro-epiploic vein, which drains into the portal vein.",
+        "All pancreatic veins drain directly into the inferior vena cava."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: Anatomically, there is no gastroduodenal vein. Instead, the superior pancreaticoduodenal vein passes to the gastro-epiploic vein and drains into the portal vein, while the inferior pancreaticoduodenal vein drains into the superior mesenteric vein."
+    },
+    {
+      "q": "The pancreas functions as both an exocrine and endocrine organ. What is the normal daily volume and physiological characteristics of exocrine pancreatic juice?",
+      "options": [
+        "500 mL/day; acidic (pH 6.2), hyper-osmotic.",
+        "1 to 2 liters/day; alkaline (pH 8.4), colorless, odorless, and iso-osmotic.",
+        "3 to 4 liters/day; highly alkaline (pH 9.5), green-colored, and hyper-osmotic.",
+        "100 mL/day; neutral (pH 7.0), containing active trypsin."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: The exocrine pancreas secretes 1 to 2 liters daily of alkaline fluid. This pancreatic juice is alkaline (pH 8.4), colorless, odorless, and iso-osmotic with plasma. It contains key digestive enzymes: lipase (fat digestion), amylase (carbohydrate digestion), and trypsinogen/chymotrypsinogen (protein digestion)."
+    },
+    {
+      "q": "Pancreatic proteases (trypsinogen and chymotrypsinogen) are secreted in inactive \"pro-enzyme\" forms to prevent autodigestion of the gland. Where and how are these enzymes activated?",
+      "options": [
+        "Inside the acinar cells by high intracellular calcium.",
+        "In the pancreatic duct by the action of active pancreatic lipase.",
+        "In the duodenum, where they are activated by contact with bile and enteropeptidase.",
+        "In the stomach by the action of highly acidic gastric hydrochloric acid."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: Trypsinogen and chymotrypsinogen are secreted as inactive pro-enzymes. They are activated only when they reach the duodenum, where they come into contact with bile (and enteropeptidase). Premature activation of these enzymes within the pancreas itself (e.g., due to a gallstone blocking the ampulla) leads to acute pancreatitis and pancreatic autodigestion."
+    },
+    {
+      "q": "Two primary duodenal hormones regulate exocrine pancreatic secretion. Which of the following correctly pairs the hormone with its stimulus and secretory response?",
+      "options": [
+        "Secretin: stimulated by lipids; leads to thick, enzyme-rich secretion.",
+        "Cholecystokinin (CCK): stimulated by acid; leads to profuse, bicarbonate-rich, watery secretion.",
+        "Secretin: stimulated by acid; leads to a profuse, watery, bicarbonate-rich secretion.",
+        "Cholecystokinin (CCK): stimulated by alkaline pH; inhibits pancreatic secretion."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: Exocrine pancreatic secretion is primarily under hormonal control:\n- Secretin: Stimulated by the presence of acid in the duodenum. It stimulates the ductal cells to secrete a profuse, watery, bicarbonate-rich secretion to neutralize gastric acid.\n- Cholecystokinin (CCK): Stimulated by the presence of food (peptides and lipids) in the duodenum. It stimulates acinar cells to release a thick, enzyme-rich secretion."
+    },
+    {
+      "q": "The endocrine pancreas consists of approximately one million islets of Langerhans. Which of the following options correctly lists the endocrine cell types, their relative percentages, and their primary hormone products?",
+      "options": [
+        "Alpha cells (75%, Insulin); Beta cells (20%, Glucagon); Delta cells (5%, Somatostatin).",
+        "Alpha cells (20%, Glucagon); Beta cells (75%, Insulin); Delta cells (5%, Somatostatin).",
+        "Alpha cells (50%, Somatostatin); Beta cells (45%, Insulin); G cells (5%, Gastrin).",
+        "Delta cells (75%, Somatostatin); Beta cells (20%, Insulin); Alpha cells (5%, Glucagon)."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: The islets of Langerhans contain multiple cell types belonging to the APUD series:\n- Beta cells: Represent 75% of all endocrine cells and secrete Insulin.\n- Alpha cells: Secret Glucagon.\n- Delta cells: Represent the smallest portion (5%) and secrete Somatostatin.\n- Note: G cells (which secrete gastrin) are not found in a normal pancreas, but pathologically appear in gastrinomas (Zollinger-Ellison Syndrome)."
+    },
+    {
+      "q": "Somatostatin is a powerful regulatory hormone in the gastrointestinal tract. Which of the following correctly describes its physiological role and its effect on pancreatic secretions?",
+      "options": [
+        "It is secreted by Alpha cells and stimulates insulin release.",
+        "It is secreted by G cells and stimulates exocrine secretions.",
+        "It is secreted by Delta cells and acts as a universal inhibitor, inhibiting both exocrine pancreatic secretions and endocrine hormones like insulin and glucagon.",
+        "It is secreted by Beta cells and selectively stimulates secretin release."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: Somatostatin, secreted by Delta cells of the islets of Langerhans (and also from the stomach/duodenum), acts as a strong inhibitor of gastrointestinal and pancreatic function. It inhibits both exocrine secretions (acting as an antagonist to CCK and Secretin) and endocrine secretions (inhibiting insulin and glucagon release). In clinical practice, somatostatin analogs (like octreotide) are used to treat pancreatic fistulas or to put the pancreas \"at rest\" in severe pancreatitis."
+    }
+  ]
+}

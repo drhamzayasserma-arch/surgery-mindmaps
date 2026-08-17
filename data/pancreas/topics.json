@@ -3,6 +3,7 @@
     { "id": "anatomy_physiology", "name": "Anatomy & Physiology", "createdAt": "2026-08-04T15:42:00Z" },
     { "id": "acute_pancreatitis", "name": "Acute Pancreatitis", "createdAt": "2026-08-04T15:42:00Z" },
     { "id": "chronic_pancreatitis", "name": "Chronic Pancreatitis", "createdAt": "2026-08-04T15:42:00Z" },
-    { "id": "pancreatic_tumors", "name": "Pancreatic Tumors & Neoplasms", "createdAt": "2026-08-04T15:42:00Z" }
+    { "id": "pancreatic_tumors", "name": "Pancreatic Tumors & Neoplasms", "createdAt": "2026-08-04T15:42:00Z" },
+    { "id": "revision-anatomy_physiology", "name": "Quick-Revision: Anatomy & Physiology", "createdAt": "2026-08-17T16:00:00Z" }
   ]
 }

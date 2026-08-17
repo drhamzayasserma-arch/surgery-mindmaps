@@ -1,0 +1,31 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Pancreas Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Dorsal Bud (4th Week)",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Origin: Duodenal Diverticulum", "children": [] },
+          { "id": "r1_2", "topic": "Anatomical Derivative: Body, Tail, & Superior Head", "children": [] },
+          { "id": "r1_3", "topic": "Embryonic Duct: Santorini (Accessory)", "children": [] },
+          { "id": "r1_4", "topic": "Adult Papilla Drainage: Minor Duodenal Papilla", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Ventral Bud (5th Week)",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Origin: Hepatic Diverticulum", "children": [] },
+          { "id": "r2_2", "topic": "Anatomical Derivative: Inferior Head & Uncinate Process", "children": [] },
+          { "id": "r2_3", "topic": "Embryonic Duct: Wirsung (Main)", "children": [] },
+          { "id": "r2_4", "topic": "Adult Papilla Drainage: Major Duodenal Papilla (Ampulla of Vater)", "children": [] }
+        ]
+      }
+    ]
+  }
+}
