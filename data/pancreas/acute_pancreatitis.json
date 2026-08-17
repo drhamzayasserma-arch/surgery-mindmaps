@@ -48,7 +48,8 @@
               }
             ]
           }
-        ]
+        ],
+        "direction": 0
       },
       {
         "topic": "2. Etiology\n(GET SMASHED)",
@@ -109,7 +110,8 @@
             "id": "node_c9a0a4c1",
             "children": []
           }
-        ]
+        ],
+        "direction": 0
       },
       {
         "topic": "3. Clinical Presentation\n& Physical Signs",
@@ -173,7 +175,8 @@
               }
             ]
           }
-        ]
+        ],
+        "direction": 0
       },
       {
         "topic": "4. Diagnostic Criteria\n(Atlanta Criteria)",
@@ -215,7 +218,8 @@
             "id": "node_6fc9bf9c",
             "children": []
           }
-        ]
+        ],
+        "direction": 0
       },
       {
         "topic": "5. Imaging &\nWorkup",
@@ -258,7 +262,8 @@
               }
             ]
           }
-        ]
+        ],
+        "direction": 1
       },
       {
         "topic": "6. Severity Classification\n& Prognosis",
@@ -327,7 +332,8 @@
             "id": "node_1dad0ff1",
             "children": []
           }
-        ]
+        ],
+        "direction": 1
       },
       {
         "topic": "7. Conservative Management\n(The 6 \"R\"s)",
@@ -386,7 +392,8 @@
               }
             ]
           }
-        ]
+        ],
+        "direction": 1
       },
       {
         "topic": "8. Locorregional\nComplications",
@@ -471,7 +478,8 @@
               }
             ]
           }
-        ]
+        ],
+        "direction": 1
       }
     ],
     "root": true
