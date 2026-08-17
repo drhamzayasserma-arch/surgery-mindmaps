@@ -1,0 +1,53 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Pancreatic Oncology Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Pancreatic Head Adenocarcinoma",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Origin / Key Risk Factor: Chronic pancreatitis & Smoking", "children": [] },
+          { "id": "r1_2", "topic": "Key Clinical Sign / Triad: Malignant Obstructive Jaundice, Courvoisier’s Law (Palpable non-tender GB)", "children": [] },
+          { "id": "r1_3", "topic": "Diagnostic / Staging Gold Standard: Triple-Phase Contrast CT (Do NOT perform routine pre-op biopsy or stenting)", "children": [] },
+          { "id": "r1_4", "topic": "Surgical Treatment of Choice: Whipple’s Procedure (Delayed gastric emptying is the #1 complication)", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Ampullary Carcinoma",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Origin / Key Risk Factor: Periampullary tissue", "children": [] },
+          { "id": "r2_2", "topic": "Key Clinical Sign / Triad: Fluctuating jaundice (remits due to sloughing/necrosis)", "children": [] },
+          { "id": "r2_3", "topic": "Diagnostic / Staging Gold Standard: ERCP with direct tumor biopsy", "children": [] },
+          { "id": "r2_4", "topic": "Surgical Treatment of Choice: Whipple’s Procedure (Carries an excellent prognosis)", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Insulinoma",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Origin / Key Risk Factor: Pancreatic Beta Cells", "children": [] },
+          { "id": "r3_2", "topic": "Key Clinical Sign / Triad: Whipple's Triad (Hypoglycemia + neuro symptoms + glucose relief)", "children": [] },
+          { "id": "r3_3", "topic": "Diagnostic / Staging Gold Standard: Fasting hypoglycemia + elevated C-peptide (>25), Intra-op High-Res U/S (most accurate)", "children": [] },
+          { "id": "r3_4", "topic": "Surgical Treatment of Choice: Enucleation (if benign & solitary)", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Gastrinoma (Zollinger-Ellison)",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Origin / Key Risk Factor: Non-Beta Cells in Gastrinoma Triangle", "children": [] },
+          { "id": "r4_2", "topic": "Key Clinical Sign / Triad: Refractory peptic ulcers & secretory diarrhea", "children": [] },
+          { "id": "r4_3", "topic": "Diagnostic / Staging Gold Standard: Fasting Gastrin > 1,000 pg/mL & gastric pH < 2.5", "children": [] },
+          { "id": "r4_4", "topic": "Surgical Treatment of Choice: Duodenal/Pancreatic Enucleation or Whipple (based on size/location)", "children": [] }
+        ]
+      }
+    ]
+  }
+}

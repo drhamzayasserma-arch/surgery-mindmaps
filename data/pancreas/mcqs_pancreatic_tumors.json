@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "q": "A 67-year-old male is evaluated for recent weight loss, fatigue, and new-onset Type 2 diabetes mellitus. On social history, he has a 40 pack-year smoking history. Which of the following statements is correct regarding the risk factors for exocrine pancreatic adenocarcinoma?",
+      "options": [
+        "Alcohol consumption is an independent, direct risk factor for the development of pancreatic cancer.",
+        "Chronic pancreatitis represents the strongest risk factor, increasing the relative risk 5- to 15-fold; however, it is not considered a direct premalignant condition.",
+        "A family history of pancreatic cancer in a single first-degree relative increases a patient's relative risk of developing the disease up to 50%.",
+        "Recent onset of Type 2 diabetes in an elderly patient is a definitive protective factor that lowers the risk of pancreatic cancer."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: According to both Dr. Moataz's notes and the de Virgilio Case-Based Review, chronic pancreatitis is the strongest known risk factor for pancreatic cancer, increasing a patient's relative risk 5- to 15-fold, although it is not a direct premalignant lesion. Evaluation of Alternates: Option A is incorrect because while chronic alcohol use increases the risk of chronic pancreatitis, alcohol itself is not an independent risk factor for pancreatic cancer. Option C is incorrect because a family history of pancreatic cancer in two first-degree relatives (not one) is required to increase the relative risk up to 50%. Option D is incorrect because new-onset Type 2 diabetes in an elderly patient is strongly associated with pancreatic cancer and often serves as an early clinical warning sign or early symptom rather than a protective factor."
+    },
+    {
+      "q": "During a multidisciplinary tumor board, a radiologist presents a contrast-enhanced CT scan of a patient with a 3.5 cm pancreatic head mass. The scan demonstrates that the tumor has expanded locally to involve the uncinate process. What is the surgical significance of the uncinate process's anatomical relationships in this setting?",
+      "options": [
+        "The uncinate process lies directly anterior to the stomach wall, meaning invasion typically presents as an early gastric ulcer.",
+        "The uncinate process lies behind the right superior mesenteric vein (SMV) and left superior mesenteric artery (SMA); local invasion or extension here can involve the portal vein, which is a poor prognostic sign indicating the tumor is unresectable.",
+        "The uncinate process is located in the tail of the pancreas, and its invasion requires a distal pancreatectomy and splenectomy.",
+        "The uncinate process shares a direct, exclusive blood supply with the splenic artery, and its invasion leads to splenic infarction."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: Anatomically, the uncinate process lies directly behind the right superior mesenteric vein (SMV) and the left superior mesenteric artery (SMA). When a tumor of the pancreatic head expands into the uncinate process, it can easily invade or encase the adjacent portal vein and superior mesenteric vessels. In surgical oncology, severe local encasement of these major arterial structures (specifically the SMA, celiac axis, or hepatic artery) is a bad sign that renders the tumor unresectable (inoperable)."
+    },
+    {
+      "q": "A pathologist is reviewing the microscopic sections of three different resected pancreatic lesions. Slide A shows a poorly differentiated adenocarcinoma. Slide B shows a periampullary lesion with well-differentiated glandular structures. Slide C shows a cystic tumor filled with thick, mucinous fluid. Which of the following is correct regarding the clinicopathological and prognostic differences between these subtypes?",
+      "options": [
+        "Slide A represents ampullary adenocarcinoma; this subtype has the worst overall prognosis.",
+        "Slide B represents ampullary adenocarcinoma; it presents early with biliary obstruction, carries a significantly better prognosis than pancreatic parenchyma adenocarcinoma, and can have a 100% 5-year survival rate for Stage T1/T2.",
+        "Slide C represents a serous cystadenoma; these are typically malignant, rigid, and occur primarily in males.",
+        "All three slides represent tumors with identical prognoses, with an overall 5-year survival rate of 85%."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: While adenocarcinoma of the pancreatic parenchyma (proper) represents 85% of cases and carries a very poor prognosis (overall 5-year survival of only 3–5%), ampullary adenocarcinoma (14%) arises from the periampullary tissues and presents very early with biliary obstruction. Because of its early presentation, it is often detected at lower stages (T1 & T2), where resection yields a significantly better prognosis, with 5-year survival rates reaching up to 100%. Evaluation of Alternates: Slide C represents a mucinous cystic neoplasm, which is characterized by a thick, rigid malignant wall and occurs primarily in females and within the body and tail of the pancreas. Conversely, serous cystadenomas contain thin serous fluid and are usually benign."
+    },
+    {
+      "q": "A 72-year-old female presents with progressive yellowing of her skin, dark tea-colored urine, and pale stools. On physical examination, she has a non-tender, palpable mass in the right hypochondrium and a step-off felt during a digital rectal exam. Which of the following correctly pairs these clinical signs with their diagnostic terms and pathophysiology?",
+      "options": [
+        "Palpable non-tender gallbladder (Trousseau’s sign); step-off on rectal exam representing cisterna chyli metastasis (Troisier’s sign).",
+        "Migratory superficial vein thrombosis (Virchow's sign); left supraclavicular lymph node enlargement (Courvoisier's law).",
+        "Palpable non-tender gallbladder (Courvoisier’s law—seen in 50% of cases); step-off felt on rectal exam representing metastatic disease to the pouch of Douglas (Blumer’s shelf).",
+        "Palpable non-tender gallbladder (Boas' sign); umbilical nodule representing carcinomatosis (Grey Turner's sign)."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: In a patient presenting with malignant obstructive jaundice, a palpable, distended, non-tender gallbladder is known as a positive Courvoisier’s sign (or law) and is clinically palpable in 50% of pancreatic head cancer cases. A palpable step-off felt during a rectal examination represents tumor seeding/metastasis to the pouch of Douglas, clinically termed Blumer’s shelf. Evaluation of Alternates: Troisier’s sign represents an enlarged left supraclavicular lymph node (Virchow’s node). Trousseau’s sign represents migratory superficial thrombophlebitis (thrombophlebitis migrans). The Sister Mary Joseph nodule is an umbilical nodule representing peritoneal carcinomatosis, commonly associated with gastric or pancreatic cancer."
+    },
+    {
+      "q": "Obstructive jaundice in patients with a primary adenocarcinoma of the pancreatic head is classically described as progressive and unremitting. However, in which of the following neoplasms can jaundice present with one or two transient remissions (fluctuations), and what is the underlying pathological mechanism?",
+      "options": [
+        "Cholangiocarcinoma of the left hepatic duct; due to spontaneous sphincter of Oddi relaxation.",
+        "Serous cystadenoma of the tail; due to external compression of the splenic vein.",
+        "Ampullary (periampullary) carcinoma; due to periodic sloughing/necrosis of parts of the tumor, which temporarily restores the flow of bile into the duodenum.",
+        "Insulinoma of the islet cells; due to episodic surges of glucagon that dilate the common bile duct."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: Dr. Moataz's notes highlight a critical diagnostic exception: while malignant obstructive jaundice is typically progressive and unremitting, patients with periampullary (ampullary) carcinoma can experience one or two transient clinical remissions of their jaundice. This occurs because parts of the ampullary tumor periodically undergo necrosis and slough off, which temporarily opens the obstructed lumen of the distal common bile duct and allows bile to flow into the duodenum."
+    },
+    {
+      "q": "A 68-year-old male is admitted with painless jaundice, significant weight loss, and a CT scan demonstrating a highly resectable 2 cm mass in the head of the pancreas with no evidence of metastatic disease. What is the standard guideline regarding preoperative biopsy and routine biliary decompression (stenting) for this patient?",
+      "options": [
+        "A CT-guided core biopsy must be performed immediately to confirm adenocarcinoma before surgery; routine biliary stenting via ERCP should be done to lower bilirubin.",
+        "A preoperative tissue biopsy is not required or recommended because the mass is resectable and must be removed regardless of histology; furthermore, routine preoperative stenting is contraindicated as it is associated with a higher postoperative infectious complication rate.",
+        "An ERCP with biopsy of the mass is mandatory to evaluate for neoadjuvant chemotherapy; a biliary stent should be placed in all patients with a bilirubin > 2.0 mg/dL.",
+        "The patient should undergo a blind block Whipple procedure without any imaging, followed by a post-operative HIDA scan."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: According to clinical surgical guidelines detailed in de Virgilio, for patients presenting with a resectable pancreatic mass and obstructive jaundice, a preoperative biopsy is unnecessary and not recommended. Given that the patient's mass is resectable and causing obstruction, surgery is indicated regardless of the histologic subtype, and invasive biopsies carry risks of sampling errors, false negatives, and peritoneal tumor seeding. Furthermore, routine preoperative biliary decompression (stenting) of an obstructed biliary tree in the presence of resectable masses is not recommended because decompression prior to pancreatic resection is associated with a higher postoperative infectious complication rate. Preoperative biliary stenting is strictly reserved to relieve severe, unremitting symptoms of obstructive jaundice (such as severe pruritus) or if there is active sepsis from ascending cholangitis."
+    },
+    {
+      "q": "During a Whipple procedure (pancreaticoduodenectomy) for pancreatic head adenocarcinoma, the surgeon must resect the entire duodenum along with the head of the pancreas. What is the primary anatomical reason that dictates the mandatory removal of the entire duodenum during this resection?",
+      "options": [
+        "The duodenum is a vestigial organ with no physiological function once the stomach is mobilized.",
+        "The pancreas and the duodenum share a close, intimate dual blood supply via the pancreaticoduodenal arteries; failure to remove the duodenum would lead to postoperative ischemic necrosis of that portion of the intestinal tract.",
+        "Duodenal tissue has an extremely high rate of multi-centric synchronous primary adenocarcinoma.",
+        "Leaving the duodenum in place makes the pancreatico-jejunostomy anastomosis technically impossible to construct."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: During a Whipple procedure, the entire duodenum must be removed because the head of the pancreas and the duodenum share a common blood supply (the pancreaticoduodenal arteries). If a surgeon attempts to resect the pancreatic head while leaving the duodenum behind, they would divide these shared vessels, cutting off the arterial supply to the duodenum and inevitably causing ischemic necrosis of that segment of the GI tract."
+    },
+    {
+      "q": "A 58-year-old male is on postoperative day 5 following a successful Whipple procedure. His surgical drains, which previously produced straw-colored fluid, begin to drain a moderate volume of milky, gray-white fluid with a distinct \"sheen.\" What is the most likely diagnosis, and how is it confirmed and managed?",
+      "options": [
+        "Biliary leak; confirmed by high drain output of green fluid; managed with immediate surgical re-exploration.",
+        "Pancreatic leak/fistula; suspected by the milky, gray-white fluid with a \"sheen\" and confirmed by checking drain fluid amylase levels (which should be > 3 times normal serum amylase levels); managed by making the patient NPO and administering octreotide.",
+        "Normal postoperative drainage; no action is required.",
+        "Hemorrhage from the splenic artery; confirmed by high-output sanguineous drainage; managed with immediate TPN."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: Postoperative drains are monitored closely after a Whipple procedure. Normal drainage is serosanguinous or straw-colored. Milky, gray-white drain fluid with a \"sheen\" on the bulb drain is highly concerning for a postoperative pancreatic leak or fistula. The diagnosis is confirmed by sending the drain fluid for an amylase level, which will be significantly elevated (> 3 times the upper limit of normal serum amylase levels) with a drain output of > 50 mL/day. The initial management includes making the patient NPO to minimize pancreatic secretions, and administering octreotide (a somatostatin analog) to decrease pancreatic exocrine output. Evaluation of Alternates: Green fluid indicates a biliary leak. High-output, bright-red drainage indicates active hemorrhage."
+    },
+    {
+      "q": "Which of the following is correct regarding the most common postoperative complication specific to a Whipple procedure, and what is the risk of developing postoperative diabetes mellitus?",
+      "options": [
+        "Pancreatic fistula is the most common complication (occurring in 80% of cases); the risk of postoperative diabetes is extremely high (90%) because the entire pancreas is removed during a Whipple.",
+        "Delayed gastric emptying (gastroparesis) is the most common complication (occurring in up to 40% of cases) and is treated with metoclopramide; the risk of postoperative diabetes is low in patients with normal preoperative glucose levels, as the insulin-secreting pancreatic tail is preserved.",
+        "Hemorrhage is the most common complication; all patients require lifelong insulin therapy.",
+        "Marginal ulceration is the most common complication; managed with immediate surgical distal pancreatectomy."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: According to de Virgilio, delayed gastric emptying (gastroparesis) is the most common complication specific to a Whipple/pancreatectomy, occurring in up to 40% of cases, and is managed conservatively with prokinetics like metoclopramide. Furthermore, the risk of postoperative diabetes mellitus is low in patients who had normal glucose levels preoperatively, because a Whipple procedure only removes the pancreatic head, sparing the islet-rich pancreatic tail which continues to secrete insulin."
+    },
+    {
+      "q": "A 34-year-old female presents with recurrent episodes of confusion, blurred vision, sweating, and dizziness that occur primarily when she fasts. During a recent episode, her blood glucose is documented at 38 mg/dL. Her symptoms resolve completely within minutes of drinking orange juice. What is the most likely diagnosis, and what is considered the most accurate localization modality during surgery?",
+      "options": [
+        "Gastrinoma; localization via secretin stimulation testing.",
+        "VIPoma; localization via contrast-enhanced CT scan.",
+        "Insulinoma (arising from pancreatic Beta cells); localization via intraoperative transabdominal high-resolution ultrasonography.",
+        "Glucagonoma; localization via selective angiography."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: This patient presents with the classic Whipple’s Triad which is diagnostic of an insulinoma (the most common functioning pancreatic neuroendocrine tumor, arising from Beta cells): (1) hypoglycemic symptoms during fasting, (2) documented blood glucose < 45 mg/dL during an attack, and (3) immediate resolution of symptoms following glucose administration. Diagnostics & Localization: Lab workup classically demonstrates fasting hypoglycemia with highly elevated insulin and serum C-peptide levels (> 25 ng/mL). While contrast-enhanced CT can identify larger lesions, the most accurate localization modality is intraoperative transabdominal high-resolution ultrasonography."
+    },
+    {
+      "q": "A 42-year-old male is diagnosed with Zollinger-Ellison Syndrome (ZES) secondary to a gastrinoma. Fasting serum gastrin is 1,200 pg/mL, and gastric pH is 1.8. Which of the following options correctly defines the anatomical boundaries of the \"Gastrinoma Triangle\" (Passaro's Triangle) where 80% of these tumors arise, and what is the surgical management if a tumor is found in the duodenum?",
+      "options": [
+        "Boundaries: Celiac axis, splenic hilum, and celiac lymph nodes; Duodenal surgical rule: distal pancreatectomy.",
+        "Boundaries: Right hepatic duct, left hepatic duct, and common bile duct; Duodenal surgical rule: blind block Whipple.",
+        "Boundaries: (1) Junction of the cystic duct and CBD, (2) Junction of the 2nd and 3rd parts of the duodenum, and (3) Junction of the head and neck of the pancreas; Duodenal surgical rule: enucleation if the tumor is < 5 mm, or full-thickness duodenal wall incision and local excision if the tumor is > 5 mm.",
+        "Boundaries: Gastroduodenal artery, left gastric artery, and portal vein; Duodenal surgical rule: total duodenectomy for all sizes."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation & Grounding: Mechanism: Gastrinomas are non-Beta islet cell tumors that secrete excess gastrin, causing gastric acid hypersecretion and severe, recurrent, refractory peptic ulcers. 80% of gastrinomas are localized within the Gastrinoma (Passaro’s or Stabile) Triangle, which is anatomically bounded by: (1) the junction of the cystic duct and CBD, (2) the junction of the 2nd and 3rd parts of the duodenum, and (3) the junction of the head and neck of the pancreas. Surgical Management Rules: In the Pancreas: Size < 2 cm is managed with enucleation; size > 2 cm requires a Whipple procedure. In the Duodenum: Cysts < 5 mm are managed with simple enucleation; cysts > 5 mm require a full-thickness duodenal incision, local excision of the lesion, and primary wall closure. If no primary tumor can be localized, a blind block Whipple procedure is performed to completely clear the Gastrinoma Triangle."
+    }
+  ]
+}
