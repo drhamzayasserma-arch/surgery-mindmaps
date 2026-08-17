@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "q": "A 32-year-old male is evaluated for a prominent mass in his left hypochondrium. During the physical examination, the clinician easily palpates a firm splenic edge. According to surgical anatomy and pathology, what is the threshold for a spleen to become clinically palpable, and which of the following lists contains only causes of a \"Huge Spleen\" versus a \"Tender Spleen\"?",
+      "options": [
+        "Palpable at 1.5 times normal size; Huge Spleen: Typhoid and Brucellosis; Tender Spleen: Bilharziasis.",
+        "Palpable at 5 times normal size; Huge Spleen: Septicemia and Infective Endocarditis; Tender Spleen: Chronic Malaria.",
+        "Palpable when it is more than 2 to 3 times its normal size; Huge Spleen: Bilharziasis, Chronic Malaria, Polycythemia Rubra Vera, Kala-Azar, Chronic Myeloid Leukemia, and Thalassemia Major; Tender Spleen (TIBS): Typhoid, Infective endocarditis, Brucellosis, and Septicemia.",
+        "Palpable only during active deep inspiration in healthy individuals; Huge Spleen: Felty's syndrome; Tender Spleen: Gaucher's disease."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Revision Explanation: Palpation Threshold: Under normal physiological conditions, the spleen is not palpable. It becomes clinically detectable on abdominal palpation only when it enlarges to more than 2 to 3 times its normal size. Etiological Classifications: Huge Spleen: Characterized by massive splenomegaly. Key causes include Bilharziasis (Schistosomiasis), Chronic Malaria, Polycythemia Rubra Vera, Kala-Azar (Leishmaniasis), Chronic Myeloid Leukemia (CML), and Thalassemia Major. Tender Spleen (Mnemonic: TIBS): Associated with acute inflammatory or infectious states. Key causes are Typhoid, Infective endocarditis, Brucellosis, and Septicemia."
+    },
+    {
+      "q": "A 40-year-old female presents with fatigue, easy bruising, and recurrent minor infections. A complete blood count reveals a pancytopenia (anemia, thrombocytopenia, and leukopenia), and an abdominal ultrasound confirms congestive splenomegaly secondary to portal hypertension. Which of the following diagnostic profiles is most consistent with hypersplenism, and what radio-isotopic study is used to localize the site of red blood cell destruction?",
+      "options": [
+        "Pancytopenia with hypocellular bone marrow; Chromium-51 (51Cr) tagging showing increased radioactivity localized over the liver.",
+        "Pancytopenia with hypercellular bone marrow (specifically showing megakaryocytic and erythroid hyperplasia); Chromium-51 (51Cr) tagging of the patient's RBCs confirming a diminished half-life of erythrocytes and increased radioactivity concentrated over the spleen.",
+        "Thrombocytosis and leukocytosis with a normal bone marrow biopsy; Technetium-99m sestamibi scan showing no splenic uptake.",
+        "Pancytopenia with dry bone marrow tap; Iodine-131 uptake scan showing high retroperitoneal concentration."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Revision Explanation: Definition & Bone Marrow Response: Hypersplenism represents splenic hyperfunction that leads to the premature and excessive destruction of circulating blood cells, resulting in systemic pancytopenia (anemia, thrombocytopenia, and leukopenia). In response to this peripheral destruction, the bone marrow exhibits compensatory hypercellularity. The Gold-Standard Diagnostic Test: Radioactive isotopic studies utilizing Chromium-51 (51Cr)-tagged patient RBCs are diagnostic. They demonstrate a diminished erythrocyte half-life and increased radioactivity localized over the spleen, confirming the spleen is the primary site of destruction."
+    },
+    {
+      "q": "A surgical resident is organizing the operating room schedule and classifying patients booked for splenectomy based on the strength of their surgical indications. Which of the following lists correctly categorizes \"Definite\", \"Desirable\", and \"Debatable\" indications for a splenectomy?",
+      "options": [
+        "Definite: Thalassemia; Desirable: Splenic abscess; Debatable: Hereditary spherocytosis.",
+        "Definite: Non-salvage splenic injury, splenic abscess, hydatid cyst, splenic venous thrombosis/portal hypertension, splenic artery aneurysm, en bloc resection of adjacent neoplasm, and primary splenic neoplasm; Desirable: Hereditary spherocytosis, Idiopathic Thrombocytopenic Purpura (ITP), Autoimmune Hemolytic Anemia (AIHA), and gastro-esophageal devascularization; Debatable: Small splenic cyst, Thalassemia, and Thrombotic Thrombocytopenic Purpura (TTP).",
+        "Definite: ITP; Desirable: Splenic artery aneurysm; Debatable: Hydatid cyst.",
+        "Definite: Small splenic cyst; Desirable: Non-salvage injury; Debatable: Splenic abscess."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Revision Explanation: Definite (Absolute) Indications: Situations where surgery is mandatory to save life or treat severe localized disease (e.g., non-salvage trauma, abscess, hydatid cyst, splenic venous thrombosis [which causes isolated bleeding gastric varices], splenic artery aneurysm, en bloc cancer margins, or primary tumors). Desirable Indications: Conditions where splenectomy provides the most reliable definitive cure or major therapeutic benefit (e.g., Hereditary Spherocytosis, steroid-refractory ITP, refractory AIHA, and devascularization procedures like Hassab-Kairy). Debatable Indications: Settings where the benefit is variable or reserved for palliative volume reduction (e.g., small simple cysts, Thalassemia Major [to reduce transfusion volumes], and TTP)."
+    },
+    {
+      "q": "A 22-year-old female is scheduled for an elective splenectomy for Immune Thrombocytopenic Purpura (ITP) with a preoperative platelet count of 15,000 cells/mL. A second patient, a 9-year-old boy, is scheduled for a splenectomy for Hereditary Spherocytosis. Which of the following pairs of pre-operative and intra-operative safety precautions must be followed for these two patients, respectively?",
+      "options": [
+        "Transfuse platelets immediately upon admission; search for accessory spleens only if the spleen is found to be of normal size.",
+        "In the ITP patient, administer platelet transfusions strictly after the safety ligature of the splenic artery is tied (ligation without dividing the artery); in the spherocytosis patient, perform a meticulous search for accessory spleens (splenules) to prevent disease recurrence.",
+        "Avoid platelet transfusions entirely; in both patients, resect the pancreatic tail to prevent postoperative pancreatitis.",
+        "Transfuse platelets 24 hours post-operatively; place a temporary splenorenal shunt to decompress the portal vein during surgery."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Revision Explanation: ITP Platelet Transfusion Rule: In patients with severe thrombocytopenia due to active anti-platelet autoantibodies, pre-operative platelet transfusions are useless because the hyperactive spleen will immediately capture and destroy them. Platelets must be transfused only after the safety ligature is tied (which involves ligating the splenic artery without dividing the vessel), blocking arterial inflow to the spleen and preventing sequestration of the transfused platelets. Search for Accessory Spleens (Splenules): Accessory spleens occur congenitally and are located at the hilum (50%), splenic vessels/pancreatic tail (30%), or splenic ligaments. In hemolytic and thrombocytopenic disorders, the surgeon must search for and remove all accessory spleens. If left behind, they undergo rapid compensatory hyperplasia, causing complete recurrence of the hematologic disease."
+    },
+    {
+      "q": "A patient is recovering in the ward following an elective splenectomy. On postoperative day 5, he develops a low-grade fever, left-sided chest wall splinting, and a high-amylase fluid leak from his abdominal drain. What is the most likely cause of this postoperative leak, and what are the specific prophylactic guidelines to prevent Overwhelming Post-Splenectomy Infection (OPSI) in patients undergoing a splenectomy?",
+      "options": [
+        "Damage to the short gastric vessels causing a gastric fistula; OPSI is prevented by avoiding all contact with school-aged children.",
+        "Reactionary hemorrhage from a slipped splenic pedicle; OPSI is prevented by administering immediate prophylactic chemotherapy.",
+        "Iatrogenic damage to the tail of the pancreas during ligation of the splenic artery at the hilum (causing a pancreatic fistula/abscess); OPSI carries a 2% mortality risk and is prevented by vaccinating against encapsulated bacteria (Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae) ideally 2 weeks after emergency surgery or prior to discharge, plus administering long-term prophylactic antibiotics (amoxicillin) for 2 years in children under 15.",
+        "Left basal lung collapse; OPSI is prevented by administering daily low-molecular-weight heparin."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Revision Explanation: Iatrogenic Pancreatic Fistula: Because the tail of the pancreas extends directly into the splenic hilum, it is highly vulnerable to accidental crushing, ligation, or division during the dissection of splenic vessels. This leads to a postoperative pancreatic fistula/leak (confirmed by elevated amylase in the drain fluid) and subphrenic abscess. In contrast, a gastric fistula is caused by ischemic necrosis of the gastric wall during ligation of the short gastric vessels. OPSI Prophylaxis Guidelines: The spleen is a vital site of phagocytosis and opsonin production (IgM, Tuftsin, and Properdin) needed to clear encapsulated organisms. Loss of the spleen carries a 2% lifetime mortality risk from OPSI, primarily caused by Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae. Prophylaxis Protocols: Vaccinations: Administer pneumococcal, meningococcal, and H. influenzae type B vaccines. For emergency surgeries, the ideal timing is exactly 2 weeks post-operatively (to maximize antibody titers after the patient recovers from surgical stress) or prior to discharge. Pediatric Antibiotics: Children under 15 years old must receive daily prophylactic oral amoxicillin (or penicillin) for at least 2 years post-splenectomy."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Spleen Pathology Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Physical Exam / Signs",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Splenomegaly Features: Palpable when > 2–3x normal size. Kehr’s Sign: Referred left shoulder pain.", "children": [] },
+          { "id": "r1_2", "topic": "Hypersplenism Workup: Systemic pancytopenia. Bone Marrow: Compensatory hypercellularity.", "children": [] },
+          { "id": "r1_3", "topic": "Post-Splenectomy Risks: Reactionary Hemorrhage: Immediate post-op shock due to slipped pedicle ligature.", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Aetiology / Causes",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Splenomegaly Features: Huge: Bilharziasis, malaria, CML. Tender (TIBS): Typhoid, endocarditis, brucellosis.", "children": [] },
+          { "id": "r2_2", "topic": "Hypersplenism Workup: Primary: Idiopathic. Secondary: Portal hypertension, Felty's syndrome.", "children": [] },
+          { "id": "r2_3", "topic": "Post-Splenectomy Risks: Iatrogenic Fistulae: Pancreatic (tail damage) or Gastric (short gastric damage).", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Gold-Standard Diagnostic",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Splenomegaly Features: Abdominal CT with contrast (in stable patients).", "children": [] },
+          { "id": "r3_2", "topic": "Hypersplenism Workup: Chromium-51 (51Cr)-tagged RBCs (confirms splenic clearance).", "children": [] },
+          { "id": "r3_3", "topic": "Post-Splenectomy Risks: OPSI (2% mortality risk) from encapsulated pneumococci, meningococci.", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Management Rules",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Splenomegaly Features: Stable: Conservatively observe. Unstable: Immediate laparotomy.", "children": [] },
+          { "id": "r4_2", "topic": "Hypersplenism Workup: Primary: Splenectomy. Secondary: Treat underlying cause.", "children": [] },
+          { "id": "r4_3", "topic": "Post-Splenectomy Risks: OPSI Prevention: Triple vaccines 2 weeks post-op + amoxicillin in kids.", "children": [] }
+        ]
+      }
+    ]
+  }
+}

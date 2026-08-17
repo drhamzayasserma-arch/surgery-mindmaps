@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "q": "A 34-year-old female is undergoing an elective splenectomy for medically refractory immune thrombocytopenic purpura (ITP). During the surgical prep, the resident reviews the embryology, dimensions, and normal surface anatomy of the spleen. Which of the following statements is correct regarding the anatomical characteristics of a normal spleen?",
+      "options": [
+        "The spleen develops during the 2nd week of intrauterine life from the ventral mesogastrium; it is retroperitoneal and has a smooth superior border.",
+        "The spleen develops during the 5th week of intrauterine life from the dorsal mesogastrium; it is completely covered with peritoneum, located between the 9th and 11th ribs, and is characterized by a sharp superior border with a distinct notch.",
+        "The spleen's long axis runs parallel to the 9th rib; it normally weighs 500 grams and is clinically palpable in all healthy individuals.",
+        "The spleen's dimensions are classically defined as 2 inches thick, 4 inches wide, and 6 inches long; its visceral surface is smooth and entirely free of any organ impressions."
+      ],
+      "answer": 1,
+      "explanation": "The spleen is the largest lymphatic organ in the body. It develops during the 5th week of intrauterine life (IUL) from the dorsal mesogastrium. Anatomically, the spleen is completely covered by peritoneum and lies in the left hypochondrium against the 9th, 10th, and 11th ribs posteriorly, with its long axis running parallel to the 10th rib. Its dimensions are classically remembered by the 'odd numbers' mnemonic: 1 inch thick, 3 inches wide, and 5 inches long, weighing approximately 75 to 150 grams. On physical exam, the spleen is not palpable in healthy individuals; it becomes clinically detectable only when it enlarges to at least 2 to 3 times its normal size. Morphologically, it has a sharp superior border characterized by a distinct notch, and a smooth inferior border."
+    },
+    {
+      "q": "During mobilization of the spleen during a difficult open splenectomy, the surgeon must carefully divide its peritoneal attachments. Which of the following correctly pairs a splenic ligament with its vascular contents and clinical significance?",
+      "options": [
+        "Gastrosplenic ligament: contains the splenic artery and vein; injury leads to gastric wall ischemia and necrosis.",
+        "Lienorenal (splenorenal) ligament: contains the splenic vessels and the tail of the pancreas; crushing or injuring the contents during ligation can cause severe pancreatic hemorrhage, a postoperative pancreatic fistula, or a subphrenic abscess.",
+        "Phrenicocolic ligament: suspends the gastric fundus; contains the short gastric vessels.",
+        "All splenic ligaments are completely avascular, and their division never carries any risk of hemorrhage or organ injury."
+      ],
+      "answer": 1,
+      "explanation": "The Lienorenal (Splenorenal) Ligament connects the spleen to the left kidney and contains both the splenic vessels and the tail of the pancreas. Because the pancreatic tail extends directly into the splenic hilum, meticulous dissection is required during a splenectomy to avoid iatrogenic injury to the pancreas, which can cause severe hemorrhage, a pancreatic fistula, or a subphrenic abscess. The Gastrosplenic Ligament connects the spleen to the greater curvature of the stomach and contains the short gastric vessels. The Phrenicocolic Ligament extends from the diaphragm to the splenic flexure of the colon and is the primary physical support of the spleen, directing splenic enlargement toward the right side of the abdomen."
+    },
+    {
+      "q": "A 24-year-old male is brought to the emergency department after being struck by a motor vehicle. He initially experienced brief hypovolemic shock, which resolved with rapid fluid resuscitation. Three hours later, his blood pressure drops again to 85/50 mmHg, and he complains of severe left shoulder pain that worsens when the bed is tilted head-down (Trendelenburg position). What is the term for this referred shoulder pain, and what pathological process does this presentation represent?",
+      "options": [
+        "Kehr's sign, indicating diaphragmatic irritation from free intraperitoneal blood in the classical 3-stage presentation of splenic rupture.",
+        "Balance's sign, indicating a subcapsular hematoma that has remained completely intact and unruptured.",
+        "Cullen's sign, representing active hemorrhage from a retroperitoneal duodenal perforation.",
+        "Murphy's sign, representing acute emphysematous cholecystitis."
+      ],
+      "answer": 0,
+      "explanation": "This patient exhibits the classical 3-stage pattern of splenic rupture: (1) the Stage of Shock (initial hypovolemia), (2) the Stage of Recovery or Lucid Interval (temporary arrest of bleeding due to hypotension), and (3) the Stage of Internal Hemorrhage (recurrent bleeding as resuscitation restores blood pressure). His left shoulder pain is Kehr's sign, which is acute referred pain to the left shoulder caused by blood irritating the phrenic nerve under the left hemi-diaphragm, classically exacerbated in the Trendelenburg (head-down) position. Other classic signs include Balance's sign (shifting dullness in the right flank with fixed dullness in the left flank due to perisplenic clots) and Cullen's sign (bluish periumbilical discoloration from tracking blood)."
+    },
+    {
+      "q": "A 40-year-old male presents to the trauma bay after a high-speed motorcycle accident. He is awake, alert, and hemodynamically stable with a blood pressure of 125/80 mmHg and a heart rate of 82/min. He has left upper quadrant tenderness and left-sided lower chest wall pain. What is the gold-standard diagnostic imaging of choice for this patient, and how would active extravasation be managed?",
+      "options": [
+        "Plain abdominal X-ray; managed with immediate bed rest and discharge within 12 hours.",
+        "Contrast-Enhanced CT Scan of the abdomen and pelvis; if a high-grade injury with active contrast extravasation (\"blush\") is identified in this stable patient, it is best managed with splenic artery embolization via interventional radiology.",
+        "Emergency Diagnostic Peritoneal Lavage (DPL); positive if >1,000 RBC/mL, followed by an immediate emergency laparotomy.",
+        "Focused Assessment with Sonography for Trauma (FAST); if positive for free fluid, stable patients must undergo an immediate bedside splenectomy."
+      ],
+      "answer": 1,
+      "explanation": "In hemodynamically stable trauma patients with suspected blunt splenic injury, a contrast-enhanced abdominal/pelvis CT scan is the diagnostic gold standard. CT is highly sensitive for grading the severity of the laceration, evaluating free fluid, and detecting active bleeding. If a hemodynamically stable patient has evidence of a splenic injury with active contrast extravasation (a 'blush' on CT), the standard of care is splenic artery embolization via interventional radiology. Low-grade injuries without active bleeding can be managed with observation (non-operative management). If the patient becomes hemodynamically unstable, surgical exploration and splenectomy or splenorrhaphy is required. FAST is the screening tool of choice to identify free fluid but cannot grade solid organ injuries. DPL is rarely used today."
+    },
+    {
+      "q": "A 10-year-old child requires a splenectomy following a severe Class III splenic crush injury. To prevent Overwhelming Post-Splenectomy Infection (OPSI) and other surgical complications, which of the following clinical protocols must be strictly followed?\n\nI. In patients with thrombocytopenia, platelet transfusions should only be given after the safety ligature of the splenic artery is securely tied.\nII. The surgeon must meticulously search for accessory spleens (splenules) to prevent hypertrophy and recurrence of hematologic disease.\nIII. Prophylactic vaccines against S. pneumoniae, N. meningitidis, and H. influenzae should be administered ideally 2 weeks after emergency surgery or prior to discharge.\nIV. Daily prophylactic antibiotics (amoxicillin) must be prescribed for at least 2 years post-splenectomy in pediatric patients.",
+      "options": [
+        "I and III only",
+        "II, III, and IV only",
+        "I, II, and IV only",
+        "I, II, III, and IV are all correct"
+      ],
+      "answer": 3,
+      "explanation": "All four protocols are correct. The Platelet Transfusion Rule: transfusing platelets before securing the splenic artery is useless because the hyperactive spleen will immediately sequester and destroy them. The Search for Splenules: accessory spleens are present in up to 20% of the population; if left behind during splenectomy for a hematological disorder, they undergo compensatory hyperplasia causing recurrence of the primary disease. Preventing OPSI: patients must receive pneumococcal, meningococcal, and H. influenzae type B vaccines, ideally 2 weeks post-operatively. Children under 15 should receive daily prophylactic oral antibiotics (amoxicillin or penicillin) for at least 2 years post-operatively."
+    }
+  ]
+}

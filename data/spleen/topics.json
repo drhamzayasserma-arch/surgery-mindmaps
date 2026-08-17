@@ -1,14 +1,10 @@
 {
   "topics": [
-    {
-      "id": "spleen-anatomy-rupture",
-      "name": "Spleen Anatomy & Splenic Rupture",
-      "createdAt": "2026-08-17T23:30:00Z"
-    },
-    {
-      "id": "splenomegaly_splenectomy",
-      "name": "Splenomegaly & Splenectomy",
-      "createdAt": "2026-08-17T20:35:47Z"
-    }
+    { "id": "spleen-anatomy-rupture", "name": "Spleen Anatomy & Splenic Rupture", "createdAt": "2026-08-17T23:30:00Z" },
+    { "id": "revision-spleen-anatomy-rupture", "name": "Quick-Revision: Spleen Anatomy & Splenic Rupture", "createdAt": "2026-08-17T23:35:00Z" },
+    { "id": "splenic_hemolytic_anemia", "name": "Splenic Hemolytic Anemia", "createdAt": "2026-08-17T20:30:24Z" },
+    { "id": "revision-splenic_hemolytic_anemia", "name": "Quick-Revision: Splenic Hemolytic Anemia", "createdAt": "2026-08-17T23:35:00Z" },
+    { "id": "splenomegaly_splenectomy", "name": "Splenomegaly & Splenectomy", "createdAt": "2026-08-17T23:35:00Z" },
+    { "id": "revision-splenomegaly_splenectomy", "name": "Quick-Revision: Splenomegaly & Splenectomy", "createdAt": "2026-08-17T23:45:00Z" }
   ]
 }

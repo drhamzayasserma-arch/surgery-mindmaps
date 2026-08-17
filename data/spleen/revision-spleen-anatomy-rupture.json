@@ -1,0 +1,49 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: Spleen Anatomy & Splenic Rupture",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Hemodynamically Stable (BP > 90 mmHg)",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Clinical Signs: Left upper quadrant tenderness, pleuritic chest pain", "children": [] },
+          { "id": "r1_2", "topic": "Diagnostic Modality: Contrast-Enhanced Abdominal CT (Gold Standard)", "children": [] },
+          { "id": "r1_3", "topic": "Treatment: Observation (if no active bleed) or Splenic Artery Embolization (if active contrast 'blush' present)", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Hemodynamically Unstable (BP < 90 mmHg, Shock)",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Clinical Signs: Kehr's Sign (referred left shoulder pain), Balance's Sign (fixed left flank dullness, shifting right dullness)", "children": [] },
+          { "id": "r2_2", "topic": "Diagnostic Modality: FAST or urgent DPL (if FAST equivocal/unavailable)", "children": [] },
+          { "id": "r2_3", "topic": "Treatment: Immediate Exploratory Laparotomy & Splenectomy (or splenorrhaphy if salvageable)", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Delayed Splenic Rupture",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Clinical Signs: Initial trauma shock → Lucid interval up to 15 days → Sudden blowout", "children": [] },
+          { "id": "r3_2", "topic": "Diagnostic Modality: Repeat abdominal CT scan with contrast", "children": [] },
+          { "id": "r3_3", "topic": "Treatment: Urgent laparotomy, resuscitation, and surgical decompression", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "OPSI/OPSS Prophylaxis",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Risk: High-risk rapid sepsis from encapsulated bacteria (S. pneumoniae, N. meningitidis, H. influenzae)", "children": [] },
+          { "id": "r4_2", "topic": "Diagnostic Modality: Clinical suspicion (sepsis bundle)", "children": [] },
+          { "id": "r4_3", "topic": "Treatment: Triple Vaccine Protocol (ideally 2 weeks post-op or prior to discharge) + oral amoxicillin for 2 years in pediatric patients", "children": [] }
+        ]
+      }
+    ]
+  }
+}
