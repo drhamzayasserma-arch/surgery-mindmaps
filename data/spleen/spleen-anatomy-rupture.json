@@ -1,0 +1,466 @@
+{
+  "nodeData": {
+    "topic": "🧠 Spleen Anatomy &\nSplenic Rupture",
+    "id": "root",
+    "children": [
+      {
+        "topic": "1. Embryology &\nSurgical Anatomy",
+        "id": "node_sp01",
+        "children": [
+          {
+            "topic": "Embryological Origin: Develops during the\n5th week of IUL from the dorsal mesogastrium",
+            "id": "node_sp0101",
+            "children": []
+          },
+          {
+            "topic": "Parenchymal Composition",
+            "id": "node_sp0102",
+            "children": [
+              {
+                "topic": "Red Pulp (75%): Blood sinusoids\nand splenic cords",
+                "id": "node_sp010201",
+                "children": []
+              },
+              {
+                "topic": "White Pulp (25%): Lymphocytes, monocytes,\nmacrophages surrounding central arteries.\nDevelops in the second trimester",
+                "id": "node_sp010202",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Position & Dimensions",
+            "id": "node_sp0103",
+            "children": [
+              {
+                "topic": "Located in the left hypochondrium,\nprotected posteriorly by ribs 9, 10, and 11",
+                "id": "node_sp010301",
+                "children": []
+              },
+              {
+                "topic": "Long axis parallel to the 10th rib",
+                "id": "node_sp010302",
+                "children": []
+              },
+              {
+                "topic": "Odd Numbers Mnemonic: 1 inch thick,\n3 inches wide, 5 inches long.\nWeight: 75-150 grams",
+                "id": "node_sp010303",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Structural Landmarks",
+            "id": "node_sp0104",
+            "children": [
+              {
+                "topic": "Ends: Tapering posterior (medial) end,\nbroad anterior (lateral) end",
+                "id": "node_sp010401",
+                "children": []
+              },
+              {
+                "topic": "Borders: Sharp superior border with\na distinct notch. Smooth inferior border",
+                "id": "node_sp010402",
+                "children": []
+              },
+              {
+                "topic": "Surfaces",
+                "id": "node_sp010403",
+                "children": [
+                  {
+                    "topic": "Diaphragmatic: Smooth and convex,\nrelated to the diaphragm",
+                    "id": "node_sp01040301",
+                    "children": []
+                  },
+                  {
+                    "topic": "Visceral: Carries the hilum (splenic vessels\nand tail of pancreas) and 4 impressions:\nGastric, Renal, Colic, Pancreatic",
+                    "id": "node_sp01040302",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "2. Ligaments, Peritoneum\n& Vessels",
+        "id": "node_sp02",
+        "children": [
+          {
+            "topic": "Peritoneal Ligaments",
+            "id": "node_sp0201",
+            "children": [
+              {
+                "topic": "Lienorenal (Splenorenal) Ligament:\nConnects spleen to kidney.\nContains splenic vessels and tail of pancreas",
+                "id": "node_sp020101",
+                "children": [
+                  {
+                    "topic": "⚠️ Surgical Alert: Pancreatic tail extends\ninto splenic hilum. Injury during splenectomy\ncauses hemorrhage, pancreatic fluid leak,\nand subphrenic abscesses",
+                    "id": "node_sp02010101",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Gastrosplenic Ligament:\nConnects spleen to stomach.\nContains the short gastric vessels",
+                "id": "node_sp020102",
+                "children": []
+              },
+              {
+                "topic": "Phrenicocolic Ligament:\nConnects diaphragm to splenic flexure of colon.\nPrimary physical support for the spleen.\nDirects splenic enlargement toward the right side",
+                "id": "node_sp020103",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Vascular Anatomy",
+            "id": "node_sp0202",
+            "children": [
+              {
+                "topic": "Splenic Artery: Arises from the celiac trunk.\nHighly tortuous along the upper border of pancreas.\nDivides into segmental branches at hilum,\nmaking partial splenectomy possible",
+                "id": "node_sp020201",
+                "children": []
+              },
+              {
+                "topic": "Splenic Vein: Runs along posterior surface\nof pancreas. Receives the IMV at neck of pancreas.\nJoins SMV to form the portal vein",
+                "id": "node_sp020202",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Congenital & Acquired Anomalies",
+            "id": "node_sp0203",
+            "children": [
+              {
+                "topic": "Accessory Spleens (Splenules):\nLocated at hilum (50%), splenic vessels/\npancreatic tail (30%), or splenic ligaments",
+                "id": "node_sp020301",
+                "children": [
+                  {
+                    "topic": "⚠️ Surgical Alert: If missed during splenectomy\nfor hematologic disorders, they undergo\nhyperplastic expansion causing recurrence\nof the primary disease",
+                    "id": "node_sp02030101",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Splenosis: Acquired auto-implantation\nof splenic tissue in various body compartments.\nTypically seen after abdominal trauma or surgery",
+                "id": "node_sp020302",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "3. Physiological Functions\n(The Seven Pillars)",
+        "id": "node_sp03",
+        "children": [
+          {
+            "topic": "1. Hematopoiesis: Produces RBCs during\n5th to 8th months of IUL.\nNormally stops after birth",
+            "id": "node_sp0301",
+            "children": []
+          },
+          {
+            "topic": "2. Immune Function: Produces IgM,\nnon-specific opsonins (Tuftsin and Properdin)\nthat destroy encapsulated bacteria and fungi,\nand antiviral Interferon",
+            "id": "node_sp0302",
+            "children": []
+          },
+          {
+            "topic": "3. Filtration (Culling): Captures and removes\nabnormal platelets and senescent RBCs\nfrom circulation",
+            "id": "node_sp0303",
+            "children": []
+          },
+          {
+            "topic": "4. Filtration (Pitting): Strips particulate\ninclusions (nuclei or malaria parasites)\nfrom RBCs without destroying the cell",
+            "id": "node_sp0304",
+            "children": []
+          },
+          {
+            "topic": "5. Platelet Pooling: Stores 30-40% of\nbody platelets. In splenomegaly, sequestration\nincreases to 80%, causing thrombocytopenia",
+            "id": "node_sp0305",
+            "children": []
+          },
+          {
+            "topic": "6. Reservoir: Holds approximately 8%\nof total red cell mass",
+            "id": "node_sp0306",
+            "children": []
+          },
+          {
+            "topic": "7. Phagocytosis: Reticular macrophages\ncapture circulating cellular debris and bacteria,\nparticularly Streptococcus pneumoniae",
+            "id": "node_sp0307",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "4. Splenic Trauma\n& Rupture",
+        "id": "node_sp04",
+        "children": [
+          {
+            "topic": "Etiology",
+            "id": "node_sp0401",
+            "children": [
+              {
+                "topic": "Closed (Blunt) Trauma (>70%):\nDirect blows to LUQ (MVA, sports injuries)\nor indirect trauma from fractured lower\nleft ribs (9th-11th ribs)",
+                "id": "node_sp040101",
+                "children": []
+              },
+              {
+                "topic": "Open (Penetrating) Trauma (<30%):\nDirect laceration from stab or bullet wounds",
+                "id": "node_sp040102",
+                "children": []
+              },
+              {
+                "topic": "Predisposing Factors: Malaria or\nportal hypertension cause splenomegaly,\nrendering spleen soft, friable, and vulnerable\nto spontaneous or minor trauma",
+                "id": "node_sp040103",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Pathology of Injury:\nSubcapsular hematoma, superficial/deep tears,\navulsion of a pole, complete depulping,\nor laceration of the vascular pedicle",
+            "id": "node_sp0402",
+            "children": []
+          },
+          {
+            "topic": "Delayed Rupture: Subcapsular hematoma\nor tear temporarily sealed by blood clots\nor greater omentum. Retraction of clot/omentum\nup to 2 weeks later causes sudden massive\nintraperitoneal blowout",
+            "id": "node_sp0403",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "5. Clinical Presentation\n(3-Stage Cascade)",
+        "id": "node_sp05",
+        "children": [
+          {
+            "topic": "A. Fatal Type: Sudden catastrophic hemorrhage\nand immediate death from tearing of major\nsplenic vessels or complete avulsion\nof the splenic pedicle",
+            "id": "node_sp0501",
+            "children": []
+          },
+          {
+            "topic": "B. Classical Type (3 Stages)",
+            "id": "node_sp0502",
+            "children": [
+              {
+                "topic": "Stage 1 - Hypovolemic Shock:\nWeak rapid pulse, tachypnea (air hunger),\nhypotension, hypothermia, pallor,\ncold extremities",
+                "id": "node_sp050201",
+                "children": []
+              },
+              {
+                "topic": "Stage 2 - Recovery (Lucid Interval):\nTemporary stabilization and improvement\nof BP due to transient clotting and\nhypotension-induced slowing of hemorrhage",
+                "id": "node_sp050202",
+                "children": []
+              },
+              {
+                "topic": "Stage 3 - Internal Hemorrhage:\nRecurrent severe bleeding as resuscitation\nrestores BP, displacing temporary clots",
+                "id": "node_sp050203",
+                "children": [
+                  {
+                    "topic": "LUQ Signs: Guarding, rigidity,\ntenderness, palpable perisplenic mass",
+                    "id": "node_sp05020301",
+                    "children": []
+                  },
+                  {
+                    "topic": "Kehr Sign: Referred pain in the\nleft shoulder due to subdiaphragmatic blood\nirritating the phrenic nerve",
+                    "id": "node_sp05020302",
+                    "children": []
+                  },
+                  {
+                    "topic": "Balance Sign: Fixed dullness on percussion\nin left flank with shifting dullness in right flank.\nIndicates large clotted perisplenic blood",
+                    "id": "node_sp05020303",
+                    "children": []
+                  },
+                  {
+                    "topic": "Cullen Sign: Periumbilical blue-red\necchymosis indicating tracking\nretroperitoneal blood",
+                    "id": "node_sp05020304",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "6. Diagnostic Workup",
+        "id": "node_sp06",
+        "children": [
+          {
+            "topic": "Plain Abdominal X-ray:\nObliteration of psoas and splenic shadows,\nindentation of gastric air bubble,\nelevation of left hemi-diaphragm,\nand/or fractured lower ribs",
+            "id": "node_sp0601",
+            "children": []
+          },
+          {
+            "topic": "Contrast-Enhanced CT Scan:\nGold standard in stable patients.\nDefines exact grading of injury and\ndetects active contrast extravasation (blush)",
+            "id": "node_sp0602",
+            "children": []
+          },
+          {
+            "topic": "FAST (Focused Assessment with\nSonography for Trauma):\nInitial screening modality to detect\nfree intraperitoneal fluid",
+            "id": "node_sp0603",
+            "children": []
+          },
+          {
+            "topic": "Diagnostic Peritoneal Lavage (DPL):\nReserved for unstable patients when FAST\nis unavailable or equivocal",
+            "id": "node_sp0604",
+            "children": [
+              {
+                "topic": "Positive if fluid returns bloody/pink,\ncontains >100,000 RBC/mL,\nor >500 WBC/mL",
+                "id": "node_sp060401",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "7. Treatment Algorithm",
+        "id": "node_sp07",
+        "children": [
+          {
+            "topic": "A. Non-Operative (Conservative)",
+            "id": "node_sp0701",
+            "children": [
+              {
+                "topic": "Indications: Hemodynamically stable\n(SBP >90 mmHg, HR <120 bpm),\nminor trauma (subcapsular hematoma/\nlow-grade tear), no peritonitis",
+                "id": "node_sp070101",
+                "children": []
+              },
+              {
+                "topic": "Method: Strict bed rest, close clinical\nobservation, and serial CT scans",
+                "id": "node_sp070102",
+                "children": []
+              },
+              {
+                "topic": "Interventional: CT contrast blush\nindicating active bleeding requires\nsplenic artery embolization if stable",
+                "id": "node_sp070103",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "B. Operative (Surgical)",
+            "id": "node_sp0702",
+            "children": [
+              {
+                "topic": "Indications: Hemodynamic instability,\nfailure of conservative therapy,\nor associated hollow organ injuries",
+                "id": "node_sp070201",
+                "children": []
+              },
+              {
+                "topic": "Splenectomy: Complete removal.\nTreatment of choice for severe,\nunstable, or shattered spleens",
+                "id": "node_sp070202",
+                "children": []
+              },
+              {
+                "topic": "Splenic Preservation (Salvage):\nExtremely important in children under 15\nto preserve immune function",
+                "id": "node_sp070203",
+                "children": [
+                  {
+                    "topic": "Splenorrhaphy (suture of tears)",
+                    "id": "node_sp07020301",
+                    "children": []
+                  },
+                  {
+                    "topic": "Partial splenectomy (if one pole avulsed)",
+                    "id": "node_sp07020302",
+                    "children": []
+                  },
+                  {
+                    "topic": "Mesh wrapping (tamponade the bleed)",
+                    "id": "node_sp07020303",
+                    "children": []
+                  },
+                  {
+                    "topic": "Auto-transplantation of minced fragments\ninto the greater omentum",
+                    "id": "node_sp07020304",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "8. Post-Splenectomy\nComplications & OPSI",
+        "id": "node_sp08",
+        "children": [
+          {
+            "topic": "Post-Operative Complications",
+            "id": "node_sp0801",
+            "children": [
+              {
+                "topic": "Hemorrhage: Reactionary bleeding from\na slipped splenic pedicle ligature",
+                "id": "node_sp080101",
+                "children": []
+              },
+              {
+                "topic": "Subphrenic Abscess: Secondary to\npoor hemostasis or fluid accumulation",
+                "id": "node_sp080102",
+                "children": []
+              },
+              {
+                "topic": "Fistulae: Gastric fistula (damage to\nshort gastric vessels) or pancreatic fistula\n(injury to pancreatic tail during ligation)",
+                "id": "node_sp080103",
+                "children": []
+              },
+              {
+                "topic": "Thromboembolism: Transient post-splenectomy\nthrombocytosis (rising platelets)\nand leukocytosis",
+                "id": "node_sp080104",
+                "children": []
+              },
+              {
+                "topic": "Pulmonary: Left basal lung\ncollapse/atelectasis",
+                "id": "node_sp080105",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Overwhelming Post-Splenectomy\nInfection (OPSI / OPSS)",
+            "id": "node_sp0802",
+            "children": [
+              {
+                "topic": "Highly lethal septicemia with\n2% overall mortality risk",
+                "id": "node_sp080201",
+                "children": []
+              },
+              {
+                "topic": "Causative Organisms:\nStreptococcus pneumoniae,\nNeisseria meningitidis,\nHaemophilus influenzae",
+                "id": "node_sp080202",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "OPSI Prophylaxis Guidelines",
+            "id": "node_sp0803",
+            "children": [
+              {
+                "topic": "Vaccination: Must cover S. pneumoniae,\nH. influenzae type B (HiB),\nand N. meningitidis",
+                "id": "node_sp080301",
+                "children": []
+              },
+              {
+                "topic": "Timing: Ideally exactly 2 weeks\nafter surgery (to maximize immune response)\nor prior to discharge",
+                "id": "node_sp080302",
+                "children": []
+              },
+              {
+                "topic": "Antibiotics: Daily prophylactic oral\npenicillin or amoxicillin.\nRecommended for at least 2 years\nin children following splenectomy",
+                "id": "node_sp080303",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "root": true
+  }
+}

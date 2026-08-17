@@ -1,0 +1,436 @@
+{
+  "nodeData": {
+    "topic": "🧠 Splenomegaly &\nSplenectomy",
+    "id": "root",
+    "children": [
+      {
+        "topic": "1. Splenomegaly\nEtiology & Classifications",
+        "id": "node_81fe81fd",
+        "children": [
+          {
+            "topic": "Key Fact: Largest lymphatic organ.\nNot palpable unless enlarged 2-3x its normal size",
+            "id": "node_18f2a1ed",
+            "children": []
+          },
+          {
+            "topic": "A. Causes of Huge Spleen",
+            "id": "node_01f7f4c5",
+            "children": [
+              {
+                "topic": "Bilharziasis (Schistosomiasis):\nPortal hypertension drives splenic congestion\n+ RES hyperplasia from bilharzial toxins",
+                "id": "node_0dfc083e",
+                "children": []
+              },
+              {
+                "topic": "Hematologic Malignancy:\nChronic Myeloid Leukemia (CML)\nand Myelofibrosis",
+                "id": "node_98efeb08",
+                "children": []
+              },
+              {
+                "topic": "Infections:\nKala-Azar (Leishmaniasis)\nand Chronic Malaria",
+                "id": "node_c09fb07c",
+                "children": []
+              },
+              {
+                "topic": "Congenital Hemolytic:\nThalassemia Major",
+                "id": "node_d37c032e",
+                "children": []
+              },
+              {
+                "topic": "Circulatory/Metabolic:\nPolycythemia Rubra Vera\nand Gaucher Disease",
+                "id": "node_5468aecd",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "B. Causes of Tender Spleen\n(TIBS Mnemonic)",
+            "id": "node_e9ef7823",
+            "children": [
+              {
+                "topic": "T — Typhoid fever",
+                "id": "node_3de51ed5",
+                "children": []
+              },
+              {
+                "topic": "I — Infective endocarditis",
+                "id": "node_12626843",
+                "children": []
+              },
+              {
+                "topic": "B — Brucellosis",
+                "id": "node_1b34d8a8",
+                "children": []
+              },
+              {
+                "topic": "S — Septicemia",
+                "id": "node_ed1e0849",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "C. General Etiological Categories",
+            "id": "node_b4fd21eb",
+            "children": [
+              {
+                "topic": "Infectious:\nBacterial (T.B., Syphilis),\nViral (Infectious Mononucleosis),\nParasitic (Hydatid cyst),\nProtozoal (Malaria, Kala-Azar)",
+                "id": "node_77adbc6c",
+                "children": []
+              },
+              {
+                "topic": "Circulatory:\nPortal hypertension causing\ncongestive splenomegaly",
+                "id": "node_4cc5aa80",
+                "children": []
+              },
+              {
+                "topic": "Metabolic:\nGaucher disease, Amyloidosis,\nRickets, Porphyria",
+                "id": "node_22cb9314",
+                "children": []
+              },
+              {
+                "topic": "Tumors:\nBenign (Hemangioma, Lymphangioma)\nMalignant (Lymphoma, Fibrosarcoma)",
+                "id": "node_1f839997",
+                "children": []
+              },
+              {
+                "topic": "Collagen Vascular:\nFelty Syndrome",
+                "id": "node_d9f4e711",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "2. Hypersplenism\n(Splenic Hyperfunction)",
+        "id": "node_130c68dd",
+        "children": [
+          {
+            "topic": "Definition: Pathological hyperfunction\nwith premature sequestration and destruction\nof blood cells, resulting in pancytopenia\n(anemia, leukopenia, thrombocytopenia)",
+            "id": "node_5e3dfed6",
+            "children": []
+          },
+          {
+            "topic": "Etiology",
+            "id": "node_3b89d46f",
+            "children": [
+              {
+                "topic": "Primary:\nIdiopathic (no identifiable cause)",
+                "id": "node_08a02177",
+                "children": []
+              },
+              {
+                "topic": "Secondary:\nPortal hypertension (congestive)\nor autoimmune (Felty syndrome)",
+                "id": "node_c3bb50ee",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Diagnostic Workup",
+            "id": "node_6d7ac822",
+            "children": [
+              {
+                "topic": "Peripheral Blood Smear:\nConfirms pancytopenia",
+                "id": "node_dc5cd5a7",
+                "children": []
+              },
+              {
+                "topic": "Bone Marrow Aspiration:\nShows compensatory hypercellularity\n(increased megakaryocytes\nand erythroid precursors)",
+                "id": "node_9bb02f9d",
+                "children": []
+              },
+              {
+                "topic": "Radioactive Isotopic Studies:\nChromium-51 tagging of RBCs shows\ndiminished erythrocyte half-life and\nconcentrated radioactivity over spleen\n(proves spleen is primary clearance site)",
+                "id": "node_30be3651",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Management",
+            "id": "node_f1d9e86a",
+            "children": [
+              {
+                "topic": "Primary Hypersplenism:\nSplenectomy is curative",
+                "id": "node_962c90a2",
+                "children": []
+              },
+              {
+                "topic": "Secondary Hypersplenism:\nTreat the underlying cause.\nSplenectomy rarely first-line\nunless medically refractory",
+                "id": "node_139d0527",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "3. Splenectomy\nIndications",
+        "id": "node_c140fba5",
+        "children": [
+          {
+            "topic": "Category I: Definite (Absolute)",
+            "id": "node_60cbbd2d",
+            "children": [
+              {
+                "topic": "1. Severe/shattered splenic trauma\n(hemodynamic instability, non-salvageable)",
+                "id": "node_cb59db4c",
+                "children": []
+              },
+              {
+                "topic": "2. Splenic abscess\n(unresponsive to antibiotics/drainage)",
+                "id": "node_4d1e93ba",
+                "children": []
+              },
+              {
+                "topic": "3. Hydatid cyst\n(high rupture and anaphylaxis risk)",
+                "id": "node_1557d5c9",
+                "children": []
+              },
+              {
+                "topic": "4. Splenic venous thrombosis\n(causes left-sided portal HTN\nand isolated gastric varices.\nSplenectomy is curative)",
+                "id": "node_c51abb2d",
+                "children": []
+              },
+              {
+                "topic": "5. Splenic artery aneurysm\n(high rupture risk)",
+                "id": "node_f3065954",
+                "children": []
+              },
+              {
+                "topic": "6. En bloc resection\n(oncological margin for adjacent cancers:\nstomach or pancreatic tail neoplasms)",
+                "id": "node_be36ca21",
+                "children": []
+              },
+              {
+                "topic": "7. Primary splenic neoplasm",
+                "id": "node_c800b750",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Category II: Desirable",
+            "id": "node_80bbe5cf",
+            "children": [
+              {
+                "topic": "8. Hereditary Spherocytosis\n(gold-standard definitive cure,\nprevents hemolytic crises\nand pigment gallstones)",
+                "id": "node_45ad81c8",
+                "children": []
+              },
+              {
+                "topic": "9. ITP\n(if persisted >6-9 months and\nfailed corticosteroid therapy)",
+                "id": "node_7fd52a20",
+                "children": []
+              },
+              {
+                "topic": "10. Autoimmune Hemolytic Anemia\n(upon failure, contraindication, or\nsevere complications of steroids)",
+                "id": "node_1af39485",
+                "children": []
+              },
+              {
+                "topic": "11. Gastro-esophageal Devascularization\n(Hassab-Kairy procedure for\nbleeding esophageal varices)",
+                "id": "node_767e25a9",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Category III: Debatable",
+            "id": "node_1daa2126",
+            "children": [
+              {
+                "topic": "12. Small splenic cysts\n(often conservative unless symptomatic)",
+                "id": "node_bb8858bb",
+                "children": []
+              },
+              {
+                "topic": "13. Thalassemia Major\n(to decrease splenic sequestration\nand lower transfusion requirements)",
+                "id": "node_dc7551a0",
+                "children": []
+              },
+              {
+                "topic": "14. Thrombotic Thrombocytopenic\nPurpura (TTP)",
+                "id": "node_b4ca74d0",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "4. Critical Surgical\nPrecautions",
+        "id": "node_ee493e43",
+        "children": [
+          {
+            "topic": "A. Platelet Transfusion Rule\n(Thrombocytopenic States)",
+            "id": "node_8bcbf75a",
+            "children": [
+              {
+                "topic": "Rule: Platelet transfusions must ONLY\nbe given AFTER the safety ligature\nof the splenic artery is tied and secure",
+                "id": "node_72c24ce2",
+                "children": []
+              },
+              {
+                "topic": "Reason: If transfused before ligation,\nthe hyperactive spleen immediately\nsequesters and destroys the platelets,\nrendering transfusion useless and\nincreasing microvascular clotting risk",
+                "id": "node_224d5b26",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "B. Search for Accessory\nSpleens (Splenules)",
+            "id": "node_d8c9ba57",
+            "children": [
+              {
+                "topic": "Must: Meticulously scan abdomen\nduring splenectomy for hemolytic\nor thrombocytopenic disorders",
+                "id": "node_75fa4c59",
+                "children": []
+              },
+              {
+                "topic": "Common Locations:\nSplenic hilum (50%),\nSplenic vessels/tail of pancreas (30%),\nSplenic ligaments or mesocolon",
+                "id": "node_4d1acbd0",
+                "children": []
+              },
+              {
+                "topic": "If Missed: Accessory spleen undergoes\nrapid compensatory hypertrophy\ncausing complete clinical recurrence\nof the primary hematological disease",
+                "id": "node_56d98882",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "C. Operating Room Prep",
+            "id": "node_64ac35ec",
+            "children": [
+              {
+                "topic": "At least 2 units of matched blood\nmust be physically present in the OR\nbefore making an incision (elective cases)",
+                "id": "node_3dfa1b21",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "5. Post-Splenectomy\nComplications",
+        "id": "node_5a5f19ff",
+        "children": [
+          {
+            "topic": "1. Reactionary Hemorrhage:\nSevere bleeding in immediate\npostoperative hours due to a\nslipped ligature of the splenic pedicle",
+            "id": "node_1e5fb389",
+            "children": []
+          },
+          {
+            "topic": "2. Subphrenic Abscess/Collection:\nCaused by poor surgical hemostasis\nor fluid accumulation in the\nleft subdiaphragmatic space",
+            "id": "node_440cf329",
+            "children": []
+          },
+          {
+            "topic": "3. Left Basal Lung Collapse\n& Atelectasis:\nDiaphragmatic splinting\nand left-sided pain",
+            "id": "node_7cba7313",
+            "children": []
+          },
+          {
+            "topic": "4. Gastric Fistula:\nIschemic necrosis of gastric wall\nfrom damage to short gastric vessels\nduring ligation along gastrosplenic ligament",
+            "id": "node_dc17437c",
+            "children": []
+          },
+          {
+            "topic": "5. Pancreatic Fistula & Abscess:\nPancreatic tail extends into lienorenal\nligament and splenic hilum.\nIf tail is accidentally crushed, ligated,\nor divided, pancreatic enzymes leak\ncausing subphrenic abscess and fistula",
+            "id": "node_035fb4d2",
+            "children": []
+          },
+          {
+            "topic": "6. Hematologic Alterations:\nMarked leukocytosis and thrombocytosis\n(reactive rise due to loss of\nsplenic destruction reservoir)",
+            "id": "node_c8272bbb",
+            "children": []
+          },
+          {
+            "topic": "7. Portal Vein Thrombosis:\nClot propagates retrogradely from\nthe ligated splenic vein stump",
+            "id": "node_125ec40d",
+            "children": []
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "6. Overwhelming\nPost-Splenectomy Infection\n(OPSI / OPSS)",
+        "id": "node_65094094",
+        "children": [
+          {
+            "topic": "Pathophysiology:\nSpleen removal eliminates the primary site\nof IgM production and non-specific opsonins\n(Tuftsin and Properdin). Without these,\nthe immune system cannot clear\nencapsulated organisms, leading to\nrapid bacteremia and septic shock",
+            "id": "node_c8393acb",
+            "children": []
+          },
+          {
+            "topic": "Risk: 2% lifetime mortality risk",
+            "id": "node_e5090d8c",
+            "children": []
+          },
+          {
+            "topic": "Primary Pathogens",
+            "id": "node_9df4d98b",
+            "children": [
+              {
+                "topic": "1. Streptococcus pneumoniae\n(most common and lethal)",
+                "id": "node_da57da01",
+                "children": []
+              },
+              {
+                "topic": "2. Neisseria meningitidis",
+                "id": "node_7ab48b54",
+                "children": []
+              },
+              {
+                "topic": "3. Haemophilus influenzae",
+                "id": "node_b0736025",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "OPSI Prophylaxis Guidelines",
+            "id": "node_8d170954",
+            "children": [
+              {
+                "topic": "Vaccinations:\nPolyvalent pneumococcal,\nmeningococcal, and\nH. influenzae type B vaccines (mandatory)",
+                "id": "node_0f04f7ea",
+                "children": []
+              },
+              {
+                "topic": "Timing:",
+                "id": "node_9fcd34e0",
+                "children": [
+                  {
+                    "topic": "Elective Surgery:\nVaccinate 2 weeks prior to surgery",
+                    "id": "node_04ebd479",
+                    "children": []
+                  },
+                  {
+                    "topic": "Emergency Trauma Surgery:\nVaccinate exactly 2 weeks post-operatively\n(to allow immune recovery and\nmaximize antibody titers)\nor prior to hospital discharge",
+                    "id": "node_68d983e0",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Antibiotic Prophylaxis:\nDaily oral penicillin or amoxicillin\nfor at least 2 years post-splenectomy\nin pediatric patients under age 15",
+                "id": "node_02e95090",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      }
+    ],
+    "root": true
+  }
+}
