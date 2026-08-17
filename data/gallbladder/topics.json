@@ -13,6 +13,7 @@
     { "id": "structural-anatomy-biliary-jaundice", "name": "Structural Anatomy of Biliary Jaundice", "createdAt": "2026-08-15T23:17:00Z" },
     { "id": "biliary-jaundice-strictures", "name": "Biliary Jaundice Strictures & Oncology", "createdAt": "2026-08-15T23:30:00Z" },
     { "id": "revision-biliary-jaundice-strictures", "name": "Quick-Revision: Biliary Sepsis & Oncology", "createdAt": "2026-08-15T23:30:00Z" },
-    { "id": "biliary-cholecystectomy", "name": "Biliary Cholecystectomy", "createdAt": "2026-08-17T15:43:00Z" }
+    { "id": "biliary-cholecystectomy", "name": "Biliary Cholecystectomy", "createdAt": "2026-08-17T15:43:00Z" },
+    { "id": "revision-biliary-cholecystectomy", "name": "Quick-Revision: Biliary Cholecystectomy", "createdAt": "2026-08-17T15:49:00Z" }
   ]
 }

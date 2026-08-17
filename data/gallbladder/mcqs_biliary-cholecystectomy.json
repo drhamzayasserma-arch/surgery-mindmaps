@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "q": "A 68-year-old diabetic male is found to have asymptomatic gallstones on a routine abdominal ultrasound. He has no history of biliary colic, right upper quadrant pain, or dyspepsia. According to current surgical guidelines, what is the most appropriate management, and what is the underlying clinical reasoning?",
+      "options": [
+        "Reassure the patient and recommend annual ultrasound follow-up, as he is asymptomatic.",
+        "Recommend an elective outpatient laparoscopic cholecystectomy because his diabetic status puts him at a highly elevated risk of rapid progression to severe complications (such as gangrene or emphysematous cholecystitis).",
+        "Initiate medical dissolution therapy with ursodeoxycholic acid to dissolve the stones and prevent future cholecystitis.",
+        "Schedule an immediate open cholecystectomy, as laparoscopic cholecystectomy is absolutely contraindicated in patients with diabetes mellitus."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: While asymptomatic (silent) gallstones in old or unfit patients can generally be managed with observation and follow-up, prophylactic cholecystectomy is strongly indicated regardless of symptoms in patients with a calcified (porcelain) gallbladder or those with diabetes mellitus. Diabetics are highly prone to developing severe, life-threatening complications like emphysematous cholecystitis and gangrenous gallbladder necrosis."
+    },
+    {
+      "q": "When evaluating a patient for a laparoscopic cholecystectomy, which of the following represents an absolute contraindication to the procedure, and which is a relative contraindication?",
+      "options": [
+        "Absolute: Prior upper abdominal surgery; Relative: Inability to tolerate general anesthesia.",
+        "Absolute: Inability to tolerate general anesthesia; Relative: Previous upper abdominal operations, portal hypertension, or severe coagulopathy.",
+        "Absolute: Morbid obesity; Relative: Direct patient refusal.",
+        "Absolute: Active acute cholecystitis; Relative: Chronic calcular cholecystitis."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: The absolute contraindications to laparoscopic surgery are an inability to tolerate general anesthesia and direct patient refusal. Relative contraindications include a lack of surgical training, advanced cancer, previous extensive upper abdominal operations (due to dense adhesions), severe cardiopulmonary disorders, morbid obesity, portal hypertension, and coagulopathy."
+    },
+    {
+      "q": "A 40-year-old female presents with severe right upper quadrant pain, fever, and leukocytosis. An abdominal ultrasound confirms acute calculous cholecystitis. The onset of her symptoms was exactly 24 hours ago. What is the optimal surgical management and timing for this patient?",
+      "options": [
+        "Admit her for a mandatory 6-week conservative 'cool down' period with IV fluids and antibiotics, followed by an interval cholecystectomy.",
+        "Perform a prompt/urgent laparoscopic cholecystectomy within 48-72 hours of presentation.",
+        "Perform a percutaneous cholecystostomy tube drainage immediately, and discharge her the same day.",
+        "Decompress the biliary tree urgently via ERCP, then schedule her for an open cholecystectomy next week."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: For patients presenting early (within 48-72 hours of the onset of an acute cholecystitis attack), a prompt laparoscopic cholecystectomy is the gold standard of care. Early surgery is technically much easier because local adhesions are still fibrinous rather than dense, fibrous scar tissue. This reduces surgical complications, limits hospital stays, and avoids the risk of complications during a prolonged 'cool down' period. If the patient presents late (after 3 days of onset), conservative management (IV fluids, antibiotics, pethidine) followed by interval cholecystectomy in 6 weeks is the traditional pathway, unless clinical deterioration forces immediate exploration."
+    },
+    {
+      "q": "During the creation of a pneumoperitoneum for a laparoscopic cholecystectomy, carbon dioxide (CO2) is insufflated into the abdominal cavity. What are the standard physiological parameters for safe insufflation, and what cardiovascular changes are expected if the intra-abdominal pressure is accidentally allowed to exceed 20 mmHg?",
+      "options": [
+        "Insufflate 1-2 liters till pressure is 5-8 mmHg; at > 20 mmHg, cardiac output increases.",
+        "Insufflate 3-4 liters till pressure is 12-14 mmHg; at > 20 mmHg, cardiac output decreases and central venous pressure (CVP) increases.",
+        "Insufflate 10 liters till pressure is 25 mmHg; at > 20 mmHg, renal perfusion is maximized.",
+        "Insufflate 5-6 liters till pressure is 15-18 mmHg; pressure has no effect on cardiac output."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: To safely establish a pneumoperitoneum, 3-4 liters of CO2 gas are introduced until an intra-abdominal pressure of 12-14 mmHg is achieved. The pathophysics of pneumoperitoneum dictates that at pressures < 20 mmHg, there is no significant effect on cardiac output, but at pressures > 20 mmHg, cardiac output decreases. Additionally, pneumoperitoneum causes an increase in central venous pressure (CVP) due to increased intrathoracic pressure."
+    },
+    {
+      "q": "A patient undergoing a laparoscopic cholecystectomy experiences sudden intraoperative ventilation perfusion mismatch, a decrease in functional residual capacity (FRC), hypercarbia, and an increase in airway pressures. These findings represent the direct pathophysiological respiratory consequences of:",
+      "options": [
+        "Intrabiliary migration of a gallstone.",
+        "Diaphragmatic compression and splinting from the elevated intra-abdominal pressure of the pneumoperitoneum.",
+        "Inadvertent direct thermal injury to the duodenum.",
+        "Slipped surgical clips on the cystic duct stump."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: The ventilatory effects of the elevated abdominal pressure during pneumoperitoneum include ventilation-perfusion mismatch, an increase in physiological dead space, hypercarbia, a decrease in functional residual capacity (FRC), and an increase in airway pressure. These occur as the gas pushes the diaphragm upward, restricting lung expansion."
+    },
+    {
+      "q": "Common Bile Duct (CBD) injury is a feared complication occurring in 1-7% of laparoscopic cholecystectomies. Which of the following patient populations and clinical settings carry the highest relative risk for this catastrophic injury, and what is its most common mechanism?",
+      "options": [
+        "Women with simple biliary colic; caused by direct thermal injury from monopolar scissors.",
+        "Men, and patients undergoing surgery in the setting of acute cholecystitis; caused by mistaking the common bile duct for the cystic duct, resulting in its inadvertent division.",
+        "Young, thin patients; caused by trocar puncture of the retrohepatic vena cava.",
+        "Patients with a porcelain gallbladder; caused by high-pressure CO2 gas blowout of the gallbladder wall."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Biliary tract injuries (specifically CBD injury) occur in 1-7% of cholecystectomies. The risk is significantly higher in men and during surgery for acute cholecystitis (due to severe acute edema and distorted tissue planes). The most common mechanism of injury is mistaking the common bile duct (CBD) for the cystic duct, leading to the inadvertent ligation, clipping, or division of the main duct. This leads to postoperative strictures, obstructive jaundice, recurrent ascending cholangitis, and secondary biliary cirrhosis."
+    },
+    {
+      "q": "During a difficult laparoscopic cholecystectomy, the surgeon encounters a highly tortuous, looped Right Hepatic Artery that arches directly in front of the common bile duct, accompanied by an extremely short cystic artery. What is this hazardous anatomical variation called, and what vascular structure is at immediate risk of accidental injury?",
+      "options": [
+        "Caterpillar turn (Moynihan's hump deformity); putting the Right Hepatic Artery at risk of accidental ligation or injury.",
+        "Phrygian cap; putting the Left Hepatic Artery at risk.",
+        "Hartmann's pouch; putting the Gastroduodenal Artery at risk.",
+        "Calot's node anomaly; putting the Portal Vein at risk."
+      ],
+      "answer": 0,
+      "explanation": "High-Yield Explanation: An abnormal, highly tortuous course of the Right Hepatic Artery where it loops closely in front of or behind the bile duct-associated with a very short cystic artery-is known as a Caterpillar turn or Moynihan's hump deformity. This represents a major intraoperative pitfall where the Right Hepatic Artery is highly vulnerable to accidental division or ligation."
+    },
+    {
+      "q": "A patient is discharged 24 hours after an uneventful laparoscopic cholecystectomy. Five days later, he presents to the emergency department with abdominal distension, signs of peritonitis, and fever. Paracentesis yields turbid, purulent fluid. What is the most likely cause of this delayed presentation, and when do these injuries typically manifest?",
+      "options": [
+        "Slipped surgical clips on the cystic artery; manifesting at 24 hours.",
+        "Unrecognized iatrogenic electrical/thermal injury from monopolar electrosurgery; typically manifesting 3-7 days postoperatively.",
+        "Early mechanical small bowel obstruction from a herniated trocar site; manifesting at 2 weeks.",
+        "Spontaneous perforation of the stomach; manifesting at 48 hours."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Delayed postoperative peritonitis appearing several days after laparoscopic surgery should raise suspicion of unrecognized iatrogenic electrical or thermal injuries to adjacent organs (such as the duodenum or colon). These thermal burns (from direct touch, insulation breakdown, or current leakage) typically take time to undergo full-thickness necrosis and perforate, classically manifesting 3-7 days postoperatively."
+    },
+    {
+      "q": "A 65-year-old male returns to the emergency department 5 days after undergoing a laparoscopic cholecystectomy, complaining of progressive abdominal pain, bloating, and low-grade fever. An abdominal ultrasound reveals a large fluid collection in the right upper quadrant. What is the most appropriate next step in the clinical workup?",
+      "options": [
+        "Perform an immediate exploratory laparotomy to re-clip the cystic duct.",
+        "Obtain an abdominal CT scan to characterize the fluid collection, and place a percutaneous drain.",
+        "Order an immediate ERCP to perform a sphincterotomy.",
+        "Start the patient on oral antibiotics and discharge them for outpatient follow-up."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: When a patient presents post-cholecystectomy with progressive abdominal pain, bloating, and fevers, suspect a bile leak (biloma) or hemorrhage. The next step in management is to obtain an abdominal CT or ultrasound to identify and localize the fluid collection, followed by percutaneous drainage. Draining the collection is therapeutic and diagnostic (identifying if the fluid is blood or bile)."
+    },
+    {
+      "q": "Following percutaneous drainage of a large right upper quadrant fluid collection in a post-cholecystectomy patient, the output is noted to be bilious. A diagnostic HIDA scan is obtained, which demonstrates tracer extravasation into the peritoneum, but tracer is still seen readily entering the duodenum and small bowel. What is the diagnosis, and what is the standard treatment?",
+      "options": [
+        "Complete common bile duct transection; treated with immediate surgical re-exploration and primary end-to-end anastomosis.",
+        "Cystic duct stump leak (slipped surgical clip); treated with ERCP and stenting of the sphincter of Oddi.",
+        "Biliary dyskinesia; treated with conservative oral ursodeoxycholic acid.",
+        "Retained common bile duct stone; treated with an open choledochoduodenostomy."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: The HIDA scan is the diagnostic test of choice to characterize a bile leak. If the HIDA scan shows tracer extravasation into the RUQ but tracer still enters the duodenum/small bowel, the main biliary system is intact, confirming a cystic duct stump leak (from a slipped or improperly placed clip). The standard of care is to perform an ERCP and place a stent in the sphincter of Oddi. This stent lowers the biliary system's resistance pressure, allowing bile to flow directly into the duodenum and giving the cystic duct leak a chance to seal."
+    },
+    {
+      "q": "A post-cholecystectomy patient with a bilious fluid collection undergoes a HIDA scan. The imaging shows free radiotracer leaking into the peritoneum, but absolutely no tracer is seen entering the duodenum or small bowel. What is the diagnosis, and what is the definitive surgical reconstruction?",
+      "options": [
+        "Cystic duct stump leak; managed with laparoscopic clip replacement.",
+        "Major bile duct injury (complete transection of the CBD or Common Hepatic Duct); managed surgically with a Roux-en-Y hepaticojejunostomy.",
+        "Biliary dyskinesia; managed with an ERCP sphincterotomy.",
+        "Retained stone at the ampulla of Vater; managed with a Whipple procedure."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: If the HIDA scan demonstrates free tracer extravasation without any tracer entering the small bowel, it confirms a complete loss of ductal integrity (such as a divided or completely transected CBD or CHD). This major ductal injury cannot heal with stenting and requires surgical reconstruction with a Roux-en-Y hepaticojejunostomy."
+    },
+    {
+      "q": "A 45-year-old female presents with recurrent, episodic right upper quadrant (RUQ) abdominal pain three months after a cholecystectomy. Her pain is classically precipitated and worsened when she takes opioid analgesics (e.g., morphine) for chronic hip pain. A RUQ ultrasound shows mild common bile duct dilation to 9 mm, and liver enzymes are mildly elevated during episodes of pain. What is the most likely diagnosis, and what is the definitive treatment?",
+      "options": [
+        "Long cystic duct stump; managed with surgical resection of the stump.",
+        "Sphincter of Oddi Dysfunction (SOD); diagnosed with manometry and treated with ERCP sphincterotomy.",
+        "Retained common bile duct stone; managed with a Whipple procedure.",
+        "Biliary dyskinesia of the gallbladder; managed with a secondary laparoscopic cholecystectomy."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Postcholecystectomy Syndrome (PCS) can arise from multiple etiologies, including a retained CBD stone, a long cystic duct stump (where stones can reform), sphincter of Oddi dysfunction, or missed non-biliary pathology (such as gastritis or chronic pancreatitis). Sphincter of Oddi Dysfunction (SOD) is a functional biliary disorder caused by stenosis or dyskinesia of the sphincter, which is classically precipitated or worsened by opioids (due to opioid-induced sphincter spasm). It presents with recurrent episodic RUQ pain, ductal dilation, and elevated LFTs. Definitive treatment is endoscopic sphincterotomy via ERCP."
+    },
+    {
+      "q": "A 38-year-old female is diagnosed with biliary dyskinesia due to achalasia of the sphincter of Oddi. An abdominal ultrasound shows a distended gallbladder with a normal wall thickness and no gallstones. An ERCP demonstrates a classic 'pen-point' narrowing of the sphincter. What is the correct management for this patient?",
+      "options": [
+        "Perform an immediate laparoscopic cholecystectomy.",
+        "Perform an ERCP sphincterotomy; cholecystectomy is strictly contraindicated.",
+        "Open exploration of the common bile duct and insertion of a T-tube.",
+        "Prescribe long-term broad-spectrum oral antibiotics."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Biliary dyskinesia is caused by achalasia of the sphincter of Oddi, meaning the sphincter fails to relax when the gallbladder contracts, leading to gallbladder distension, biliary colic, and pain. It is diagnosed via ultrasound showing a distended gallbladder with a normal wall thickness and no stones, and ERCP showing a classic 'pen-point' sphincter. The definitive treatment is an ERCP sphincterotomy. Crucially, performing a cholecystectomy in these patients is strictly contraindicated as it will aggravate the symptoms and worsen the biliary stasis."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Cholecystectomy Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Asymptomatic Gallstone",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Underlying Pathology: Silent Cholelithiasis", "children": [] },
+          { "id": "r1_2", "topic": "Primary Diagnostic Test: Abdominal Ultrasound", "children": [] },
+          { "id": "r1_3", "topic": "Management: Observation (Conservative). Exception: Cholecystectomy if Porcelain Gallbladder or Diabetic.", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Acute Cholecystitis (< 3 days)",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Underlying Pathology: Persistent cystic duct block by stone", "children": [] },
+          { "id": "r2_2", "topic": "Primary Diagnostic Test: Abdominal Ultrasound / HIDA", "children": [] },
+          { "id": "r2_3", "topic": "Management: Prompt Laparoscopic Cholecystectomy (within 48–72h of onset).", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Acute Cholecystitis (> 3 days)",
+        "direction": 0,
+        "children": [
+          { "id": "r3_1", "topic": "Underlying Pathology: Severe subacute local inflammation", "children": [] },
+          { "id": "r3_2", "topic": "Primary Diagnostic Test: Clinical follow-up (pulse, temp, tenderness)", "children": [] },
+          { "id": "r3_3", "topic": "Management: Conservative cool down (NPO, IV fluids, IV Cephalosporins, pethidine) -> Interval cholecystectomy in 6 weeks.", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Post-Op RUQ Fluid Collection",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Underlying Pathology: Leakage of bile (Biloma) or bleeding", "children": [] },
+          { "id": "r4_2", "topic": "Primary Diagnostic Test: Abdominal CT or Ultrasound", "children": [] },
+          { "id": "r4_3", "topic": "Management: Percutaneous Drainage.", "children": [] }
+        ]
+      },
+      {
+        "id": "r5",
+        "topic": "HIDA: Leak + Bowel Filling",
+        "direction": 1,
+        "children": [
+          { "id": "r5_1", "topic": "Underlying Pathology: Cystic duct stump leak (slipped clip)", "children": [] },
+          { "id": "r5_2", "topic": "Primary Diagnostic Test: HIDA Scan.", "children": [] },
+          { "id": "r5_3", "topic": "Management: ERCP and sphincter of Oddi stenting.", "children": [] }
+        ]
+      },
+      {
+        "id": "r6",
+        "topic": "HIDA: Leak + NO Bowel Filling",
+        "direction": 1,
+        "children": [
+          { "id": "r6_1", "topic": "Underlying Pathology: Major duct injury (divided/transected CBD)", "children": [] },
+          { "id": "r6_2", "topic": "Primary Diagnostic Test: HIDA Scan.", "children": [] },
+          { "id": "r6_3", "topic": "Management: Surgical reconstruction with a Roux-en-Y hepaticojejunostomy.", "children": [] }
+        ]
+      },
+      {
+        "id": "r7",
+        "topic": "Opioid-Induced Episodic RUQ Pain",
+        "direction": 1,
+        "children": [
+          { "id": "r7_1", "topic": "Underlying Pathology: Sphincter of Oddi Dysfunction (SOD)", "children": [] },
+          { "id": "r7_2", "topic": "Primary Diagnostic Test: ERCP / Sphincter Manometry", "children": [] },
+          { "id": "r7_3", "topic": "Management: ERCP Sphincterotomy.", "children": [] }
+        ]
+      }
+    ]
+  }
+}
