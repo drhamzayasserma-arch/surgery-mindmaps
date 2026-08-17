@@ -1,0 +1,59 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Acute Pancreatitis Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "On Admission",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Key Event / Landmark: Diagnosis (2 out of 3 Atlanta Criteria)", "children": [] },
+          { "id": "r1_2", "topic": "Imaging of Choice: Right Upper Quadrant (RUQ) Ultrasound to evaluate for gallstones", "children": [] },
+          { "id": "r1_3", "topic": "Management Principle: Supportive care: aggressive IV crystalloid resuscitation, analgesics (pethidine), NPO", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Within 48 Hours",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Key Event / Landmark: Triage and severity assessment", "children": [] },
+          { "id": "r2_2", "topic": "Imaging of Choice: Chest X-ray (classically evaluates for left-sided pleural effusion)", "children": [] },
+          { "id": "r2_3", "topic": "Management Principle: Utilize Ranson’s Criteria (GA LAW / CHOBBS) or BISAP", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Day 3 to 7",
+        "direction": 0,
+        "children": [
+          { "id": "r3_1", "topic": "Key Event / Landmark: Failure to clinically improve or clinical deterioration", "children": [] },
+          { "id": "r3_2", "topic": "Imaging of Choice: Abdominal CT scan with contrast to look for pancreatic necrosis", "children": [] },
+          { "id": "r3_3", "topic": "Management Principle: Re-evaluate; transition to enteral nutrition past the ligament of Treitz if kept NPO > 7 days", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Hospital Week 3 to 4",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Key Event / Landmark: Delayed sepsis, fever, and leukocytosis", "children": [] },
+          { "id": "r4_2", "topic": "Imaging of Choice: Contrast-Enhanced CT (non-enhancing necrosis + gas bubbles)", "children": [] },
+          { "id": "r4_3", "topic": "Management Principle: Step-Up Approach: Imipenem, CT-guided FNA, percutaneous drain -> VARD -> Necrosectomy", "children": [] }
+        ]
+      },
+      {
+        "id": "r5",
+        "topic": "Post-Op Week 6",
+        "direction": 1,
+        "children": [
+          { "id": "r5_1", "topic": "Key Event / Landmark: Vague pain, early satiety, epigastric fullness", "children": [] },
+          { "id": "r5_2", "topic": "Imaging of Choice: Abdominal CT scan (thin-walled fluid collection in lesser sac)", "children": [] },
+          { "id": "r5_3", "topic": "Management Principle: Internal Drainage (Cystogastrostomy or Cystojejunostomy)", "children": [] }
+        ]
+      }
+    ]
+  }
+}

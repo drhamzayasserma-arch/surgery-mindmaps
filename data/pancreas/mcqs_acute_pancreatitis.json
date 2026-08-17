@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "q": "A 45-year-old female presents with severe, unremitting epigastric pain radiating straight through to her back, accompanied by persistent vomiting. Which of the following correctly describes the initial cellular event that triggers the cascade of acute pancreatitis, and what is a classic metabolic complication of its downstream \"saponification\" process?",
+      "options": [
+        "Intraductal migration of E. coli; leading to localized hypercalcemia",
+        "Inappropriate, premature activation of trypsin within the pancreatic acinar cells; leading to hypocalcemia via the chelation of calcium by free fatty acids in the retroperitoneum",
+        "Direct ischemic thrombosis of the splenic artery; leading to metabolic alkalosis",
+        "Hyper-secretion of secretin from the duodenal mucosa; leading to hypernatremia"
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: The initial pathophysiological event in acute pancreatitis is the inappropriate, premature activation of trypsin within the pancreatic acinar cells. This active trypsin subsequently triggers a cascade of digestive enzymes (lipase, elastase, phospholipase) that cause auto-digestion of the pancreatic parenchyma and local vasculature. During this process, pancreatic lipase releases free fatty acids in the retroperitoneum, which chelate calcium salts (calcium soaps) in a reaction known as saponification. This extensive retroperitoneal consumption of calcium leads to hypocalcemia, which is a key marker of disease severity and can clinically present as tetany."
+    },
+    {
+      "q": "A 42-year-old male with a history of alcohol abuse is admitted with severe epigastric pain, fevers, and tachycardia. On physical exam, the surgeon notes a blue-red discoloration around the umbilicus and blue-black bruising along the flanks. What are the names of these signs, and what is their clinical significance?",
+      "options": [
+        "Murphy’s sign and Boas' sign; indicating acute emphysematous cholecystitis",
+        "Cullen’s sign and Grey Turner’s sign; indicating retroperitoneal hemorrhage from hemorrhagic pancreatitis",
+        "Kehr’s sign and Cullen’s sign; indicating splenic rupture and left phrenic nerve irritation",
+        "Fox's sign and Cullen's sign; indicating localized superficial appendiceal perforation"
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: Bruising around the umbilicus is Cullen's sign (blue-red discoloration) and bruising along the flanks is Grey Turner's sign (blue-black discoloration). A third sign, Fox's sign, refers to bruising localized over the inguinal ligament. These physical findings represent retroperitoneal hemorrhage in the setting of severe hemorrhagic/necrotizing pancreatitis, where methemalbumin formed from digested blood tracks subcutaneously along retroperitoneal planes to different parts of the abdominal wall."
+    },
+    {
+      "q": "A 55-year-old female is evaluated in the emergency department for severe, constant epigastric pain radiating to the back. Laboratory results are significant for an amylase of 1,300 U/L, a lipase of 1,000 U/L, an ALT of 622 U/L (normal <56), and an Alkaline Phosphatase of 450 U/L. What is the most likely etiology of her acute pancreatitis, and which laboratory test is more sensitive to rule out the diagnosis overall?",
+      "options": [
+        "Chronic alcoholism; serum amylase is highly specific and the diagnostic test of choice",
+        "Gallstone pancreatitis; serum lipase is the test of choice due to its superior sensitivity",
+        "Hypertriglyceridemia; serum lipase has a low sensitivity but remains elevated for only 24 hours",
+        "Ischemia secondary to cardiac bypass; AST is the most sensitive marker to rule out pancreatitis"
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: Gallstones and alcohol are the two most common causes of acute pancreatitis. In patients with gallstone pancreatitis, amylase and lipase levels tend to be extremely high, and an elevated ALT greater than three times the upper limit of normal is highly suggestive of a biliary/gallstone etiology. To rule out pancreatitis, serum lipase is the diagnostic test of choice because it has a much higher sensitivity and specificity than amylase. Furthermore, amylase remains elevated for only 2–3 days (useful primarily in the first 24 hours), while lipase remains high for 10–14 days. Note: The absolute magnitude of amylase and lipase elevation does not correlate with the severity of the attack and should never be used to guide surgical timing."
+    },
+    {
+      "q": "A 35-year-old male with no history of alcohol intake or gallstones is admitted with a classic clinical picture of acute pancreatitis. On admission, his serum sodium is reported as 122 mEq/L. His lipid panel is subsequently drawn and reveals serum triglycerides of 1,250 mg/dL. Which of the following is true regarding his sodium level and the pathophysiology of his condition?",
+      "options": [
+        "He has true, severe hyponatremia; managed with urgent infusion of 3% hypertonic saline to prevent cerebral edema.",
+        "He has pseudohyponatremia; the high level of circulating lipids displaces plasma water, creating a measurement error, while his true sodium level is normal.",
+        "Hypertriglyceridemia only causes pancreatitis when levels are <150 mg/dL.",
+        "His hyponatremia is due to direct renal sodium-wasting caused by premature trypsin activation in the kidneys."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: Hypertriglyceridemia can trigger acute pancreatitis when triglyceride levels exceed 1,000 mg/dL. In patients with hyperlipidemic pancreatitis, clinicians must be highly vigilant for pseudohyponatremia, which occurs when elevated blood lipids displace plasma water, causing a measurement error in sodium levels while the patient's true sodium concentration remains completely normal. Hypertonic saline is not indicated in these cases."
+    },
+    {
+      "q": "A 58-year-old male with alcohol-induced acute pancreatitis is evaluated on admission. His vital signs are stable, but a chest X-ray demonstrates a left-sided pleural effusion. According to your textbooks, what is the significance of a pleural effusion on admission, and what respiratory complication is he at risk of developing?",
+      "options": [
+        "Pleural effusions are only seen in mild pancreatitis and indicate an excellent prognosis.",
+        "Nearly 85% of patients with severe pancreatitis present with a pleural effusion on admission (compared to 15% with mild disease), making it a strong prognostic marker of severity; he is at risk for Acute Respiratory Distress Syndrome (ARDS).",
+        "Left-sided pleural effusion is caused by direct bacterial translocation from the stomach and requires emergent chest tube insertion.",
+        "Pleural effusion on admission is a diagnostic criterion for acute appendicitis."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: Nearly 85% of patients with severe pancreatitis have a pleural effusion (classically on the left side) on admission, compared to only 15% of those with mild disease, making it a very strong marker for predicting a severe clinical course. These pulmonary complications (pleural effusion and ARDS) are mediated by circulating pancreatic enzymes (such as phospholipase-A2) and systemic cytokines that damage pulmonary vascular endothelium and alveolar surfactant."
+    },
+    {
+      "q": "A surgical resident is utilizing Ranson’s criteria to assess the severity of a patient's acute pancreatitis. Which of the following parameters is evaluated strictly on admission, and which parameter is evaluated at 48 hours?",
+      "options": [
+        "On Admission: Calcium < 8.0 mg/dL; At 48 Hours: AST > 250 IU/L",
+        "On Admission: Age > 55 years, WBC > 16,000 cells/mm3, Glucose > 200 mg/dL, AST > 250 IU/L, and LDH > 350 IU/L; At 48 Hours: Calcium < 8.0 mg/dL, PaO2 < 60 mmHg, and Hct drop > 10%.",
+        "On Admission: Base deficit > 4 mEq/L; At 48 Hours: WBC > 16,000 cells/mm3",
+        "On Admission: BUN increase > 5 mg/dL; At 48 Hours: Age > 55 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: Ranson’s criteria utilize five variables on admission and six at 48 hours to predict mortality. On Admission (Mnemonic: \"GA LAW\"): Glucose > 200 mg/dL, Age > 55 years, LDH > 350 IU/L, AST > 250 IU/L, WBC > 16,000 cells/mm3. At 48 Hours (Mnemonic: \"CHOBBS\"): Calcium < 8.0 mg/dL, Hematocrit drop > 10%, Oxygen (PaO2) < 60 mmHg, BUN increase >= 5 mg/dL, Base deficit > 4 mEq/L, and Sequestration of fluid > 6 Liters. Significance: Having 3 or 4 signs correlates with a 15% mortality rate, while 5 or 6 signs carries a 40% mortality rate."
+    },
+    {
+      "q": "A 46-year-old male with severe acute necrotizing pancreatitis has been kept NPO (nil per os) for 8 days. He remains hemodynamically stable but cannot tolerate oral intake due to severe epigastric pain and gastric outlet obstruction. What is the most appropriate approach to his nutritional management?",
+      "options": [
+        "Continue complete bowel rest with intravenous normal saline alone, as nutrition is contraindicated during acute pancreatic inflammation.",
+        "Start Total Parenteral Nutrition (TPN) via a central venous line immediately to maximize bowel rest.",
+        "Initiate enteral nutrition via a nasojejunal feeding tube placed past the ligament of Treitz.",
+        "Allow the patient to eat a regular solid food diet, as withholding oral food has no effect on pancreatic secretions."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: If a patient with acute pancreatitis requires being NPO for greater than 7 days, nutritional support is indicated. Enteral nutrition is highly preferred over parenteral nutrition (TPN) because it maintains the integrity of the gut mucosal barrier, preventing the translocation of bacteria from the GI tract that can infect necrotic pancreatic tissue. To avoid activating pancreatic secretions, the enteral feeding tube must be placed past the ligament of Treitz."
+    },
+    {
+      "q": "A 44-year-old female is admitted with mild gallstone pancreatitis. Her abdominal pain, nausea, and vomiting resolve completely within 36 hours of admission, and her leukocyte count and liver function tests normalize. What is the optimal surgical management to prevent recurrent biliary complications?",
+      "options": [
+        "Schedule her for an elective, interval cholecystectomy in 6 weeks to allow the gallbladder bed to completely \"cool down.\"",
+        "Perform a laparoscopic cholecystectomy with intraoperative cholangiogram (IOC) during the same admission (ideally within 48–72 hours).",
+        "Perform an emergent ERCP sphincterotomy on hospital day 2, and avoid cholecystectomy.",
+        "Discharge the patient on long-term oral ursodeoxycholic acid, as surgery is not indicated for gallstone pancreatitis."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: Cholecystectomy is the standard of care for patients with gallstone pancreatitis because there is a very high risk of recurrence. For patients presenting with mild pancreatitis, cholecystectomy should be performed early during the same admission (within 48–72 hours). Delaying surgery is of no benefit and increases the risk of recurrent attacks. Conversely, for patients with severe pancreatitis (e.g., necrotizing pancreatitis with shock), surgery should be delayed for weeks until all acute inflammation and local fluid collections have resolved."
+    },
+    {
+      "q": "A 32-year-old male is admitted for severe alcohol-induced necrotizing pancreatitis. On hospital day 20, he develops a new high-grade fever of 39.0°C, worsening epigastric pain, and marked leukocytosis. An abdominal CT scan with contrast is obtained. Which of the following findings on CT is most concerning for a pancreatic abscess/infected necrosis, and what is the next step in his management?",
+      "options": [
+        "An enhancing, hypervascular pancreatic head mass; perform an immediate Whipple procedure.",
+        "A thin-walled fluid collection in the lesser sac; manage with immediate percutaneous cystogastrostomy.",
+        "Non-enhancing necrotic pancreatic tissue containing multiple gas bubbles; initiate broad-spectrum antibiotics (imipenem) and implement a \"step-up\" approach starting with percutaneous or endoscopic drainage.",
+        "A completely normal-appearing pancreas; perform an urgent diagnostic laparotomy."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Explanation: Worsening abdominal pain, fever, and sepsis 3 to 4 weeks into a hospital course for severe necrotizing pancreatitis are highly concerning for infected pancreatic necrosis or a pancreatic abscess. The diagnostic imaging of choice is a contrast-enhanced CT scan, which demonstrates necrotic, non-enhancing tissue containing diagnostic gas bubbles (produced by gas-forming organisms). The Step-Up Approach: Treatment begins with broad-spectrum IV antibiotics with high pancreatic tissue penetration (such as imipenem). This is followed sequentially by: (1) percutaneous or endoscopic catheter drainage, (2) VARD (video-assisted retroperitoneal debridement) if drainage fails, and (3) open surgical necrosectomy only as a final resort."
+    },
+    {
+      "q": "A 50-year-old male presents to the clinic 6 weeks after recovering from a severe episode of acute pancreatitis. He complains of vague epigastric fullness and early satiety after meals. On physical examination, a smooth, non-tender mass is palpable in his epigastrium. An abdominal CT scan confirms a large, thin-walled, 8 cm fluid collection located in the lesser sac. What is the most likely diagnosis, and what is the recommended intervention?",
+      "options": [
+        "Pancreatic adenocarcinoma; schedule for an immediate Whipple procedure.",
+        "Pancreatic pseudocyst; perform internal drainage (e.g., endoscopic cystogastrostomy) if conservative management fails after 6 weeks.",
+        "Pancreatic pseudocyst; perform immediate external percutaneous needle drainage to prevent rupture.",
+        "Chronic calcifying pancreatitis; treat with oral pancreatic enzyme supplementation."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Explanation: A pancreatic pseudocyst is a collection of inflammatory fluid and enzymes enclosed by a fibrous wall lacking an epithelial lining (distinguishing it from a true cyst). It typically develops in 10% of acute pancreatitis cases and accumulates in the lesser sac. Symptomatic pseudocysts or those that are larger than 6 cm or have persisted for longer than 6 weeks are highly unlikely to resolve spontaneously. Management: The treatment of choice for a persistent, symptomatic, non-infected pseudocyst is internal drainage (e.g., endoscopic cystogastrostomy or cystojejunostomy), which connects the cyst to an adjacent GI organ (like the stomach). Contraindication: External drainage is highly discouraged because draining a non-infected pseudocyst externally carries a high risk of creating a persistent pancreatico-cutaneous fistula."
+    }
+  ]
+}
