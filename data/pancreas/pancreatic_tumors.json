@@ -1,0 +1,757 @@
+{
+  "nodeData": {
+    "topic": "🧠 Pancreatic Neoplasms\nComprehensive Revision",
+    "id": "root",
+    "children": [
+      {
+        "topic": "1. Classification\nand Epidemiology",
+        "id": "node_edb66dde",
+        "children": [
+          {
+            "topic": "Major Division:",
+            "id": "node_f02dbd99",
+            "children": [
+              {
+                "topic": "Exocrine: From ductal or acinar cells",
+                "id": "node_e8b2dc01",
+                "children": []
+              },
+              {
+                "topic": "Endocrine: From Islets of Langerhans\n(neuroendocrine cells)",
+                "id": "node_8bd0df6e",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Incidence and Demographics (Exocrine):",
+            "id": "node_a94b5eb7",
+            "children": [
+              {
+                "topic": "8th most common carcinoma overall",
+                "id": "node_63499ebc",
+                "children": []
+              },
+              {
+                "topic": "4th leading cause of cancer death in males",
+                "id": "node_22934e31",
+                "children": []
+              },
+              {
+                "topic": "Male-to-Female Ratio: 1.5 to 1",
+                "id": "node_966fc55f",
+                "children": []
+              },
+              {
+                "topic": "Peak age: 65 to 75 years",
+                "id": "node_e62a3a81",
+                "children": []
+              },
+              {
+                "topic": "More common in Black populations",
+                "id": "node_f0917551",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "General Prevalence:",
+            "id": "node_46276e60",
+            "children": [
+              {
+                "topic": "Adenocarcinoma: more than 85% of exocrine tumors",
+                "id": "node_efc31d69",
+                "children": []
+              },
+              {
+                "topic": "PNETs: only about 5% of all pancreatic tumors",
+                "id": "node_17393e15",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "2. Exocrine Adenocarcinoma\nPathology and Risk Factors",
+        "id": "node_95049987",
+        "children": [
+          {
+            "topic": "Established Risk Factors:",
+            "id": "node_dfb617f7",
+            "children": [
+              {
+                "topic": "Chronic Pancreatitis: Strongest risk factor.\nIncreases risk 5 to 15 fold",
+                "id": "node_b469a2b6",
+                "children": []
+              },
+              {
+                "topic": "Cigarette Smoking: Increases risk 3 fold",
+                "id": "node_fa7b4367",
+                "children": []
+              },
+              {
+                "topic": "Diabetes Mellitus: Long-standing or\nrecent onset Type 2 in elderly",
+                "id": "node_fe8a6b97",
+                "children": []
+              },
+              {
+                "topic": "Genetic Syndromes: 2 first-degree relatives\nincreases risk up to 50%",
+                "id": "node_6255570b",
+                "children": [
+                  {
+                    "topic": "BRCA-2 mutations",
+                    "id": "node_1bf06f3a",
+                    "children": []
+                  },
+                  {
+                    "topic": "FAP (Familial Adenomatous Polyposis)",
+                    "id": "node_d350331e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Lynch syndrome (HNPCC)",
+                    "id": "node_327fdf43",
+                    "children": []
+                  },
+                  {
+                    "topic": "Hereditary Pancreatitis",
+                    "id": "node_7f04df90",
+                    "children": []
+                  },
+                  {
+                    "topic": "Peutz-Jeghers syndrome",
+                    "id": "node_eef6e457",
+                    "children": []
+                  },
+                  {
+                    "topic": "Ataxia-Telangiectasia",
+                    "id": "node_31f6ef99",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Dietary: Obesity and high-fat diet",
+                "id": "node_367c9212",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Anatomical Distribution:",
+            "id": "node_afc85b90",
+            "children": [
+              {
+                "topic": "Head of Pancreas: 60%\n(40% head proper + 20% periampullary)",
+                "id": "node_b2b7fb95",
+                "children": []
+              },
+              {
+                "topic": "Diffuse Gland: 20%",
+                "id": "node_12771a65",
+                "children": []
+              },
+              {
+                "topic": "Body: 10%",
+                "id": "node_ce447eb4",
+                "children": []
+              },
+              {
+                "topic": "Tail: 10%",
+                "id": "node_d696f139",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Microscopic Subtypes:",
+            "id": "node_906ead07",
+            "children": [
+              {
+                "topic": "Adenocarcinoma Proper (85%):\nHighly aggressive, worst prognosis",
+                "id": "node_977e59c0",
+                "children": []
+              },
+              {
+                "topic": "Ampullary Adenocarcinoma (14%):\nPresents early with biliary obstruction.\nBetter prognosis (up to 100% 5-year survival\nfor Stage T1/T2)",
+                "id": "node_3731602e",
+                "children": []
+              },
+              {
+                "topic": "Cystadenocarcinoma (1%): Better prognosis",
+                "id": "node_3f5ac5fb",
+                "children": [
+                  {
+                    "topic": "Mucinous Cystic Neoplasms:\nThick rigid walls, body and tail in Females",
+                    "id": "node_571215aa",
+                    "children": []
+                  },
+                  {
+                    "topic": "IPMN: Arise within main pancreatic duct,\nMales more than Females",
+                    "id": "node_37c5210a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Serous Cystadenomas: Usually benign,\nmainly in Females",
+                    "id": "node_f802ef4a",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Routes of Spread:",
+            "id": "node_cf94f2bc",
+            "children": [
+              {
+                "topic": "Local Direct Invasion:",
+                "id": "node_bc99e0ec",
+                "children": [
+                  {
+                    "topic": "Duodenum and pylorus: Gastric Outlet Obstruction",
+                    "id": "node_794048bd",
+                    "children": []
+                  },
+                  {
+                    "topic": "CBD: Obstructive jaundice",
+                    "id": "node_80a46176",
+                    "children": []
+                  },
+                  {
+                    "topic": "Uncinate process behind SMA/SMV:\nPortal vein encasement = unresectable",
+                    "id": "node_161d96d8",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Lymphatic Spread:",
+                "id": "node_74b16108",
+                "children": [
+                  {
+                    "topic": "Head/Neck tumors: Inferior pancreaticoduodenal\nnodes then superior mesenteric nodes",
+                    "id": "node_ec803a17",
+                    "children": []
+                  },
+                  {
+                    "topic": "Body/Tail tumors: Splenic nodes\nthen celiac nodes",
+                    "id": "node_389af599",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Hematogenous: Via portal circulation.\nLiver (most common), lungs, brain, bones",
+                "id": "node_c8e0a396",
+                "children": []
+              },
+              {
+                "topic": "Transcoelomic: Peritoneal nodules,\nKrukenberg tumors of ovaries, malignant ascites,\nBlumer shelf on rectal exam",
+                "id": "node_b81bca23",
+                "children": []
+              },
+              {
+                "topic": "Perineural Invasion: Early infiltration of\nsympathetic plexus causing severe back pain",
+                "id": "node_1db66fca",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "3. Clinical\nPresentation",
+        "id": "node_d28b0247",
+        "children": [
+          {
+            "topic": "A. Tumors of Pancreatic Head:",
+            "id": "node_7683ea5c",
+            "children": [
+              {
+                "topic": "Malignant Obstructive Jaundice:\nPainless, progressive, unremitting",
+                "id": "node_f6272889",
+                "children": [
+                  {
+                    "topic": "Ampullary carcinoma: Jaundice may fluctuate\ndue to tumor sloughing and necrosis",
+                    "id": "node_c1f890e3",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Courvoisier Law: Distended palpable\nnon-tender gallbladder in 50% of cases",
+                "id": "node_fdaaa031",
+                "children": []
+              },
+              {
+                "topic": "Trousseau Sign: Migratory superficial\nvein thrombosis (Thrombophlebitis Migrans)",
+                "id": "node_fd5b9fb4",
+                "children": []
+              },
+              {
+                "topic": "Troisier Sign: Enlarged left\nsupraclavicular lymph node (Virchow Node)",
+                "id": "node_613eec27",
+                "children": []
+              },
+              {
+                "topic": "Sister Mary Joseph Nodule:\nPalpable umbilical nodule\n(peritoneal carcinomatosis)",
+                "id": "node_4c18cf15",
+                "children": []
+              },
+              {
+                "topic": "Local Compression: Hepatomegaly from\nporta hepatis nodes or gastric outlet obstruction",
+                "id": "node_3a083575",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "B. Tumors of Body and Tail:",
+            "id": "node_876910ed",
+            "children": [
+              {
+                "topic": "Vague and late presentation.\nOften diagnosed at unresectable stages",
+                "id": "node_408640ca",
+                "children": []
+              },
+              {
+                "topic": "Epigastric Pain: Severe gnawing pain\nradiating straight to the back,\nworse lying flat",
+                "id": "node_0e9f6328",
+                "children": []
+              },
+              {
+                "topic": "Constitutional: Marked anorexia,\ncachexia, rapid weight loss",
+                "id": "node_bb6d3d90",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "4. Diagnostic\nWorkup",
+        "id": "node_4d9eac32",
+        "children": [
+          {
+            "topic": "Laboratory Evaluation:",
+            "id": "node_7258af4f",
+            "children": [
+              {
+                "topic": "LFTs: Elevated direct bilirubin,\nelevated ALP, prolonged PT\n(extrahepatic obstruction pattern)",
+                "id": "node_7c3929e3",
+                "children": []
+              },
+              {
+                "topic": "CA 19-9 (elevated in 75%):\nNOT for screening or diagnosis.\nUsed for monitoring recurrence post-surgery",
+                "id": "node_9395b084",
+                "children": []
+              },
+              {
+                "topic": "CEA (elevated in 45%): Nonspecific adjunct",
+                "id": "node_dade91bf",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Radiological Staging:",
+            "id": "node_1ca18bdf",
+            "children": [
+              {
+                "topic": "Abdominal Ultrasound: First-line screening tool.\nDocuments ductal dilation or mass",
+                "id": "node_433956aa",
+                "children": []
+              },
+              {
+                "topic": "Triple-Phase Spiral CT: Gold standard staging.\nDefines mass, resectability,\nlymph nodes, liver mets",
+                "id": "node_cf2b7b03",
+                "children": []
+              },
+              {
+                "topic": "Endoscopic Ultrasound (EUS):\nLocal vascular invasion details.\nAllows EUS-guided FNA biopsy",
+                "id": "node_67133b63",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Biopsy and Stenting Rules:",
+            "id": "node_5d423618",
+            "children": [
+              {
+                "topic": "Pre-op Biopsy: NOT required for\nresectable mass with obstructive jaundice.\nRisk of seeding and False negatives",
+                "id": "node_5700d996",
+                "children": []
+              },
+              {
+                "topic": "Pre-op Biliary Stenting: Contraindicated\nroutinely. Increases post-op infections.\nReserved for severe pruritus or cholangitis",
+                "id": "node_08f09bdf",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "5. Surgical and\nPalliative Management",
+        "id": "node_d35bd8ca",
+        "children": [
+          {
+            "topic": "Pre-op Optimization:",
+            "id": "node_80512f0a",
+            "children": [
+              {
+                "topic": "IV fluids (avoid Hepatorenal Syndrome)",
+                "id": "node_4b6cf617",
+                "children": []
+              },
+              {
+                "topic": "Systemic antibiotics",
+                "id": "node_2d5c41d3",
+                "children": []
+              },
+              {
+                "topic": "IV Vitamin K (correct coagulopathy)",
+                "id": "node_950ef337",
+                "children": []
+              },
+              {
+                "topic": "Oral bile salts (prevent bacterial translocation)",
+                "id": "node_c5ca1980",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "A. Operable Cases (15-20%):",
+            "id": "node_d5f0529b",
+            "children": [
+              {
+                "topic": "Resectability Criteria:\nConfined to pancreas, no distant mets.\nPartial portal vein/SMV invasion\nstill resectable via vein grafting",
+                "id": "node_3acc0a89",
+                "children": []
+              },
+              {
+                "topic": "Unresectability: Distant mets (liver,\nperitoneal, ascites) or encasement of\nSMA, Celiac Axis, or Hepatic Artery",
+                "id": "node_e7097960",
+                "children": []
+              },
+              {
+                "topic": "Whipple Procedure (Head tumors):",
+                "id": "node_c3726d81",
+                "children": [
+                  {
+                    "topic": "Resection Phase removes:\nPancreatic head and neck, entire duodenum,\nproximal jejunum, distal stomach (antrum),\ngallbladder, and CBD",
+                    "id": "node_04ebf84f",
+                    "children": [
+                      {
+                        "topic": "Pylorus-Preserving (PPPD / P4):\nDistal stomach is spared",
+                        "id": "node_63ef33f2",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "Reconstruction (Triple Anastomosis):",
+                    "id": "node_3d708136",
+                    "children": [
+                      {
+                        "topic": "1. Pancreaticojejunostomy:\nPancreatic duct to jejunum",
+                        "id": "node_2f36bead",
+                        "children": []
+                      },
+                      {
+                        "topic": "2. Choledochojejunostomy:\nCommon hepatic duct to jejunum",
+                        "id": "node_cb6d6e12",
+                        "children": []
+                      },
+                      {
+                        "topic": "3. Gastrojejunostomy:\nProximal stomach to jejunum",
+                        "id": "node_70c3e194",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "Distal Pancreatectomy and Splenectomy:\nFor tumors of body and tail",
+                "id": "node_e95ea76f",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "B. Palliative (Unresectable 85%):",
+            "id": "node_d118b97d",
+            "children": [
+              {
+                "topic": "Operative Palliation (Triple Bypass):\nGastrojejunostomy + Choledochojejunostomy\nto bypass gastric and biliary obstruction",
+                "id": "node_266ad68c",
+                "children": []
+              },
+              {
+                "topic": "Non-Operative Palliation:",
+                "id": "node_97a9c376",
+                "children": [
+                  {
+                    "topic": "Jaundice: Biliary stent via ERCP\nor external drainage",
+                    "id": "node_12d1d10b",
+                    "children": []
+                  },
+                  {
+                    "topic": "Gastric Outlet Obstruction:\nEnteral duodenal stent",
+                    "id": "node_ce2c5e38",
+                    "children": []
+                  },
+                  {
+                    "topic": "Intractable Back Pain:\nTrans-celiac sympathetic nerve block",
+                    "id": "node_7e4d7691",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "6. Post-Operative\nWhipple Complications",
+        "id": "node_503e25bb",
+        "children": [
+          {
+            "topic": "Delayed Gastric Emptying (up to 40%):\nMost common complication.\nManaged with NG decompression\nand prokinetics (metoclopramide)",
+            "id": "node_e0dcc3fa",
+            "children": []
+          },
+          {
+            "topic": "Pancreatic Fistula/Leak:",
+            "id": "node_fdd9d382",
+            "children": [
+              {
+                "topic": "Suspicion: Milky gray-white drain fluid\nwith a sheen",
+                "id": "node_4c461575",
+                "children": []
+              },
+              {
+                "topic": "Confirmation: Drain fluid amylase\nmore than 3 times upper normal serum amylase\nand drain output more than 50 mL/day",
+                "id": "node_5cefc528",
+                "children": []
+              },
+              {
+                "topic": "Management: NPO + somatostatin analog\n(octreotide)",
+                "id": "node_599536ef",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Biliary Leak: Green bilious fluid\nfrom abdominal drains",
+            "id": "node_b55e9518",
+            "children": []
+          },
+          {
+            "topic": "Hemorrhage: Sanguineous drainage\nor hematemesis",
+            "id": "node_34e5ac7e",
+            "children": []
+          },
+          {
+            "topic": "Long-Term Sequelae:",
+            "id": "node_f1e0ed33",
+            "children": [
+              {
+                "topic": "Malabsorption: Oral pancreatic\nenzyme replacement",
+                "id": "node_ba5c1d45",
+                "children": []
+              },
+              {
+                "topic": "Marginal ulceration",
+                "id": "node_929987b5",
+                "children": []
+              },
+              {
+                "topic": "Diabetes risk is LOW if preoperative\nglucose was normal (tail preserved)",
+                "id": "node_edec40fd",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "topic": "7. Endocrine Neoplasms\n(PNETs)",
+        "id": "node_01295c4a",
+        "children": [
+          {
+            "topic": "Better prognosis than adenocarcinomas.\nDivided into functioning and non-functioning",
+            "id": "node_0ee1209e",
+            "children": []
+          },
+          {
+            "topic": "A. Insulinoma (Beta-Cell, 75% of PNETs):",
+            "id": "node_43bbf915",
+            "children": [
+              {
+                "topic": "90% benign, solitary lesions",
+                "id": "node_3b10c4e7",
+                "children": []
+              },
+              {
+                "topic": "Whipple Triad:",
+                "id": "node_6b09303d",
+                "children": [
+                  {
+                    "topic": "1. Symptoms of hypoglycemia\n(confusion, sweating, dizziness)",
+                    "id": "node_3d8a5991",
+                    "children": []
+                  },
+                  {
+                    "topic": "2. Fasting blood glucose less than 45 mg/dL",
+                    "id": "node_89d701e3",
+                    "children": []
+                  },
+                  {
+                    "topic": "3. Immediate relief with glucose administration",
+                    "id": "node_c2ff1d19",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Diagnostics: Fasting hypoglycemia with\nhigh serum insulin and C-peptide\n(more than 25 ng/mL)",
+                "id": "node_ce008d99",
+                "children": []
+              },
+              {
+                "topic": "Localization: Contrast CT,\nintraoperative transabdominal US (most accurate),\nselective angiography",
+                "id": "node_8957039f",
+                "children": []
+              },
+              {
+                "topic": "Management:",
+                "id": "node_5c65b9a0",
+                "children": [
+                  {
+                    "topic": "Medical: Diazoxide (inhibits insulin secretion).\nStreptozotocin if malignant",
+                    "id": "node_69ced327",
+                    "children": []
+                  },
+                  {
+                    "topic": "Surgical: Enucleation for benign solitary tumors.\nFormal resection/Whipple for malignant",
+                    "id": "node_a793dd3a",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "B. Gastrinoma / ZES:",
+            "id": "node_b52b25d9",
+            "children": [
+              {
+                "topic": "Non-Beta islet cell tumor secreting excess gastrin.\nCauses hyperchlorhydria, refractory recurrent\npeptic ulcers (Type 2), watery diarrhea",
+                "id": "node_3134ee39",
+                "children": []
+              },
+              {
+                "topic": "Gastrinoma (Passaro) Triangle:",
+                "id": "node_6a958f5b",
+                "children": [
+                  {
+                    "topic": "Superior: Junction of cystic duct and CBD",
+                    "id": "node_4428c75b",
+                    "children": []
+                  },
+                  {
+                    "topic": "Inferior: Junction of 2nd and 3rd parts\nof duodenum",
+                    "id": "node_fa16199b",
+                    "children": []
+                  },
+                  {
+                    "topic": "Medial: Junction of head and neck\nof pancreas",
+                    "id": "node_abef17da",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "60% are malignant. Can be sporadic\n(solitary, head) or MEN-1 (multiple, duodenal)",
+                "id": "node_af1ae07d",
+                "children": []
+              },
+              {
+                "topic": "Diagnostics: Fasting gastrin more than 1000 pg/mL,\ngastric pH less than 2.5,\nBAO more than 15 mEq/hr",
+                "id": "node_1a4d7125",
+                "children": []
+              },
+              {
+                "topic": "Management:",
+                "id": "node_45a95a77",
+                "children": [
+                  {
+                    "topic": "Medical: High-dose PPIs",
+                    "id": "node_401e3e56",
+                    "children": []
+                  },
+                  {
+                    "topic": "Surgical:",
+                    "id": "node_0cccee15",
+                    "children": [
+                      {
+                        "topic": "Pancreatic: Enucleation if less than 2 cm,\nWhipple if more than 2 cm",
+                        "id": "node_9fd115ed",
+                        "children": []
+                      },
+                      {
+                        "topic": "Duodenal: Enucleation if less than 5 mm,\nfull-thickness excision if more than 5 mm",
+                        "id": "node_b04878e4",
+                        "children": []
+                      },
+                      {
+                        "topic": "Occult primary: Blind block Whipple\nto clear the Gastrinoma Triangle",
+                        "id": "node_790b5503",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "C. Other Functioning PNETs:",
+            "id": "node_50b3ccf9",
+            "children": [
+              {
+                "topic": "Glucagonoma (Alpha-Cell):\nNecrolytic migratory erythema, mild diabetes,\nweight loss, stomatitis.\nMore than 70% malignant.\nDistal pancreatectomy/splenectomy",
+                "id": "node_7185a15d",
+                "children": []
+              },
+              {
+                "topic": "VIPoma (D1-Cell):\nVerner-Morrison (WDHA) Syndrome:\nWatery Diarrhea, Hypokalemia, Achlorhydria.\nMore than 50% malignant. Surgical resection",
+                "id": "node_c1456eaf",
+                "children": []
+              },
+              {
+                "topic": "Somatostatinoma (Delta-Cell):\nSteatorrhea, diabetes, cholelithiasis\n(inhibits CCK and pancreatic enzymes).\nMore than 70% malignant. Resection",
+                "id": "node_66593326",
+                "children": []
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      }
+    ],
+    "root": true
+  }
+}
