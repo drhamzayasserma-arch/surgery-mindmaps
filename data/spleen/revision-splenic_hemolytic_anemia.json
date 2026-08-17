@@ -1,0 +1,49 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Spleen Pathology Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Hereditary Spherocytosis",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Primary Diagnostic Test: Osmotic Fragility Test (hemolysis starts at 0.6% saline)", "children": [] },
+          { "id": "r1_2", "topic": "Key Pathological / Cell Marker: Spectrin & Ankyrin deficiency", "children": [] },
+          { "id": "r1_3", "topic": "Role & Indications for Splenectomy: Splenectomy is the only cure. Best performed at 6–7 years of age.", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Autoimmune Hemolytic Anemia",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Primary Diagnostic Test: Indirect Coombs' Test (identifies RBC surface antibodies)", "children": [] },
+          { "id": "r2_2", "topic": "Key Pathological / Cell Marker: IgG anti-RBC autoantibodies", "children": [] },
+          { "id": "r2_3", "topic": "Role & Indications for Splenectomy: Indicated upon failure, contraindications, or severe complications of corticosteroids.", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Thalassemia Major",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Primary Diagnostic Test: Hb Electrophoresis (absence of Hb-A, high Hb-F)", "children": [] },
+          { "id": "r3_2", "topic": "Key Pathological / Cell Marker: Globin chain synthesis defect; \"Hair-on-end\" skull X-ray", "children": [] },
+          { "id": "r3_3", "topic": "Role & Indications for Splenectomy: Indicated in select cases strictly to decrease the rate and volume of repeated transfusions.", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Idiopathic Thrombocytopenic Purpura (ITP)",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Primary Diagnostic Test: Platelet count & Bone marrow biopsy (hyperplastic megakaryocytes)", "children": [] },
+          { "id": "r4_2", "topic": "Key Pathological / Cell Marker: Anti-platelet autoantibodies", "children": [] },
+          { "id": "r4_3", "topic": "Role & Indications for Splenectomy: Indicated if ITP has persisted for >6–9 months. Transfuse platelets ONLY after splenic artery safety ligature is tied.", "children": [] }
+        ]
+      }
+    ]
+  }
+}

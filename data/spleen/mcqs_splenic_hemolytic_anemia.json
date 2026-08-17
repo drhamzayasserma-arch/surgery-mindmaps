@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "q": "A 7-year-old child presents with a history of recurrent mild hemolytic jaundice, anemia, and splenomegaly. Osmotic fragility testing demonstrates that hemolysis begins at 0.6% saline (normal: hemolysis starts at 0.45% saline). What is the underlying molecular defect in this condition, and what is the optimal surgical management timing?",
+      "options": [
+        "Pyruvate kinase deficiency; perform an urgent emergency splenectomy immediately regardless of age.",
+        "G6PD deficiency; manage conservatively with daily iron chelation and perform an interval splenectomy at 15 years of age.",
+        "Deficiency of Spectrin and Ankyrin; perform a splenectomy at 6–7 years of age to minimize the risk of both OPSI (if done earlier) and pigment gallstones (if done later).",
+        "Dystrophin deficiency; splenectomy is strictly contraindicated because it triggers severe hemolytic crises."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Grounding & Surgical Rationale: Hereditary Spherocytosis is an autosomal dominant disorder caused by a deficiency in membrane skeletal proteins Spectrin & Ankyrin, which support cell wall integrity. This leads to excessive membrane permeability to sodium and water, forcing the cells to become fragile and spherical. These inflexible spherocytes get physically trapped and destroyed in the splenic red pulp cords. Osmotic fragility is characteristically increased, with hemolysis starting abnormally early at 0.6% saline. Splenectomy is the only definitive cure. The optimal timing is between 6 and 7 years of age. Operating before age 6 is avoided because of the high risk of Overwhelming Post-Splenectomy Infection (OPSI), whereas delaying surgery beyond age 7 significantly increases the risk of developing pigment gallstones (which occur in up to 60% of cases)."
+    },
+    {
+      "q": "During a splenectomy for a child with Hereditary Spherocytosis, which of the following intraoperative maneuvers is mandatory to prevent clinical recurrence of the disease, and where is this anatomical anomaly most commonly found?",
+      "options": [
+        "Absolute ligation of the short gastric vessels; most commonly located within the gastrosplenic ligament.",
+        "Temporary vascular clamping of the portal vein; most commonly located in the porta hepatis.",
+        "A meticulous search for and removal of accessory spleens (splenules); most commonly located at the hilum of the spleen (50%).",
+        "Complete resection of the pancreatic tail; most commonly located in the lienorenal ligament."
+      ],
+      "answer": 2,
+      "explanation": "Detailed Grounding & Surgical Rationale: During a splenectomy for hemolytic disorders, the surgeon must meticulously search the abdominal cavity for accessory spleens (splenules). If accessory spleens are missed and left behind, they will undergo rapid compensatory hyperplastic expansion, causing a complete clinical recurrence of the primary hemolytic disorder. The most common anatomical locations for accessory spleens are the hilum of the spleen (50%), followed by the splenic vessels and the tail of the pancreas (30%), and the splenic ligaments or mesocolon."
+    },
+    {
+      "q": "A 45-year-old female presents with progressive fatigue, mild jaundice, and splenomegaly. A complete blood count reveals anemia, spherocytes, and a reticulocytosis of 15%. An Indirect Coombs' test is positive, and she is started on corticosteroids. If she fails to maintain remission on medical therapy, what radio-isotopic study is used to predict if she will benefit from surgery, and what are her specific indications for a splenectomy?",
+      "options": [
+        "Technetium-99m labeled RBC scan; splenectomy is indicated only if she has associated portal hypertension.",
+        "Chromium-51 (51Cr) tagged RBC study; splenectomy is indicated if she fails corticosteroids to control the condition, has contraindications to steroids, or develops severe steroid complications.",
+        "Iodine-131 uptake scan; splenectomy is indicated if she develops a positive tourniquet test or menorrhagia.",
+        "Gallium-67 scan; splenectomy is indicated as first-line therapy before initiating any medical treatment."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Grounding & Surgical Rationale: The patient presents with Autoimmune Hemolytic Anemia (AIHA), confirmed by a positive Indirect Coombs' test (which identifies autoantibodies on the surface of the patient's RBCs). A Chromium-51 (51Cr) radioactive isotopic study utilizing the patient's tagged RBCs is indicated to confirm a diminished erythrocyte lifespan and localize the spleen as the primary site of red cell destruction. Although first-line therapy is medical (corticosteroids), splenectomy (classified as a \"desirable\" indication) is indicated if the patient fails steroid control, has contraindications to steroid use, or develops severe steroid complications."
+    },
+    {
+      "q": "A 12-year-old child of Mediterranean descent is evaluated for short stature, depressed nasal bridge, prominent maxilla, and massive hepatosplenomegaly. A skull X-ray reveals a classic \"hair-on-end\" appearance. What is the diagnosis, and what is the primary clinical objective of performing a splenectomy in this patient?",
+      "options": [
+        "Sickle Cell Anemia; splenectomy is performed strictly to prevent the crystallization of Hb-S under hypoxic conditions.",
+        "Thalassemia (Cooley's Anemia); splenectomy is performed in select cases to decrease the risk and volume of repeated blood transfusions by reducing splenic sequestration.",
+        "Hereditary Elliptocytosis; splenectomy is performed to correct the underlying G6PD enzyme deficiency.",
+        "Paroxysmal nocturnal hemoglobinuria; splenectomy is performed to prevent sudden, spontaneous retroperitoneal hemorrhages."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Grounding & Surgical Rationale: The patient exhibits the pathognomonic clinical features of Thalassemia Major (Cooley's Anemia), including thalassemic facies (large bossy skull, prominent maxilla, depressed nasal bridge), short stature, pallor, and massive splenomegaly. Diagnostic workup shows a microcytic hypochromic anemia with reticulocytosis, and Hb electrophoresis confirms a reduction or absence of adult Hb-A with compensatory elevations in fetal Hb-F. A skull X-ray shows the classic \"hair-on-end\" appearance due to extramedullary hematopoiesis. While regular blood transfusions and iron chelation are the mainstays of medical management, splenectomy is indicated in some cases to decrease the rate and volume of repeated blood transfusions by eliminating the enlarged spleen's excessive sequestration and destruction of donor red blood cells."
+    },
+    {
+      "q": "A patient with a history of excessive bleeding during minor procedures is scheduled for an elective splenectomy for Immune Thrombocytopenic Purpura (ITP). Her pre-operative platelet count is critically low at 12,000 cells/mL. According to surgical safety guidelines, what is the correct protocol for administering a platelet transfusion in this patient, and why?",
+      "options": [
+        "Transfuse platelets immediately upon arrival at the hospital to raise her platelet count before the surgical incision.",
+        "Platelet transfusions must only be initiated after the safety ligature of the splenic artery is securely tied (ligated without dividing the vessel).",
+        "Platelet transfusions are strictly contraindicated in ITP because they trigger diffuse intravascular coagulation (DIC).",
+        "Transfuse platelets 24 hours post-operatively to prevent reactionary hemorrhage from a slipped ligature."
+      ],
+      "answer": 1,
+      "explanation": "Detailed Grounding & Surgical Rationale: In thrombocytopenic states (like ITP), platelet transfusions must be administered only AFTER the safety ligature of the splenic artery has been tied (which involves ligating the splenic artery without dividing it). Because the hyperactive spleen is the primary site of platelet destruction (mediated by anti-platelet autoantibodies), transfusing platelets prior to securing the arterial inflow is useless. The spleen will immediately sequester and destroy the transfused platelets, increasing the risk of immediate microvascular clotting inside the spleen and rendering the transfusion futile."
+    }
+  ]
+}
