@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "q": "A 48-year-old male with a 20-year history of heavy alcohol abuse presents with severe, recurrent epigastric pain that radiates straight to his back and is characteristically exacerbated by meals. He also complains of bulky, greasy, foul-smelling stools that are difficult to flush. Which of the following options correctly explains the pathophysiology of his symptoms and the clinical sequelae of his condition?",
+      "options": [
+        "Intraductal protein plugs cause transient gallbladder spasm; his fatty stools are due to a mucosal lactase deficiency.",
+        "Fibrosis of the pancreatic head and stricture of the main pancreatic duct increase intraductal pressure; loss of exocrine function (lipase deficiency) causes fat malabsorption and steatorrhea, while chronic inflammatory destruction of the beta-islet cells can lead to a brittle, difficult-to-treat \"Type-3 diabetes mellitus\" in approximately one-third of patients.",
+        "Ischemic necrosis of the splenic artery causes referred back pain; his stools are pale because bilirubin conjugation is completely halted in the liver.",
+        "Hypersecretion of cholecystokinin (CCK) damages the duodenal mucosa; his diabetes is due to the destruction of glucagon-secreting alpha cells."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: Chronic pancreatitis is characterized by the irreversible destruction of the pancreatic parenchyma and its transformation into fibrous tissue. The classic epigastric pain radiating to the back is exacerbated by meals because eating stimulates pancreatic secretions behind fibrotic duct strictures, rapidly increasing intraductal pressure. As exocrine tissue is lost, patients experience malabsorption and steatorrhea (stools that are bulky, soft, and not easily flushed due to high fat content). Endocrine damage eventually destroys insulin-producing beta-islet cells, producing Type-3 diabetes mellitus in approximately 1/3 of patients, which is notoriously brittle and difficult to treat. Additionally, severe fibrosis in the head of the pancreas can compress the adjacent common bile duct (CBD), leading to obstructive jaundice in 3% of cases."
+    },
+    {
+      "q": "A 52-year-old female with suspected chronic pancreatitis is being evaluated to determine if she requires surgical intervention. Which of the following diagnostic workups is the most sensitive test to confirm her underlying exocrine pancreatic insufficiency, and what is the classic finding on ductal imaging?",
+      "options": [
+        "Elevated serum amylase and lipase levels; MRCP showing a dilated gallbladder and a completely normal pancreatic duct.",
+        "High serum bilirubin levels; plain abdominal X-ray showing duodenal calcifications.",
+        "Low fecal elastase levels; ERCP or MRCP demonstrating a classic \"chain of lakes\" appearance (alternating strictures and dilated segments along the main pancreatic duct).",
+        "Glucose tolerance test; CT scan demonstrating diffuse gas bubbles throughout the stomach wall."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: While serum amylase and lipase are highly sensitive to confirm acute pancreatitis, they are often normal in chronic pancreatitis due to parenchymal burn-out. Instead, a low fecal elastase level is the most sensitive laboratory marker to confirm exocrine pancreatic insufficiency. On imaging, plain abdominal films can sometimes reveal pathognomonic pancreatic calcifications along the ductal system. The gold-standard ductal imaging (MRCP or ERCP) classically demonstrates a \"chain of lakes\" appearance, which is characterized by alternating duct strictures and segmentally dilated areas along the main pancreatic duct."
+    },
+    {
+      "q": "A 44-year-old male with chronic calcifying pancreatitis and severe steatorrhea is started on non-surgical conservative therapy. What are the key components of his medical management, and what is the definitive surgical procedure of choice if he develops severe, refractory epigastric pain associated with diffuse main pancreatic duct stricturing?",
+      "options": [
+        "Oral ursodeoxycholic acid; surgical management via a Whipple procedure.",
+        "High-dose oral insulin only; surgical management via a distal pancreatectomy and splenectomy.",
+        "Oral pancreatic enzyme replacement therapy (10,000–12,000 units of lipase per meal) combined with an H2-blocker or PPI; if pain becomes severe and refractory, perform a Puestow procedure (lateral pancreaticojejunostomy) to open the pancreatic duct longitudinally from head to tail and suture it into the jejunum.",
+        "Complete bowel rest with long-term TPN; surgical management via a total pancreatectomy."
+      ],
+      "answer": 2,
+      "explanation": "High-Yield Explanation: Non-surgical conservative therapy for chronic pancreatitis focus on alcohol avoidance, pain management, and pancreatic enzyme replacement therapy (PERT) supplying 10,000–12,000 units of lipase per meal. Crucially, PERT must be administered alongside an H2-blocker or PPI to prevent gastric hydrochloric acid from denaturing and inactivating the oral enzyme extract. If conservative therapy fails, refractory, persistent abdominal pain is the primary indication for surgical intervention. If imaging reveals diffuse pathology (duct strictures and dilatation), the standard of care is a Puestow procedure (lateral pancreaticojejunostomy), which decompresses the duct system by opening it longitudinally from the head to the tail and anastomosing it to a loop of jejunum. Localized lesions are managed with a distal pancreatectomy (for tail lesions) or a Whipple’s operation (for head lesions)."
+    },
+    {
+      "q": "A 30-year-old male is struck in the epigastrium by the steering wheel during a motor vehicle collision. On arrival, he has only mild abdominal pain and normal vital signs. A CT scan of the abdomen on admission shows no abnormal findings, and he is discharged. Three days later, he returns with severe epigastric pain, fevers, nausea, and vomiting. A repeat CT scan reveals a deep laceration at the neck of the pancreas with main pancreatic duct disruption. Which of the following statements is correct regarding the mechanism and diagnostics of his injury?",
+      "options": [
+        "Isolated pancreatic injury is rare and easily diagnosed on admission CT; serum amylase is highly sensitive and specific for grading the severity of early ductal lacerations.",
+        "Blunt epigastric trauma classically compresses the pancreas directly against the rigid vertebral column, frequently resulting in a delayed-onset presentation of isolated neck or body injuries; admission CT scans can initially miss these injuries, and serum amylase is neither sensitive nor specific for pancreatic trauma.",
+        "The patient's delayed fevers and nausea are due to acute ascending cholangitis; MRCP is the first-line diagnostic study to treat his pancreatic laceration.",
+        "High-velocity deceleration forces always tear the spleen first; the delayed symptoms are caused strictly by a pancreaticocutaneous fistula."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation: The pancreas is deeply nestled in the retroperitoneum, which provides physical protection but means that isolated pancreatic trauma is notoriously missed or delayed in diagnosis because it is frequently normal on initial physical exams and admission CT scans. Blunt trauma classically involves a direct blow to the epigastrium (e.g., steering wheel compression, bicycle handlebar injury), which compresses the pancreas directly against the rigid vertebral column, resulting in a laceration or transection across the neck of the pancreas. Serum amylase is neither sensitive nor specific for pancreatic trauma, as it can rise in any major abdominal catastrophe (e.g., perforated bowel). A delayed development of an adynamic ileus after abdominal trauma can also clinically signal retroperitoneal bleeding."
+    },
+    {
+      "q": "A surgical team is managing a stable trauma patient with a blunt pancreatic injury. They are utilizing the Modified Lucas Classification to determine the appropriate treatment. Which of the following options correctly pairs the Lucas Class with its anatomical description and recommended management?",
+      "options": [
+        "Class I: Simple superficial contusion or peripheral laceration with an intact main duct -> Manage non-operatively (conservatively).",
+        "Class II: Deep laceration or transection of the neck, body, or tail, with or without duct injury -> If ductal disruption is present, perform an immediate exploratory laparotomy and a distal pancreatectomy.",
+        "Class III: Severe crush, perforation, or transection of the pancreatic head -> Manage with debridement and wide retroperitoneal surgical drainage.",
+        "All of the above are correct pairings under the Modified Lucas Classification and management protocols."
+      ],
+      "answer": 3,
+      "explanation": "High-Yield Explanation: The Modified Lucas Classification guides the management of pancreatic injuries based on ductal integrity and anatomical location: Class I (Superficial contusions/lacerations with an intact main pancreatic duct): Can be safely managed non-operatively (conservatively). In stable patients, ERCP is more sensitive and specific than MRCP to confirm ductal integrity. Class II (Deep laceration/transection of the neck, body, or tail): Mandates surgical exploration if there is ductal disruption, typically requiring a distal pancreatectomy to prevent retroperitoneal enzyme leakage. Class III (Severe head injuries): Typically managed with surgical debridement and wide, closed-suction drainage. Class IV (Combined complex pancreaticoduodenal injuries): May require an emergency Whipple procedure, which carries an extremely high mortality rate of 20–40%."
+    }
+  ]
+}

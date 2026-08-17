@@ -1,0 +1,49 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Chronic & Traumatic Pancreas Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Chronic Pancreatitis",
+        "direction": 0,
+        "children": [
+          { "id": "r1_1", "topic": "Defining Mechanism / Diagnostic Marker: Progressive fibroinflammatory destruction; Low Fecal Elastase", "children": [] },
+          { "id": "r1_2", "topic": "Classic Imaging Sign: \"Chain of Lakes\" (alternating strictures and dilations) on MRCP/ERCP", "children": [] },
+          { "id": "r1_3", "topic": "Standard Treatment of Choice: Puestow Procedure (lateral pancreaticojejunostomy) for diffuse pain", "children": [] }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Lucas Class I Trauma",
+        "direction": 0,
+        "children": [
+          { "id": "r2_1", "topic": "Defining Mechanism / Diagnostic Marker: Superficial contusion or peripheral parenchymal laceration; Intact Main Duct", "children": [] },
+          { "id": "r2_2", "topic": "Classic Imaging Sign: Normal or minimal parenchymal stranding on CT", "children": [] },
+          { "id": "r2_3", "topic": "Standard Treatment of Choice: Conservative Management (NPO, IV fluids)", "children": [] }
+        ]
+      },
+      {
+        "id": "r3",
+        "topic": "Lucas Class II Trauma",
+        "direction": 1,
+        "children": [
+          { "id": "r3_1", "topic": "Defining Mechanism / Diagnostic Marker: Deep laceration or transection of neck, body, or tail; Duct Disruption", "children": [] },
+          { "id": "r3_2", "topic": "Classic Imaging Sign: Laceration extending through the duct on contrast CT / ERCP", "children": [] },
+          { "id": "r3_3", "topic": "Standard Treatment of Choice: Exploratory Laparotomy & Distal Pancreatectomy", "children": [] }
+        ]
+      },
+      {
+        "id": "r4",
+        "topic": "Lucas Class III/IV Trauma",
+        "direction": 1,
+        "children": [
+          { "id": "r4_1", "topic": "Defining Mechanism / Diagnostic Marker: Severe crush of pancreatic head or combined pancreaticoduodenal injury", "children": [] },
+          { "id": "r4_2", "topic": "Classic Imaging Sign: Complex duodenal/head hematoma or contrast extravasation", "children": [] },
+          { "id": "r4_3", "topic": "Standard Treatment of Choice: Wide Surgical Drainage or Whipple's Procedure (high-risk)", "children": [] }
+        ]
+      }
+    ]
+  }
+}

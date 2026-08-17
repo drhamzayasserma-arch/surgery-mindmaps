@@ -8,6 +8,7 @@
     { "id": "revision-acute_pancreatitis", "name": "Quick-Revision: Acute Pancreatitis", "createdAt": "2026-08-17T18:10:00Z" },
     { "id": "pancreatic_pseudocyst", "name": "Pancreatic Pseudocyst", "createdAt": "2026-08-17T19:15:00Z" },
     { "id": "revision-pancreatic_pseudocyst", "name": "Quick-Revision: Pancreatic Pseudocyst", "createdAt": "2026-08-17T19:40:00Z" },
-    { "id": "revision-pancreatic_tumors", "name": "Quick-Revision: Pancreatic Neoplasms", "createdAt": "2026-08-17T21:50:00Z" }
+    { "id": "revision-pancreatic_tumors", "name": "Quick-Revision: Pancreatic Neoplasms", "createdAt": "2026-08-17T21:50:00Z" },
+    { "id": "revision-chronic_pancreatitis", "name": "Quick-Revision: Chronic Pancreatitis", "createdAt": "2026-08-17T21:55:00Z" }
   ]
 }
