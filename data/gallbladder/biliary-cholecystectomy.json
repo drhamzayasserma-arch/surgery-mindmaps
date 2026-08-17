@@ -1,0 +1,184 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Biliary Cholecystectomy",
+    "root": true,
+    "children": [
+      {
+        "id": "n1",
+        "topic": "I. Indications for Surgery",
+        "direction": 0,
+        "children": [
+          { "id": "n1_1", "topic": "Symptomatic gallstones = primary indication for elective cholecystectomy", "children": [] },
+          {
+            "id": "n1_2",
+            "topic": "Asymptomatic (silent) gallstones: generally NOT indicated, except:",
+            "children": [
+              { "id": "n1_2_1", "topic": "Porcelain (calcified) gallbladder — high risk of adenocarcinoma (especially scattered calcifications)", "children": [] },
+              { "id": "n1_2_2", "topic": "Diabetic and immunosuppressed patients — high risk of gangrene or emphysematous cholecystitis", "children": [] },
+              { "id": "n1_2_3", "topic": "Young/fit patients — to prevent long-term complications", "children": [] }
+            ]
+          },
+          { "id": "n1_3", "topic": "Gallbladder polyps: laparoscopic cholecystectomy for any polyp ≥ 6 mm due to malignant risk", "children": [] },
+          {
+            "id": "n1_4",
+            "topic": "Infections and inflammatory states:",
+            "children": [
+              { "id": "n1_4_1", "topic": "Acute cholecystitis — early urgent surgery preferred", "children": [] },
+              { "id": "n1_4_2", "topic": "Chronic calculous and non-calculous cholecystitis (e.g., chronic Typhoid carriers)", "children": [] },
+              { "id": "n1_4_3", "topic": "Mucocele and empyema — high risk of perforation, urgent intervention needed", "children": [] }
+            ]
+          },
+          { "id": "n1_5", "topic": "Congenital anomalies (e.g., septated gallbladder)", "children": [] },
+          { "id": "n1_6", "topic": "Trauma (ruptured or torsed gallbladder)", "children": [] },
+          { "id": "n1_7", "topic": "Neoplastic (operable carcinoma of gallbladder)", "children": [] }
+        ]
+      },
+      {
+        "id": "n2",
+        "topic": "II. Laparoscopic vs. Open Approach",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n2_1",
+            "topic": "Laparoscopic Cholecystectomy (LC) — Gold Standard",
+            "children": [
+              { "id": "n2_1_1", "topic": "Advantages: magnified visualization, less tissue trauma, less postoperative pain, reduced dynamic ileus, lower wound infection/dehiscence rates, shorter hospital stay, faster return to activities", "children": [] },
+              { "id": "n2_1_2", "topic": "Limitations: problematic hand-eye coordination, complex/longer instrumentation, lack of tactile feedback, more challenging homeostasis", "children": [] },
+              { "id": "n2_1_3", "topic": "Contraindications — Absolute: inability to undergo general anesthesia, direct patient refusal", "children": [] },
+              { "id": "n2_1_4", "topic": "Contraindications — Relative: lack of surgical training, advanced cancer, previous extensive upper abdominal surgery (dense adhesions), severe cardiopulmonary disease, morbid obesity, portal hypertension, coagulopathy", "children": [] }
+            ]
+          },
+          {
+            "id": "n2_2",
+            "topic": "Open Cholecystectomy — standard fallback approach",
+            "children": [
+              { "id": "n2_2_1", "topic": "Indicated when laparoscopic visualization is severely compromised", "children": [] },
+              { "id": "n2_2_2", "topic": "Used when converted intraoperatively due to dense fibrous adhesions or uncontrollable bleeding", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "topic": "III. Laparoscopic Principles & Pneumoperitoneum",
+        "direction": 0,
+        "children": [
+          {
+            "id": "n3_1",
+            "topic": "Creating pneumoperitoneum:",
+            "children": [
+              { "id": "n3_1_1", "topic": "Gas of choice: CO2 introduced via a Veress needle", "children": [] },
+              { "id": "n3_1_2", "topic": "Volume and pressure: 3-4 liters of CO2 until intra-abdominal pressure reaches 12-14 mmHg", "children": [] },
+              { "id": "n3_1_3", "topic": "Why CO2: highly soluble (minimizes embolization risk), non-combustible, compatible with electrocoagulation", "children": [] },
+              { "id": "n3_1_4", "topic": "Hazards: high pressure (> 20 mmHg) reduces venous return (CVP decreases), can cause hypercarbia, cardiac arrhythmias, CO2 gas embolism", "children": [] }
+            ]
+          },
+          {
+            "id": "n3_2",
+            "topic": "Surgical problems and safety:",
+            "children": [
+              { "id": "n3_2_1", "topic": "Access injuries: Veress needle or trocar can perforate major retroperitoneal blood vessels or hollow viscera (stomach, bowel, bladder)", "children": [] },
+              { "id": "n3_2_2", "topic": "Electrical/thermal injuries: monopolar electrosurgery can cause inadvertent bowel or biliary tract burns via direct touch, insulation breakdown, or capacitive coupling", "children": [] },
+              { "id": "n3_2_3", "topic": "Thermal injuries typically manifest 3-7 days postoperatively with delayed peritonitis", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n4",
+        "topic": "IV. Surgical Complications",
+        "direction": 1,
+        "children": [
+          {
+            "id": "n4_1",
+            "topic": "CBD Injury (1-7%): most feared and devastating specific complication",
+            "children": [
+              { "id": "n4_1_1", "topic": "Risk factors: male patients, operations for acute cholecystitis (severe inflammation and edema)", "children": [] },
+              { "id": "n4_1_2", "topic": "Mechanism: CBD mistaken for the cystic duct, inadvertently clipped and divided", "children": [] },
+              { "id": "n4_1_3", "topic": "Consequences: biliary leaks, postoperative bile peritonitis, chronic strictures causing obstructive jaundice, recurrent cholangitis, secondary biliary cirrhosis", "children": [] }
+            ]
+          },
+          { "id": "n4_2", "topic": "Vascular injury: right hepatic artery at high risk, especially with anomalous course (Caterpillar hump / Moynihan's hump) — loops in front of CBD", "children": [] },
+          { "id": "n4_3", "topic": "Bowel injury: perforation of duodenum or hepatic flexure of colon", "children": [] },
+          { "id": "n4_4", "topic": "Postoperative bile leakage: from unrecognized duct of Luschka, slipped clip on cystic duct stump, or major duct injury", "children": [] },
+          { "id": "n4_5", "topic": "Missed CBD stone: a retained stone left behind in the biliary tree", "children": [] }
+        ]
+      },
+      {
+        "id": "n5",
+        "topic": "V. Post-Op Workup (Bile Leaks & HIDA)",
+        "direction": 1,
+        "children": [
+          { "id": "n5_1", "topic": "Clinical presentation: within first week after cholecystectomy — persistent abdominal pain, distention, low-grade fever, anorexia — suspect biloma or postoperative bleeding", "children": [] },
+          { "id": "n5_2", "topic": "Step 1 — Imaging (CT or U/S): look for fluid collection; if large, drain percutaneously", "children": [] },
+          { "id": "n5_3", "topic": "Step 2 — Check the fluid: if bilious, bile leak is confirmed", "children": [] },
+          {
+            "id": "n5_4",
+            "topic": "Step 3 — HIDA scan (cholescintigraphy): determines origin and severity of leak",
+            "children": [
+              {
+                "id": "n5_4_1",
+                "topic": "Cystic duct stump leak: tracer extravasates into RUQ BUT tracer STILL seen flowing into duodenum/small bowel (main ductal integrity confirmed)",
+                "children": [
+                  { "id": "n5_4_1_1", "topic": "Cause: surgical clip slipped off the cystic duct stump", "children": [] },
+                  { "id": "n5_4_1_2", "topic": "Management: ERCP with stenting of the sphincter of Oddi — lowers biliary tree pressure, creates path of least resistance, allows stump to seal", "children": [] }
+                ]
+              },
+              {
+                "id": "n5_4_2",
+                "topic": "Major ductal injury (CBD/CHD transection): tracer extravasation into peritoneum WITHOUT any tracer entering small bowel",
+                "children": [
+                  { "id": "n5_4_2_1", "topic": "Management: surgical reconstruction via Roux-en-Y hepaticojejunostomy (jejunum anastomosed to proximal healthy bile duct)", "children": [] }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n6",
+        "topic": "VI. Post-Cholecystectomy Syndrome (PCS)",
+        "direction": 1,
+        "children": [
+          { "id": "n6_1", "topic": "Definition: recurrent or persistent RUQ/epigastric symptoms continuing weeks or months after cholecystectomy", "children": [] },
+          {
+            "id": "n6_2",
+            "topic": "Etiologies:",
+            "children": [
+              { "id": "n6_2_1", "topic": "Residual/retained stone in CBD — can trigger biliary obstruction, acute ascending cholangitis, or gallstone pancreatitis", "children": [] },
+              { "id": "n6_2_2", "topic": "Long cystic duct stump — can harbor a retained stone or allow new stone formation", "children": [] },
+              {
+                "id": "n6_2_3",
+                "topic": "Sphincter of Oddi Dysfunction (SOD) — rare functional disorder (stenosis or dyskinesia)",
+                "children": [
+                  { "id": "n6_2_3_1", "topic": "Episodic RUQ pain classically precipitated/worsened by opioids (e.g., morphine) due to opioid-induced sphincter spasm", "children": [] },
+                  { "id": "n6_2_3_2", "topic": "Diagnosed with manometry; treated with ERCP sphincterotomy", "children": [] }
+                ]
+              },
+              { "id": "n6_2_4", "topic": "Missed non-biliary pathology: gastritis, peptic ulcer disease, or chronic pancreatitis that was present before surgery and mistaken for gallstone pain", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "n7",
+        "topic": "VII. Post-Operative Care & Expected Sequelae",
+        "direction": 1,
+        "children": [
+          { "id": "n7_1", "topic": "Early recovery (LC): mobilization next morning, oral intake after 6 hours, discharge within 24 hours", "children": [] },
+          {
+            "id": "n7_2",
+            "topic": "Expected post-op symptoms:",
+            "children": [
+              { "id": "n7_2_1", "topic": "Nausea", "children": [] },
+              { "id": "n7_2_2", "topic": "Shoulder pain — referred pain from phrenic nerve irritation by retained subdiaphragmatic CO2 gas", "children": [] },
+              { "id": "n7_2_3", "topic": "Mild abdominal pain", "children": [] }
+            ]
+          },
+          { "id": "n7_3", "topic": "Time to normal activity: full recovery and return to work typically within 10 days", "children": [] }
+        ]
+      }
+    ]
+  }
+}
