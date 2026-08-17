@@ -1,0 +1,59 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "Quick-Revision: High-Yield Chronic Pseudocyst Map",
+    "root": true,
+    "children": [
+      {
+        "id": "r1",
+        "topic": "Diagnostic / Treatment Parameter",
+        "direction": 0,
+        "children": [
+          {
+            "id": "r1_1",
+            "topic": "Duration",
+            "children": [
+              { "id": "r1_1_1", "topic": "\"Rule of 6\" Conservative Criteria: < 6 weeks", "children": [] },
+              { "id": "r1_1_2", "topic": "\"Rule of 6\" Interventional / Surgical Criteria: > 6 weeks", "children": [] }
+            ]
+          },
+          {
+            "id": "r1_2",
+            "topic": "Diameter",
+            "children": [
+              { "id": "r1_2_1", "topic": "\"Rule of 6\" Conservative Criteria: < 6 cm", "children": [] },
+              { "id": "r1_2_2", "topic": "\"Rule of 6\" Interventional / Surgical Criteria: > 6 cm", "children": [] }
+            ]
+          },
+          {
+            "id": "r1_3",
+            "topic": "Wall Thickness",
+            "children": [
+              { "id": "r1_3_1", "topic": "\"Rule of 6\" Conservative Criteria: < 6 mm", "children": [] },
+              { "id": "r1_3_2", "topic": "\"Rule of 6\" Interventional / Surgical Criteria: > 6 mm", "children": [] }
+            ]
+          },
+          {
+            "id": "r1_4",
+            "topic": "Complications",
+            "children": [
+              { "id": "r1_4_1", "topic": "\"Rule of 6\" Conservative Criteria: Completely absent", "children": [] },
+              { "id": "r1_4_2", "topic": "\"Rule of 6\" Interventional / Surgical Criteria: Present (e.g., abscess, hemorrhage)", "children": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "r2",
+        "topic": "Key Pathological / Anatomical Pearl",
+        "direction": 1,
+        "children": [
+          { "id": "r2_1", "topic": "2/3 of pseudocysts arise in the body & tail, and 1/3 arise in the head of the pancreas.", "children": [] },
+          { "id": "r2_2", "topic": "CT-guided FNA fluid showing low CA 19-9, high amylase, and negative cytology is diagnostic.", "children": [] },
+          { "id": "r2_3", "topic": "Cystogastrostomy is performed for cysts in the body/tail. Cystojejunostomy is used for cysts in the head.", "children": [] },
+          { "id": "r2_4", "topic": "External percutaneous drainage is contraindicated in communicating cysts due to the high risk of a pancreaticocutaneous fistula.", "children": [] }
+        ]
+      }
+    ]
+  }
+}

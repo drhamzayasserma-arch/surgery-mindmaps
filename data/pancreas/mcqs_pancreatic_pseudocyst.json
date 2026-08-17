@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "q": "A surgical resident is reviewing the pathology of pancreatic pseudocysts. According to the surgical curriculum, which of the following options correctly describes the distribution of these lesions within the pancreas, the biochemical properties of the fluid, and the prevalence of a communicating ductal fistula?",
+      "options": [
+        "1/3 of patients have pseudocysts in the body and tail, and 2/3 in the head; the fluid is strictly serum and lacks amylase; 1/3 of patients develop a persistent fistula with the pancreatic duct.",
+        "2/3 of patients have pseudocysts in the body and tail, and 1/3 in the head; the clear or watery fluid contains serum proteins and pancreatic enzymes (amylase, lipase, trypsin), though amylase may decrease due to pancreatic tissue disruption; 2/3 of patients develop a persistent fistula between the pancreas and the lesser sac.",
+        "100% of pseudocysts are localized to the uncinate process; the fluid is thick, mucinous, and contains no proteins; 100% of cases are completely non-communicating.",
+        "1/2 of patients have pseudocysts in the body, and 1/2 in the tail; the fluid consists of infected purulent material only; a fistula is never present."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: A pancreatic pseudocyst represents a collection of pancreatic inflammatory fluid surrounded by a fibrous membrane (lacking an epithelial/endothelial lining) that classically accumulates in the lesser sac. Anatomically, 2/3 of these pseudocysts are located in the body and tail, and 1/3 are found in the head of the pancreas. The fluid is clear or watery and contains serum proteins and active pancreatic enzymes, although amylase levels can sometimes decrease due to the disruption of pancreatic tissue. Crucially, 2/3 of these patients develop a persistent communicating fistula between the pancreas and the lesser sac, which dictates interventional planning."
+    },
+    {
+      "q": "A 46-year-old male with a history of alcohol-induced chronic pancreatitis presents 6 weeks after a severe clinical flare with persistent epigastric pain, fullness, and early satiety. On physical examination, a smooth epigastric fullness is palpable. Which of the following describes the most likely pathogenesis of his early satiety, and what vascular complications is he at risk of developing if this condition goes untreated?",
+      "options": [
+        "Duodenal obstruction from direct compression on the third part of the duodenum; putting him at risk of portal vein thrombosis.",
+        "Indigestion and dyspepsia caused by the pseudocyst physically compressing the posterior wall of the stomach; putting him at risk of splenic artery or vein erosion, microaneurysms along the splenic artery, rupture, and catastrophic hemorrhage.",
+        "Gastric outlet obstruction secondary to a benign pyloric mass; putting him at risk of gastroduodenal artery occlusion.",
+        "Colon cutoff sign from localized colonic spasm; putting him at risk of superior mesenteric artery thrombosis."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: Persistent epigastric pain, dyspepsia, indigestion, and a palpable epigastric mass 4–6 weeks after a pancreatitis attack are highly classic for a pancreatic pseudocyst. The indigestion and dyspepsia are caused by the pseudocyst directly compressing the posterior wall of the stomach. If left untreated, severe complications can occur, including infection (abscess), rupture into the peritoneal cavity causing peritonitis, and direct erosion of peripancreatic blood vessels (classically the splenic artery or splenic vein), which leads to microaneurysms along the splenic artery, rupture, and hemorrhagic shock."
+    },
+    {
+      "q": "A 52-year-old female presents with a persistent peripancreatic fluid collection on CT scan. To differentiate a benign chronic pancreatic pseudocyst from a cystadenocarcinoma, a CT-guided fine-needle aspiration (FNA) is performed. Which of the following fluid analysis profiles is diagnostic of a benign pancreatic pseudocyst, and what is the specific role of ERCP in her workup?",
+      "options": [
+        "High CA 19-9, low amylase, and positive cytology; ERCP is the first-line screening tool of choice to evaluate the cyst wall thickness.",
+        "Low CA 19-9, elevated amylase, and negative cytology; ERCP is indicated strictly to detect a communicating ductal fistula to guide interventional therapy.",
+        "High amylase and high CA 19-9 with atypical epithelial cells; ERCP is used to inject sclerosing agents into the cavity.",
+        "Low amylase and low CA 19-9; ERCP is contraindicated due to a high risk of converting the cyst into a pyocele."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: Systemic biochemical tests are usually unremarkable once the acute attack has resolved. When evaluating a cystic lesion, direct aspiration guided by CT with fluid analysis and cytology is highly valuable to differentiate a pseudocyst from a malignant cystadenocarcinoma. A benign pseudocyst will exhibit high fluid amylase, low tumor marker CA 19-9, and negative cytology (whereas a cystadenocarcinoma exhibits elevated CA 19-9, low amylase, and positive malignant cytology). Additionally, ERCP is indicated in these patients specifically to detect the presence of a communicating fistula between the cyst and the pancreatic duct, which determines the type of drainage procedure required."
+    },
+    {
+      "q": "A 38-year-old male is found to have an uncomplicated, asymptomatic pancreatic pseudocyst that is 4 cm in diameter and has a wall thickness of 3 mm, exactly 3 weeks after an attack of acute pancreatitis. According to the \"Rule of 6,\" what is the most appropriate management strategy for this patient, and when would conventional surgery become indicated?",
+      "options": [
+        "Perform an immediate percutaneous CT-guided aspiration to prevent abscess formation.",
+        "Recommend conservative management (observation), because the cyst duration is < 6 weeks, diameter is < 6 cm, wall thickness is < 6 mm, and it is uncomplicated; conventional surgery becomes indicated if the duration is > 6 weeks, diameter is > 6 cm, wall thickness is > 6 mm, or if complications (like abscess or hemorrhage) develop.",
+        "Schedule him for an immediate open distal pancreatectomy and splenectomy.",
+        "Schedule him for a Whipple procedure, as all pseudocysts require surgical excision within 30 days."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: Most pancreatic pseudocysts resolve spontaneously and can be managed conservatively. The standard criteria to proceed with conservative management (observation) require that the cyst has a duration of < 6 weeks, a diameter of < 6 cm, a wall thickness of < 6 mm, and is completely uncomplicated. Conversely, conventional surgery is indicated if the cyst fails these spontaneous resolution predictors (duration > 6 weeks, diameter > 6 cm, wall thickness > 6 mm) or if complications such as an abscess or hemorrhage occur."
+    },
+    {
+      "q": "A 48-year-old patient with a persistent pancreatic pseudocyst in the body of the pancreas fails conservative therapy. ERCP confirms the presence of a communicating ductal fistula, and a CT scan shows a mature cyst wall that is adherent to the posterior gastric wall. Which of the following represents the correct surgical or interventional choice, and what is the primary risk of using an incorrect modality?",
+      "options": [
+        "Percutaneous CT-guided drainage is the preferred first-line therapy; because the cyst is communicating, placing a pigtail catheter will safely seal the duct within 48 hours.",
+        "Internal surgical drainage via a Cystogastrostomy (incising the adherent posterior gastric wall and the cyst wall to create a direct communication); percutaneous catheter drainage is avoided because draining a communicating cyst externally carries a high risk of creating a persistent pancreaticocutaneous fistula.",
+        "Distal pancreatectomy with splenectomy; because all communicating cysts in the body and tail require radical resection.",
+        "Endoscopic drainage is contraindicated; all communicating pseudocysts must undergo a Whipple procedure."
+      ],
+      "answer": 1,
+      "explanation": "High-Yield Explanation & Grounding: The choice of intervention is highly dependent on whether the pseudocyst communicates with the pancreatic duct. Percutaneous catheter drainage is strictly indicated only for non-communicating cysts (where an ERCP must first be performed to rule out a fistula). If a communicating fistula is present, percutaneous external drainage is not recommended because it is highly likely to create a persistent pancreaticocutaneous (external) fistula. Since this patient has a mature cyst wall that is adherent to the stomach and contains a communicating fistula, the standard of care is internal drainage via a Cystogastrostomy, which is performed by incising the adherent posterior gastric wall and the cyst wall to create a direct communication."
+    }
+  ]
+}

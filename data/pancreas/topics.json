@@ -6,6 +6,7 @@
     { "id": "pancreatic_tumors", "name": "Pancreatic Tumors & Neoplasms", "createdAt": "2026-08-04T15:42:00Z" },
     { "id": "revision-anatomy_physiology", "name": "Quick-Revision: Anatomy & Physiology", "createdAt": "2026-08-17T16:00:00Z" },
     { "id": "revision-acute_pancreatitis", "name": "Quick-Revision: Acute Pancreatitis", "createdAt": "2026-08-17T18:10:00Z" },
-    { "id": "pancreatic_pseudocyst", "name": "Pancreatic Pseudocyst", "createdAt": "2026-08-17T19:15:00Z" }
+    { "id": "pancreatic_pseudocyst", "name": "Pancreatic Pseudocyst", "createdAt": "2026-08-17T19:15:00Z" },
+    { "id": "revision-pancreatic_pseudocyst", "name": "Quick-Revision: Pancreatic Pseudocyst", "createdAt": "2026-08-17T19:40:00Z" }
   ]
 }
