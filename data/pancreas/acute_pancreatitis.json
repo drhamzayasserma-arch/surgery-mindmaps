@@ -1,64 +1,479 @@
 {
   "nodeData": {
+    "topic": "🧠 Acute Pancreatitis\nComprehensive Revision",
     "id": "root",
-    "topic": "Acute Pancreatitis",
-    "root": true,
     "children": [
       {
-        "topic": "Etiology (GET SMASHED)",
-        "id": "ap_1",
-        "direction": 0,
+        "topic": "1. Definition &\nPathophysiology",
+        "id": "node_f4afe11f",
         "children": [
-          { "topic": "Gallstones (40% - most common overall)", "id": "ap_1_1", "children": [] },
-          { "topic": "Ethanol / Alcohol (30%)", "id": "ap_1_2", "children": [] },
-          { "topic": "Trauma (blunt abdominal trauma)", "id": "ap_1_3", "children": [] },
-          { "topic": "Steroids", "id": "ap_1_4", "children": [] },
-          { "topic": "Mumps / Viral infections (Coxsackie B)", "id": "ap_1_5", "children": [] },
-          { "topic": "Autoimmune (IgG4-related disease)", "id": "ap_1_6", "children": [] },
-          { "topic": "Scorpion sting (Tityus trinitatis)", "id": "ap_1_7", "children": [] },
-          { "topic": "Hypercalcemia / Hypertriglyceridemia (>1000 mg/dL)", "id": "ap_1_8", "children": [] },
-          { "topic": "ERCP (post-ERCP pancreatitis 5-10%)", "id": "ap_1_9", "children": [] },
-          { "topic": "Drugs (Azathioprine, Thiazides, Valproate, Didanosine)", "id": "ap_1_10", "children": [] }
+          {
+            "topic": "Definition: Acute, reversible inflammatory process.\nPancreas can return to normal (unlike chronic)",
+            "id": "node_8b0926b7",
+            "children": []
+          },
+          {
+            "topic": "Initial Event: Premature activation of\ntrypsinogen to trypsin inside acinar cells",
+            "id": "node_1f980b1b",
+            "children": []
+          },
+          {
+            "topic": "Cascade of Autodigestion:",
+            "id": "node_8cdb0fbe",
+            "children": [
+              {
+                "topic": "Trypsin activates elastase, collagenase,\nphospholipase A2, lipase",
+                "id": "node_630cbace",
+                "children": []
+              },
+              {
+                "topic": "Vascular Damage: Elastase/collagenase digest\nblood vessels -> vasculitis, hemorrhage",
+                "id": "node_62008635",
+                "children": []
+              },
+              {
+                "topic": "Saponification: Lipase digests fat into fatty acids.\nBinds calcium -> white chalky deposits.\nCauses hypocalcemia (tetany)",
+                "id": "node_8955e8c3",
+                "children": []
+              },
+              {
+                "topic": "SIRS: Necrosis attracts neutrophils -> cytokines.\nVasodilation, capillary leaks -> severe fluid\nsequestration (third-spacing) and shock",
+                "id": "node_8bd884a8",
+                "children": []
+              },
+              {
+                "topic": "Pulmonary Injury: Phospholipase A2 damages\nsurfactant -> left pleural effusion and ARDS",
+                "id": "node_b8fd7484",
+                "children": []
+              }
+            ]
+          }
         ]
       },
       {
-        "topic": "Diagnosis (Revised Atlanta Criteria)",
-        "id": "ap_2",
-        "direction": 0,
+        "topic": "2. Etiology\n(GET SMASHED)",
+        "id": "node_0b0655de",
         "children": [
-          { "topic": "Requires 2 of the following 3 criteria:", "id": "ap_2_1", "children": [
-            { "topic": "1. Severe epigastric pain radiating to back (relieved by leaning forward)", "id": "ap_2_1_1", "children": [] },
-            { "topic": "2. Serum Lipase or Amylase >3x upper limit of normal (Lipase more specific & remains elevated longer)", "id": "ap_2_1_2", "children": [] },
-            { "topic": "3. Characteristic imaging findings on Contrast CT / MRI / US", "id": "ap_2_1_3", "children": [] }
-          ]},
-          { "topic": "Physical Signs: Cullen sign (periumbilical ecchymosis), Grey Turner sign (flank ecchymosis), Fox sign (inguinal ligament ecchymosis)", "id": "ap_2_2", "children": [] }
+          {
+            "topic": "G - Gallstones (40-50%): Most common cause.\nImpaction at ampulla of Vater increases duct pressure",
+            "id": "node_78bca7e9",
+            "children": []
+          },
+          {
+            "topic": "E - Ethanol / Alcohol (25-30%): Second most common.\nAlters acinar cell permeability and vascularity",
+            "id": "node_03e7a916",
+            "children": []
+          },
+          {
+            "topic": "T - Tumors: Obstruction (e.g. pancreatic head cancer)",
+            "id": "node_007e8ffb",
+            "children": []
+          },
+          {
+            "topic": "S - Scorpion stings",
+            "id": "node_4be3e676",
+            "children": []
+          },
+          {
+            "topic": "M - Mycoplasma or Mumps",
+            "id": "node_302d7a35",
+            "children": []
+          },
+          {
+            "topic": "A - Autoimmune: SLE or Polyarteritis Nodosa",
+            "id": "node_142526fc",
+            "children": []
+          },
+          {
+            "topic": "S - Surgery or Trauma: Direct laceration\n(steering wheel compression)",
+            "id": "node_1043808f",
+            "children": []
+          },
+          {
+            "topic": "H - Hyperlipidemia / Hypercalcemia: Triglycerides > 1000 mg/dL.\nCan cause pseudohyponatremia",
+            "id": "node_b7e166d0",
+            "children": []
+          },
+          {
+            "topic": "E - ERCP or Embolic: 3% risk post-ERCP.\nProphylaxis: indomethacin rectal suppository",
+            "id": "node_ba8779e1",
+            "children": []
+          },
+          {
+            "topic": "D - Drugs / Toxins: Furosemide, thiazides,\nsulfasalazine, 5-ASA, azathioprine, valproic acid, exenatide",
+            "id": "node_c6a1ba3a",
+            "children": []
+          },
+          {
+            "topic": "Idiopathic (20%): Often suspected biliary mud\n(microscopic crystals)",
+            "id": "node_c9a0a4c1",
+            "children": []
+          }
         ]
       },
       {
-        "topic": "Severity & Prognostic Scoring",
-        "id": "ap_3",
-        "direction": 1,
+        "topic": "3. Clinical Presentation\n& Physical Signs",
+        "id": "node_ae6c1132",
         "children": [
-          { "topic": "Atlanta Classification: Mild (no organ failure), Moderate (transient organ failure <48h), Severe (persistent organ failure >48h)", "id": "ap_3_1", "children": [] },
-          { "topic": "Ranson Criteria (at admission & 48h): GALAW & C-HOBIC (Age >55, WBC >16k, Glucose >200, LDH >350, AST >250; Hct drop >10%, BUN rise >5, Ca <8, PaO2 <60, Base deficit >4, Fluid sequestration >6L)", "id": "ap_3_2", "children": [] },
-          { "topic": "BISAP Score (BEDS): BUN >25, Impaired mental status, SIRS, Age >60, Pleural effusion", "id": "ap_3_3", "children": [] },
-          { "topic": "CT Severity Index (CTSI / Balthazar): Combines inflammation grade (A-E) + % necrosis (0-50%+)", "id": "ap_3_4", "children": [] }
+          {
+            "topic": "Pain (Prominent Feature): Sudden, severe epigastric pain\nradiating straight to the back",
+            "id": "node_5826b593",
+            "children": [
+              {
+                "topic": "Exacerbated by lying flat",
+                "id": "node_19f16d6b",
+                "children": []
+              },
+              {
+                "topic": "Relieved by leaning forward",
+                "id": "node_aa850b72",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Associated Symptoms: Nausea, vomiting (90%),\nanorexia, low-grade fever (60%)",
+            "id": "node_d16bdf32",
+            "children": []
+          },
+          {
+            "topic": "Physical Exam:",
+            "id": "node_df7d1e15",
+            "children": [
+              {
+                "topic": "General: Tachycardia, tachypnea, hypotension, cold sweats",
+                "id": "node_fa62cae5",
+                "children": []
+              },
+              {
+                "topic": "Local: Mild epigastric tenderness, localized guarding, reactive ileus",
+                "id": "node_59ff3685",
+                "children": []
+              },
+              {
+                "topic": "Ecchymotic Signs (~5%): Retroperitoneal hemorrhage tracking",
+                "id": "node_e5f7fc02",
+                "children": [
+                  {
+                    "topic": "Cullen’s Sign: Blue-red periumbilical discoloration",
+                    "id": "node_3e834045",
+                    "children": []
+                  },
+                  {
+                    "topic": "Grey Turner’s Sign: Blue-black bilateral flank bruising",
+                    "id": "node_600a3d87",
+                    "children": []
+                  },
+                  {
+                    "topic": "Fox’s Sign: Bruising over inguinal ligament",
+                    "id": "node_c3ae380d",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
         ]
       },
       {
-        "topic": "Management & Complications",
-        "id": "ap_4",
-        "direction": 1,
+        "topic": "4. Diagnostic Criteria\n(Atlanta Criteria)",
+        "id": "node_e5e51acd",
         "children": [
-          { "topic": "Initial Therapy: Aggressive IV fluid resuscitation (Ringer's Lactate 200-500 mL/h), early oral feeding as tolerated (low fat), analgesia (Multimodal, NSAIDs/Opioids)", "id": "ap_4_1", "children": [] },
-          { "topic": "Role of Antibiotics: NO routine prophylactic antibiotics! Only for documented infected necrosis", "id": "ap_4_2", "children": [] },
-          { "topic": "Complications (Revised Atlanta):", "id": "ap_4_3", "children": [
-            { "topic": "<4 weeks: Acute Peripancreatic Fluid Collection (APFC) vs Acute Necrotic Collection (ANC)", "id": "ap_4_3_1", "children": [] },
-            { "topic": ">4 weeks: Pancreatic Pseudocyst (encapsulated fluid, no necrosis) vs Walled-Off Necrosis (WON)", "id": "ap_4_3_2", "children": [] },
-            { "topic": "Infected Necrosis: Step-up approach (Percutaneous/EUS drain → Video-assisted retroperitoneal debridement VARD / Endoscopic necrosectomy → Open necrosectomy)", "id": "ap_4_3_3", "children": [] }
-          ]}
+          {
+            "topic": "Requires 2 out of 3 criteria:",
+            "id": "node_79161a0e",
+            "children": []
+          },
+          {
+            "topic": "1. Sudden, severe epigastric pain radiating to back",
+            "id": "node_8f31cf83",
+            "children": []
+          },
+          {
+            "topic": "2. Serum Lipase or Amylase >= 3 times upper limit of normal",
+            "id": "node_9ba5fc47",
+            "children": [
+              {
+                "topic": "Lipase (100% Sensitive): Diagnostic test of choice.\nRemains elevated for 10-14 days",
+                "id": "node_a30c707e",
+                "children": []
+              },
+              {
+                "topic": "Amylase (70% Sensitive): Elevated for only 2-3 days.\nExtremely high amylase or ALT >3 times normal suggests gallstones",
+                "id": "node_505223c8",
+                "children": []
+              },
+              {
+                "topic": "Pitfall: Magnitude of elevation does NOT correlate with severity",
+                "id": "node_0baf2819",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "3. Characteristic findings on cross-sectional abdominal imaging",
+            "id": "node_6fc9bf9c",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "5. Imaging &\nWorkup",
+        "id": "node_f99d22d4",
+        "children": [
+          {
+            "topic": "RUQ Ultrasound: Initial imaging of choice.\nRules out gallstones/biliary etiology",
+            "id": "node_a483656a",
+            "children": []
+          },
+          {
+            "topic": "Abdominal X-ray:",
+            "id": "node_502290ea",
+            "children": [
+              {
+                "topic": "Sentinel Loop: Dilated loop of small bowel in LUQ",
+                "id": "node_b13201de",
+                "children": []
+              },
+              {
+                "topic": "Colon Cutoff Sign: Distension of proximal transverse colon\nwith collapse at splenic flexure",
+                "id": "node_f05a15b0",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "Chest X-ray: Left-sided pleural effusion or atelectasis.\nStrong marker of severity",
+            "id": "node_f2faa0e3",
+            "children": []
+          },
+          {
+            "topic": "Contrast-Enhanced CT: NOT mandatory on admission.\nGold standard for evaluating necrosis, fluid collections, abscess",
+            "id": "node_b370f20f",
+            "children": [
+              {
+                "topic": "Indications: Doubtful diagnosis, failure to improve\nafter 3 days, or suspected sepsis",
+                "id": "node_1e45b434",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "6. Severity Classification\n& Prognosis",
+        "id": "node_510936f6",
+        "children": [
+          {
+            "topic": "Atlanta Severity Classification:",
+            "id": "node_622dd348",
+            "children": [
+              {
+                "topic": "Mild (80-90%): No organ failure/complications. Resolves 2-5 days",
+                "id": "node_68eaa3a2",
+                "children": []
+              },
+              {
+                "topic": "Moderately Severe: Transient organ failure (< 48 hours)",
+                "id": "node_a29f15ad",
+                "children": []
+              },
+              {
+                "topic": "Severe: Persistent organ failure (> 48 hours). Worst prognosis",
+                "id": "node_0286304e",
+                "children": [
+                  {
+                    "topic": "Cardiovascular: Systolic BP < 90 mmHg despite hydration",
+                    "id": "node_a8451b78",
+                    "children": []
+                  },
+                  {
+                    "topic": "Respiratory: PaO2 <= 60 mmHg",
+                    "id": "node_c32a449e",
+                    "children": []
+                  },
+                  {
+                    "topic": "Renal: Creatinine > 2.0 mg/L after resuscitation",
+                    "id": "node_bf2ae4e5",
+                    "children": []
+                  },
+                  {
+                    "topic": "GI: Severe bleeding > 500 cc/24 hours",
+                    "id": "node_3d352c10",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "Ranson’s Criteria: 0-2 pts = 2% mortality, >6 pts = 100%",
+            "id": "node_92c25fa8",
+            "children": [
+              {
+                "topic": "On Admission (GA LAW): Glucose >200, Age >55, LDH >350,\nAST >250, WBC >16,000",
+                "id": "node_4db7689c",
+                "children": []
+              },
+              {
+                "topic": "At 48 Hours (CHOBBS): Calcium 10%,\nPaO2 =5, Base deficit >4, Sequestration >6 L",
+                "id": "node_9ddf8219",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "BISAP Score: BUN >25, Impaired mental status,\nSIRS criteria, Age >60, Pleural effusion",
+            "id": "node_1dad0ff1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "topic": "7. Conservative Management\n(The 6 \"R\"s)",
+        "id": "node_57a298df",
+        "children": [
+          {
+            "topic": "1. Replacement of Fluids: Aggressive IV crystalloids.\nGoal: urine output >= 0.5 cc/kg/hr",
+            "id": "node_1c597666",
+            "children": []
+          },
+          {
+            "topic": "2. Relief of Pain: Pethidine (meperidine) traditionally\npreferred over morphine to avoid sphincter of Oddi spasm",
+            "id": "node_fe54467f",
+            "children": []
+          },
+          {
+            "topic": "3. Rest of Pancreas & Bowel: Strictly NPO",
+            "id": "node_246f97bb",
+            "children": [
+              {
+                "topic": "If NPO >7 days: Enteral nutrition via nasojejunal tube\npreferred over TPN (maintains barrier, prevents infection)",
+                "id": "node_e64d141c",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "4. Respiratory Support: Oxygen mask or mechanical\nventilation with PEEP if ARDS",
+            "id": "node_fe5cfd38",
+            "children": []
+          },
+          {
+            "topic": "5. Resistance of Infection: Routine prophylactic antibiotics\nNOT recommended",
+            "id": "node_64b7254e",
+            "children": [
+              {
+                "topic": "Imipenem reserved for infected necrotizing pancreatitis\nor pancreatic abscess",
+                "id": "node_74da14ce",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "6. Reassessment: Continuous monitoring and repeat CT",
+            "id": "node_f91f5683",
+            "children": [
+              {
+                "topic": "Mild Gallstone Pancreatitis: Laparoscopic cholecystectomy\nduring same admission (within 48-72 hrs)",
+                "id": "node_b6331449",
+                "children": []
+              },
+              {
+                "topic": "Severe Pancreatitis: Delay cholecystectomy for weeks\nuntil inflammation resolves",
+                "id": "node_981fbb16",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "8. Locorregional\nComplications",
+        "id": "node_a9b42995",
+        "children": [
+          {
+            "topic": "A. Pancreatic Abscess / Infected Necrosis:",
+            "id": "node_122ee59e",
+            "children": [
+              {
+                "topic": "Pathophysiology: Bacterial translocation across gut wall (3-4 weeks)",
+                "id": "node_6485e809",
+                "children": []
+              },
+              {
+                "topic": "Picture: New fever, leukocytosis, instability after initial resolution",
+                "id": "node_90d15c96",
+                "children": []
+              },
+              {
+                "topic": "Diagnostics: CT scan shows necrotic tissue with gas bubbles",
+                "id": "node_42b0d646",
+                "children": []
+              },
+              {
+                "topic": "Treatment (Step-Up): 1. Imipenem based on FNA culture.\n2. Percutaneous drainage. 3. VARD. 4. Open necrosectomy",
+                "id": "node_09945e25",
+                "children": []
+              }
+            ]
+          },
+          {
+            "topic": "B. Pancreatic Pseudocyst (10% of cases):",
+            "id": "node_b952c907",
+            "children": [
+              {
+                "topic": "Definition: Fluid/enzymes in fibrous capsule lacking epithelial lining",
+                "id": "node_061c4f5c",
+                "children": []
+              },
+              {
+                "topic": "Pathogenesis: Develops 2-3 weeks later in lesser sac (omental bursa)",
+                "id": "node_39c7c5e9",
+                "children": []
+              },
+              {
+                "topic": "Presentation: 4-6 weeks later, vague pain, early satiety,\npalpable epigastric mass, elevated amylase",
+                "id": "node_61cd729d",
+                "children": []
+              },
+              {
+                "topic": "Rule of 6 (Indications for Drainage):",
+                "id": "node_e3d811b9",
+                "children": [
+                  {
+                    "topic": "Duration > 6 weeks, Diameter > 6 cm, Wall thickness > 6 mm",
+                    "id": "node_cafec490",
+                    "children": []
+                  },
+                  {
+                    "topic": "Or complications: Infection, rupture, splenic artery pseudoaneurysm",
+                    "id": "node_c023044f",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "Management:",
+                "id": "node_0da5c889",
+                "children": [
+                  {
+                    "topic": "First-Line: Internal Drainage (Cystogastrostomy or Cystojejunostomy)",
+                    "id": "node_8581122a",
+                    "children": []
+                  },
+                  {
+                    "topic": "Contraindicated: External drainage (causes difficult fistulas)",
+                    "id": "node_9bdde180",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
         ]
       }
-    ]
+    ],
+    "root": true
   }
 }
